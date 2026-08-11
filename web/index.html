@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Channel Research & Transcript Tool</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar / Brand Header -->
+        <header class="app-header">
+            <div class="brand">
+                <div class="logo-icon">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-1.96C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 1.96A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-1.96 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.37z" fill="url(#brand-grad)"/>
+                        <polygon points="9.75,15.02 15.5,11.75 9.75,8.48" fill="#FFFFFF"/>
+                        <defs>
+                            <linearGradient id="brand-grad" x1="1" y1="4" x2="22.5" y2="19.5" gradientUnits="userSpaceOnUse">
+                                <stop stop-color="#3B82F6"/>
+                                <stop offset="1" stop-color="#8B5CF6"/>
+                            </linearGradient>
+                        </defs>
+                    </svg>
+                </div>
+                <div class="brand-text">
+                    <h1>YT Research <span class="badge">Core</span></h1>
+                    <p>YouTube Video & Timestamped Transcript Extractor</p>
+                </div>
+            </div>
+            <div class="status-pill" id="global-status">
+                <span class="status-dot online"></span> API Ready
+            </div>
+        </header>
+
+        <!-- Main Extraction Controls Card -->
+        <section class="card extraction-card">
+            <div class="card-header">
+                <h2>Channel Extraction Parameters</h2>
+                <span class="subtext">Extract past videos and timestamped transcripts based on video publication date</span>
+            </div>
+            <form id="extract-form" class="extract-form">
+                <div class="form-group flex-2">
+                    <label for="channel-input">YouTube Channel Handle or URL</label>
+                    <div class="input-wrapper">
+                        <span class="input-prefix">youtube.com/</span>
+                        <input type="text" id="channel-input" placeholder="@theAIsearch" value="@theAIsearch" required>
+                    </div>
+                </div>
+
+                <div class="form-group flex-1">
+                    <label for="period-select">Time Frame</label>
+                    <select id="period-select">
+                        <option value="1m">Past 1 Month (30 Days)</option>
+                        <option value="3m" selected>Past 3 Months (90 Days)</option>
+                        <option value="6m">Past 6 Months (180 Days)</option>
+                        <option value="1y">Past 1 Year (365 Days)</option>
+                        <option value="custom">Custom Date Range</option>
+                    </select>
+                </div>
+
+                <div class="form-group custom-date-group hidden" id="custom-date-container">
+                    <div class="date-inputs">
+                        <div>
+                            <label for="start-date">Start Date</label>
+                            <input type="date" id="start-date">
+                        </div>
+                        <div>
+                            <label for="end-date">End Date</label>
+                            <input type="date" id="end-date">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group button-group">
+                    <button type="submit" id="extract-btn" class="btn btn-primary">
+                        <span class="btn-text">Start Extraction</span>
+                        <span class="spinner hidden" id="btn-spinner"></span>
+                    </button>
+                </div>
+            </form>
+
+            <!-- Progress & Log Section -->
+            <div class="progress-section hidden" id="progress-container">
+                <div class="progress-bar-wrapper">
+                    <div class="progress-bar" id="progress-bar" style="width: 0%;"></div>
+                </div>
+                <div class="progress-info">
+                    <span id="progress-status-text">Initializing extraction...</span>
+                    <span id="progress-percentage">0%</span>
+                </div>
+                <div class="log-box" id="log-box"></div>
+            </div>
+        </section>
+
+        <!-- Stored Channels & Content Explorer -->
+        <div class="main-layout">
+            <!-- Left Sidebar: Channels List -->
+            <aside class="card sidebar-card">
+                <div class="sidebar-header">
+                    <h3>Extracted Channels</h3>
+                    <button id="refresh-channels-btn" class="btn-icon" title="Refresh Channels">↻</button>
+                </div>
+                <div class="channels-list" id="channels-list">
+                    <div class="empty-state">No extracted channels found yet. Run an extraction above!</div>
+                </div>
+            </aside>
+
+            <!-- Center Panel: Video List & Transcript Reader -->
+            <main class="content-area">
+                <!-- Video Grid / Selector -->
+                <section class="card video-explorer-card">
+                    <div class="explorer-header">
+                        <div class="explorer-title">
+                            <h3 id="current-channel-title">Channel Videos</h3>
+                            <span class="video-count-badge" id="video-count-badge">0 videos</span>
+                        </div>
+                        <div class="search-box">
+                            <input type="text" id="transcript-search-input" placeholder="Search transcript text or titles...">
+                        </div>
+                    </div>
+                    <div class="video-grid" id="video-grid">
+                        <div class="empty-state">Select a channel to view extracted videos and transcripts.</div>
+                    </div>
+                </section>
+
+                <!-- Detailed Transcript Viewer Section -->
+                <section class="card transcript-viewer-card hidden" id="transcript-viewer-section">
+                    <div class="viewer-header">
+                        <div class="viewer-meta">
+                            <h2 id="active-video-title">Video Title</h2>
+                            <div class="meta-tags">
+                                <span class="tag" id="active-video-date">📅 Date</span>
+                                <span class="tag" id="active-video-duration">⏱️ Duration</span>
+                                <span class="tag" id="active-video-words">📝 Word Count</span>
+                                <a href="#" target="_blank" class="tag tag-link" id="active-video-link">↗ Open on YouTube</a>
+                            </div>
+                        </div>
+                        <div class="viewer-actions">
+                            <button class="btn btn-secondary" id="export-md-btn">Export Markdown</button>
+                            <button class="btn btn-secondary" id="export-srt-btn">Export SRT</button>
+                            <button class="btn btn-purple" id="ai-analyze-btn">✨ AI Analyze Stub</button>
+                        </div>
+                    </div>
+
+                    <div class="transcript-content" id="transcript-content">
+                        <!-- Timestamps and text segments render here -->
+                    </div>
+                </section>
+
+                <!-- AI Analysis Workspace Stub Section -->
+                <section class="card ai-card hidden" id="ai-workspace-section">
+                    <div class="ai-header">
+                        <div>
+                            <h3>✨ Modular AI Layer Workspace (Stub)</h3>
+                            <p class="subtext">Ready for local AI service (Ollama / LM Studio) or cloud API model analysis</p>
+                        </div>
+                        <button class="btn-icon" id="close-ai-btn">✕</button>
+                    </div>
+                    <div class="ai-controls">
+                        <select id="ai-provider-select">
+                            <option value="local-stub">Local Stub Model (Default)</option>
+                            <option value="ollama">Ollama (localhost:11434)</option>
+                            <option value="lm-studio">LM Studio (localhost:1234)</option>
+                            <option value="openai">OpenAI (GPT-4o)</option>
+                            <option value="gemini">Google Gemini 1.5 Pro</option>
+                        </select>
+                        <input type="text" id="ai-prompt-input" value="Summarize key insights and timestamped takeaways of this transcript.">
+                        <button class="btn btn-primary" id="run-ai-analysis-btn">Run Analysis</button>
+                    </div>
+                    <div class="ai-result-box" id="ai-result-box">
+                        <div class="empty-state">Click 'Run Analysis' to test the modular AI API endpoint response.</div>
+                    </div>
+                </section>
+            </main>
+        </div>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

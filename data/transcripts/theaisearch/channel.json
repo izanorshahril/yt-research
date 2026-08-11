@@ -1,0 +1,288 @@
+{
+  "channel_handle": "theAIsearch",
+  "channel_title": "AI Search",
+  "channel_url": "https://www.youtube.com/@theAIsearch/videos",
+  "date_range": {
+    "start": "2026-05-13",
+    "end": "2026-08-11",
+    "period": "3m"
+  },
+  "total_videos_found": 25,
+  "videos": [
+    {
+      "video_id": "uJgzFn0GT7M",
+      "title": "New 3D editors, open medical AI, AI symphony, Qwen 3.8, Wan Animate 2: AI NEWS",
+      "url": "https://www.youtube.com/watch?v=uJgzFn0GT7M",
+      "upload_date": "2026-08-09",
+      "upload_timestamp": 1786233600,
+      "duration_seconds": 2015,
+      "duration_str": "33:35",
+      "view_count": 99702,
+      "thumbnail": "https://i.ytimg.com/vi/uJgzFn0GT7M/hqdefault.jpg"
+    },
+    {
+      "video_id": "8HutJ9W5pTg",
+      "title": "The BEST local AI video generator is here!",
+      "url": "https://www.youtube.com/watch?v=8HutJ9W5pTg",
+      "upload_date": "2026-08-05",
+      "upload_timestamp": 1785888000,
+      "duration_seconds": 1427,
+      "duration_str": "23:47",
+      "view_count": 178661,
+      "thumbnail": "https://i.ytimg.com/vi/8HutJ9W5pTg/hqdefault.jpg"
+    },
+    {
+      "video_id": "Vpvne2istKg",
+      "title": "New BEST AI video generator is here!",
+      "url": "https://www.youtube.com/watch?v=Vpvne2istKg",
+      "upload_date": "2026-08-03",
+      "upload_timestamp": 1785715200,
+      "duration_seconds": 1211,
+      "duration_str": "20:11",
+      "view_count": 92435,
+      "thumbnail": "https://i.ytimg.com/vi/Vpvne2istKg/hqdefault.jpg"
+    },
+    {
+      "video_id": "OrcBSpADCGk",
+      "title": "New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS",
+      "url": "https://www.youtube.com/watch?v=OrcBSpADCGk",
+      "upload_date": "2026-08-02",
+      "upload_timestamp": 1785628800,
+      "duration_seconds": 1690,
+      "duration_str": "28:10",
+      "view_count": 120915,
+      "thumbnail": "https://i.ytimg.com/vi/OrcBSpADCGk/hqdefault.jpg"
+    },
+    {
+      "video_id": "RCsBJz4W4bA",
+      "title": "Claude Opus 5 is a freak",
+      "url": "https://www.youtube.com/watch?v=RCsBJz4W4bA",
+      "upload_date": "2026-07-27",
+      "upload_timestamp": 1785110400,
+      "duration_seconds": 1964,
+      "duration_str": "32:44",
+      "view_count": 647154,
+      "thumbnail": "https://i.ytimg.com/vi/RCsBJz4W4bA/hqdefault.jpg"
+    },
+    {
+      "video_id": "fMaPaK4gcNE",
+      "title": "Claude Opus 5, GPT 6 hack, Flux 3, new Gemini, quantum breakthrough, new Qwen: AI NEWS",
+      "url": "https://www.youtube.com/watch?v=fMaPaK4gcNE",
+      "upload_date": "2026-07-26",
+      "upload_timestamp": 1785024000,
+      "duration_seconds": 2663,
+      "duration_str": "44:23",
+      "view_count": 136996,
+      "thumbnail": "https://i.ytimg.com/vi/fMaPaK4gcNE/hqdefault.jpg"
+    },
+    {
+      "video_id": "uQ2Hqg5MZ-8",
+      "title": "Kimi K3, dancing waifus, robot UFC, song to MIDI, GPT Red, hoverboards: AI NEWS",
+      "url": "https://www.youtube.com/watch?v=uQ2Hqg5MZ-8",
+      "upload_date": "2026-07-19",
+      "upload_timestamp": 1784419200,
+      "duration_seconds": 2446,
+      "duration_str": "40:46",
+      "view_count": 100665,
+      "thumbnail": "https://i.ytimg.com/vi/uQ2Hqg5MZ-8/hqdefault.jpg"
+    },
+    {
+      "video_id": "bEnE5pbpe_Q",
+      "title": "New #1 open source AI model is here! Kimi K3",
+      "url": "https://www.youtube.com/watch?v=bEnE5pbpe_Q",
+      "upload_date": "2026-07-17",
+      "upload_timestamp": 1784246400,
+      "duration_seconds": 1811,
+      "duration_str": "30:11",
+      "view_count": 327283,
+      "thumbnail": "https://i.ytimg.com/vi/bEnE5pbpe_Q/hqdefault.jpg"
+    },
+    {
+      "video_id": "SettwwX2cCI",
+      "title": "GPT 5.6 is a BEAST",
+      "url": "https://www.youtube.com/watch?v=SettwwX2cCI",
+      "upload_date": "2026-07-10",
+      "upload_timestamp": 1783641600,
+      "duration_seconds": 1559,
+      "duration_str": "25:59",
+      "view_count": 145460,
+      "thumbnail": "https://i.ytimg.com/vi/SettwwX2cCI/hqdefault.jpg"
+    },
+    {
+      "video_id": "qtzzN8w2TvU",
+      "title": "Full body waifus, Claude Fable is back, LongCat 2.0, mind-reading AI, live video editing: AI NEWS",
+      "url": "https://www.youtube.com/watch?v=qtzzN8w2TvU",
+      "upload_date": "2026-07-05",
+      "upload_timestamp": 1783209600,
+      "duration_seconds": 2367,
+      "duration_str": "39:27",
+      "view_count": 155764,
+      "thumbnail": "https://i.ytimg.com/vi/qtzzN8w2TvU/hqdefault.jpg"
+    },
+    {
+      "video_id": "J0D7qV3nl7w",
+      "title": "Deepseek drops another HUGE breakthrough",
+      "url": "https://www.youtube.com/watch?v=J0D7qV3nl7w",
+      "upload_date": "2026-07-03",
+      "upload_timestamp": 1783036800,
+      "duration_seconds": 1521,
+      "duration_str": "25:21",
+      "view_count": 521504,
+      "thumbnail": "https://i.ytimg.com/vi/J0D7qV3nl7w/hqdefault.jpg"
+    },
+    {
+      "video_id": "7c_ieWfAbrw",
+      "title": "GPT 5.6, Mythos ban lifted, realtime avatars, Seedance 2.5, brain ultrasound: AI NEWS",
+      "url": "https://www.youtube.com/watch?v=7c_ieWfAbrw",
+      "upload_date": "2026-06-28",
+      "upload_timestamp": 1782604800,
+      "duration_seconds": 2563,
+      "duration_str": "42:43",
+      "view_count": 170827,
+      "thumbnail": "https://i.ytimg.com/vi/7c_ieWfAbrw/hqdefault.jpg"
+    },
+    {
+      "video_id": "kkLlzQqa7MY",
+      "title": "New robot waifus, GLM 5.2 craze, AI spas, new world models, new science agents: AI NEWS",
+      "url": "https://www.youtube.com/watch?v=kkLlzQqa7MY",
+      "upload_date": "2026-06-21",
+      "upload_timestamp": 1782000000,
+      "duration_seconds": 2019,
+      "duration_str": "33:39",
+      "view_count": 98707,
+      "thumbnail": "https://i.ytimg.com/vi/kkLlzQqa7MY/hqdefault.jpg"
+    },
+    {
+      "video_id": "6d__WOpZswY",
+      "title": "New #1 open-source AI model is here!",
+      "url": "https://www.youtube.com/watch?v=6d__WOpZswY",
+      "upload_date": "2026-06-17",
+      "upload_timestamp": 1781654400,
+      "duration_seconds": 1797,
+      "duration_str": "29:57",
+      "view_count": 473885,
+      "thumbnail": "https://i.ytimg.com/vi/6d__WOpZswY/hqdefault.jpg"
+    },
+    {
+      "video_id": "SxiRANj0xLs",
+      "title": "RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS",
+      "url": "https://www.youtube.com/watch?v=SxiRANj0xLs",
+      "upload_date": "2026-06-14",
+      "upload_timestamp": 1781395200,
+      "duration_seconds": 2626,
+      "duration_str": "43:46",
+      "view_count": 132076,
+      "thumbnail": "https://i.ytimg.com/vi/SxiRANj0xLs/hqdefault.jpg"
+    },
+    {
+      "video_id": "GUEE9OA4keo",
+      "title": "Claude Fable 5 is here!",
+      "url": "https://www.youtube.com/watch?v=GUEE9OA4keo",
+      "upload_date": "2026-06-11",
+      "upload_timestamp": 1781136000,
+      "duration_seconds": 1676,
+      "duration_str": "27:56",
+      "view_count": 104014,
+      "thumbnail": "https://i.ytimg.com/vi/GUEE9OA4keo/hqdefault.jpg"
+    },
+    {
+      "video_id": "OA4gchz1Zcs",
+      "title": "New BEST local AI image generator is here!",
+      "url": "https://www.youtube.com/watch?v=OA4gchz1Zcs",
+      "upload_date": "2026-06-09",
+      "upload_timestamp": 1780963200,
+      "duration_seconds": 1790,
+      "duration_str": "29:50",
+      "view_count": 165365,
+      "thumbnail": "https://i.ytimg.com/vi/OA4gchz1Zcs/hqdefault.jpg"
+    },
+    {
+      "video_id": "CzxqQJOswvo",
+      "title": "Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS",
+      "url": "https://www.youtube.com/watch?v=CzxqQJOswvo",
+      "upload_date": "2026-06-07",
+      "upload_timestamp": 1780790400,
+      "duration_seconds": 2949,
+      "duration_str": "49:09",
+      "view_count": 150727,
+      "thumbnail": "https://i.ytimg.com/vi/CzxqQJOswvo/hqdefault.jpg"
+    },
+    {
+      "video_id": "DlvhlQOBHBw",
+      "title": "The BEST AI for 4K images. Free & fast",
+      "url": "https://www.youtube.com/watch?v=DlvhlQOBHBw",
+      "upload_date": "2026-06-02",
+      "upload_timestamp": 1780358400,
+      "duration_seconds": 1388,
+      "duration_str": "23:08",
+      "view_count": 88094,
+      "thumbnail": "https://i.ytimg.com/vi/DlvhlQOBHBw/hqdefault.jpg"
+    },
+    {
+      "video_id": "RdqYvdT74i0",
+      "title": "Self-improving AI, Opus 4.8, Nvidia bangers, game-ready 3D models, juggling robots: AI NEWS",
+      "url": "https://www.youtube.com/watch?v=RdqYvdT74i0",
+      "upload_date": "2026-05-31",
+      "upload_timestamp": 1780185600,
+      "duration_seconds": 2329,
+      "duration_str": "38:49",
+      "view_count": 122713,
+      "thumbnail": "https://i.ytimg.com/vi/RdqYvdT74i0/hqdefault.jpg"
+    },
+    {
+      "video_id": "QvN6Tu6dHYM",
+      "title": "The acceleration is here!",
+      "url": "https://www.youtube.com/watch?v=QvN6Tu6dHYM",
+      "upload_date": "2026-05-28",
+      "upload_timestamp": 1779926400,
+      "duration_seconds": 2151,
+      "duration_str": "35:51",
+      "view_count": 109716,
+      "thumbnail": "https://i.ytimg.com/vi/QvN6Tu6dHYM/hqdefault.jpg"
+    },
+    {
+      "video_id": "pC6KHflGye0",
+      "title": "AI scientist, DNA editors, AI NPCs, new Qwen, open-source robots, new video editors: AI NEWS",
+      "url": "https://www.youtube.com/watch?v=pC6KHflGye0",
+      "upload_date": "2026-05-24",
+      "upload_timestamp": 1779580800,
+      "duration_seconds": 2826,
+      "duration_str": "47:06",
+      "view_count": 93251,
+      "thumbnail": "https://i.ytimg.com/vi/pC6KHflGye0/hqdefault.jpg"
+    },
+    {
+      "video_id": "J02-39xtlt4",
+      "title": "Google strikes back! Gemini Omni, AI glasses, new models",
+      "url": "https://www.youtube.com/watch?v=J02-39xtlt4",
+      "upload_date": "2026-05-21",
+      "upload_timestamp": 1779321600,
+      "duration_seconds": 1680,
+      "duration_str": "28:00",
+      "view_count": 72279,
+      "thumbnail": "https://i.ytimg.com/vi/J02-39xtlt4/hqdefault.jpg"
+    },
+    {
+      "video_id": "NnsQj2nDkKA",
+      "title": "Real gundams, top 3D generator, open-source world models, ChatGPT updates, new TTS: AI NEWS",
+      "url": "https://www.youtube.com/watch?v=NnsQj2nDkKA",
+      "upload_date": "2026-05-17",
+      "upload_timestamp": 1778976000,
+      "duration_seconds": 2811,
+      "duration_str": "46:51",
+      "view_count": 109910,
+      "thumbnail": "https://i.ytimg.com/vi/NnsQj2nDkKA/hqdefault.jpg"
+    },
+    {
+      "video_id": "s3rNDndvav0",
+      "title": "The biggest AI breakthrough in medicine & drug discovery",
+      "url": "https://www.youtube.com/watch?v=s3rNDndvav0",
+      "upload_date": "2026-05-14",
+      "upload_timestamp": 1778716800,
+      "duration_seconds": 1914,
+      "duration_str": "31:54",
+      "view_count": 118654,
+      "thumbnail": "https://i.ytimg.com/vi/s3rNDndvav0/hqdefault.jpg"
+    }
+  ]
+}

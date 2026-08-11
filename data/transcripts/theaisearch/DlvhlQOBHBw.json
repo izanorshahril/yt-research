@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "video_id": "DlvhlQOBHBw",
+    "title": "The BEST AI for 4K images. Free & fast",
+    "url": "https://www.youtube.com/watch?v=DlvhlQOBHBw",
+    "upload_date": "2026-06-02",
+    "upload_timestamp": 1780358400,
+    "duration_seconds": 1388,
+    "duration_str": "23:08",
+    "view_count": 88094,
+    "thumbnail": "https://i.ytimg.com/vi/DlvhlQOBHBw/hqdefault.jpg"
+  },
+  "transcript": {
+    "video_id": "DlvhlQOBHBw",
+    "has_transcript": true,
+    "language": "en",
+    "is_generated": false,
+    "segments": [],
+    "full_text": "PiD Pixel Diffusion by Nvidia. Best AI image model for high resolution images. Free & open source #ai #aitools #aiart #imagegeneration #agi\n\nThanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/general-theaisearch-axXCBN\n\nWorkflows https://github.com/Comfy-Org/ComfyUI/pull/14103\nGemma 2b https://huggingface.co/Comfy-Org/PixelDiT/tree/main/text_encoders \nPiD models https://huggingface.co/Comfy-Org/PixelDiT/tree/main/diffusion_models\n\nZ-image: https://huggingface.co/Comfy-Org/z_image_turbo/tree/main/split_files/diffusion_models\nQwen3 4b: https://huggingface.co/Comfy-Org/z_image_turbo/tree/main/split_files/text_encoders \nVAE: https://huggingface.co/Comfy-Org/z_image_turbo/tree/main/split_files/vae\n\nZ-image tutorial: https://youtu.be/iNM5z8cCH8w\nComfyUI tutorial https://youtu.be/g74Cq9Ip2ik\n\n\nTimestamps\n0:00 PiD intro\n0:19 Personal demos\n2:00 More demos and how it works\n2:52 PiD vs SeedVR2\n4:14 How to install\n5:49 Workflows\n6:24 PiD upscaler workflow\n11:46 Higgsfield\n13:16 Before after slider\n14:06 Zimage to PiD\n19:55 PiD text to image\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
+    "word_count": 0,
+    "error": null
+  }
+}

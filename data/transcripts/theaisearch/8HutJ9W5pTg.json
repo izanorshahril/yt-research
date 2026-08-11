@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "video_id": "8HutJ9W5pTg",
+    "title": "The BEST local AI video generator is here!",
+    "url": "https://www.youtube.com/watch?v=8HutJ9W5pTg",
+    "upload_date": "2026-08-05",
+    "upload_timestamp": 1785888000,
+    "duration_seconds": 1427,
+    "duration_str": "23:47",
+    "view_count": 178661,
+    "thumbnail": "https://i.ytimg.com/vi/8HutJ9W5pTg/hqdefault.jpg"
+  },
+  "transcript": {
+    "video_id": "8HutJ9W5pTg",
+    "has_transcript": true,
+    "language": "en",
+    "is_generated": false,
+    "segments": [],
+    "full_text": "Minimax H3 installation tutorial. How to run Minimax H3 in ComfyUI #ai #aitools #aivideo \n\nTry Minimax online https://hailuoai.pxf.io/0G19e3  \nGet 10% off your first subscription with code AISEARCH\n\nCheck out the Minimax API for 2K quality boost and prompt expansion:\nhttps://platform.minimax.io/subscribe/token-plan?tab=api-enterprise\n\nRESOURCES MENTIONED:\nMinimax H3 models: https://huggingface.co/Comfy-Org/MiniMax-H3\nWorkflows and files: https://docs.comfy.org/tutorials/video/minimax/minimax-h3\n\nComfyUI tutorial: https://youtu.be/g74Cq9Ip2ik\nWan2GP tutorial: https://youtu.be/KaQbt6NYrzY\nMinimax vs Seedance: https://youtu.be/RJT19JEug38\n\nSage attention wheels https://github.com/woct0rdho/SageAttention/releases\nKJ nodes https://github.com/kijai/ComfyUI-KJNodes\nSpectrum https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3\n\nMore on license https://huggingface.co/MiniMaxAI/MiniMax-H3/discussions/12\n\nHow to find your torch and cuda version: python.exe -c \"import torch; print(torch.__version__)\n\n\n00:00 Minimax H3 intro\n00:39 Demos\n01:26 Multimodal strengths\n03:27 How to install Minimax H3\n04:40 Downloading models\n06:57 Text to video\n08:24 Image to video\n09:30 Reference to video\n12:00 Video editing\n12:50 Audio reference\n14:20 How to speed up Minimax H3\n19:50 How to speed up ref to video\n20:19 How to run with low vram\n20:51 Training loras\n21:26 License\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
+    "word_count": 0,
+    "error": null
+  }
+}

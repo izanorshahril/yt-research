@@ -1,0 +1,12 @@
+{
+  "channels": {
+    "theaisearch": {
+      "channel_handle": "theAIsearch",
+      "channel_title": "AI Search",
+      "channel_url": "https://www.youtube.com/@theAIsearch/videos",
+      "last_updated": "2026-08-11",
+      "video_count": 25,
+      "period": "3m"
+    }
+  }
+}

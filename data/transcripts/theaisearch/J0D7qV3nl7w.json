@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "video_id": "J0D7qV3nl7w",
+    "title": "Deepseek drops another HUGE breakthrough",
+    "url": "https://www.youtube.com/watch?v=J0D7qV3nl7w",
+    "upload_date": "2026-07-03",
+    "upload_timestamp": 1783036800,
+    "duration_seconds": 1521,
+    "duration_str": "25:21",
+    "view_count": 521504,
+    "thumbnail": "https://i.ytimg.com/vi/J0D7qV3nl7w/hqdefault.jpg"
+  },
+  "transcript": {
+    "video_id": "J0D7qV3nl7w",
+    "has_transcript": true,
+    "language": "en",
+    "is_generated": false,
+    "segments": [],
+    "full_text": "DSpark by Deepseek. Huge speed and throughput unlock. #ai #ainews #llm #agi #singularity \nThanks to our sponsor Higgsfield. Try Claude Fable with Higgsfield today: https://higgsfield.ai/s/mcp-theaisearch-pZHmcw\n\ndSpark paper: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf\ndSpark code: https://github.com/deepseek-ai/DeepSpec/\nDeepseek with dSpark: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark\nDeepseek v4 explainer: https://youtu.be/XJUpuOBpT-4\nHow AI models work: https://youtu.be/U2hZFMVNSE0\n\n00:00 dSpark intro\n01:05 Deepseek situation\n02:20 Why AI models are slow\n04:44 Speculative decoding\n7:42 The dilemma\n10:16 The fix\n11:05 Higgsfield with Claude Fable\n12:41 Markov loop\n14:50 Infra challenges\n16:29 Confidence heads\n19:33 Hardware aware algo\n21:20 Results\n23:18 Open sourced\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
+    "word_count": 0,
+    "error": null
+  }
+}

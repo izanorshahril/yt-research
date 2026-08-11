@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "video_id": "OA4gchz1Zcs",
+    "title": "New BEST local AI image generator is here!",
+    "url": "https://www.youtube.com/watch?v=OA4gchz1Zcs",
+    "upload_date": "2026-06-09",
+    "upload_timestamp": 1780963200,
+    "duration_seconds": 1790,
+    "duration_str": "29:50",
+    "view_count": 165365,
+    "thumbnail": "https://i.ytimg.com/vi/OA4gchz1Zcs/hqdefault.jpg"
+  },
+  "transcript": {
+    "video_id": "OA4gchz1Zcs",
+    "has_transcript": true,
+    "language": "en",
+    "is_generated": false,
+    "segments": [],
+    "full_text": "Ideogram 4 tutorial. Best open-source AI image generator. Free & unlimited #ai #aitools #aiart #imagegeneration\n\nThanks to our sponsor Higgsfield. Try Higgsfield MCP today https://higgsfield.ai/s/mcp-theaisearch-dxCxlV\n\n0:00 Ideogram 4 intro\n0:43 World knowledge\n1:16 Text rendering\n1:33 Prompt adherence \n2:42 Bounding box feature\n4:38 Incredible control\n6:32 Comics and manga\n8:13 Ideogram with ComfyUI\n10:00 Higgsfield\n11:37 Installing Comfy manager\n13:24 Installing KJ nodes\n14:55 Installing Ideogram models\n17:51 How to use Ideogram workflow\n19:45 Safety filter\n22:05 Adding text and other settings\n28:32 Benchmarks and license\n\nWorkflow: https://drive.google.com/file/d/1rIotssI6EiA7buHzU0fmTZ2rQQnelaoz/view?usp=sharing\nComfy manager: https://docs.comfy.org/manager/install\nKJ nodes https://github.com/kijai/ComfyUI-KJNodes\nIdeogram models: https://huggingface.co/Comfy-Org/Ideogram-4\n\nMore tutorials:\nComfyUI tutorial https://youtu.be/g74Cq9Ip2ik\nZ-image tutorial: https://youtu.be/iNM5z8cCH8w\nErnie image tutorial: https://youtu.be/A_nAU8h9YOY\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
+    "word_count": 0,
+    "error": null
+  }
+}
