@@ -14,10 +14,5105 @@
     "video_id": "RCsBJz4W4bA",
     "has_transcript": true,
     "language": "en",
-    "is_generated": false,
-    "segments": [],
-    "full_text": "Claude Opus 5 review & full testing. #ai #ainews #aitools #llm #agi #singularity Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-skills\n\nFull song: https://x.com/aisearchio/status/2081525872549626276\n\n00:00 Opus 5 intro\n01:02 Windows on browser\n07:16 Image to 3D\n09:08 Financial presentation video\n11:56 Luma Agents\n13:54 Blender X wing fighter\n15:38 Music composition\n20:55 FROG TEST\n22:02 Identifying cancer\n23:09 Deep research\n24:43 Specs cost benchmarks\n29:50 Guardrails \n30:52 Verdict\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
-    "word_count": 0,
+    "is_generated": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "duration": 5.2,
+        "start_formatted": "00:00",
+        "text": "The orange sphincter is back. Anthropic"
+      },
+      {
+        "start": 2.92,
+        "duration": 5.12,
+        "start_formatted": "00:02",
+        "text": "releases their latest and best model,"
+      },
+      {
+        "start": 5.2,
+        "duration": 4.64,
+        "start_formatted": "00:05",
+        "text": "Claude Opus 5. And this is an incredibly"
+      },
+      {
+        "start": 8.04,
+        "duration": 3.28,
+        "start_formatted": "00:08",
+        "text": "capable model. In this video, we're"
+      },
+      {
+        "start": 9.84,
+        "duration": 3.72,
+        "start_formatted": "00:09",
+        "text": "going to go over all the impressive"
+      },
+      {
+        "start": 11.32,
+        "duration": 4.48,
+        "start_formatted": "00:11",
+        "text": "things it can and cannot do. Plus, we're"
+      },
+      {
+        "start": 13.56,
+        "duration": 4.52,
+        "start_formatted": "00:13",
+        "text": "going to go over its specs, cost, and"
+      },
+      {
+        "start": 15.8,
+        "duration": 4.28,
+        "start_formatted": "00:15",
+        "text": "performance against other AI models, so"
+      },
+      {
+        "start": 18.08,
+        "duration": 4.12,
+        "start_formatted": "00:18",
+        "text": "you can decide whether it's worth using"
+      },
+      {
+        "start": 20.08,
+        "duration": 5.04,
+        "start_formatted": "00:20",
+        "text": "or not. Let's jump right in with some"
+      },
+      {
+        "start": 22.2,
+        "duration": 5.08,
+        "start_formatted": "00:22",
+        "text": "demos. Now, you could use Opus 5 just on"
+      },
+      {
+        "start": 25.12,
+        "duration": 5.28,
+        "start_formatted": "00:25",
+        "text": "their online chat platform, claude.ai,"
+      },
+      {
+        "start": 27.28,
+        "duration": 5.4,
+        "start_formatted": "00:27",
+        "text": "but frontier models like Opus or GPT or"
+      },
+      {
+        "start": 30.4,
+        "duration": 4.28,
+        "start_formatted": "00:30",
+        "text": "Kimiko 3 are actually designed for"
+      },
+      {
+        "start": 32.68,
+        "duration": 3.72,
+        "start_formatted": "00:32",
+        "text": "agentic coding and autonomously using"
+      },
+      {
+        "start": 34.68,
+        "duration": 4.16,
+        "start_formatted": "00:34",
+        "text": "different tools and doing long-horizon"
+      },
+      {
+        "start": 36.4,
+        "duration": 4.72,
+        "start_formatted": "00:36",
+        "text": "tasks that require multiple steps. So,"
+      },
+      {
+        "start": 38.84,
+        "duration": 4.84,
+        "start_formatted": "00:38",
+        "text": "to really test out its potential, it's"
+      },
+      {
+        "start": 41.12,
+        "duration": 5.04,
+        "start_formatted": "00:41",
+        "text": "best to use Opus with an agentic harness"
+      },
+      {
+        "start": 43.68,
+        "duration": 4.44,
+        "start_formatted": "00:43",
+        "text": "like Claude Code. So, that's mainly what"
+      },
+      {
+        "start": 46.16,
+        "duration": 4.04,
+        "start_formatted": "00:46",
+        "text": "I'm going to use in this video. Like"
+      },
+      {
+        "start": 48.12,
+        "duration": 4.52,
+        "start_formatted": "00:48",
+        "text": "other harnesses, this allows you to work"
+      },
+      {
+        "start": 50.2,
+        "duration": 4.28,
+        "start_formatted": "00:50",
+        "text": "with multiple files and folders locally"
+      },
+      {
+        "start": 52.64,
+        "duration": 4.32,
+        "start_formatted": "00:52",
+        "text": "on your computer, and so you can spin up"
+      },
+      {
+        "start": 54.48,
+        "duration": 4.64,
+        "start_formatted": "00:54",
+        "text": "and work with multiple projects at once."
+      },
+      {
+        "start": 56.96,
+        "duration": 4.36,
+        "start_formatted": "00:56",
+        "text": "For my first test, let's try this."
+      },
+      {
+        "start": 59.12,
+        "duration": 4.4,
+        "start_formatted": "00:59",
+        "text": "Create a browser-friendly replicate of"
+      },
+      {
+        "start": 61.32,
+        "duration": 3.96,
+        "start_formatted": "01:01",
+        "text": "Windows 11. Include common apps and"
+      },
+      {
+        "start": 63.52,
+        "duration": 3.28,
+        "start_formatted": "01:03",
+        "text": "programs like Microsoft Office,"
+      },
+      {
+        "start": 65.28,
+        "duration": 3.0,
+        "start_formatted": "01:05",
+        "text": "Microsoft Store. Make sure there are"
+      },
+      {
+        "start": 66.8,
+        "duration": 3.48,
+        "start_formatted": "01:06",
+        "text": "apps that I can actually download,"
+      },
+      {
+        "start": 68.28,
+        "duration": 4.12,
+        "start_formatted": "01:08",
+        "text": "photos, file explorer, media player,"
+      },
+      {
+        "start": 70.28,
+        "duration": 4.44,
+        "start_formatted": "01:10",
+        "text": "Discord, Slack, Spotify. Make sure all"
+      },
+      {
+        "start": 72.4,
+        "duration": 4.44,
+        "start_formatted": "01:12",
+        "text": "these programs actually work. Make sure"
+      },
+      {
+        "start": 74.72,
+        "duration": 4.64,
+        "start_formatted": "01:14",
+        "text": "it runs efficiently on a regular web"
+      },
+      {
+        "start": 76.84,
+        "duration": 4.44,
+        "start_formatted": "01:16",
+        "text": "browser. Let's drag this all the way to"
+      },
+      {
+        "start": 79.36,
+        "duration": 3.76,
+        "start_formatted": "01:19",
+        "text": "Ultracode. All right, so here's what it"
+      },
+      {
+        "start": 81.28,
+        "duration": 3.72,
+        "start_formatted": "01:21",
+        "text": "got. It first planned out everything."
+      },
+      {
+        "start": 83.12,
+        "duration": 4.12,
+        "start_formatted": "01:23",
+        "text": "It's figuring out all these different"
+      },
+      {
+        "start": 85.0,
+        "duration": 4.76,
+        "start_formatted": "01:25",
+        "text": "Windows mechanisms like drag, resize,"
+      },
+      {
+        "start": 87.24,
+        "duration": 4.24,
+        "start_formatted": "01:27",
+        "text": "snap layouts, focus, etc. Now, it's"
+      },
+      {
+        "start": 89.76,
+        "duration": 4.48,
+        "start_formatted": "01:29",
+        "text": "building all the main components like"
+      },
+      {
+        "start": 91.48,
+        "duration": 4.96,
+        "start_formatted": "01:31",
+        "text": "taskbar, start menu, desktop. Then, it's"
+      },
+      {
+        "start": 94.24,
+        "duration": 4.52,
+        "start_formatted": "01:34",
+        "text": "building the apps, file explorer, and"
+      },
+      {
+        "start": 96.44,
+        "duration": 4.44,
+        "start_formatted": "01:36",
+        "text": "then Microsoft Office, Word, Excel with"
+      },
+      {
+        "start": 98.76,
+        "duration": 4.04,
+        "start_formatted": "01:38",
+        "text": "a real formula engine, PowerPoint, and"
+      },
+      {
+        "start": 100.88,
+        "duration": 3.8,
+        "start_formatted": "01:40",
+        "text": "then media player, Discord, Slack,"
+      },
+      {
+        "start": 102.8,
+        "duration": 4.24,
+        "start_formatted": "01:42",
+        "text": "Microsoft Store, and then all these"
+      },
+      {
+        "start": 104.68,
+        "duration": 4.12,
+        "start_formatted": "01:44",
+        "text": "utility apps, which we are going to test"
+      },
+      {
+        "start": 107.04,
+        "duration": 4.04,
+        "start_formatted": "01:47",
+        "text": "out in a second. It even gave me some"
+      },
+      {
+        "start": 108.8,
+        "duration": 4.6,
+        "start_formatted": "01:48",
+        "text": "games like Minesweeper, Snake, and then"
+      },
+      {
+        "start": 111.08,
+        "duration": 4.12,
+        "start_formatted": "01:51",
+        "text": "finally the app stylesheet, etc. And"
+      },
+      {
+        "start": 113.4,
+        "duration": 3.76,
+        "start_formatted": "01:53",
+        "text": "then, the really nice thing about Opus"
+      },
+      {
+        "start": 115.2,
+        "duration": 4.28,
+        "start_formatted": "01:55",
+        "text": "is, especially if you run it in Claude"
+      },
+      {
+        "start": 117.16,
+        "duration": 4.64,
+        "start_formatted": "01:57",
+        "text": "Code, is it can automatically spin the"
+      },
+      {
+        "start": 119.48,
+        "duration": 5.24,
+        "start_formatted": "01:59",
+        "text": "page up in a browser and then check for"
+      },
+      {
+        "start": 121.8,
+        "duration": 4.84,
+        "start_formatted": "02:01",
+        "text": "any errors. So, here it found a bug and"
+      },
+      {
+        "start": 124.72,
+        "duration": 3.48,
+        "start_formatted": "02:04",
+        "text": "it's automatically fixing this. Then it"
+      },
+      {
+        "start": 126.64,
+        "duration": 4.6,
+        "start_formatted": "02:06",
+        "text": "found some additional errors and then"
+      },
+      {
+        "start": 128.2,
+        "duration": 5.12,
+        "start_formatted": "02:08",
+        "text": "it's testing actual behavior, etc., etc."
+      },
+      {
+        "start": 131.24,
+        "duration": 4.24,
+        "start_formatted": "02:11",
+        "text": "And after some further testing and"
+      },
+      {
+        "start": 133.32,
+        "duration": 4.52,
+        "start_formatted": "02:13",
+        "text": "verifying, it found another bug over"
+      },
+      {
+        "start": 135.48,
+        "duration": 4.6,
+        "start_formatted": "02:15",
+        "text": "here, but after some further testing and"
+      },
+      {
+        "start": 137.84,
+        "duration": 4.04,
+        "start_formatted": "02:17",
+        "text": "verifying, everything works. That's"
+      },
+      {
+        "start": 140.08,
+        "duration": 3.76,
+        "start_formatted": "02:20",
+        "text": "pretty much it. Let's open this up and"
+      },
+      {
+        "start": 141.88,
+        "duration": 4.44,
+        "start_formatted": "02:21",
+        "text": "see what we get. All right, so it even"
+      },
+      {
+        "start": 143.84,
+        "duration": 4.88,
+        "start_formatted": "02:23",
+        "text": "starts with a nice login window. Let's"
+      },
+      {
+        "start": 146.32,
+        "duration": 3.72,
+        "start_formatted": "02:26",
+        "text": "click anywhere and then press enter."
+      },
+      {
+        "start": 148.72,
+        "duration": 3.36,
+        "start_formatted": "02:28",
+        "text": "First, let's play around with these"
+      },
+      {
+        "start": 150.04,
+        "duration": 3.96,
+        "start_formatted": "02:30",
+        "text": "settings over here. So, for example,"
+      },
+      {
+        "start": 152.08,
+        "duration": 3.48,
+        "start_formatted": "02:32",
+        "text": "let's turn on night light and it"
+      },
+      {
+        "start": 154.0,
+        "duration": 3.52,
+        "start_formatted": "02:34",
+        "text": "actually turns on night light. You can"
+      },
+      {
+        "start": 155.56,
+        "duration": 4.08,
+        "start_formatted": "02:35",
+        "text": "see the colors are a bit more yellow."
+      },
+      {
+        "start": 157.52,
+        "duration": 5.0,
+        "start_formatted": "02:37",
+        "text": "Let's turn this off. Let's turn off dark"
+      },
+      {
+        "start": 159.64,
+        "duration": 5.08,
+        "start_formatted": "02:39",
+        "text": "mode and as you can see, indeed, the bar"
+      },
+      {
+        "start": 162.52,
+        "duration": 4.4,
+        "start_formatted": "02:42",
+        "text": "and these icons are now in light mode."
+      },
+      {
+        "start": 164.72,
+        "duration": 4.28,
+        "start_formatted": "02:44",
+        "text": "Let me turn this back into dark mode."
+      },
+      {
+        "start": 166.92,
+        "duration": 4.12,
+        "start_formatted": "02:46",
+        "text": "Let's also play around with brightness"
+      },
+      {
+        "start": 169.0,
+        "duration": 4.12,
+        "start_formatted": "02:49",
+        "text": "and interestingly, brightness also"
+      },
+      {
+        "start": 171.04,
+        "duration": 4.08,
+        "start_formatted": "02:51",
+        "text": "works. And this is just in a browser. If"
+      },
+      {
+        "start": 173.12,
+        "duration": 4.64,
+        "start_formatted": "02:53",
+        "text": "I click on this, then it does pull up a"
+      },
+      {
+        "start": 175.12,
+        "duration": 5.0,
+        "start_formatted": "02:55",
+        "text": "calendar just like the regular Windows"
+      },
+      {
+        "start": 177.76,
+        "duration": 3.64,
+        "start_formatted": "02:57",
+        "text": "11. Let's click on this start menu and"
+      },
+      {
+        "start": 180.12,
+        "duration": 4.6,
+        "start_formatted": "03:00",
+        "text": "play around with all these different"
+      },
+      {
+        "start": 181.4,
+        "duration": 6.04,
+        "start_formatted": "03:01",
+        "text": "apps. Let's open this Word document and"
+      },
+      {
+        "start": 184.72,
+        "duration": 4.84,
+        "start_formatted": "03:04",
+        "text": "indeed, it pulls up Microsoft Word and I"
+      },
+      {
+        "start": 187.44,
+        "duration": 4.24,
+        "start_formatted": "03:07",
+        "text": "can edit stuff here. For example, let's"
+      },
+      {
+        "start": 189.56,
+        "duration": 5.84,
+        "start_formatted": "03:09",
+        "text": "type in some additional text. I can"
+      },
+      {
+        "start": 191.68,
+        "duration": 6.839,
+        "start_formatted": "03:11",
+        "text": "highlight this. Let's make this italics."
+      },
+      {
+        "start": 195.4,
+        "duration": 5.839,
+        "start_formatted": "03:15",
+        "text": "Let's change the font color to red and"
+      },
+      {
+        "start": 198.519,
+        "duration": 4.841,
+        "start_formatted": "03:18",
+        "text": "then for these two lines, let's right"
+      },
+      {
+        "start": 201.239,
+        "duration": 4.561,
+        "start_formatted": "03:21",
+        "text": "align them and everything just works."
+      },
+      {
+        "start": 203.36,
+        "duration": 4.72,
+        "start_formatted": "03:23",
+        "text": "And let's actually press Ctrl S to save"
+      },
+      {
+        "start": 205.8,
+        "duration": 4.56,
+        "start_formatted": "03:25",
+        "text": "it. So, if I exit out of this and then I"
+      },
+      {
+        "start": 208.08,
+        "duration": 4.52,
+        "start_formatted": "03:28",
+        "text": "pull up project proposal, it's actually"
+      },
+      {
+        "start": 210.36,
+        "duration": 4.0,
+        "start_formatted": "03:30",
+        "text": "saved. Really cool. Let me exit out of"
+      },
+      {
+        "start": 212.6,
+        "duration": 4.6,
+        "start_formatted": "03:32",
+        "text": "this and next, let's play around with"
+      },
+      {
+        "start": 214.36,
+        "duration": 4.96,
+        "start_formatted": "03:34",
+        "text": "Excel. So, this works. Let's type in a"
+      },
+      {
+        "start": 217.2,
+        "duration": 3.96,
+        "start_formatted": "03:37",
+        "text": "few numbers and then let's play around"
+      },
+      {
+        "start": 219.32,
+        "duration": 7.6,
+        "start_formatted": "03:39",
+        "text": "with some equations. Like for example,"
+      },
+      {
+        "start": 221.16,
+        "duration": 7.72,
+        "start_formatted": "03:41",
+        "text": "let's write equals average of A1 to A5"
+      },
+      {
+        "start": 226.92,
+        "duration": 3.96,
+        "start_formatted": "03:46",
+        "text": "and it actually gives me the average."
+      },
+      {
+        "start": 228.88,
+        "duration": 5.04,
+        "start_formatted": "03:48",
+        "text": "And next, let's try sum. So, I'm going"
+      },
+      {
+        "start": 230.88,
+        "duration": 7.16,
+        "start_formatted": "03:50",
+        "text": "to write equals and then sum. Again, A1"
+      },
+      {
+        "start": 233.92,
+        "duration": 6.12,
+        "start_formatted": "03:53",
+        "text": "to A5, and indeed it gives me a sum. So,"
+      },
+      {
+        "start": 238.04,
+        "duration": 4.48,
+        "start_formatted": "03:58",
+        "text": "equations work, and then if I press"
+      },
+      {
+        "start": 240.04,
+        "duration": 4.56,
+        "start_formatted": "04:00",
+        "text": "control S, I can save this as whatever I"
+      },
+      {
+        "start": 242.52,
+        "duration": 4.24,
+        "start_formatted": "04:02",
+        "text": "want. Let's call this test, and then"
+      },
+      {
+        "start": 244.6,
+        "duration": 4.12,
+        "start_formatted": "04:04",
+        "text": "press save. And let's exit out of this."
+      },
+      {
+        "start": 246.76,
+        "duration": 4.04,
+        "start_formatted": "04:06",
+        "text": "Now, if I open up my start menu again, I"
+      },
+      {
+        "start": 248.72,
+        "duration": 3.48,
+        "start_formatted": "04:08",
+        "text": "can see this test spreadsheet over here,"
+      },
+      {
+        "start": 250.8,
+        "duration": 2.92,
+        "start_formatted": "04:10",
+        "text": "and indeed this is the saved"
+      },
+      {
+        "start": 252.2,
+        "duration": 3.2,
+        "start_formatted": "04:12",
+        "text": "spreadsheet. Notice that this is just"
+      },
+      {
+        "start": 253.72,
+        "duration": 3.72,
+        "start_formatted": "04:13",
+        "text": "running on my Chrome browser. Pretty"
+      },
+      {
+        "start": 255.4,
+        "duration": 4.04,
+        "start_formatted": "04:15",
+        "text": "crazy. And actually, let me pull up this"
+      },
+      {
+        "start": 257.44,
+        "duration": 3.68,
+        "start_formatted": "04:17",
+        "text": "dummy spreadsheet that it made up. And"
+      },
+      {
+        "start": 259.44,
+        "duration": 4.0,
+        "start_formatted": "04:19",
+        "text": "as you can see, the numbers are actually"
+      },
+      {
+        "start": 261.12,
+        "duration": 4.72,
+        "start_formatted": "04:21",
+        "text": "accurate with the formula up here. Very"
+      },
+      {
+        "start": 263.44,
+        "duration": 4.32,
+        "start_formatted": "04:23",
+        "text": "cool. Next, let's open up PowerPoint. It"
+      },
+      {
+        "start": 265.84,
+        "duration": 3.88,
+        "start_formatted": "04:25",
+        "text": "already made a deck, so let's open that"
+      },
+      {
+        "start": 267.76,
+        "duration": 5.24,
+        "start_formatted": "04:27",
+        "text": "up. This one is not too impressive. I"
+      },
+      {
+        "start": 269.72,
+        "duration": 5.36,
+        "start_formatted": "04:29",
+        "text": "can't really drag the text boxes around."
+      },
+      {
+        "start": 273.0,
+        "duration": 3.84,
+        "start_formatted": "04:33",
+        "text": "It's lacking a ton of capabilities that"
+      },
+      {
+        "start": 275.08,
+        "duration": 3.72,
+        "start_formatted": "04:35",
+        "text": "are found in PowerPoint, so this needs a"
+      },
+      {
+        "start": 276.84,
+        "duration": 4.2,
+        "start_formatted": "04:36",
+        "text": "bit of work. Let's exit out of this, and"
+      },
+      {
+        "start": 278.8,
+        "duration": 4.32,
+        "start_formatted": "04:38",
+        "text": "then next, let's open up Microsoft"
+      },
+      {
+        "start": 281.04,
+        "duration": 3.96,
+        "start_formatted": "04:41",
+        "text": "Store. And let's actually download"
+      },
+      {
+        "start": 283.12,
+        "duration": 4.52,
+        "start_formatted": "04:43",
+        "text": "Spotify. It's kind of simulating a"
+      },
+      {
+        "start": 285.0,
+        "duration": 5.68,
+        "start_formatted": "04:45",
+        "text": "download. Let's also download Discord,"
+      },
+      {
+        "start": 287.64,
+        "duration": 6.0,
+        "start_formatted": "04:47",
+        "text": "and Slack, and also Paint. Let's also"
+      },
+      {
+        "start": 290.68,
+        "duration": 5.28,
+        "start_formatted": "04:50",
+        "text": "get some sticky notes, and code editor,"
+      },
+      {
+        "start": 293.64,
+        "duration": 4.96,
+        "start_formatted": "04:53",
+        "text": "and let's also download Solitaire. All"
+      },
+      {
+        "start": 295.96,
+        "duration": 4.68,
+        "start_formatted": "04:55",
+        "text": "right, let me first open up Spotify, and"
+      },
+      {
+        "start": 298.6,
+        "duration": 4.24,
+        "start_formatted": "04:58",
+        "text": "it actually made a Spotify-looking"
+      },
+      {
+        "start": 300.64,
+        "duration": 4.12,
+        "start_formatted": "05:00",
+        "text": "layout with some songs. Let's see if"
+      },
+      {
+        "start": 302.84,
+        "duration": 5.013,
+        "start_formatted": "05:02",
+        "text": "these songs actually work. Let's try"
+      },
+      {
+        "start": 304.76,
+        "duration": 5.113,
+        "start_formatted": "05:04",
+        "text": "Focus Flow."
+      },
+      {
+        "start": 307.853,
+        "duration": 2.02,
+        "start_formatted": "05:07",
+        "text": ">> [music]"
+      },
+      {
+        "start": 317.023,
+        "duration": 2.02,
+        "start_formatted": "05:17",
+        "text": "[music]"
+      },
+      {
+        "start": 323.573,
+        "duration": 3.427,
+        "start_formatted": "05:23",
+        "text": "[music]"
+      },
+      {
+        "start": 325.44,
+        "duration": 3.68,
+        "start_formatted": "05:25",
+        "text": ">> These tracks sound really similar, but"
+      },
+      {
+        "start": 327.0,
+        "duration": 4.36,
+        "start_formatted": "05:27",
+        "text": "it did make a full album with different"
+      },
+      {
+        "start": 329.12,
+        "duration": 4.278,
+        "start_formatted": "05:29",
+        "text": "tracks. Let's also try something like"
+      },
+      {
+        "start": 331.36,
+        "duration": 4.058,
+        "start_formatted": "05:31",
+        "text": "garage rock."
+      },
+      {
+        "start": 333.398,
+        "duration": 2.02,
+        "start_formatted": "05:33",
+        "text": ">> [music]"
+      },
+      {
+        "start": 339.293,
+        "duration": 2.626,
+        "start_formatted": "05:39",
+        "text": "[music]"
+      },
+      {
+        "start": 340.16,
+        "duration": 4.08,
+        "start_formatted": "05:40",
+        "text": ">> Very basic music, but still really"
+      },
+      {
+        "start": 341.919,
+        "duration": 4.481,
+        "start_formatted": "05:41",
+        "text": "impressive how it was able to vibe code"
+      },
+      {
+        "start": 344.24,
+        "duration": 4.68,
+        "start_formatted": "05:44",
+        "text": "all these songs and play them in just an"
+      },
+      {
+        "start": 346.4,
+        "duration": 4.36,
+        "start_formatted": "05:46",
+        "text": "HTML file. This is pretty crazy. All"
+      },
+      {
+        "start": 348.92,
+        "duration": 3.68,
+        "start_formatted": "05:48",
+        "text": "right, next let's exit out of Spotify"
+      },
+      {
+        "start": 350.76,
+        "duration": 4.2,
+        "start_formatted": "05:50",
+        "text": "and then let's open up Discord and"
+      },
+      {
+        "start": 352.6,
+        "duration": 4.64,
+        "start_formatted": "05:52",
+        "text": "indeed this kind of looks like Discord."
+      },
+      {
+        "start": 354.96,
+        "duration": 4.2,
+        "start_formatted": "05:54",
+        "text": "In fact, let me type something here and"
+      },
+      {
+        "start": 357.24,
+        "duration": 4.04,
+        "start_formatted": "05:57",
+        "text": "see if anyone replies. And it actually"
+      },
+      {
+        "start": 359.16,
+        "duration": 3.6,
+        "start_formatted": "05:59",
+        "text": "simulates someone replying. Now, you can"
+      },
+      {
+        "start": 361.28,
+        "duration": 4.04,
+        "start_formatted": "06:01",
+        "text": "see it doesn't really make sense. It's"
+      },
+      {
+        "start": 362.76,
+        "duration": 4.68,
+        "start_formatted": "06:02",
+        "text": "not actually reading my messages. It's"
+      },
+      {
+        "start": 365.32,
+        "duration": 4.12,
+        "start_formatted": "06:05",
+        "text": "just randomly replying. Everything seems"
+      },
+      {
+        "start": 367.44,
+        "duration": 3.88,
+        "start_formatted": "06:07",
+        "text": "to be hardcoded. Let me exit out of this"
+      },
+      {
+        "start": 369.44,
+        "duration": 3.68,
+        "start_formatted": "06:09",
+        "text": "and next let's open up Slack. Again,"
+      },
+      {
+        "start": 371.32,
+        "duration": 4.8,
+        "start_formatted": "06:11",
+        "text": "this looks like Slack. Let me try"
+      },
+      {
+        "start": 373.12,
+        "duration": 5.08,
+        "start_formatted": "06:13",
+        "text": "messaging here and again it can simulate"
+      },
+      {
+        "start": 376.12,
+        "duration": 5.0,
+        "start_formatted": "06:16",
+        "text": "someone replying. Next, let's open up"
+      },
+      {
+        "start": 378.2,
+        "duration": 5.08,
+        "start_formatted": "06:18",
+        "text": "Paint and indeed we can draw stuff here."
+      },
+      {
+        "start": 381.12,
+        "duration": 4.96,
+        "start_formatted": "06:21",
+        "text": "Let's also draw some shapes. Let's draw"
+      },
+      {
+        "start": 383.28,
+        "duration": 4.96,
+        "start_formatted": "06:23",
+        "text": "a circle next. Let's fill this pink and"
+      },
+      {
+        "start": 386.08,
+        "duration": 4.48,
+        "start_formatted": "06:26",
+        "text": "everything just works. Next, let's exit"
+      },
+      {
+        "start": 388.24,
+        "duration": 4.56,
+        "start_formatted": "06:28",
+        "text": "out of this and then for sticky notes it"
+      },
+      {
+        "start": 390.56,
+        "duration": 4.24,
+        "start_formatted": "06:30",
+        "text": "looks like this. Let's add a new note."
+      },
+      {
+        "start": 392.8,
+        "duration": 4.0,
+        "start_formatted": "06:32",
+        "text": "This app works. Let's exit out of this"
+      },
+      {
+        "start": 394.8,
+        "duration": 4.119,
+        "start_formatted": "06:34",
+        "text": "and then let's try code editor. This"
+      },
+      {
+        "start": 396.8,
+        "duration": 4.24,
+        "start_formatted": "06:36",
+        "text": "also looks pretty good and then finally"
+      },
+      {
+        "start": 398.919,
+        "duration": 4.161,
+        "start_formatted": "06:38",
+        "text": "solitaire looks like this and it does"
+      },
+      {
+        "start": 401.04,
+        "duration": 4.24,
+        "start_formatted": "06:41",
+        "text": "look like this works. Finally, let's"
+      },
+      {
+        "start": 403.08,
+        "duration": 4.32,
+        "start_formatted": "06:43",
+        "text": "open up file explorer and indeed"
+      },
+      {
+        "start": 405.28,
+        "duration": 3.76,
+        "start_formatted": "06:45",
+        "text": "everything works. So, it did all of this"
+      },
+      {
+        "start": 407.4,
+        "duration": 3.16,
+        "start_formatted": "06:47",
+        "text": "in just one prompt. I didn't even need"
+      },
+      {
+        "start": 409.04,
+        "duration": 3.48,
+        "start_formatted": "06:49",
+        "text": "to prompt it further. All right, let me"
+      },
+      {
+        "start": 410.56,
+        "duration": 4.0,
+        "start_formatted": "06:50",
+        "text": "pull up the usage for this. So, this"
+      },
+      {
+        "start": 412.52,
+        "duration": 4.48,
+        "start_formatted": "06:52",
+        "text": "took 366,000"
+      },
+      {
+        "start": 414.56,
+        "duration": 4.56,
+        "start_formatted": "06:54",
+        "text": "tokens and note that I'm running several"
+      },
+      {
+        "start": 417.0,
+        "duration": 5.24,
+        "start_formatted": "06:57",
+        "text": "concurrent projects at once. So, this"
+      },
+      {
+        "start": 419.12,
+        "duration": 4.84,
+        "start_formatted": "06:59",
+        "text": "project itself didn't take the whole 36%"
+      },
+      {
+        "start": 422.24,
+        "duration": 3.96,
+        "start_formatted": "07:02",
+        "text": "of my 5-hour limit. It probably took a"
+      },
+      {
+        "start": 423.96,
+        "duration": 4.6,
+        "start_formatted": "07:03",
+        "text": "quarter and this did run for a really"
+      },
+      {
+        "start": 426.2,
+        "duration": 3.92,
+        "start_formatted": "07:06",
+        "text": "long time like over an hour. Currently,"
+      },
+      {
+        "start": 428.56,
+        "duration": 3.24,
+        "start_formatted": "07:08",
+        "text": "I'm using the max plan. I'm not using"
+      },
+      {
+        "start": 430.12,
+        "duration": 3.84,
+        "start_formatted": "07:10",
+        "text": "any API credits. So, that's why down"
+      },
+      {
+        "start": 431.8,
+        "duration": 4.16,
+        "start_formatted": "07:11",
+        "text": "here it says usage credits is zero. All"
+      },
+      {
+        "start": 433.96,
+        "duration": 4.56,
+        "start_formatted": "07:13",
+        "text": "right, next let's see how good it is at"
+      },
+      {
+        "start": 435.96,
+        "duration": 4.64,
+        "start_formatted": "07:15",
+        "text": "creating 3D assets from just a reference"
+      },
+      {
+        "start": 438.52,
+        "duration": 4.68,
+        "start_formatted": "07:18",
+        "text": "image. So, I'm going to upload this"
+      },
+      {
+        "start": 440.6,
+        "duration": 4.44,
+        "start_formatted": "07:20",
+        "text": "really tricky geometric office scene and"
+      },
+      {
+        "start": 443.2,
+        "duration": 3.56,
+        "start_formatted": "07:23",
+        "text": "then ask it to create a beautiful 3D"
+      },
+      {
+        "start": 445.04,
+        "duration": 3.28,
+        "start_formatted": "07:25",
+        "text": "animated scene from this image. Make"
+      },
+      {
+        "start": 446.76,
+        "duration": 4.48,
+        "start_formatted": "07:26",
+        "text": "sure everything is faithful to the"
+      },
+      {
+        "start": 448.32,
+        "duration": 4.84,
+        "start_formatted": "07:28",
+        "text": "attached image. Use a single HTML file."
+      },
+      {
+        "start": 451.24,
+        "duration": 5.12,
+        "start_formatted": "07:31",
+        "text": "None of the other frontier models"
+      },
+      {
+        "start": 453.16,
+        "duration": 5.52,
+        "start_formatted": "07:33",
+        "text": "including fable or GPT 5.6 were able to"
+      },
+      {
+        "start": 456.36,
+        "duration": 4.24,
+        "start_formatted": "07:36",
+        "text": "accurately render this scene. And again,"
+      },
+      {
+        "start": 458.68,
+        "duration": 3.76,
+        "start_formatted": "07:38",
+        "text": "I'm going to set this to ultra code and"
+      },
+      {
+        "start": 460.6,
+        "duration": 4.08,
+        "start_formatted": "07:40",
+        "text": "then press run. All right, here's what I"
+      },
+      {
+        "start": 462.44,
+        "duration": 4.6,
+        "start_formatted": "07:42",
+        "text": "got. It was first able to give me a"
+      },
+      {
+        "start": 464.68,
+        "duration": 3.92,
+        "start_formatted": "07:44",
+        "text": "decent and very basic scene, but it"
+      },
+      {
+        "start": 467.04,
+        "duration": 3.8,
+        "start_formatted": "07:47",
+        "text": "wasn't really faithful. It was missing a"
+      },
+      {
+        "start": 468.6,
+        "duration": 3.76,
+        "start_formatted": "07:48",
+        "text": "lot of details, so I wrote, \"The desks"
+      },
+      {
+        "start": 470.84,
+        "duration": 3.52,
+        "start_formatted": "07:50",
+        "text": "and the other objects aren't arranged"
+      },
+      {
+        "start": 472.36,
+        "duration": 3.96,
+        "start_formatted": "07:52",
+        "text": "properly. Plus, there's too much glow."
+      },
+      {
+        "start": 474.36,
+        "duration": 4.24,
+        "start_formatted": "07:54",
+        "text": "Make sure it looks exactly like this"
+      },
+      {
+        "start": 476.32,
+        "duration": 4.72,
+        "start_formatted": "07:56",
+        "text": "attached image.\" And then afterwards,"
+      },
+      {
+        "start": 478.6,
+        "duration": 4.76,
+        "start_formatted": "07:58",
+        "text": "that's all it took. In just two prompts,"
+      },
+      {
+        "start": 481.04,
+        "duration": 3.68,
+        "start_formatted": "08:01",
+        "text": "here is our results. Would you look at"
+      },
+      {
+        "start": 483.36,
+        "duration": 4.32,
+        "start_formatted": "08:03",
+        "text": "that? I'm just going to show you the"
+      },
+      {
+        "start": 484.72,
+        "duration": 4.68,
+        "start_formatted": "08:04",
+        "text": "image in the lower left corner, and as"
+      },
+      {
+        "start": 487.68,
+        "duration": 3.44,
+        "start_formatted": "08:07",
+        "text": "you can see, most of the desks and"
+      },
+      {
+        "start": 489.4,
+        "duration": 3.84,
+        "start_formatted": "08:09",
+        "text": "chairs are arranged properly, although"
+      },
+      {
+        "start": 491.12,
+        "duration": 4.24,
+        "start_formatted": "08:11",
+        "text": "there's an extra chair here. It was able"
+      },
+      {
+        "start": 493.24,
+        "duration": 3.52,
+        "start_formatted": "08:13",
+        "text": "to detect that there's a person here,"
+      },
+      {
+        "start": 495.36,
+        "duration": 3.48,
+        "start_formatted": "08:15",
+        "text": "but not on the other desks, and there's"
+      },
+      {
+        "start": 496.76,
+        "duration": 4.28,
+        "start_formatted": "08:16",
+        "text": "another person over here. There still"
+      },
+      {
+        "start": 498.84,
+        "duration": 4.0,
+        "start_formatted": "08:18",
+        "text": "are a ton of flaws with this render. For"
+      },
+      {
+        "start": 501.04,
+        "duration": 4.32,
+        "start_formatted": "08:21",
+        "text": "example, this panel here should be"
+      },
+      {
+        "start": 502.84,
+        "duration": 4.6,
+        "start_formatted": "08:22",
+        "text": "against the wall. The books on this"
+      },
+      {
+        "start": 505.36,
+        "duration": 3.84,
+        "start_formatted": "08:25",
+        "text": "shelf are also not consistent with the"
+      },
+      {
+        "start": 507.44,
+        "duration": 3.64,
+        "start_formatted": "08:27",
+        "text": "image. There should actually be two"
+      },
+      {
+        "start": 509.2,
+        "duration": 3.839,
+        "start_formatted": "08:29",
+        "text": "desks here. Still a lot of"
+      },
+      {
+        "start": 511.08,
+        "duration": 3.6,
+        "start_formatted": "08:31",
+        "text": "inconsistencies, but again, if you"
+      },
+      {
+        "start": 513.039,
+        "duration": 3.521,
+        "start_formatted": "08:33",
+        "text": "compare this with the generation from"
+      },
+      {
+        "start": 514.68,
+        "duration": 4.68,
+        "start_formatted": "08:34",
+        "text": "Fable, which looks like this, you can"
+      },
+      {
+        "start": 516.56,
+        "duration": 4.96,
+        "start_formatted": "08:36",
+        "text": "see that this one from Opus 5 is just"
+      },
+      {
+        "start": 519.36,
+        "duration": 4.359,
+        "start_formatted": "08:39",
+        "text": "way better. So, I got to say this is"
+      },
+      {
+        "start": 521.52,
+        "duration": 4.319,
+        "start_formatted": "08:41",
+        "text": "currently by far the best model at"
+      },
+      {
+        "start": 523.719,
+        "duration": 4.081,
+        "start_formatted": "08:43",
+        "text": "generating this 3D scene. Very"
+      },
+      {
+        "start": 525.839,
+        "duration": 4.281,
+        "start_formatted": "08:45",
+        "text": "impressive. All right, next let me also"
+      },
+      {
+        "start": 527.8,
+        "duration": 4.88,
+        "start_formatted": "08:47",
+        "text": "pull up my usage stats. So, here you can"
+      },
+      {
+        "start": 530.12,
+        "duration": 5.24,
+        "start_formatted": "08:50",
+        "text": "see it used 343,000"
+      },
+      {
+        "start": 532.68,
+        "duration": 4.92,
+        "start_formatted": "08:52",
+        "text": "tokens. This also ran for a ridiculously"
+      },
+      {
+        "start": 535.36,
+        "duration": 3.52,
+        "start_formatted": "08:55",
+        "text": "long time, close to an hour. And again,"
+      },
+      {
+        "start": 537.6,
+        "duration": 3.36,
+        "start_formatted": "08:57",
+        "text": "I'm running several projects"
+      },
+      {
+        "start": 538.88,
+        "duration": 4.64,
+        "start_formatted": "08:58",
+        "text": "concurrently, so this didn't take the"
+      },
+      {
+        "start": 540.96,
+        "duration": 5.24,
+        "start_formatted": "09:00",
+        "text": "whole 48% of my 5-hour limit. This"
+      },
+      {
+        "start": 543.52,
+        "duration": 4.84,
+        "start_formatted": "09:03",
+        "text": "probably took like 15 or 20%. All right,"
+      },
+      {
+        "start": 546.2,
+        "duration": 4.04,
+        "start_formatted": "09:06",
+        "text": "next, because all these Frontier models"
+      },
+      {
+        "start": 548.36,
+        "duration": 3.0,
+        "start_formatted": "09:08",
+        "text": "are really good at tool use and working"
+      },
+      {
+        "start": 550.24,
+        "duration": 2.8,
+        "start_formatted": "09:10",
+        "text": "with different types of files and"
+      },
+      {
+        "start": 551.36,
+        "duration": 3.4,
+        "start_formatted": "09:11",
+        "text": "platforms, let's test this out with a"
+      },
+      {
+        "start": 553.04,
+        "duration": 4.0,
+        "start_formatted": "09:13",
+        "text": "really tricky prompt. \"From last year's"
+      },
+      {
+        "start": 554.76,
+        "duration": 4.0,
+        "start_formatted": "09:14",
+        "text": "Q4 reports of Nvidia, Google, Meta, and"
+      },
+      {
+        "start": 557.04,
+        "duration": 3.16,
+        "start_formatted": "09:17",
+        "text": "Amazon, create a professional"
+      },
+      {
+        "start": 558.76,
+        "duration": 3.64,
+        "start_formatted": "09:18",
+        "text": "presentation video comparing their"
+      },
+      {
+        "start": 560.2,
+        "duration": 4.28,
+        "start_formatted": "09:20",
+        "text": "financials and future outlook. I didn't"
+      },
+      {
+        "start": 562.4,
+        "duration": 4.28,
+        "start_formatted": "09:22",
+        "text": "even link or attach the reports. It"
+      },
+      {
+        "start": 564.48,
+        "duration": 3.8,
+        "start_formatted": "09:24",
+        "text": "needs to go and find the Q4 reports"
+      },
+      {
+        "start": 566.68,
+        "duration": 3.08,
+        "start_formatted": "09:26",
+        "text": "itself from all these companies, and"
+      },
+      {
+        "start": 568.28,
+        "duration": 3.4,
+        "start_formatted": "09:28",
+        "text": "then it needs to, you know, figure out"
+      },
+      {
+        "start": 569.76,
+        "duration": 3.84,
+        "start_formatted": "09:29",
+        "text": "the financials and compare them and give"
+      },
+      {
+        "start": 571.68,
+        "duration": 4.24,
+        "start_formatted": "09:31",
+        "text": "me the future outlook. Include a"
+      },
+      {
+        "start": 573.6,
+        "duration": 4.48,
+        "start_formatted": "09:33",
+        "text": "voiceover from Gemini TTS. Use"
+      },
+      {
+        "start": 575.92,
+        "duration": 4.28,
+        "start_formatted": "09:35",
+        "text": "HyperFrames to create the animation. I"
+      },
+      {
+        "start": 578.08,
+        "duration": 4.24,
+        "start_formatted": "09:38",
+        "text": "linked to the HyperFrames GitHub repo."
+      },
+      {
+        "start": 580.2,
+        "duration": 4.16,
+        "start_formatted": "09:40",
+        "text": "This is basically an open-source tool"
+      },
+      {
+        "start": 582.32,
+        "duration": 4.56,
+        "start_formatted": "09:42",
+        "text": "for you to create motion graphics"
+      },
+      {
+        "start": 584.36,
+        "duration": 4.36,
+        "start_formatted": "09:44",
+        "text": "presentation videos. It should be 16:9,"
+      },
+      {
+        "start": 586.88,
+        "duration": 4.44,
+        "start_formatted": "09:46",
+        "text": "around a minute long. Include charts,"
+      },
+      {
+        "start": 588.72,
+        "duration": 4.56,
+        "start_formatted": "09:48",
+        "text": "graphs, other visuals. Use this as the"
+      },
+      {
+        "start": 591.32,
+        "duration": 4.28,
+        "start_formatted": "09:51",
+        "text": "background audio. And then afterwards, I"
+      },
+      {
+        "start": 593.28,
+        "duration": 4.4,
+        "start_formatted": "09:53",
+        "text": "also pasted in some documentation on how"
+      },
+      {
+        "start": 595.6,
+        "duration": 3.84,
+        "start_formatted": "09:55",
+        "text": "to use Gemini TTS to generate the"
+      },
+      {
+        "start": 597.68,
+        "duration": 4.04,
+        "start_formatted": "09:57",
+        "text": "voiceover. And then at the bottom, I"
+      },
+      {
+        "start": 599.44,
+        "duration": 3.96,
+        "start_formatted": "09:59",
+        "text": "gave it my API key, which I will delete"
+      },
+      {
+        "start": 601.72,
+        "duration": 2.8,
+        "start_formatted": "10:01",
+        "text": "before I record this video. That's"
+      },
+      {
+        "start": 603.4,
+        "duration": 3.6,
+        "start_formatted": "10:03",
+        "text": "pretty much it. All right, so"
+      },
+      {
+        "start": 604.52,
+        "duration": 4.4,
+        "start_formatted": "10:04",
+        "text": "afterwards, it proceeded to search for"
+      },
+      {
+        "start": 607.0,
+        "duration": 4.48,
+        "start_formatted": "10:07",
+        "text": "the Q4 reports and then analyze the"
+      },
+      {
+        "start": 608.92,
+        "duration": 4.64,
+        "start_formatted": "10:08",
+        "text": "data. Then it proceeded to install"
+      },
+      {
+        "start": 611.48,
+        "duration": 4.16,
+        "start_formatted": "10:11",
+        "text": "HyperFrames and then also generate the"
+      },
+      {
+        "start": 613.56,
+        "duration": 3.64,
+        "start_formatted": "10:13",
+        "text": "voiceover using Gemini TTS and then"
+      },
+      {
+        "start": 615.64,
+        "duration": 3.56,
+        "start_formatted": "10:15",
+        "text": "finally generate the video. Again, the"
+      },
+      {
+        "start": 617.2,
+        "duration": 4.4,
+        "start_formatted": "10:17",
+        "text": "awesome thing about Opus 5 is that it"
+      },
+      {
+        "start": 619.2,
+        "duration": 4.68,
+        "start_formatted": "10:19",
+        "text": "can autonomously verify its generation"
+      },
+      {
+        "start": 621.6,
+        "duration": 4.48,
+        "start_formatted": "10:21",
+        "text": "and then fix any errors that it sees."
+      },
+      {
+        "start": 623.88,
+        "duration": 4.2,
+        "start_formatted": "10:23",
+        "text": "And so afterwards, it rendered the video"
+      },
+      {
+        "start": 626.08,
+        "duration": 3.68,
+        "start_formatted": "10:26",
+        "text": "successfully and that's pretty much it."
+      },
+      {
+        "start": 628.08,
+        "duration": 3.56,
+        "start_formatted": "10:28",
+        "text": "In just one prompt, I didn't even need"
+      },
+      {
+        "start": 629.76,
+        "duration": 2.48,
+        "start_formatted": "10:29",
+        "text": "to prompt it further. Here's our final"
+      },
+      {
+        "start": 631.64,
+        "duration": 3.24,
+        "start_formatted": "10:31",
+        "text": "result."
+      },
+      {
+        "start": 632.24,
+        "duration": 4.96,
+        "start_formatted": "10:32",
+        "text": ">> Four companies, one quarter, and a"
+      },
+      {
+        "start": 634.88,
+        "duration": 4.959,
+        "start_formatted": "10:34",
+        "text": "half-trillion-dollar bet on artificial"
+      },
+      {
+        "start": 637.2,
+        "duration": 4.08,
+        "start_formatted": "10:37",
+        "text": "intelligence. Start with scale. Amazon"
+      },
+      {
+        "start": 639.839,
+        "duration": 2.401,
+        "start_formatted": "10:39",
+        "text": "booked $213 [music]"
+      },
+      {
+        "start": 641.28,
+        "duration": 2.96,
+        "start_formatted": "10:41",
+        "text": "billion,"
+      },
+      {
+        "start": 642.24,
+        "duration": 4.96,
+        "start_formatted": "10:42",
+        "text": "nearly double Alphabet, and more than"
+      },
+      {
+        "start": 644.24,
+        "duration": 6.4,
+        "start_formatted": "10:44",
+        "text": "Nvidia and Meta combined. But growth"
+      },
+      {
+        "start": 647.2,
+        "duration": 5.8,
+        "start_formatted": "10:47",
+        "text": "flips the board. Nvidia grew 73% [music]"
+      },
+      {
+        "start": 650.64,
+        "duration": 4.367,
+        "start_formatted": "10:50",
+        "text": "Amazon, the largest, grew the slowest."
+      },
+      {
+        "start": 653.0,
+        "duration": 4.6,
+        "start_formatted": "10:53",
+        "text": "Profitability tells a third story."
+      },
+      {
+        "start": 655.007,
+        "duration": 5.153,
+        "start_formatted": "10:55",
+        "text": "[music] Meta turns 41 cents of every"
+      },
+      {
+        "start": 657.6,
+        "duration": 5.922,
+        "start_formatted": "10:57",
+        "text": "dollar into operating profit. Amazon,"
+      },
+      {
+        "start": 660.16,
+        "duration": 4.8,
+        "start_formatted": "11:00",
+        "text": "under 12. Nvidia's gross margin, 75%."
+      },
+      {
+        "start": 663.522,
+        "duration": 3.718,
+        "start_formatted": "11:03",
+        "text": "[music]"
+      },
+      {
+        "start": 664.96,
+        "duration": 5.112,
+        "start_formatted": "11:04",
+        "text": "And underneath, it's one engine,"
+      },
+      {
+        "start": 667.24,
+        "duration": 3.64,
+        "start_formatted": "11:07",
+        "text": "Nvidia's data center. Google Cloud, AWS."
+      },
+      {
+        "start": 670.072,
+        "duration": 3.408,
+        "start_formatted": "11:10",
+        "text": "[music]"
+      },
+      {
+        "start": 670.88,
+        "duration": 3.777,
+        "start_formatted": "11:10",
+        "text": "AI demand now drives all four, which"
+      },
+      {
+        "start": 673.48,
+        "duration": 1.48,
+        "start_formatted": "11:13",
+        "text": "brings us to the bill."
+      },
+      {
+        "start": 674.657,
+        "duration": 3.583,
+        "start_formatted": "11:14",
+        "text": ">> [music]"
+      },
+      {
+        "start": 674.96,
+        "duration": 5.24,
+        "start_formatted": "11:14",
+        "text": ">> For 2026, Alphabet, Meta, and Amazon"
+      },
+      {
+        "start": 678.24,
+        "duration": 4.52,
+        "start_formatted": "11:18",
+        "text": "guided to roughly half a trillion"
+      },
+      {
+        "start": 680.2,
+        "duration": 6.32,
+        "start_formatted": "11:20",
+        "text": "dollars in capital spending. Nvidia"
+      },
+      {
+        "start": 682.76,
+        "duration": 5.652,
+        "start_formatted": "11:22",
+        "text": "guided 78 billion in one quarter."
+      },
+      {
+        "start": 686.52,
+        "duration": 2.6,
+        "start_formatted": "11:26",
+        "text": "Three are spending, one is collecting."
+      },
+      {
+        "start": 688.412,
+        "duration": 2.708,
+        "start_formatted": "11:28",
+        "text": "[music]"
+      },
+      {
+        "start": 689.12,
+        "duration": 4.36,
+        "start_formatted": "11:29",
+        "text": "So, the question isn't whether the money"
+      },
+      {
+        "start": 691.12,
+        "duration": 2.76,
+        "start_formatted": "11:31",
+        "text": "gets spent, it's who earns a return on"
+      },
+      {
+        "start": 693.48,
+        "duration": 2.04,
+        "start_formatted": "11:33",
+        "text": "it."
+      },
+      {
+        "start": 693.88,
+        "duration": 3.72,
+        "start_formatted": "11:33",
+        "text": ">> Pretty good. It's important to note that"
+      },
+      {
+        "start": 695.52,
+        "duration": 4.72,
+        "start_formatted": "11:35",
+        "text": "other frontier models like Kimik3 can"
+      },
+      {
+        "start": 697.6,
+        "duration": 5.2,
+        "start_formatted": "11:37",
+        "text": "also do this, but this video from Opus 5"
+      },
+      {
+        "start": 700.24,
+        "duration": 4.64,
+        "start_formatted": "11:40",
+        "text": "seems a lot cleaner and smoother with"
+      },
+      {
+        "start": 702.8,
+        "duration": 4.56,
+        "start_formatted": "11:42",
+        "text": "fewer errors. Now, I forgot to pull up"
+      },
+      {
+        "start": 704.88,
+        "duration": 4.64,
+        "start_formatted": "11:44",
+        "text": "the usage stats, so here they are. This"
+      },
+      {
+        "start": 707.36,
+        "duration": 3.96,
+        "start_formatted": "11:47",
+        "text": "used 316,000"
+      },
+      {
+        "start": 709.52,
+        "duration": 3.84,
+        "start_formatted": "11:49",
+        "text": "tokens. If you're constantly doing the"
+      },
+      {
+        "start": 711.32,
+        "duration": 4.52,
+        "start_formatted": "11:51",
+        "text": "same creative workflows over and over"
+      },
+      {
+        "start": 713.36,
+        "duration": 5.48,
+        "start_formatted": "11:53",
+        "text": "again, definitely check out Luma Agents"
+      },
+      {
+        "start": 715.84,
+        "duration": 4.64,
+        "start_formatted": "11:55",
+        "text": "by Luma AI, the sponsor of this video."
+      },
+      {
+        "start": 718.84,
+        "duration": 3.88,
+        "start_formatted": "11:58",
+        "text": "It's going to save you so much time and"
+      },
+      {
+        "start": 720.48,
+        "duration": 4.32,
+        "start_formatted": "12:00",
+        "text": "make you way more productive. Think of"
+      },
+      {
+        "start": 722.72,
+        "duration": 4.16,
+        "start_formatted": "12:02",
+        "text": "Luma Agents as a team of AIs working"
+      },
+      {
+        "start": 724.8,
+        "duration": 4.36,
+        "start_formatted": "12:04",
+        "text": "together to autonomously carry out a"
+      },
+      {
+        "start": 726.88,
+        "duration": 4.12,
+        "start_formatted": "12:06",
+        "text": "creative process. You can simply upload"
+      },
+      {
+        "start": 729.16,
+        "duration": 3.8,
+        "start_formatted": "12:09",
+        "text": "references and prompt it with natural"
+      },
+      {
+        "start": 731.0,
+        "duration": 4.12,
+        "start_formatted": "12:11",
+        "text": "language to do whatever you want. For"
+      },
+      {
+        "start": 732.96,
+        "duration": 4.08,
+        "start_formatted": "12:12",
+        "text": "example, I can upload this image and get"
+      },
+      {
+        "start": 735.12,
+        "duration": 4.24,
+        "start_formatted": "12:15",
+        "text": "it to create an entire brand kit and"
+      },
+      {
+        "start": 737.04,
+        "duration": 4.04,
+        "start_formatted": "12:17",
+        "text": "color palette in a matter of minutes."
+      },
+      {
+        "start": 739.36,
+        "duration": 3.88,
+        "start_formatted": "12:19",
+        "text": "The coolest part is their latest feature"
+      },
+      {
+        "start": 741.08,
+        "duration": 3.96,
+        "start_formatted": "12:21",
+        "text": "called Luma Skills. Think of it as a way"
+      },
+      {
+        "start": 743.24,
+        "duration": 4.36,
+        "start_formatted": "12:23",
+        "text": "to turn your best creative workflows"
+      },
+      {
+        "start": 745.04,
+        "duration": 4.28,
+        "start_formatted": "12:25",
+        "text": "into reusable AI tools that you can run"
+      },
+      {
+        "start": 747.6,
+        "duration": 3.48,
+        "start_formatted": "12:27",
+        "text": "repeatedly. I can simply prompt the"
+      },
+      {
+        "start": 749.32,
+        "duration": 3.68,
+        "start_formatted": "12:29",
+        "text": "agent to turn this workflow into a"
+      },
+      {
+        "start": 751.08,
+        "duration": 4.16,
+        "start_formatted": "12:31",
+        "text": "skill. For example, let's name this"
+      },
+      {
+        "start": 753.0,
+        "duration": 4.2,
+        "start_formatted": "12:33",
+        "text": "brand kit, and in the future, I can"
+      },
+      {
+        "start": 755.24,
+        "duration": 4.16,
+        "start_formatted": "12:35",
+        "text": "upload another image and use that skill"
+      },
+      {
+        "start": 757.2,
+        "duration": 4.48,
+        "start_formatted": "12:37",
+        "text": "to apply the exact same workflow as"
+      },
+      {
+        "start": 759.4,
+        "duration": 4.76,
+        "start_formatted": "12:39",
+        "text": "before to recreate the exact same"
+      },
+      {
+        "start": 761.68,
+        "duration": 4.64,
+        "start_formatted": "12:41",
+        "text": "result. Or here's another example. I can"
+      },
+      {
+        "start": 764.16,
+        "duration": 4.48,
+        "start_formatted": "12:44",
+        "text": "upload this photo of a woman in a dress"
+      },
+      {
+        "start": 766.32,
+        "duration": 4.2,
+        "start_formatted": "12:46",
+        "text": "and get Luma Agent to create a video of"
+      },
+      {
+        "start": 768.64,
+        "duration": 4.16,
+        "start_formatted": "12:48",
+        "text": "this person wearing this dress and"
+      },
+      {
+        "start": 770.52,
+        "duration": 4.319,
+        "start_formatted": "12:50",
+        "text": "walking down a runway in a fashion show."
+      },
+      {
+        "start": 772.8,
+        "duration": 4.6,
+        "start_formatted": "12:52",
+        "text": "And if I want to reuse this exact same"
+      },
+      {
+        "start": 774.839,
+        "duration": 4.681,
+        "start_formatted": "12:54",
+        "text": "workflow as before, I can just prompt it"
+      },
+      {
+        "start": 777.4,
+        "duration": 4.28,
+        "start_formatted": "12:57",
+        "text": "to save this as a skill. For example,"
+      },
+      {
+        "start": 779.52,
+        "duration": 4.44,
+        "start_formatted": "12:59",
+        "text": "let's name this fashion show, and"
+      },
+      {
+        "start": 781.68,
+        "duration": 4.28,
+        "start_formatted": "13:01",
+        "text": "afterwards, upload another model or"
+      },
+      {
+        "start": 783.96,
+        "duration": 4.08,
+        "start_formatted": "13:03",
+        "text": "another piece of clothing and then use"
+      },
+      {
+        "start": 785.96,
+        "duration": 4.56,
+        "start_formatted": "13:05",
+        "text": "that skill to generate another fashion"
+      },
+      {
+        "start": 788.04,
+        "duration": 3.76,
+        "start_formatted": "13:08",
+        "text": "show video easily. What's really cool is"
+      },
+      {
+        "start": 790.52,
+        "duration": 3.319,
+        "start_formatted": "13:10",
+        "text": "you don't even have to build these"
+      },
+      {
+        "start": 791.8,
+        "duration": 4.16,
+        "start_formatted": "13:11",
+        "text": "skills yourself. You can just simply"
+      },
+      {
+        "start": 793.839,
+        "duration": 3.921,
+        "start_formatted": "13:13",
+        "text": "tell the agent what you want, and it'll"
+      },
+      {
+        "start": 795.96,
+        "duration": 4.08,
+        "start_formatted": "13:15",
+        "text": "generate the entire skill for you"
+      },
+      {
+        "start": 797.76,
+        "duration": 4.6,
+        "start_formatted": "13:17",
+        "text": "automatically. I'm especially impressed"
+      },
+      {
+        "start": 800.04,
+        "duration": 4.52,
+        "start_formatted": "13:20",
+        "text": "by the sharing capabilities. Once you've"
+      },
+      {
+        "start": 802.36,
+        "duration": 4.28,
+        "start_formatted": "13:22",
+        "text": "created a workflow that works well, you"
+      },
+      {
+        "start": 804.56,
+        "duration": 4.4,
+        "start_formatted": "13:24",
+        "text": "can instantly share it with teammates"
+      },
+      {
+        "start": 806.64,
+        "duration": 4.44,
+        "start_formatted": "13:26",
+        "text": "using a simple link. Entire teams can"
+      },
+      {
+        "start": 808.96,
+        "duration": 4.08,
+        "start_formatted": "13:28",
+        "text": "install the skill and get the exact same"
+      },
+      {
+        "start": 811.08,
+        "duration": 4.36,
+        "start_formatted": "13:31",
+        "text": "results without having to recreate the"
+      },
+      {
+        "start": 813.04,
+        "duration": 4.76,
+        "start_formatted": "13:33",
+        "text": "workflow themselves. You can even bundle"
+      },
+      {
+        "start": 815.44,
+        "duration": 4.04,
+        "start_formatted": "13:35",
+        "text": "multiple skills together into a package"
+      },
+      {
+        "start": 817.8,
+        "duration": 3.8,
+        "start_formatted": "13:37",
+        "text": "and distribute an entire creative"
+      },
+      {
+        "start": 819.48,
+        "duration": 3.92,
+        "start_formatted": "13:39",
+        "text": "toolkit with a single click. Whether"
+      },
+      {
+        "start": 821.6,
+        "duration": 4.24,
+        "start_formatted": "13:41",
+        "text": "you're creating marketing campaigns,"
+      },
+      {
+        "start": 823.4,
+        "duration": 4.92,
+        "start_formatted": "13:43",
+        "text": "editing videos, generating images, or"
+      },
+      {
+        "start": 825.84,
+        "duration": 4.44,
+        "start_formatted": "13:45",
+        "text": "building repeatable creative workflows,"
+      },
+      {
+        "start": 828.32,
+        "duration": 4.44,
+        "start_formatted": "13:48",
+        "text": "Luma skills in Luma Agents is an"
+      },
+      {
+        "start": 830.28,
+        "duration": 4.28,
+        "start_formatted": "13:50",
+        "text": "absolute game-changer. Try today using"
+      },
+      {
+        "start": 832.76,
+        "duration": 3.64,
+        "start_formatted": "13:52",
+        "text": "this QR code or the link in the"
+      },
+      {
+        "start": 834.56,
+        "duration": 3.68,
+        "start_formatted": "13:54",
+        "text": "description below. Now, because these"
+      },
+      {
+        "start": 836.4,
+        "duration": 3.4,
+        "start_formatted": "13:56",
+        "text": "frontier models are so good at using"
+      },
+      {
+        "start": 838.24,
+        "duration": 3.72,
+        "start_formatted": "13:58",
+        "text": "tools and different platforms, let's"
+      },
+      {
+        "start": 839.8,
+        "duration": 3.96,
+        "start_formatted": "13:59",
+        "text": "also see how good it is at creating 3D"
+      },
+      {
+        "start": 841.96,
+        "duration": 4.04,
+        "start_formatted": "14:01",
+        "text": "models in Blender. So, I'm going to"
+      },
+      {
+        "start": 843.76,
+        "duration": 4.4,
+        "start_formatted": "14:03",
+        "text": "write \"Use Blender MCP at this local"
+      },
+      {
+        "start": 846.0,
+        "duration": 4.72,
+        "start_formatted": "14:06",
+        "text": "address.\" So, in Blender, I already"
+      },
+      {
+        "start": 848.16,
+        "duration": 5.12,
+        "start_formatted": "14:08",
+        "text": "installed and enabled the MCP at this"
+      },
+      {
+        "start": 850.72,
+        "duration": 4.68,
+        "start_formatted": "14:10",
+        "text": "local URL, and let's get it to create an"
+      },
+      {
+        "start": 853.28,
+        "duration": 3.96,
+        "start_formatted": "14:13",
+        "text": "X-Wing fighter spaceship with realistic"
+      },
+      {
+        "start": 855.4,
+        "duration": 3.32,
+        "start_formatted": "14:15",
+        "text": "texture and motion. Again, I'm going to"
+      },
+      {
+        "start": 857.24,
+        "duration": 3.36,
+        "start_formatted": "14:17",
+        "text": "set it to ultra code and then press"
+      },
+      {
+        "start": 858.72,
+        "duration": 3.8,
+        "start_formatted": "14:18",
+        "text": "enter. All right, so it's planning this"
+      },
+      {
+        "start": 860.6,
+        "duration": 4.04,
+        "start_formatted": "14:20",
+        "text": "out and generating this step-by-step"
+      },
+      {
+        "start": 862.52,
+        "duration": 4.08,
+        "start_formatted": "14:22",
+        "text": "while connected to Blender. In fact, let"
+      },
+      {
+        "start": 864.64,
+        "duration": 3.32,
+        "start_formatted": "14:24",
+        "text": "me just show you a time-lapse of this in"
+      },
+      {
+        "start": 866.6,
+        "duration": 2.76,
+        "start_formatted": "14:26",
+        "text": "action. You can see it's building the"
+      },
+      {
+        "start": 867.96,
+        "duration": 2.8,
+        "start_formatted": "14:27",
+        "text": "different components, first with the"
+      },
+      {
+        "start": 869.36,
+        "duration": 3.84,
+        "start_formatted": "14:29",
+        "text": "body and now the wings, and then it's"
+      },
+      {
+        "start": 870.76,
+        "duration": 4.72,
+        "start_formatted": "14:30",
+        "text": "also figuring out where the hinges"
+      },
+      {
+        "start": 873.2,
+        "duration": 4.04,
+        "start_formatted": "14:33",
+        "text": "should be so the wings can open. Pretty"
+      },
+      {
+        "start": 875.48,
+        "duration": 3.88,
+        "start_formatted": "14:35",
+        "text": "cool. And then afterwards, it's even"
+      },
+      {
+        "start": 877.24,
+        "duration": 4.04,
+        "start_formatted": "14:37",
+        "text": "automatically generating the video. The"
+      },
+      {
+        "start": 879.36,
+        "duration": 4.04,
+        "start_formatted": "14:39",
+        "text": "cool thing is it's able to take"
+      },
+      {
+        "start": 881.28,
+        "duration": 3.8,
+        "start_formatted": "14:41",
+        "text": "screenshots and verify that the model"
+      },
+      {
+        "start": 883.4,
+        "duration": 4.0,
+        "start_formatted": "14:43",
+        "text": "and the animation works. And if not,"
+      },
+      {
+        "start": 885.08,
+        "duration": 4.04,
+        "start_formatted": "14:45",
+        "text": "then it'll proceed to fix any issues."
+      },
+      {
+        "start": 887.4,
+        "duration": 3.88,
+        "start_formatted": "14:47",
+        "text": "And so afterwards, it finished"
+      },
+      {
+        "start": 889.12,
+        "duration": 3.8,
+        "start_formatted": "14:49",
+        "text": "generating this X-Wing fighter, and"
+      },
+      {
+        "start": 891.28,
+        "duration": 4.2,
+        "start_formatted": "14:51",
+        "text": "that's pretty much it. So, let's open"
+      },
+      {
+        "start": 892.92,
+        "duration": 4.64,
+        "start_formatted": "14:52",
+        "text": "this up. Here is what the X-Wing fighter"
+      },
+      {
+        "start": 895.48,
+        "duration": 3.96,
+        "start_formatted": "14:55",
+        "text": "looks like. In fact, let me keep playing"
+      },
+      {
+        "start": 897.56,
+        "duration": 3.279,
+        "start_formatted": "14:57",
+        "text": "this. Very cool. You can see all the"
+      },
+      {
+        "start": 899.44,
+        "duration": 3.04,
+        "start_formatted": "14:59",
+        "text": "different components that it has"
+      },
+      {
+        "start": 900.839,
+        "duration": 3.801,
+        "start_formatted": "15:00",
+        "text": "generated. So, like here's the wing,"
+      },
+      {
+        "start": 902.48,
+        "duration": 3.76,
+        "start_formatted": "15:02",
+        "text": "here's each part of the wing. Very"
+      },
+      {
+        "start": 904.64,
+        "duration": 3.56,
+        "start_formatted": "15:04",
+        "text": "comprehensive. And then here's what the"
+      },
+      {
+        "start": 906.24,
+        "duration": 4.28,
+        "start_formatted": "15:06",
+        "text": "solid view looks like. Here's what the"
+      },
+      {
+        "start": 908.2,
+        "duration": 4.04,
+        "start_formatted": "15:08",
+        "text": "material looks like. The textures also"
+      },
+      {
+        "start": 910.52,
+        "duration": 3.52,
+        "start_formatted": "15:10",
+        "text": "look pretty good. It's just creating"
+      },
+      {
+        "start": 912.24,
+        "duration": 4.12,
+        "start_formatted": "15:12",
+        "text": "this from scratch. And you know, a cute"
+      },
+      {
+        "start": 914.04,
+        "duration": 5.88,
+        "start_formatted": "15:14",
+        "text": "little detail is it even added a place"
+      },
+      {
+        "start": 916.36,
+        "duration": 5.12,
+        "start_formatted": "15:16",
+        "text": "for R2-D2 over here. Exactly like the"
+      },
+      {
+        "start": 919.92,
+        "duration": 3.96,
+        "start_formatted": "15:19",
+        "text": "actual X-Wing fighter. Really"
+      },
+      {
+        "start": 921.48,
+        "duration": 4.32,
+        "start_formatted": "15:21",
+        "text": "impressive. And then let me show you the"
+      },
+      {
+        "start": 923.88,
+        "duration": 3.96,
+        "start_formatted": "15:23",
+        "text": "rendered animation, which looks like"
+      },
+      {
+        "start": 925.8,
+        "duration": 3.68,
+        "start_formatted": "15:25",
+        "text": "this. Really cool. All right, so let me"
+      },
+      {
+        "start": 927.84,
+        "duration": 3.8,
+        "start_formatted": "15:27",
+        "text": "pull up the stats for this. This"
+      },
+      {
+        "start": 929.48,
+        "duration": 5.16,
+        "start_formatted": "15:29",
+        "text": "actually took surprisingly very few"
+      },
+      {
+        "start": 931.64,
+        "duration": 5.16,
+        "start_formatted": "15:31",
+        "text": "tokens. Only 173K tokens, but it did"
+      },
+      {
+        "start": 934.64,
+        "duration": 4.16,
+        "start_formatted": "15:34",
+        "text": "take a long time. Again, this took close"
+      },
+      {
+        "start": 936.8,
+        "duration": 3.96,
+        "start_formatted": "15:36",
+        "text": "to an hour. All right, next let's see"
+      },
+      {
+        "start": 938.8,
+        "duration": 4.2,
+        "start_formatted": "15:38",
+        "text": "how good it is at making music. So"
+      },
+      {
+        "start": 940.76,
+        "duration": 4.04,
+        "start_formatted": "15:40",
+        "text": "here's my prompt. Your job is to compose"
+      },
+      {
+        "start": 943.0,
+        "duration": 3.0,
+        "start_formatted": "15:43",
+        "text": "an amazing award-winning song. Figure"
+      },
+      {
+        "start": 944.8,
+        "duration": 3.56,
+        "start_formatted": "15:44",
+        "text": "out which instruments you need to"
+      },
+      {
+        "start": 946.0,
+        "duration": 4.68,
+        "start_formatted": "15:46",
+        "text": "include in the song, then look for free"
+      },
+      {
+        "start": 948.36,
+        "duration": 4.48,
+        "start_formatted": "15:48",
+        "text": "VST plugins. These are like virtual"
+      },
+      {
+        "start": 950.68,
+        "duration": 4.4,
+        "start_formatted": "15:50",
+        "text": "instruments that are under 800 megabytes"
+      },
+      {
+        "start": 952.84,
+        "duration": 5.52,
+        "start_formatted": "15:52",
+        "text": "in size, then compose the song using"
+      },
+      {
+        "start": 955.08,
+        "duration": 5.48,
+        "start_formatted": "15:55",
+        "text": "these VST plugins in my Waveform DAW. So"
+      },
+      {
+        "start": 958.36,
+        "duration": 4.08,
+        "start_formatted": "15:58",
+        "text": "this is an existing free DAW that you"
+      },
+      {
+        "start": 960.56,
+        "duration": 3.56,
+        "start_formatted": "16:00",
+        "text": "can use to compose music. You can add"
+      },
+      {
+        "start": 962.44,
+        "duration": 3.76,
+        "start_formatted": "16:02",
+        "text": "additional effects like reverb, delay,"
+      },
+      {
+        "start": 964.12,
+        "duration": 3.96,
+        "start_formatted": "16:04",
+        "text": "risers, drops, include panning effects"
+      },
+      {
+        "start": 966.2,
+        "duration": 4.32,
+        "start_formatted": "16:06",
+        "text": "automation and make it sound amazing."
+      },
+      {
+        "start": 968.08,
+        "duration": 4.32,
+        "start_formatted": "16:08",
+        "text": "The thing is it needs to decide which"
+      },
+      {
+        "start": 970.52,
+        "duration": 4.36,
+        "start_formatted": "16:10",
+        "text": "instruments to use and then search for"
+      },
+      {
+        "start": 972.4,
+        "duration": 4.88,
+        "start_formatted": "16:12",
+        "text": "and download these plugins itself and"
+      },
+      {
+        "start": 974.88,
+        "duration": 4.64,
+        "start_formatted": "16:14",
+        "text": "then load everything into my DAW and"
+      },
+      {
+        "start": 977.28,
+        "duration": 4.48,
+        "start_formatted": "16:17",
+        "text": "then compose the notes for each track,"
+      },
+      {
+        "start": 979.52,
+        "duration": 4.16,
+        "start_formatted": "16:19",
+        "text": "set up the automation, panning, etc. and"
+      },
+      {
+        "start": 981.76,
+        "duration": 3.92,
+        "start_formatted": "16:21",
+        "text": "compile everything into a full song. All"
+      },
+      {
+        "start": 983.68,
+        "duration": 5.08,
+        "start_formatted": "16:23",
+        "text": "right, so first it's figuring out where"
+      },
+      {
+        "start": 985.68,
+        "duration": 5.56,
+        "start_formatted": "16:25",
+        "text": "exactly my Waveform DAW even is. After"
+      },
+      {
+        "start": 988.76,
+        "duration": 4.32,
+        "start_formatted": "16:28",
+        "text": "it has confirmed that the app exists,"
+      },
+      {
+        "start": 991.24,
+        "duration": 3.88,
+        "start_formatted": "16:31",
+        "text": "then it proceeds to figure out the"
+      },
+      {
+        "start": 993.08,
+        "duration": 3.92,
+        "start_formatted": "16:33",
+        "text": "virtual instruments to download. So it"
+      },
+      {
+        "start": 995.12,
+        "duration": 3.44,
+        "start_formatted": "16:35",
+        "text": "searched for a few instruments. This"
+      },
+      {
+        "start": 997.0,
+        "duration": 3.4,
+        "start_formatted": "16:37",
+        "text": "Vital Synth plugin requires"
+      },
+      {
+        "start": 998.56,
+        "duration": 4.16,
+        "start_formatted": "16:38",
+        "text": "registration. It can't create accounts,"
+      },
+      {
+        "start": 1000.4,
+        "duration": 5.52,
+        "start_formatted": "16:40",
+        "text": "so it ruled that out. And then it"
+      },
+      {
+        "start": 1002.72,
+        "duration": 5.28,
+        "start_formatted": "16:42",
+        "text": "finally landed on Surge XT, etc. etc."
+      },
+      {
+        "start": 1005.92,
+        "duration": 4.4,
+        "start_formatted": "16:45",
+        "text": "And then it also asked me what type of"
+      },
+      {
+        "start": 1008.0,
+        "duration": 3.839,
+        "start_formatted": "16:48",
+        "text": "song I want. It gave me a few options,"
+      },
+      {
+        "start": 1010.32,
+        "duration": 3.24,
+        "start_formatted": "16:50",
+        "text": "so I just clicked on the recommended"
+      },
+      {
+        "start": 1011.839,
+        "duration": 3.681,
+        "start_formatted": "16:51",
+        "text": "option, which is cinematic melodic"
+      },
+      {
+        "start": 1013.56,
+        "duration": 5.04,
+        "start_formatted": "16:53",
+        "text": "techno. And then afterwards it also"
+      },
+      {
+        "start": 1015.52,
+        "duration": 4.68,
+        "start_formatted": "16:55",
+        "text": "downloaded some drum kits, etc. etc. And"
+      },
+      {
+        "start": 1018.6,
+        "duration": 3.04,
+        "start_formatted": "16:58",
+        "text": "then after a lot of downloading and"
+      },
+      {
+        "start": 1020.2,
+        "duration": 4.04,
+        "start_formatted": "17:00",
+        "text": "planning, it's now arranging the notes"
+      },
+      {
+        "start": 1021.64,
+        "duration": 4.12,
+        "start_formatted": "17:01",
+        "text": "for each individual track. Now this took"
+      },
+      {
+        "start": 1024.24,
+        "duration": 3.16,
+        "start_formatted": "17:04",
+        "text": "really long. This took over an hour"
+      },
+      {
+        "start": 1025.76,
+        "duration": 3.76,
+        "start_formatted": "17:05",
+        "text": "already. And then next it actually"
+      },
+      {
+        "start": 1027.4,
+        "duration": 3.919,
+        "start_formatted": "17:07",
+        "text": "proceeded to render the song. And here's"
+      },
+      {
+        "start": 1029.52,
+        "duration": 5.72,
+        "start_formatted": "17:09",
+        "text": "what we got. All right, so let me open"
+      },
+      {
+        "start": 1031.319,
+        "duration": 6.361,
+        "start_formatted": "17:11",
+        "text": "this up in my DAW and holy smokes, look"
+      },
+      {
+        "start": 1035.24,
+        "duration": 4.719,
+        "start_formatted": "17:15",
+        "text": "at how thorough and detailed this is."
+      },
+      {
+        "start": 1037.68,
+        "duration": 4.88,
+        "start_formatted": "17:17",
+        "text": "So, it has tracks for the kick, clap,"
+      },
+      {
+        "start": 1039.959,
+        "duration": 5.201,
+        "start_formatted": "17:19",
+        "text": "hats, percussion, symbols, sub bass,"
+      },
+      {
+        "start": 1042.56,
+        "duration": 5.279,
+        "start_formatted": "17:22",
+        "text": "bass, pad, air pad, and then strings,"
+      },
+      {
+        "start": 1045.16,
+        "duration": 5.2,
+        "start_formatted": "17:25",
+        "text": "keys, arpeggiator, pluck, lead, counter"
+      },
+      {
+        "start": 1047.839,
+        "duration": 4.721,
+        "start_formatted": "17:27",
+        "text": "melody, and then riser, and also, I"
+      },
+      {
+        "start": 1050.36,
+        "duration": 6.2,
+        "start_formatted": "17:30",
+        "text": "guess, automation for reverb and delay."
+      },
+      {
+        "start": 1052.56,
+        "duration": 4.0,
+        "start_formatted": "17:32",
+        "text": "Pretty crazy. Let's play the song."
+      },
+      {
+        "start": 1059.802,
+        "duration": 2.02,
+        "start_formatted": "17:39",
+        "text": ">> [music]"
+      },
+      {
+        "start": 1064.387,
+        "duration": 2.02,
+        "start_formatted": "17:44",
+        "text": "[music]"
+      },
+      {
+        "start": 1086.002,
+        "duration": 2.02,
+        "start_formatted": "18:06",
+        "text": "[music]"
+      },
+      {
+        "start": 1095.172,
+        "duration": 2.02,
+        "start_formatted": "18:15",
+        "text": "[music]"
+      },
+      {
+        "start": 1102.377,
+        "duration": 2.02,
+        "start_formatted": "18:22",
+        "text": "[music]"
+      },
+      {
+        "start": 1108.927,
+        "duration": 2.02,
+        "start_formatted": "18:28",
+        "text": "[music]"
+      },
+      {
+        "start": 1115.477,
+        "duration": 2.02,
+        "start_formatted": "18:35",
+        "text": "[music]"
+      },
+      {
+        "start": 1121.372,
+        "duration": 2.02,
+        "start_formatted": "18:41",
+        "text": "[music]"
+      },
+      {
+        "start": 1129.232,
+        "duration": 2.02,
+        "start_formatted": "18:49",
+        "text": "[music]"
+      },
+      {
+        "start": 1137.093,
+        "duration": 2.02,
+        "start_formatted": "18:57",
+        "text": "[music]"
+      },
+      {
+        "start": 1147.573,
+        "duration": 2.02,
+        "start_formatted": "19:07",
+        "text": "[music]"
+      },
+      {
+        "start": 1154.123,
+        "duration": 2.02,
+        "start_formatted": "19:14",
+        "text": "[music]"
+      },
+      {
+        "start": 1163.293,
+        "duration": 2.02,
+        "start_formatted": "19:23",
+        "text": "[music]"
+      },
+      {
+        "start": 1171.808,
+        "duration": 2.02,
+        "start_formatted": "19:31",
+        "text": "[music]"
+      },
+      {
+        "start": 1183.598,
+        "duration": 2.02,
+        "start_formatted": "19:43",
+        "text": "[music]"
+      },
+      {
+        "start": 1206.523,
+        "duration": 2.02,
+        "start_formatted": "20:06",
+        "text": "[music]"
+      },
+      {
+        "start": 1209.28,
+        "duration": 4.56,
+        "start_formatted": "20:09",
+        "text": ">> All thing is 5 minutes long. It's pretty"
+      },
+      {
+        "start": 1211.92,
+        "duration": 3.72,
+        "start_formatted": "20:11",
+        "text": "much the same chords. I won't bore you"
+      },
+      {
+        "start": 1213.84,
+        "duration": 4.08,
+        "start_formatted": "20:13",
+        "text": "with the full song, but if you are"
+      },
+      {
+        "start": 1215.64,
+        "duration": 3.64,
+        "start_formatted": "20:15",
+        "text": "interested in hearing the entire song,"
+      },
+      {
+        "start": 1217.92,
+        "duration": 3.6,
+        "start_formatted": "20:17",
+        "text": "I'll link to it in the description"
+      },
+      {
+        "start": 1219.28,
+        "duration": 4.88,
+        "start_formatted": "20:19",
+        "text": "below. But as you can see, it's able to"
+      },
+      {
+        "start": 1221.52,
+        "duration": 4.12,
+        "start_formatted": "20:21",
+        "text": "actually control my DAW, even"
+      },
+      {
+        "start": 1224.16,
+        "duration": 3.56,
+        "start_formatted": "20:24",
+        "text": "automatically download [music] virtual"
+      },
+      {
+        "start": 1225.64,
+        "duration": 5.2,
+        "start_formatted": "20:25",
+        "text": "instruments, plan out the notes for each"
+      },
+      {
+        "start": 1227.72,
+        "duration": 5.76,
+        "start_formatted": "20:27",
+        "text": "track, including drums, sub bass, bass,"
+      },
+      {
+        "start": 1230.84,
+        "duration": 4.8,
+        "start_formatted": "20:30",
+        "text": "synth pads, strings, plucks, etc., and"
+      },
+      {
+        "start": 1233.48,
+        "duration": 4.08,
+        "start_formatted": "20:33",
+        "text": "generate a full legit song that actually"
+      },
+      {
+        "start": 1235.64,
+        "duration": 4.12,
+        "start_formatted": "20:35",
+        "text": "sounds pretty decent. And it's all from"
+      },
+      {
+        "start": 1237.56,
+        "duration": 4.52,
+        "start_formatted": "20:37",
+        "text": "just one prompt. Very impressive. For"
+      },
+      {
+        "start": 1239.76,
+        "duration": 4.56,
+        "start_formatted": "20:39",
+        "text": "your reference, this also took a crazy"
+      },
+      {
+        "start": 1242.08,
+        "duration": 4.96,
+        "start_formatted": "20:42",
+        "text": "long time. This also took over an hour,"
+      },
+      {
+        "start": 1244.32,
+        "duration": 4.84,
+        "start_formatted": "20:44",
+        "text": "so Opus 5 is incredibly slow. Definitely"
+      },
+      {
+        "start": 1247.04,
+        "duration": 4.6,
+        "start_formatted": "20:47",
+        "text": "the slowest of all the frontier models,"
+      },
+      {
+        "start": 1249.16,
+        "duration": 5.0,
+        "start_formatted": "20:49",
+        "text": "and this took 350,000"
+      },
+      {
+        "start": 1251.64,
+        "duration": 4.48,
+        "start_formatted": "20:51",
+        "text": "tokens. It probably took around like 20%"
+      },
+      {
+        "start": 1254.16,
+        "duration": 3.96,
+        "start_formatted": "20:54",
+        "text": "of my 5-hour limit. All right, so those"
+      },
+      {
+        "start": 1256.12,
+        "duration": 3.64,
+        "start_formatted": "20:56",
+        "text": "are some really complicated examples"
+      },
+      {
+        "start": 1258.12,
+        "duration": 3.64,
+        "start_formatted": "20:58",
+        "text": "using Claude code, but of course you can"
+      },
+      {
+        "start": 1259.76,
+        "duration": 4.28,
+        "start_formatted": "20:59",
+        "text": "also just use it on their online chat"
+      },
+      {
+        "start": 1261.76,
+        "duration": 4.2,
+        "start_formatted": "21:01",
+        "text": "interface. So, let's test this out."
+      },
+      {
+        "start": 1264.04,
+        "duration": 3.76,
+        "start_formatted": "21:04",
+        "text": "First, let's try your favorite test,"
+      },
+      {
+        "start": 1265.96,
+        "duration": 4.16,
+        "start_formatted": "21:05",
+        "text": "finding the frog. So, I'm going to"
+      },
+      {
+        "start": 1267.8,
+        "duration": 4.16,
+        "start_formatted": "21:07",
+        "text": "upload this image. There's a frog hidden"
+      },
+      {
+        "start": 1270.12,
+        "duration": 3.04,
+        "start_formatted": "21:10",
+        "text": "somewhere in this image, but I'm not"
+      },
+      {
+        "start": 1271.96,
+        "duration": 2.84,
+        "start_formatted": "21:11",
+        "text": "even going to tell it that. I'm going to"
+      },
+      {
+        "start": 1273.16,
+        "duration": 3.8,
+        "start_formatted": "21:13",
+        "text": "write, \"Is there any animal or animals"
+      },
+      {
+        "start": 1274.8,
+        "duration": 3.72,
+        "start_formatted": "21:14",
+        "text": "in this image? If so, identify and"
+      },
+      {
+        "start": 1276.96,
+        "duration": 3.44,
+        "start_formatted": "21:16",
+        "text": "circle it.\" I'm going to set it to Opus"
+      },
+      {
+        "start": 1278.52,
+        "duration": 4.0,
+        "start_formatted": "21:18",
+        "text": "5 Max and then press generate. All"
+      },
+      {
+        "start": 1280.4,
+        "duration": 4.64,
+        "start_formatted": "21:20",
+        "text": "right, so first what it did was it split"
+      },
+      {
+        "start": 1282.52,
+        "duration": 4.84,
+        "start_formatted": "21:22",
+        "text": "the image into a 3 by 3 grid, then it's"
+      },
+      {
+        "start": 1285.04,
+        "duration": 4.44,
+        "start_formatted": "21:25",
+        "text": "inspecting each grid, but it couldn't"
+      },
+      {
+        "start": 1287.36,
+        "duration": 4.36,
+        "start_formatted": "21:27",
+        "text": "find anything. It suspects it's a"
+      },
+      {
+        "start": 1289.48,
+        "duration": 4.52,
+        "start_formatted": "21:29",
+        "text": "potential snake species, so it's trying"
+      },
+      {
+        "start": 1291.72,
+        "duration": 4.4,
+        "start_formatted": "21:31",
+        "text": "super hard to pinpoint where the snake"
+      },
+      {
+        "start": 1294.0,
+        "duration": 4.24,
+        "start_formatted": "21:34",
+        "text": "is. It's trying to trace the snake's"
+      },
+      {
+        "start": 1296.12,
+        "duration": 4.12,
+        "start_formatted": "21:36",
+        "text": "sinuous path. It tries to enhance the"
+      },
+      {
+        "start": 1298.24,
+        "duration": 3.8,
+        "start_formatted": "21:38",
+        "text": "saturation and contrast to find the"
+      },
+      {
+        "start": 1300.24,
+        "duration": 4.24,
+        "start_formatted": "21:40",
+        "text": "edges of the snake. The poor thing is"
+      },
+      {
+        "start": 1302.04,
+        "duration": 4.68,
+        "start_formatted": "21:42",
+        "text": "trying so hard, but still it could not"
+      },
+      {
+        "start": 1304.48,
+        "duration": 4.4,
+        "start_formatted": "21:44",
+        "text": "find anything. It's now trying to rescan"
+      },
+      {
+        "start": 1306.72,
+        "duration": 3.96,
+        "start_formatted": "21:46",
+        "text": "each separate tile for potential"
+      },
+      {
+        "start": 1308.88,
+        "duration": 3.96,
+        "start_formatted": "21:48",
+        "text": "animals, but still it could not find"
+      },
+      {
+        "start": 1310.68,
+        "duration": 3.64,
+        "start_formatted": "21:50",
+        "text": "anything. So, the frog remains safe."
+      },
+      {
+        "start": 1312.84,
+        "duration": 3.52,
+        "start_formatted": "21:52",
+        "text": "Now, at least one good thing about this"
+      },
+      {
+        "start": 1314.32,
+        "duration": 3.84,
+        "start_formatted": "21:54",
+        "text": "is if it can't find anything, it doesn't"
+      },
+      {
+        "start": 1316.36,
+        "duration": 3.44,
+        "start_formatted": "21:56",
+        "text": "just hallucinate and make stuff up."
+      },
+      {
+        "start": 1318.16,
+        "duration": 3.12,
+        "start_formatted": "21:58",
+        "text": "It'll actually say it cannot find"
+      },
+      {
+        "start": 1319.8,
+        "duration": 3.88,
+        "start_formatted": "21:59",
+        "text": "anything. All right, next let's see if"
+      },
+      {
+        "start": 1321.28,
+        "duration": 4.4,
+        "start_formatted": "22:01",
+        "text": "it can identify cancer. So, I'm going to"
+      },
+      {
+        "start": 1323.68,
+        "duration": 4.36,
+        "start_formatted": "22:03",
+        "text": "upload this image of six different"
+      },
+      {
+        "start": 1325.68,
+        "duration": 4.24,
+        "start_formatted": "22:05",
+        "text": "scans, and there's a type of tumor in"
+      },
+      {
+        "start": 1328.04,
+        "duration": 3.48,
+        "start_formatted": "22:08",
+        "text": "each of these six scans. For the prompt,"
+      },
+      {
+        "start": 1329.92,
+        "duration": 3.72,
+        "start_formatted": "22:09",
+        "text": "I'm going to write, \"Identify the types"
+      },
+      {
+        "start": 1331.52,
+        "duration": 3.96,
+        "start_formatted": "22:11",
+        "text": "of tumors in each of the six images, if"
+      },
+      {
+        "start": 1333.64,
+        "duration": 4.28,
+        "start_formatted": "22:13",
+        "text": "any.\" And then press run. All right,"
+      },
+      {
+        "start": 1335.48,
+        "duration": 5.6,
+        "start_formatted": "22:15",
+        "text": "here is its answer. So, for the top"
+      },
+      {
+        "start": 1337.92,
+        "duration": 5.44,
+        "start_formatted": "22:17",
+        "text": "left, it identified craniopharyngioma,"
+      },
+      {
+        "start": 1341.08,
+        "duration": 5.0,
+        "start_formatted": "22:21",
+        "text": "which is not correct. And then for top"
+      },
+      {
+        "start": 1343.36,
+        "duration": 4.92,
+        "start_formatted": "22:23",
+        "text": "middle, it did not identify a tumor,"
+      },
+      {
+        "start": 1346.08,
+        "duration": 5.16,
+        "start_formatted": "22:26",
+        "text": "which is wrong. Top right, it was"
+      },
+      {
+        "start": 1348.28,
+        "duration": 5.52,
+        "start_formatted": "22:28",
+        "text": "unsure, so it says it's likely to be"
+      },
+      {
+        "start": 1351.24,
+        "duration": 5.12,
+        "start_formatted": "22:31",
+        "text": "this, which is not correct. It also said"
+      },
+      {
+        "start": 1353.8,
+        "duration": 4.96,
+        "start_formatted": "22:33",
+        "text": "it could be this type of tumor, which is"
+      },
+      {
+        "start": 1356.36,
+        "duration": 4.72,
+        "start_formatted": "22:36",
+        "text": "also not correct. So, next moving on to"
+      },
+      {
+        "start": 1358.76,
+        "duration": 5.04,
+        "start_formatted": "22:38",
+        "text": "the bottom row, it says no discrete"
+      },
+      {
+        "start": 1361.08,
+        "duration": 5.96,
+        "start_formatted": "22:41",
+        "text": "mass, which is wrong. Bottom middle, it"
+      },
+      {
+        "start": 1363.8,
+        "duration": 5.52,
+        "start_formatted": "22:43",
+        "text": "identified acute intraparenchymal"
+      },
+      {
+        "start": 1367.04,
+        "duration": 4.0,
+        "start_formatted": "22:47",
+        "text": "hematoma, which is also wrong. And then"
+      },
+      {
+        "start": 1369.32,
+        "duration": 4.44,
+        "start_formatted": "22:49",
+        "text": "for bottom right, it said"
+      },
+      {
+        "start": 1371.04,
+        "duration": 4.96,
+        "start_formatted": "22:51",
+        "text": "craniopharyngioma, which is also wrong."
+      },
+      {
+        "start": 1373.76,
+        "duration": 4.28,
+        "start_formatted": "22:53",
+        "text": "So, it got six out of six of these scans"
+      },
+      {
+        "start": 1376.0,
+        "duration": 3.88,
+        "start_formatted": "22:56",
+        "text": "wrong. Whereas, actually Chimera 3 got"
+      },
+      {
+        "start": 1378.04,
+        "duration": 4.24,
+        "start_formatted": "22:58",
+        "text": "one of these correct. Not really good in"
+      },
+      {
+        "start": 1379.88,
+        "duration": 4.8,
+        "start_formatted": "22:59",
+        "text": "terms of tumor identification, but note"
+      },
+      {
+        "start": 1382.28,
+        "duration": 5.12,
+        "start_formatted": "23:02",
+        "text": "that Fable 5 completely rejected my"
+      },
+      {
+        "start": 1384.68,
+        "duration": 5.2,
+        "start_formatted": "23:04",
+        "text": "request. So, at least Opus 5 is more"
+      },
+      {
+        "start": 1387.4,
+        "duration": 4.4,
+        "start_formatted": "23:07",
+        "text": "open to some biomedical prompts. Next,"
+      },
+      {
+        "start": 1389.88,
+        "duration": 3.76,
+        "start_formatted": "23:09",
+        "text": "let's test its ability to do deep"
+      },
+      {
+        "start": 1391.8,
+        "duration": 4.16,
+        "start_formatted": "23:11",
+        "text": "biomedical research. It's important to"
+      },
+      {
+        "start": 1393.64,
+        "duration": 4.0,
+        "start_formatted": "23:13",
+        "text": "note that Fable is severely nerfed. It"
+      },
+      {
+        "start": 1395.96,
+        "duration": 3.68,
+        "start_formatted": "23:15",
+        "text": "won't even answer this. So, the prompt"
+      },
+      {
+        "start": 1397.64,
+        "duration": 5.0,
+        "start_formatted": "23:17",
+        "text": "is analyze the pathophysiology of"
+      },
+      {
+        "start": 1399.64,
+        "duration": 5.12,
+        "start_formatted": "23:19",
+        "text": "atherosclerosis, etc., etc., include"
+      },
+      {
+        "start": 1402.64,
+        "duration": 4.64,
+        "start_formatted": "23:22",
+        "text": "relevant tables and visualizations. And"
+      },
+      {
+        "start": 1404.76,
+        "duration": 5.12,
+        "start_formatted": "23:24",
+        "text": "surprisingly for Opus 5, it actually"
+      },
+      {
+        "start": 1407.28,
+        "duration": 4.92,
+        "start_formatted": "23:27",
+        "text": "answered the question. So, here is its"
+      },
+      {
+        "start": 1409.88,
+        "duration": 4.4,
+        "start_formatted": "23:29",
+        "text": "findings, initiation and progression. It"
+      },
+      {
+        "start": 1412.2,
+        "duration": 4.0,
+        "start_formatted": "23:32",
+        "text": "created a nice flowchart. It also coded"
+      },
+      {
+        "start": 1414.28,
+        "duration": 4.0,
+        "start_formatted": "23:34",
+        "text": "up some nice diagrams here. And then"
+      },
+      {
+        "start": 1416.2,
+        "duration": 4.24,
+        "start_formatted": "23:36",
+        "text": "here is a table of the two strategies"
+      },
+      {
+        "start": 1418.28,
+        "duration": 3.68,
+        "start_formatted": "23:38",
+        "text": "compared. Here's also a nice bar graph."
+      },
+      {
+        "start": 1420.44,
+        "duration": 3.32,
+        "start_formatted": "23:40",
+        "text": "Now, it's important to note that all the"
+      },
+      {
+        "start": 1421.96,
+        "duration": 3.36,
+        "start_formatted": "23:41",
+        "text": "frontier models can do deep research"
+      },
+      {
+        "start": 1423.76,
+        "duration": 3.6,
+        "start_formatted": "23:43",
+        "text": "like this, but each of them have"
+      },
+      {
+        "start": 1425.32,
+        "duration": 3.88,
+        "start_formatted": "23:45",
+        "text": "different vibes. For example, Gemini"
+      },
+      {
+        "start": 1427.36,
+        "duration": 4.72,
+        "start_formatted": "23:47",
+        "text": "tends to be very verbose, whereas I"
+      },
+      {
+        "start": 1429.2,
+        "duration": 5.2,
+        "start_formatted": "23:49",
+        "text": "really like the outputs from GPT 5.6 and"
+      },
+      {
+        "start": 1432.08,
+        "duration": 4.2,
+        "start_formatted": "23:52",
+        "text": "Kemetic 3. They are very thorough, but"
+      },
+      {
+        "start": 1434.4,
+        "duration": 4.44,
+        "start_formatted": "23:54",
+        "text": "concise. It's jam-packed with"
+      },
+      {
+        "start": 1436.28,
+        "duration": 5.48,
+        "start_formatted": "23:56",
+        "text": "information. For Opus 5, I actually"
+      },
+      {
+        "start": 1438.84,
+        "duration": 5.04,
+        "start_formatted": "23:58",
+        "text": "don't like it as much as GPT 5.6. It"
+      },
+      {
+        "start": 1441.76,
+        "duration": 4.12,
+        "start_formatted": "24:01",
+        "text": "seems to be like holding back. It's not"
+      },
+      {
+        "start": 1443.88,
+        "duration": 3.6,
+        "start_formatted": "24:03",
+        "text": "doing thorough enough research and the"
+      },
+      {
+        "start": 1445.88,
+        "duration": 3.48,
+        "start_formatted": "24:05",
+        "text": "information just doesn't seem to be"
+      },
+      {
+        "start": 1447.48,
+        "duration": 3.84,
+        "start_formatted": "24:07",
+        "text": "organized as well. This is very"
+      },
+      {
+        "start": 1449.36,
+        "duration": 3.76,
+        "start_formatted": "24:09",
+        "text": "subjective. It depends on what you"
+      },
+      {
+        "start": 1451.32,
+        "duration": 4.52,
+        "start_formatted": "24:11",
+        "text": "prefer. All right, so that sums up my"
+      },
+      {
+        "start": 1453.12,
+        "duration": 4.68,
+        "start_formatted": "24:13",
+        "text": "tests on Opus 5. Overall, it's a very"
+      },
+      {
+        "start": 1455.84,
+        "duration": 4.52,
+        "start_formatted": "24:15",
+        "text": "capable model, especially in terms of"
+      },
+      {
+        "start": 1457.8,
+        "duration": 4.8,
+        "start_formatted": "24:17",
+        "text": "front end and 3D design, as you can see"
+      },
+      {
+        "start": 1460.36,
+        "duration": 4.24,
+        "start_formatted": "24:20",
+        "text": "from my demos. But for a lot of cases,"
+      },
+      {
+        "start": 1462.6,
+        "duration": 5.08,
+        "start_formatted": "24:22",
+        "text": "it's actually not noticeably better than"
+      },
+      {
+        "start": 1464.6,
+        "duration": 5.44,
+        "start_formatted": "24:24",
+        "text": "5.6 or even Kemetic 3. I would say it's"
+      },
+      {
+        "start": 1467.68,
+        "duration": 4.6,
+        "start_formatted": "24:27",
+        "text": "a very close tie. It thinks for way"
+      },
+      {
+        "start": 1470.04,
+        "duration": 3.88,
+        "start_formatted": "24:30",
+        "text": "longer. It's super slow. Like most of my"
+      },
+      {
+        "start": 1472.28,
+        "duration": 3.84,
+        "start_formatted": "24:32",
+        "text": "tasks that I showed you in this video"
+      },
+      {
+        "start": 1473.92,
+        "duration": 5.4,
+        "start_formatted": "24:33",
+        "text": "took over an hour. I feel like it's"
+      },
+      {
+        "start": 1476.12,
+        "duration": 5.28,
+        "start_formatted": "24:36",
+        "text": "twice as slow as Kemetic 3 or GPT 5.6,"
+      },
+      {
+        "start": 1479.32,
+        "duration": 4.64,
+        "start_formatted": "24:39",
+        "text": "which are already really slow. And also"
+      },
+      {
+        "start": 1481.4,
+        "duration": 4.8,
+        "start_formatted": "24:41",
+        "text": "Opus 5 is much more expensive. In fact,"
+      },
+      {
+        "start": 1483.96,
+        "duration": 4.04,
+        "start_formatted": "24:43",
+        "text": "let's go over the specs of this next."
+      },
+      {
+        "start": 1486.2,
+        "duration": 4.2,
+        "start_formatted": "24:46",
+        "text": "So, this is a frontier model, again"
+      },
+      {
+        "start": 1488.0,
+        "duration": 5.04,
+        "start_formatted": "24:48",
+        "text": "designed for agentic workflows, so it"
+      },
+      {
+        "start": 1490.4,
+        "duration": 5.0,
+        "start_formatted": "24:50",
+        "text": "can autonomously do long horizon tasks"
+      },
+      {
+        "start": 1493.04,
+        "duration": 4.16,
+        "start_formatted": "24:53",
+        "text": "involving multiple steps and tool calls."
+      },
+      {
+        "start": 1495.4,
+        "duration": 3.44,
+        "start_formatted": "24:55",
+        "text": "It can work with different platforms."
+      },
+      {
+        "start": 1497.2,
+        "duration": 3.68,
+        "start_formatted": "24:57",
+        "text": "And like the other frontier models, it"
+      },
+      {
+        "start": 1498.84,
+        "duration": 4.04,
+        "start_formatted": "24:58",
+        "text": "has a 1 million token context window."
+      },
+      {
+        "start": 1500.88,
+        "duration": 3.56,
+        "start_formatted": "25:00",
+        "text": "So, you can fit a ton of information"
+      },
+      {
+        "start": 1502.88,
+        "duration": 4.04,
+        "start_formatted": "25:02",
+        "text": "into your prompt at once, roughly"
+      },
+      {
+        "start": 1504.44,
+        "duration": 4.4,
+        "start_formatted": "25:04",
+        "text": "700,000 words or a small to medium-sized"
+      },
+      {
+        "start": 1506.92,
+        "duration": 3.76,
+        "start_formatted": "25:06",
+        "text": "codebase. Now, if you look at these"
+      },
+      {
+        "start": 1508.84,
+        "duration": 4.2,
+        "start_formatted": "25:08",
+        "text": "self-reported benchmarks, then on"
+      },
+      {
+        "start": 1510.68,
+        "duration": 4.88,
+        "start_formatted": "25:10",
+        "text": "average, it does perform better than"
+      },
+      {
+        "start": 1513.04,
+        "duration": 5.0,
+        "start_formatted": "25:13",
+        "text": "their previous best model, Claude Fable"
+      },
+      {
+        "start": 1515.56,
+        "duration": 4.6,
+        "start_formatted": "25:15",
+        "text": "5. Note that for legal and health, then"
+      },
+      {
+        "start": 1518.04,
+        "duration": 4.72,
+        "start_formatted": "25:18",
+        "text": "Fable 5 actually performs better. For"
+      },
+      {
+        "start": 1520.16,
+        "duration": 4.16,
+        "start_formatted": "25:20",
+        "text": "biology, Opus 5 performs better. Now,"
+      },
+      {
+        "start": 1522.76,
+        "duration": 4.04,
+        "start_formatted": "25:22",
+        "text": "one of the most important metrics here"
+      },
+      {
+        "start": 1524.32,
+        "duration": 3.8,
+        "start_formatted": "25:24",
+        "text": "is Deep Sweep version 1.1. This is"
+      },
+      {
+        "start": 1526.8,
+        "duration": 3.24,
+        "start_formatted": "25:26",
+        "text": "considered one of the most accurate"
+      },
+      {
+        "start": 1528.12,
+        "duration": 4.16,
+        "start_formatted": "25:28",
+        "text": "measures of how good a model is at"
+      },
+      {
+        "start": 1530.04,
+        "duration": 4.92,
+        "start_formatted": "25:30",
+        "text": "agentic software engineering, and as you"
+      },
+      {
+        "start": 1532.28,
+        "duration": 4.92,
+        "start_formatted": "25:32",
+        "text": "can see, both Fable and Opus did not"
+      },
+      {
+        "start": 1534.96,
+        "duration": 4.48,
+        "start_formatted": "25:34",
+        "text": "score the highest. The highest score was"
+      },
+      {
+        "start": 1537.2,
+        "duration": 4.12,
+        "start_formatted": "25:37",
+        "text": "GPT-5.6, which they didn't even"
+      },
+      {
+        "start": 1539.44,
+        "duration": 3.72,
+        "start_formatted": "25:39",
+        "text": "highlight in orange. They just grayed"
+      },
+      {
+        "start": 1541.32,
+        "duration": 3.56,
+        "start_formatted": "25:41",
+        "text": "this out as if it was irrelevant. One of"
+      },
+      {
+        "start": 1543.16,
+        "duration": 4.68,
+        "start_formatted": "25:43",
+        "text": "the most impressive things about Opus 5"
+      },
+      {
+        "start": 1544.88,
+        "duration": 4.68,
+        "start_formatted": "25:44",
+        "text": "is it scored 30% in this Arc AGI-3"
+      },
+      {
+        "start": 1547.84,
+        "duration": 3.88,
+        "start_formatted": "25:47",
+        "text": "benchmark. If you're not familiar with"
+      },
+      {
+        "start": 1549.56,
+        "duration": 4.48,
+        "start_formatted": "25:49",
+        "text": "this, this is where the AI model is"
+      },
+      {
+        "start": 1551.72,
+        "duration": 4.16,
+        "start_formatted": "25:51",
+        "text": "placed in this game environment, and it"
+      },
+      {
+        "start": 1554.04,
+        "duration": 3.8,
+        "start_formatted": "25:54",
+        "text": "has to figure out how the game works by"
+      },
+      {
+        "start": 1555.88,
+        "duration": 4.24,
+        "start_formatted": "25:55",
+        "text": "itself. It needs to learn the rules of"
+      },
+      {
+        "start": 1557.84,
+        "duration": 4.4,
+        "start_formatted": "25:57",
+        "text": "the game and then how to win or get to"
+      },
+      {
+        "start": 1560.12,
+        "duration": 4.0,
+        "start_formatted": "26:00",
+        "text": "the next stage, and also how to avoid"
+      },
+      {
+        "start": 1562.24,
+        "duration": 4.76,
+        "start_formatted": "26:02",
+        "text": "losing. Now, for humans, it's pretty"
+      },
+      {
+        "start": 1564.12,
+        "duration": 4.44,
+        "start_formatted": "26:04",
+        "text": "easy. Humans could easily score 100%,"
+      },
+      {
+        "start": 1567.0,
+        "duration": 4.4,
+        "start_formatted": "26:07",
+        "text": "but for the top frontier models like"
+      },
+      {
+        "start": 1568.56,
+        "duration": 4.52,
+        "start_formatted": "26:08",
+        "text": "Opus or Gemini or GPT-5.6, you can see"
+      },
+      {
+        "start": 1571.4,
+        "duration": 4.12,
+        "start_formatted": "26:11",
+        "text": "they do pretty awful, and that's"
+      },
+      {
+        "start": 1573.08,
+        "duration": 5.12,
+        "start_formatted": "26:13",
+        "text": "because, technically speaking, AI models"
+      },
+      {
+        "start": 1575.52,
+        "duration": 4.76,
+        "start_formatted": "26:15",
+        "text": "can't learn new things. Their parameters"
+      },
+      {
+        "start": 1578.2,
+        "duration": 4.56,
+        "start_formatted": "26:18",
+        "text": "in their neural network are fixed after"
+      },
+      {
+        "start": 1580.28,
+        "duration": 4.24,
+        "start_formatted": "26:20",
+        "text": "training. So, this Arc AGI-3 ain't just"
+      },
+      {
+        "start": 1582.76,
+        "duration": 4.2,
+        "start_formatted": "26:22",
+        "text": "testing if an AI can play video games."
+      },
+      {
+        "start": 1584.52,
+        "duration": 4.4,
+        "start_formatted": "26:24",
+        "text": "This is actually testing their emergent"
+      },
+      {
+        "start": 1586.96,
+        "duration": 4.36,
+        "start_formatted": "26:26",
+        "text": "abilities to learn new things on the"
+      },
+      {
+        "start": 1588.92,
+        "duration": 6.2,
+        "start_formatted": "26:28",
+        "text": "fly. And apparently, according to"
+      },
+      {
+        "start": 1591.32,
+        "duration": 5.6,
+        "start_formatted": "26:31",
+        "text": "Anthropic, Opus 5 scores over 30%, way"
+      },
+      {
+        "start": 1595.12,
+        "duration": 4.8,
+        "start_formatted": "26:35",
+        "text": "higher than the next best model,"
+      },
+      {
+        "start": 1596.92,
+        "duration": 4.64,
+        "start_formatted": "26:36",
+        "text": "GPT-5.6, which is less than 10%. Now,"
+      },
+      {
+        "start": 1599.92,
+        "duration": 3.2,
+        "start_formatted": "26:39",
+        "text": "while this might sound impressive,"
+      },
+      {
+        "start": 1601.56,
+        "duration": 3.4,
+        "start_formatted": "26:41",
+        "text": "especially since the other frontier"
+      },
+      {
+        "start": 1603.12,
+        "duration": 3.4,
+        "start_formatted": "26:43",
+        "text": "models are all the way down here, take"
+      },
+      {
+        "start": 1604.96,
+        "duration": 3.28,
+        "start_formatted": "26:44",
+        "text": "this with a grain of salt, because"
+      },
+      {
+        "start": 1606.52,
+        "duration": 4.08,
+        "start_formatted": "26:46",
+        "text": "there's new evidence suggesting that"
+      },
+      {
+        "start": 1608.24,
+        "duration": 5.44,
+        "start_formatted": "26:48",
+        "text": "Opus might be benchmarked. In fact, this"
+      },
+      {
+        "start": 1610.6,
+        "duration": 4.8,
+        "start_formatted": "26:50",
+        "text": "researcher found that when Opus 5 was"
+      },
+      {
+        "start": 1613.68,
+        "duration": 3.88,
+        "start_formatted": "26:53",
+        "text": "given games that are similar in design"
+      },
+      {
+        "start": 1615.4,
+        "duration": 4.2,
+        "start_formatted": "26:55",
+        "text": "to the Arc-AGI 3 games, it could"
+      },
+      {
+        "start": 1617.56,
+        "duration": 4.52,
+        "start_formatted": "26:57",
+        "text": "complete them very well. When it was"
+      },
+      {
+        "start": 1619.6,
+        "duration": 4.92,
+        "start_formatted": "26:59",
+        "text": "given some completely new games with"
+      },
+      {
+        "start": 1622.08,
+        "duration": 4.0,
+        "start_formatted": "27:02",
+        "text": "unusual or non-conventional rules that"
+      },
+      {
+        "start": 1624.52,
+        "duration": 3.64,
+        "start_formatted": "27:04",
+        "text": "it has to figure out on the fly, then it"
+      },
+      {
+        "start": 1626.08,
+        "duration": 4.92,
+        "start_formatted": "27:06",
+        "text": "does pretty badly. It even performs"
+      },
+      {
+        "start": 1628.16,
+        "duration": 4.28,
+        "start_formatted": "27:08",
+        "text": "worse than Opus 4.8. Now, if you look at"
+      },
+      {
+        "start": 1631.0,
+        "duration": 3.08,
+        "start_formatted": "27:11",
+        "text": "this independent leaderboard by"
+      },
+      {
+        "start": 1632.44,
+        "duration": 4.6,
+        "start_formatted": "27:12",
+        "text": "Artificial Analysis, then you can see"
+      },
+      {
+        "start": 1634.08,
+        "duration": 5.24,
+        "start_formatted": "27:14",
+        "text": "that Opus 5 is ranked number one, just"
+      },
+      {
+        "start": 1637.04,
+        "duration": 5.08,
+        "start_formatted": "27:17",
+        "text": "one point above Fable 5, which is one"
+      },
+      {
+        "start": 1639.32,
+        "duration": 5.04,
+        "start_formatted": "27:19",
+        "text": "point above GPT 5.6, which is two points"
+      },
+      {
+        "start": 1642.12,
+        "duration": 4.12,
+        "start_formatted": "27:22",
+        "text": "above Gemini K 3. The thing I don't like"
+      },
+      {
+        "start": 1644.36,
+        "duration": 3.6,
+        "start_formatted": "27:24",
+        "text": "about Artificial Analysis is there's no"
+      },
+      {
+        "start": 1646.24,
+        "duration": 3.48,
+        "start_formatted": "27:26",
+        "text": "confidence intervals. So, we don't"
+      },
+      {
+        "start": 1647.96,
+        "duration": 3.44,
+        "start_formatted": "27:27",
+        "text": "actually know if these differences are"
+      },
+      {
+        "start": 1649.72,
+        "duration": 3.6,
+        "start_formatted": "27:29",
+        "text": "statistically significant. If the"
+      },
+      {
+        "start": 1651.4,
+        "duration": 3.92,
+        "start_formatted": "27:31",
+        "text": "confidence intervals overlap, then it"
+      },
+      {
+        "start": 1653.32,
+        "duration": 3.76,
+        "start_formatted": "27:33",
+        "text": "could mean that like the top five models"
+      },
+      {
+        "start": 1655.32,
+        "duration": 3.52,
+        "start_formatted": "27:35",
+        "text": "are basically tied in terms of"
+      },
+      {
+        "start": 1657.08,
+        "duration": 3.64,
+        "start_formatted": "27:37",
+        "text": "performance. If you look at the speed of"
+      },
+      {
+        "start": 1658.84,
+        "duration": 5.28,
+        "start_formatted": "27:38",
+        "text": "this, measured in output tokens per"
+      },
+      {
+        "start": 1660.72,
+        "duration": 6.28,
+        "start_formatted": "27:40",
+        "text": "second, then Opus 5 is painfully slow,"
+      },
+      {
+        "start": 1664.12,
+        "duration": 4.88,
+        "start_formatted": "27:44",
+        "text": "noticeably slower than GPT 5.6 and even"
+      },
+      {
+        "start": 1667.0,
+        "duration": 4.88,
+        "start_formatted": "27:47",
+        "text": "Fable 5. And if you look at the price,"
+      },
+      {
+        "start": 1669.0,
+        "duration": 5.16,
+        "start_formatted": "27:49",
+        "text": "Opus 5 is also way more expensive. It's"
+      },
+      {
+        "start": 1671.88,
+        "duration": 5.0,
+        "start_formatted": "27:51",
+        "text": "almost twice as expensive as Gemini K"
+      },
+      {
+        "start": 1674.16,
+        "duration": 4.8,
+        "start_formatted": "27:54",
+        "text": "5.6 Solo, which you can argue is just as"
+      },
+      {
+        "start": 1676.88,
+        "duration": 4.56,
+        "start_formatted": "27:56",
+        "text": "intelligent. So, in terms of performance"
+      },
+      {
+        "start": 1678.96,
+        "duration": 4.52,
+        "start_formatted": "27:58",
+        "text": "versus cost, Opus 5 is not the most"
+      },
+      {
+        "start": 1681.44,
+        "duration": 4.52,
+        "start_formatted": "28:01",
+        "text": "cost-effective option. In terms of this"
+      },
+      {
+        "start": 1683.48,
+        "duration": 4.8,
+        "start_formatted": "28:03",
+        "text": "Omniscience hallucination rate, Opus 5"
+      },
+      {
+        "start": 1685.96,
+        "duration": 5.36,
+        "start_formatted": "28:05",
+        "text": "is not bad. It hallucinates roughly the"
+      },
+      {
+        "start": 1688.28,
+        "duration": 4.48,
+        "start_formatted": "28:08",
+        "text": "same rate as Gemini K 3, but much higher"
+      },
+      {
+        "start": 1691.32,
+        "duration": 4.16,
+        "start_formatted": "28:11",
+        "text": "than one of the leading open-source"
+      },
+      {
+        "start": 1692.76,
+        "duration": 4.36,
+        "start_formatted": "28:12",
+        "text": "models, JLM 5.2, which hallucinates half"
+      },
+      {
+        "start": 1695.48,
+        "duration": 2.84,
+        "start_formatted": "28:15",
+        "text": "as much. If you look at another"
+      },
+      {
+        "start": 1697.12,
+        "duration": 3.44,
+        "start_formatted": "28:17",
+        "text": "independent leaderboard called"
+      },
+      {
+        "start": 1698.32,
+        "duration": 4.44,
+        "start_formatted": "28:18",
+        "text": "LiveBench, you can see that Opus 5 is"
+      },
+      {
+        "start": 1700.56,
+        "duration": 5.0,
+        "start_formatted": "28:20",
+        "text": "only ranked number three, whereas Gemini"
+      },
+      {
+        "start": 1702.76,
+        "duration": 4.16,
+        "start_formatted": "28:22",
+        "text": "K 5.6 is number one. In fact, across the"
+      },
+      {
+        "start": 1705.56,
+        "duration": 2.56,
+        "start_formatted": "28:25",
+        "text": "board, across all these categories,"
+      },
+      {
+        "start": 1706.92,
+        "duration": 2.88,
+        "start_formatted": "28:26",
+        "text": "including reasoning, coding,"
+      },
+      {
+        "start": 1708.12,
+        "duration": 3.56,
+        "start_formatted": "28:28",
+        "text": "mathematics, data analysis, language,"
+      },
+      {
+        "start": 1709.8,
+        "duration": 4.24,
+        "start_formatted": "28:29",
+        "text": "and instruction following, it's not as"
+      },
+      {
+        "start": 1711.68,
+        "duration": 4.64,
+        "start_formatted": "28:31",
+        "text": "good as Gemini K 5.6. Now, in terms of"
+      },
+      {
+        "start": 1714.04,
+        "duration": 4.28,
+        "start_formatted": "28:34",
+        "text": "this Debates benchmark, which measures"
+      },
+      {
+        "start": 1716.32,
+        "duration": 4.36,
+        "start_formatted": "28:36",
+        "text": "how well AI models perform in"
+      },
+      {
+        "start": 1718.32,
+        "duration": 4.4,
+        "start_formatted": "28:38",
+        "text": "adversarial multi-turn debates across a"
+      },
+      {
+        "start": 1720.68,
+        "duration": 4.56,
+        "start_formatted": "28:40",
+        "text": "wide range of topics, so this not only"
+      },
+      {
+        "start": 1722.72,
+        "duration": 5.32,
+        "start_formatted": "28:42",
+        "text": "requires knowledge, but also the ability"
+      },
+      {
+        "start": 1725.24,
+        "duration": 5.64,
+        "start_formatted": "28:45",
+        "text": "to stay responsive and defend over"
+      },
+      {
+        "start": 1728.04,
+        "duration": 5.08,
+        "start_formatted": "28:48",
+        "text": "multiple rounds, you can see that Opus 5"
+      },
+      {
+        "start": 1730.88,
+        "duration": 4.0,
+        "start_formatted": "28:50",
+        "text": "is indeed ranked number one. In terms of"
+      },
+      {
+        "start": 1733.12,
+        "duration": 3.48,
+        "start_formatted": "28:53",
+        "text": "solving New York Times Connections"
+      },
+      {
+        "start": 1734.88,
+        "duration": 3.2,
+        "start_formatted": "28:54",
+        "text": "games, which I think is just a fun"
+      },
+      {
+        "start": 1736.6,
+        "duration": 3.24,
+        "start_formatted": "28:56",
+        "text": "benchmark, it's not really a useful"
+      },
+      {
+        "start": 1738.08,
+        "duration": 5.12,
+        "start_formatted": "28:58",
+        "text": "indicator of anything, you can see that"
+      },
+      {
+        "start": 1739.84,
+        "duration": 6.36,
+        "start_formatted": "28:59",
+        "text": "Opus 5 is number two, slightly above GPT"
+      },
+      {
+        "start": 1743.2,
+        "duration": 5.44,
+        "start_formatted": "29:03",
+        "text": "5.6, but still behind Gemini 3.1 Pro,"
+      },
+      {
+        "start": 1746.2,
+        "duration": 4.8,
+        "start_formatted": "29:06",
+        "text": "which has scored surprisingly well. In"
+      },
+      {
+        "start": 1748.64,
+        "duration": 4.28,
+        "start_formatted": "29:08",
+        "text": "terms of this Valves index, which tests"
+      },
+      {
+        "start": 1751.0,
+        "duration": 4.04,
+        "start_formatted": "29:11",
+        "text": "the model's performance across finance"
+      },
+      {
+        "start": 1752.92,
+        "duration": 4.8,
+        "start_formatted": "29:12",
+        "text": "and coding tasks, then you can see that"
+      },
+      {
+        "start": 1755.04,
+        "duration": 5.2,
+        "start_formatted": "29:15",
+        "text": "Opus 5 is actually behind Fable 5, and"
+      },
+      {
+        "start": 1757.72,
+        "duration": 4.72,
+        "start_formatted": "29:17",
+        "text": "only a few decimal points above Kimika"
+      },
+      {
+        "start": 1760.24,
+        "duration": 4.44,
+        "start_formatted": "29:20",
+        "text": "3, but notice that it costs like four"
+      },
+      {
+        "start": 1762.44,
+        "duration": 4.0,
+        "start_formatted": "29:22",
+        "text": "times more. And I like how they include"
+      },
+      {
+        "start": 1764.68,
+        "duration": 3.12,
+        "start_formatted": "29:24",
+        "text": "confidence intervals here, so if you"
+      },
+      {
+        "start": 1766.44,
+        "duration": 2.72,
+        "start_formatted": "29:26",
+        "text": "account for these intervals, then"
+      },
+      {
+        "start": 1767.8,
+        "duration": 3.4,
+        "start_formatted": "29:27",
+        "text": "there's actually no significant"
+      },
+      {
+        "start": 1769.16,
+        "duration": 3.92,
+        "start_formatted": "29:29",
+        "text": "difference between like Kimika and"
+      },
+      {
+        "start": 1771.2,
+        "duration": 4.44,
+        "start_formatted": "29:31",
+        "text": "Claude Opus. For Deep Sweet, the"
+      },
+      {
+        "start": 1773.08,
+        "duration": 5.72,
+        "start_formatted": "29:33",
+        "text": "official results are in, and apparently"
+      },
+      {
+        "start": 1775.64,
+        "duration": 4.48,
+        "start_formatted": "29:35",
+        "text": "here, Opus 5 does rank number one. But"
+      },
+      {
+        "start": 1778.8,
+        "duration": 2.52,
+        "start_formatted": "29:38",
+        "text": "again, if you look at the confidence"
+      },
+      {
+        "start": 1780.12,
+        "duration": 3.48,
+        "start_formatted": "29:40",
+        "text": "intervals, there's actually no"
+      },
+      {
+        "start": 1781.32,
+        "duration": 4.2,
+        "start_formatted": "29:41",
+        "text": "significant difference between like any"
+      },
+      {
+        "start": 1783.6,
+        "duration": 4.4,
+        "start_formatted": "29:43",
+        "text": "of these models. Also, note the price of"
+      },
+      {
+        "start": 1785.52,
+        "duration": 5.64,
+        "start_formatted": "29:45",
+        "text": "this, so Opus 5 is way more expensive"
+      },
+      {
+        "start": 1788.0,
+        "duration": 5.68,
+        "start_formatted": "29:48",
+        "text": "than GPT 5.6, as well as Kimika 3."
+      },
+      {
+        "start": 1791.16,
+        "duration": 5.04,
+        "start_formatted": "29:51",
+        "text": "Finally, it's also important to mention"
+      },
+      {
+        "start": 1793.68,
+        "duration": 5.84,
+        "start_formatted": "29:53",
+        "text": "the guardrails and nerfing of this. So,"
+      },
+      {
+        "start": 1796.2,
+        "duration": 5.12,
+        "start_formatted": "29:56",
+        "text": "just like Fable 5, Opus 5 will also"
+      },
+      {
+        "start": 1799.52,
+        "duration": 4.6,
+        "start_formatted": "29:59",
+        "text": "sometimes reject your prompt if it's"
+      },
+      {
+        "start": 1801.32,
+        "duration": 4.28,
+        "start_formatted": "30:01",
+        "text": "related to cybersecurity or biology, and"
+      },
+      {
+        "start": 1804.12,
+        "duration": 4.0,
+        "start_formatted": "30:04",
+        "text": "it's going to fall back to a dumber"
+      },
+      {
+        "start": 1805.6,
+        "duration": 5.2,
+        "start_formatted": "30:05",
+        "text": "model, Opus 4.8. But here they do say"
+      },
+      {
+        "start": 1808.12,
+        "duration": 5.48,
+        "start_formatted": "30:08",
+        "text": "that Opus 5 is less restrictive than"
+      },
+      {
+        "start": 1810.8,
+        "duration": 5.36,
+        "start_formatted": "30:10",
+        "text": "Fable 5. So, they do allow Opus 5 to"
+      },
+      {
+        "start": 1813.6,
+        "duration": 4.56,
+        "start_formatted": "30:13",
+        "text": "find vulnerabilities in source code, but"
+      },
+      {
+        "start": 1816.16,
+        "duration": 3.64,
+        "start_formatted": "30:16",
+        "text": "it'll likely reject you if you ask about"
+      },
+      {
+        "start": 1818.16,
+        "duration": 3.12,
+        "start_formatted": "30:18",
+        "text": "all this other stuff. And then for"
+      },
+      {
+        "start": 1819.8,
+        "duration": 3.0,
+        "start_formatted": "30:19",
+        "text": "biology, it's also a lot more"
+      },
+      {
+        "start": 1821.28,
+        "duration": 3.56,
+        "start_formatted": "30:21",
+        "text": "permissive. As you can see with my"
+      },
+      {
+        "start": 1822.8,
+        "duration": 4.44,
+        "start_formatted": "30:22",
+        "text": "demos, it's actually willing to answer"
+      },
+      {
+        "start": 1824.84,
+        "duration": 4.24,
+        "start_formatted": "30:24",
+        "text": "my question. However, it will still"
+      },
+      {
+        "start": 1827.24,
+        "duration": 3.88,
+        "start_formatted": "30:27",
+        "text": "reject you if you get it to do some"
+      },
+      {
+        "start": 1829.08,
+        "duration": 4.2,
+        "start_formatted": "30:29",
+        "text": "long-running autonomous research if they"
+      },
+      {
+        "start": 1831.12,
+        "duration": 4.52,
+        "start_formatted": "30:31",
+        "text": "think it poses some substantial"
+      },
+      {
+        "start": 1833.28,
+        "duration": 5.08,
+        "start_formatted": "30:33",
+        "text": "biology-related risks. Now, currently to"
+      },
+      {
+        "start": 1835.64,
+        "duration": 4.48,
+        "start_formatted": "30:35",
+        "text": "use Opus 5, you do need a paid plan."
+      },
+      {
+        "start": 1838.36,
+        "duration": 4.24,
+        "start_formatted": "30:38",
+        "text": "It's not available on the free plan of"
+      },
+      {
+        "start": 1840.12,
+        "duration": 4.12,
+        "start_formatted": "30:40",
+        "text": "Claude. Once you subscribe to a paid"
+      },
+      {
+        "start": 1842.6,
+        "duration": 3.8,
+        "start_formatted": "30:42",
+        "text": "plan, you can use it on their online"
+      },
+      {
+        "start": 1844.24,
+        "duration": 4.8,
+        "start_formatted": "30:44",
+        "text": "interface as well as in Claude code."
+      },
+      {
+        "start": 1846.4,
+        "duration": 4.44,
+        "start_formatted": "30:46",
+        "text": "Plus, it's also available via their API."
+      },
+      {
+        "start": 1849.04,
+        "duration": 4.32,
+        "start_formatted": "30:49",
+        "text": "All right, finally, here is my verdict."
+      },
+      {
+        "start": 1850.84,
+        "duration": 5.24,
+        "start_formatted": "30:50",
+        "text": "Do I recommend Opus 5? Well, I'll give"
+      },
+      {
+        "start": 1853.36,
+        "duration": 4.6,
+        "start_formatted": "30:53",
+        "text": "credit where it's due. Opus 5 is a great"
+      },
+      {
+        "start": 1856.08,
+        "duration": 4.2,
+        "start_formatted": "30:56",
+        "text": "model, especially in vibe coding and"
+      },
+      {
+        "start": 1857.96,
+        "duration": 4.16,
+        "start_formatted": "30:57",
+        "text": "front end and 3D design. It makes the"
+      },
+      {
+        "start": 1860.28,
+        "duration": 4.6,
+        "start_formatted": "31:00",
+        "text": "least amount of errors, but it's also"
+      },
+      {
+        "start": 1862.12,
+        "duration": 5.84,
+        "start_formatted": "31:02",
+        "text": "extremely expensive and slow. In fact,"
+      },
+      {
+        "start": 1864.88,
+        "duration": 5.2,
+        "start_formatted": "31:04",
+        "text": "in 100% of my personal workflows, I"
+      },
+      {
+        "start": 1867.96,
+        "duration": 5.88,
+        "start_formatted": "31:07",
+        "text": "don't actually need to use Opus 5. I can"
+      },
+      {
+        "start": 1870.08,
+        "duration": 6.68,
+        "start_formatted": "31:10",
+        "text": "just go with GPT 5.6 or Gemini 3 or even"
+      },
+      {
+        "start": 1873.84,
+        "duration": 5.36,
+        "start_formatted": "31:13",
+        "text": "the much cheaper GLM 5.2 to handle all"
+      },
+      {
+        "start": 1876.76,
+        "duration": 4.96,
+        "start_formatted": "31:16",
+        "text": "of my tasks. Plus, Anthropic is known"
+      },
+      {
+        "start": 1879.2,
+        "duration": 4.48,
+        "start_formatted": "31:19",
+        "text": "for constantly gatekeeping, rug pulling,"
+      },
+      {
+        "start": 1881.72,
+        "duration": 3.36,
+        "start_formatted": "31:21",
+        "text": "and secretly nerfing their models."
+      },
+      {
+        "start": 1883.68,
+        "duration": 3.72,
+        "start_formatted": "31:23",
+        "text": "They're also the most against"
+      },
+      {
+        "start": 1885.08,
+        "duration": 3.56,
+        "start_formatted": "31:25",
+        "text": "open-source AI. They want to hog and"
+      },
+      {
+        "start": 1887.4,
+        "duration": 3.04,
+        "start_formatted": "31:27",
+        "text": "control superintelligence for"
+      },
+      {
+        "start": 1888.64,
+        "duration": 4.16,
+        "start_formatted": "31:28",
+        "text": "themselves, and they sure don't want you"
+      },
+      {
+        "start": 1890.44,
+        "duration": 4.24,
+        "start_formatted": "31:30",
+        "text": "plebs having access to this power."
+      },
+      {
+        "start": 1892.8,
+        "duration": 4.6,
+        "start_formatted": "31:32",
+        "text": "They're also great at fear-mongering."
+      },
+      {
+        "start": 1894.68,
+        "duration": 4.84,
+        "start_formatted": "31:34",
+        "text": "They keep suggesting this AI doomsday"
+      },
+      {
+        "start": 1897.4,
+        "duration": 4.24,
+        "start_formatted": "31:37",
+        "text": "narrative, which poses existential"
+      },
+      {
+        "start": 1899.52,
+        "duration": 3.92,
+        "start_formatted": "31:39",
+        "text": "threats and economic disruption, and all"
+      },
+      {
+        "start": 1901.64,
+        "duration": 4.2,
+        "start_formatted": "31:41",
+        "text": "this BS which makes me really not want"
+      },
+      {
+        "start": 1903.44,
+        "duration": 4.4,
+        "start_formatted": "31:43",
+        "text": "to support Anthropic. So, personally, I"
+      },
+      {
+        "start": 1905.84,
+        "duration": 4.04,
+        "start_formatted": "31:45",
+        "text": "would not recommend paying for Opus 5"
+      },
+      {
+        "start": 1907.84,
+        "duration": 4.4,
+        "start_formatted": "31:47",
+        "text": "unless you're working specifically with"
+      },
+      {
+        "start": 1909.88,
+        "duration": 4.28,
+        "start_formatted": "31:49",
+        "text": "front-end development or 3D design, and"
+      },
+      {
+        "start": 1912.24,
+        "duration": 3.8,
+        "start_formatted": "31:52",
+        "text": "you really need a good model for those"
+      },
+      {
+        "start": 1914.16,
+        "duration": 4.68,
+        "start_formatted": "31:54",
+        "text": "use cases. Or if you're stuck on a"
+      },
+      {
+        "start": 1916.04,
+        "duration": 5.4,
+        "start_formatted": "31:56",
+        "text": "coding problem that even GPT 5.6 or"
+      },
+      {
+        "start": 1918.84,
+        "duration": 5.08,
+        "start_formatted": "31:58",
+        "text": "Gemini 3 cannot solve, then maybe you"
+      },
+      {
+        "start": 1921.44,
+        "duration": 5.52,
+        "start_formatted": "32:01",
+        "text": "can try using Opus to solve it. Anyway,"
+      },
+      {
+        "start": 1923.92,
+        "duration": 4.08,
+        "start_formatted": "32:03",
+        "text": "that sums up my review of Claude Opus 5."
+      },
+      {
+        "start": 1926.96,
+        "duration": 2.72,
+        "start_formatted": "32:06",
+        "text": "Let me know in the comments what you"
+      },
+      {
+        "start": 1928.0,
+        "duration": 3.4,
+        "start_formatted": "32:08",
+        "text": "think of this and if you've had a chance"
+      },
+      {
+        "start": 1929.68,
+        "duration": 3.92,
+        "start_formatted": "32:09",
+        "text": "to try it out, what were the vibes that"
+      },
+      {
+        "start": 1931.4,
+        "duration": 4.56,
+        "start_formatted": "32:11",
+        "text": "you got from it so far? As always, I"
+      },
+      {
+        "start": 1933.6,
+        "duration": 4.92,
+        "start_formatted": "32:13",
+        "text": "will be on the lookout for the top AI"
+      },
+      {
+        "start": 1935.96,
+        "duration": 4.32,
+        "start_formatted": "32:15",
+        "text": "news and tools to share with you. So, if"
+      },
+      {
+        "start": 1938.52,
+        "duration": 4.0,
+        "start_formatted": "32:18",
+        "text": "you enjoyed this video, remember to"
+      },
+      {
+        "start": 1940.28,
+        "duration": 4.76,
+        "start_formatted": "32:20",
+        "text": "like, share, subscribe, and stay tuned"
+      },
+      {
+        "start": 1942.52,
+        "duration": 4.28,
+        "start_formatted": "32:22",
+        "text": "for more content. Also, there's just so"
+      },
+      {
+        "start": 1945.04,
+        "duration": 4.2,
+        "start_formatted": "32:25",
+        "text": "much happening in the world of AI every"
+      },
+      {
+        "start": 1946.8,
+        "duration": 4.72,
+        "start_formatted": "32:26",
+        "text": "week. I can't possibly cover everything"
+      },
+      {
+        "start": 1949.24,
+        "duration": 4.72,
+        "start_formatted": "32:29",
+        "text": "on my YouTube channel. So, to really"
+      },
+      {
+        "start": 1951.52,
+        "duration": 5.28,
+        "start_formatted": "32:31",
+        "text": "stay up-to-date with all that's going on"
+      },
+      {
+        "start": 1953.96,
+        "duration": 4.84,
+        "start_formatted": "32:33",
+        "text": "in AI, be sure to subscribe to my free"
+      },
+      {
+        "start": 1956.8,
+        "duration": 3.96,
+        "start_formatted": "32:36",
+        "text": "weekly newsletter. The link to that will"
+      },
+      {
+        "start": 1958.8,
+        "duration": 4.04,
+        "start_formatted": "32:38",
+        "text": "be in the description below. Thanks for"
+      },
+      {
+        "start": 1960.76,
+        "duration": 4.36,
+        "start_formatted": "32:40",
+        "text": "watching and I'll see you in the next"
+      },
+      {
+        "start": 1962.84,
+        "duration": 2.28,
+        "start_formatted": "32:42",
+        "text": "one."
+      }
+    ],
+    "full_text": "The orange sphincter is back. Anthropic releases their latest and best model, Claude Opus 5. And this is an incredibly capable model. In this video, we're going to go over all the impressive things it can and cannot do. Plus, we're going to go over its specs, cost, and performance against other AI models, so you can decide whether it's worth using or not. Let's jump right in with some demos. Now, you could use Opus 5 just on their online chat platform, claude.ai, but frontier models like Opus or GPT or Kimiko 3 are actually designed for agentic coding and autonomously using different tools and doing long-horizon tasks that require multiple steps. So, to really test out its potential, it's best to use Opus with an agentic harness like Claude Code. So, that's mainly what I'm going to use in this video. Like other harnesses, this allows you to work with multiple files and folders locally on your computer, and so you can spin up and work with multiple projects at once. For my first test, let's try this. Create a browser-friendly replicate of Windows 11. Include common apps and programs like Microsoft Office, Microsoft Store. Make sure there are apps that I can actually download, photos, file explorer, media player, Discord, Slack, Spotify. Make sure all these programs actually work. Make sure it runs efficiently on a regular web browser. Let's drag this all the way to Ultracode. All right, so here's what it got. It first planned out everything. It's figuring out all these different Windows mechanisms like drag, resize, snap layouts, focus, etc. Now, it's building all the main components like taskbar, start menu, desktop. Then, it's building the apps, file explorer, and then Microsoft Office, Word, Excel with a real formula engine, PowerPoint, and then media player, Discord, Slack, Microsoft Store, and then all these utility apps, which we are going to test out in a second. It even gave me some games like Minesweeper, Snake, and then finally the app stylesheet, etc. And then, the really nice thing about Opus is, especially if you run it in Claude Code, is it can automatically spin the page up in a browser and then check for any errors. So, here it found a bug and it's automatically fixing this. Then it found some additional errors and then it's testing actual behavior, etc., etc. And after some further testing and verifying, it found another bug over here, but after some further testing and verifying, everything works. That's pretty much it. Let's open this up and see what we get. All right, so it even starts with a nice login window. Let's click anywhere and then press enter. First, let's play around with these settings over here. So, for example, let's turn on night light and it actually turns on night light. You can see the colors are a bit more yellow. Let's turn this off. Let's turn off dark mode and as you can see, indeed, the bar and these icons are now in light mode. Let me turn this back into dark mode. Let's also play around with brightness and interestingly, brightness also works. And this is just in a browser. If I click on this, then it does pull up a calendar just like the regular Windows 11. Let's click on this start menu and play around with all these different apps. Let's open this Word document and indeed, it pulls up Microsoft Word and I can edit stuff here. For example, let's type in some additional text. I can highlight this. Let's make this italics. Let's change the font color to red and then for these two lines, let's right align them and everything just works. And let's actually press Ctrl S to save it. So, if I exit out of this and then I pull up project proposal, it's actually saved. Really cool. Let me exit out of this and next, let's play around with Excel. So, this works. Let's type in a few numbers and then let's play around with some equations. Like for example, let's write equals average of A1 to A5 and it actually gives me the average. And next, let's try sum. So, I'm going to write equals and then sum. Again, A1 to A5, and indeed it gives me a sum. So, equations work, and then if I press control S, I can save this as whatever I want. Let's call this test, and then press save. And let's exit out of this. Now, if I open up my start menu again, I can see this test spreadsheet over here, and indeed this is the saved spreadsheet. Notice that this is just running on my Chrome browser. Pretty crazy. And actually, let me pull up this dummy spreadsheet that it made up. And as you can see, the numbers are actually accurate with the formula up here. Very cool. Next, let's open up PowerPoint. It already made a deck, so let's open that up. This one is not too impressive. I can't really drag the text boxes around. It's lacking a ton of capabilities that are found in PowerPoint, so this needs a bit of work. Let's exit out of this, and then next, let's open up Microsoft Store. And let's actually download Spotify. It's kind of simulating a download. Let's also download Discord, and Slack, and also Paint. Let's also get some sticky notes, and code editor, and let's also download Solitaire. All right, let me first open up Spotify, and it actually made a Spotify-looking layout with some songs. Let's see if these songs actually work. Let's try Focus Flow. >> [music] [music] [music] >> These tracks sound really similar, but it did make a full album with different tracks. Let's also try something like garage rock. >> [music] [music] >> Very basic music, but still really impressive how it was able to vibe code all these songs and play them in just an HTML file. This is pretty crazy. All right, next let's exit out of Spotify and then let's open up Discord and indeed this kind of looks like Discord. In fact, let me type something here and see if anyone replies. And it actually simulates someone replying. Now, you can see it doesn't really make sense. It's not actually reading my messages. It's just randomly replying. Everything seems to be hardcoded. Let me exit out of this and next let's open up Slack. Again, this looks like Slack. Let me try messaging here and again it can simulate someone replying. Next, let's open up Paint and indeed we can draw stuff here. Let's also draw some shapes. Let's draw a circle next. Let's fill this pink and everything just works. Next, let's exit out of this and then for sticky notes it looks like this. Let's add a new note. This app works. Let's exit out of this and then let's try code editor. This also looks pretty good and then finally solitaire looks like this and it does look like this works. Finally, let's open up file explorer and indeed everything works. So, it did all of this in just one prompt. I didn't even need to prompt it further. All right, let me pull up the usage for this. So, this took 366,000 tokens and note that I'm running several concurrent projects at once. So, this project itself didn't take the whole 36% of my 5-hour limit. It probably took a quarter and this did run for a really long time like over an hour. Currently, I'm using the max plan. I'm not using any API credits. So, that's why down here it says usage credits is zero. All right, next let's see how good it is at creating 3D assets from just a reference image. So, I'm going to upload this really tricky geometric office scene and then ask it to create a beautiful 3D animated scene from this image. Make sure everything is faithful to the attached image. Use a single HTML file. None of the other frontier models including fable or GPT 5.6 were able to accurately render this scene. And again, I'm going to set this to ultra code and then press run. All right, here's what I got. It was first able to give me a decent and very basic scene, but it wasn't really faithful. It was missing a lot of details, so I wrote, \"The desks and the other objects aren't arranged properly. Plus, there's too much glow. Make sure it looks exactly like this attached image.\" And then afterwards, that's all it took. In just two prompts, here is our results. Would you look at that? I'm just going to show you the image in the lower left corner, and as you can see, most of the desks and chairs are arranged properly, although there's an extra chair here. It was able to detect that there's a person here, but not on the other desks, and there's another person over here. There still are a ton of flaws with this render. For example, this panel here should be against the wall. The books on this shelf are also not consistent with the image. There should actually be two desks here. Still a lot of inconsistencies, but again, if you compare this with the generation from Fable, which looks like this, you can see that this one from Opus 5 is just way better. So, I got to say this is currently by far the best model at generating this 3D scene. Very impressive. All right, next let me also pull up my usage stats. So, here you can see it used 343,000 tokens. This also ran for a ridiculously long time, close to an hour. And again, I'm running several projects concurrently, so this didn't take the whole 48% of my 5-hour limit. This probably took like 15 or 20%. All right, next, because all these Frontier models are really good at tool use and working with different types of files and platforms, let's test this out with a really tricky prompt. \"From last year's Q4 reports of Nvidia, Google, Meta, and Amazon, create a professional presentation video comparing their financials and future outlook. I didn't even link or attach the reports. It needs to go and find the Q4 reports itself from all these companies, and then it needs to, you know, figure out the financials and compare them and give me the future outlook. Include a voiceover from Gemini TTS. Use HyperFrames to create the animation. I linked to the HyperFrames GitHub repo. This is basically an open-source tool for you to create motion graphics presentation videos. It should be 16:9, around a minute long. Include charts, graphs, other visuals. Use this as the background audio. And then afterwards, I also pasted in some documentation on how to use Gemini TTS to generate the voiceover. And then at the bottom, I gave it my API key, which I will delete before I record this video. That's pretty much it. All right, so afterwards, it proceeded to search for the Q4 reports and then analyze the data. Then it proceeded to install HyperFrames and then also generate the voiceover using Gemini TTS and then finally generate the video. Again, the awesome thing about Opus 5 is that it can autonomously verify its generation and then fix any errors that it sees. And so afterwards, it rendered the video successfully and that's pretty much it. In just one prompt, I didn't even need to prompt it further. Here's our final result. >> Four companies, one quarter, and a half-trillion-dollar bet on artificial intelligence. Start with scale. Amazon booked $213 [music] billion, nearly double Alphabet, and more than Nvidia and Meta combined. But growth flips the board. Nvidia grew 73% [music] Amazon, the largest, grew the slowest. Profitability tells a third story. [music] Meta turns 41 cents of every dollar into operating profit. Amazon, under 12. Nvidia's gross margin, 75%. [music] And underneath, it's one engine, Nvidia's data center. Google Cloud, AWS. [music] AI demand now drives all four, which brings us to the bill. >> [music] >> For 2026, Alphabet, Meta, and Amazon guided to roughly half a trillion dollars in capital spending. Nvidia guided 78 billion in one quarter. Three are spending, one is collecting. [music] So, the question isn't whether the money gets spent, it's who earns a return on it. >> Pretty good. It's important to note that other frontier models like Kimik3 can also do this, but this video from Opus 5 seems a lot cleaner and smoother with fewer errors. Now, I forgot to pull up the usage stats, so here they are. This used 316,000 tokens. If you're constantly doing the same creative workflows over and over again, definitely check out Luma Agents by Luma AI, the sponsor of this video. It's going to save you so much time and make you way more productive. Think of Luma Agents as a team of AIs working together to autonomously carry out a creative process. You can simply upload references and prompt it with natural language to do whatever you want. For example, I can upload this image and get it to create an entire brand kit and color palette in a matter of minutes. The coolest part is their latest feature called Luma Skills. Think of it as a way to turn your best creative workflows into reusable AI tools that you can run repeatedly. I can simply prompt the agent to turn this workflow into a skill. For example, let's name this brand kit, and in the future, I can upload another image and use that skill to apply the exact same workflow as before to recreate the exact same result. Or here's another example. I can upload this photo of a woman in a dress and get Luma Agent to create a video of this person wearing this dress and walking down a runway in a fashion show. And if I want to reuse this exact same workflow as before, I can just prompt it to save this as a skill. For example, let's name this fashion show, and afterwards, upload another model or another piece of clothing and then use that skill to generate another fashion show video easily. What's really cool is you don't even have to build these skills yourself. You can just simply tell the agent what you want, and it'll generate the entire skill for you automatically. I'm especially impressed by the sharing capabilities. Once you've created a workflow that works well, you can instantly share it with teammates using a simple link. Entire teams can install the skill and get the exact same results without having to recreate the workflow themselves. You can even bundle multiple skills together into a package and distribute an entire creative toolkit with a single click. Whether you're creating marketing campaigns, editing videos, generating images, or building repeatable creative workflows, Luma skills in Luma Agents is an absolute game-changer. Try today using this QR code or the link in the description below. Now, because these frontier models are so good at using tools and different platforms, let's also see how good it is at creating 3D models in Blender. So, I'm going to write \"Use Blender MCP at this local address.\" So, in Blender, I already installed and enabled the MCP at this local URL, and let's get it to create an X-Wing fighter spaceship with realistic texture and motion. Again, I'm going to set it to ultra code and then press enter. All right, so it's planning this out and generating this step-by-step while connected to Blender. In fact, let me just show you a time-lapse of this in action. You can see it's building the different components, first with the body and now the wings, and then it's also figuring out where the hinges should be so the wings can open. Pretty cool. And then afterwards, it's even automatically generating the video. The cool thing is it's able to take screenshots and verify that the model and the animation works. And if not, then it'll proceed to fix any issues. And so afterwards, it finished generating this X-Wing fighter, and that's pretty much it. So, let's open this up. Here is what the X-Wing fighter looks like. In fact, let me keep playing this. Very cool. You can see all the different components that it has generated. So, like here's the wing, here's each part of the wing. Very comprehensive. And then here's what the solid view looks like. Here's what the material looks like. The textures also look pretty good. It's just creating this from scratch. And you know, a cute little detail is it even added a place for R2-D2 over here. Exactly like the actual X-Wing fighter. Really impressive. And then let me show you the rendered animation, which looks like this. Really cool. All right, so let me pull up the stats for this. This actually took surprisingly very few tokens. Only 173K tokens, but it did take a long time. Again, this took close to an hour. All right, next let's see how good it is at making music. So here's my prompt. Your job is to compose an amazing award-winning song. Figure out which instruments you need to include in the song, then look for free VST plugins. These are like virtual instruments that are under 800 megabytes in size, then compose the song using these VST plugins in my Waveform DAW. So this is an existing free DAW that you can use to compose music. You can add additional effects like reverb, delay, risers, drops, include panning effects automation and make it sound amazing. The thing is it needs to decide which instruments to use and then search for and download these plugins itself and then load everything into my DAW and then compose the notes for each track, set up the automation, panning, etc. and compile everything into a full song. All right, so first it's figuring out where exactly my Waveform DAW even is. After it has confirmed that the app exists, then it proceeds to figure out the virtual instruments to download. So it searched for a few instruments. This Vital Synth plugin requires registration. It can't create accounts, so it ruled that out. And then it finally landed on Surge XT, etc. etc. And then it also asked me what type of song I want. It gave me a few options, so I just clicked on the recommended option, which is cinematic melodic techno. And then afterwards it also downloaded some drum kits, etc. etc. And then after a lot of downloading and planning, it's now arranging the notes for each individual track. Now this took really long. This took over an hour already. And then next it actually proceeded to render the song. And here's what we got. All right, so let me open this up in my DAW and holy smokes, look at how thorough and detailed this is. So, it has tracks for the kick, clap, hats, percussion, symbols, sub bass, bass, pad, air pad, and then strings, keys, arpeggiator, pluck, lead, counter melody, and then riser, and also, I guess, automation for reverb and delay. Pretty crazy. Let's play the song. >> [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] >> All thing is 5 minutes long. It's pretty much the same chords. I won't bore you with the full song, but if you are interested in hearing the entire song, I'll link to it in the description below. But as you can see, it's able to actually control my DAW, even automatically download [music] virtual instruments, plan out the notes for each track, including drums, sub bass, bass, synth pads, strings, plucks, etc., and generate a full legit song that actually sounds pretty decent. And it's all from just one prompt. Very impressive. For your reference, this also took a crazy long time. This also took over an hour, so Opus 5 is incredibly slow. Definitely the slowest of all the frontier models, and this took 350,000 tokens. It probably took around like 20% of my 5-hour limit. All right, so those are some really complicated examples using Claude code, but of course you can also just use it on their online chat interface. So, let's test this out. First, let's try your favorite test, finding the frog. So, I'm going to upload this image. There's a frog hidden somewhere in this image, but I'm not even going to tell it that. I'm going to write, \"Is there any animal or animals in this image? If so, identify and circle it.\" I'm going to set it to Opus 5 Max and then press generate. All right, so first what it did was it split the image into a 3 by 3 grid, then it's inspecting each grid, but it couldn't find anything. It suspects it's a potential snake species, so it's trying super hard to pinpoint where the snake is. It's trying to trace the snake's sinuous path. It tries to enhance the saturation and contrast to find the edges of the snake. The poor thing is trying so hard, but still it could not find anything. It's now trying to rescan each separate tile for potential animals, but still it could not find anything. So, the frog remains safe. Now, at least one good thing about this is if it can't find anything, it doesn't just hallucinate and make stuff up. It'll actually say it cannot find anything. All right, next let's see if it can identify cancer. So, I'm going to upload this image of six different scans, and there's a type of tumor in each of these six scans. For the prompt, I'm going to write, \"Identify the types of tumors in each of the six images, if any.\" And then press run. All right, here is its answer. So, for the top left, it identified craniopharyngioma, which is not correct. And then for top middle, it did not identify a tumor, which is wrong. Top right, it was unsure, so it says it's likely to be this, which is not correct. It also said it could be this type of tumor, which is also not correct. So, next moving on to the bottom row, it says no discrete mass, which is wrong. Bottom middle, it identified acute intraparenchymal hematoma, which is also wrong. And then for bottom right, it said craniopharyngioma, which is also wrong. So, it got six out of six of these scans wrong. Whereas, actually Chimera 3 got one of these correct. Not really good in terms of tumor identification, but note that Fable 5 completely rejected my request. So, at least Opus 5 is more open to some biomedical prompts. Next, let's test its ability to do deep biomedical research. It's important to note that Fable is severely nerfed. It won't even answer this. So, the prompt is analyze the pathophysiology of atherosclerosis, etc., etc., include relevant tables and visualizations. And surprisingly for Opus 5, it actually answered the question. So, here is its findings, initiation and progression. It created a nice flowchart. It also coded up some nice diagrams here. And then here is a table of the two strategies compared. Here's also a nice bar graph. Now, it's important to note that all the frontier models can do deep research like this, but each of them have different vibes. For example, Gemini tends to be very verbose, whereas I really like the outputs from GPT 5.6 and Kemetic 3. They are very thorough, but concise. It's jam-packed with information. For Opus 5, I actually don't like it as much as GPT 5.6. It seems to be like holding back. It's not doing thorough enough research and the information just doesn't seem to be organized as well. This is very subjective. It depends on what you prefer. All right, so that sums up my tests on Opus 5. Overall, it's a very capable model, especially in terms of front end and 3D design, as you can see from my demos. But for a lot of cases, it's actually not noticeably better than 5.6 or even Kemetic 3. I would say it's a very close tie. It thinks for way longer. It's super slow. Like most of my tasks that I showed you in this video took over an hour. I feel like it's twice as slow as Kemetic 3 or GPT 5.6, which are already really slow. And also Opus 5 is much more expensive. In fact, let's go over the specs of this next. So, this is a frontier model, again designed for agentic workflows, so it can autonomously do long horizon tasks involving multiple steps and tool calls. It can work with different platforms. And like the other frontier models, it has a 1 million token context window. So, you can fit a ton of information into your prompt at once, roughly 700,000 words or a small to medium-sized codebase. Now, if you look at these self-reported benchmarks, then on average, it does perform better than their previous best model, Claude Fable 5. Note that for legal and health, then Fable 5 actually performs better. For biology, Opus 5 performs better. Now, one of the most important metrics here is Deep Sweep version 1.1. This is considered one of the most accurate measures of how good a model is at agentic software engineering, and as you can see, both Fable and Opus did not score the highest. The highest score was GPT-5.6, which they didn't even highlight in orange. They just grayed this out as if it was irrelevant. One of the most impressive things about Opus 5 is it scored 30% in this Arc AGI-3 benchmark. If you're not familiar with this, this is where the AI model is placed in this game environment, and it has to figure out how the game works by itself. It needs to learn the rules of the game and then how to win or get to the next stage, and also how to avoid losing. Now, for humans, it's pretty easy. Humans could easily score 100%, but for the top frontier models like Opus or Gemini or GPT-5.6, you can see they do pretty awful, and that's because, technically speaking, AI models can't learn new things. Their parameters in their neural network are fixed after training. So, this Arc AGI-3 ain't just testing if an AI can play video games. This is actually testing their emergent abilities to learn new things on the fly. And apparently, according to Anthropic, Opus 5 scores over 30%, way higher than the next best model, GPT-5.6, which is less than 10%. Now, while this might sound impressive, especially since the other frontier models are all the way down here, take this with a grain of salt, because there's new evidence suggesting that Opus might be benchmarked. In fact, this researcher found that when Opus 5 was given games that are similar in design to the Arc-AGI 3 games, it could complete them very well. When it was given some completely new games with unusual or non-conventional rules that it has to figure out on the fly, then it does pretty badly. It even performs worse than Opus 4.8. Now, if you look at this independent leaderboard by Artificial Analysis, then you can see that Opus 5 is ranked number one, just one point above Fable 5, which is one point above GPT 5.6, which is two points above Gemini K 3. The thing I don't like about Artificial Analysis is there's no confidence intervals. So, we don't actually know if these differences are statistically significant. If the confidence intervals overlap, then it could mean that like the top five models are basically tied in terms of performance. If you look at the speed of this, measured in output tokens per second, then Opus 5 is painfully slow, noticeably slower than GPT 5.6 and even Fable 5. And if you look at the price, Opus 5 is also way more expensive. It's almost twice as expensive as Gemini K 5.6 Solo, which you can argue is just as intelligent. So, in terms of performance versus cost, Opus 5 is not the most cost-effective option. In terms of this Omniscience hallucination rate, Opus 5 is not bad. It hallucinates roughly the same rate as Gemini K 3, but much higher than one of the leading open-source models, JLM 5.2, which hallucinates half as much. If you look at another independent leaderboard called LiveBench, you can see that Opus 5 is only ranked number three, whereas Gemini K 5.6 is number one. In fact, across the board, across all these categories, including reasoning, coding, mathematics, data analysis, language, and instruction following, it's not as good as Gemini K 5.6. Now, in terms of this Debates benchmark, which measures how well AI models perform in adversarial multi-turn debates across a wide range of topics, so this not only requires knowledge, but also the ability to stay responsive and defend over multiple rounds, you can see that Opus 5 is indeed ranked number one. In terms of solving New York Times Connections games, which I think is just a fun benchmark, it's not really a useful indicator of anything, you can see that Opus 5 is number two, slightly above GPT 5.6, but still behind Gemini 3.1 Pro, which has scored surprisingly well. In terms of this Valves index, which tests the model's performance across finance and coding tasks, then you can see that Opus 5 is actually behind Fable 5, and only a few decimal points above Kimika 3, but notice that it costs like four times more. And I like how they include confidence intervals here, so if you account for these intervals, then there's actually no significant difference between like Kimika and Claude Opus. For Deep Sweet, the official results are in, and apparently here, Opus 5 does rank number one. But again, if you look at the confidence intervals, there's actually no significant difference between like any of these models. Also, note the price of this, so Opus 5 is way more expensive than GPT 5.6, as well as Kimika 3. Finally, it's also important to mention the guardrails and nerfing of this. So, just like Fable 5, Opus 5 will also sometimes reject your prompt if it's related to cybersecurity or biology, and it's going to fall back to a dumber model, Opus 4.8. But here they do say that Opus 5 is less restrictive than Fable 5. So, they do allow Opus 5 to find vulnerabilities in source code, but it'll likely reject you if you ask about all this other stuff. And then for biology, it's also a lot more permissive. As you can see with my demos, it's actually willing to answer my question. However, it will still reject you if you get it to do some long-running autonomous research if they think it poses some substantial biology-related risks. Now, currently to use Opus 5, you do need a paid plan. It's not available on the free plan of Claude. Once you subscribe to a paid plan, you can use it on their online interface as well as in Claude code. Plus, it's also available via their API. All right, finally, here is my verdict. Do I recommend Opus 5? Well, I'll give credit where it's due. Opus 5 is a great model, especially in vibe coding and front end and 3D design. It makes the least amount of errors, but it's also extremely expensive and slow. In fact, in 100% of my personal workflows, I don't actually need to use Opus 5. I can just go with GPT 5.6 or Gemini 3 or even the much cheaper GLM 5.2 to handle all of my tasks. Plus, Anthropic is known for constantly gatekeeping, rug pulling, and secretly nerfing their models. They're also the most against open-source AI. They want to hog and control superintelligence for themselves, and they sure don't want you plebs having access to this power. They're also great at fear-mongering. They keep suggesting this AI doomsday narrative, which poses existential threats and economic disruption, and all this BS which makes me really not want to support Anthropic. So, personally, I would not recommend paying for Opus 5 unless you're working specifically with front-end development or 3D design, and you really need a good model for those use cases. Or if you're stuck on a coding problem that even GPT 5.6 or Gemini 3 cannot solve, then maybe you can try using Opus to solve it. Anyway, that sums up my review of Claude Opus 5. Let me know in the comments what you think of this and if you've had a chance to try it out, what were the vibes that you got from it so far? As always, I will be on the lookout for the top AI news and tools to share with you. So, if you enjoyed this video, remember to like, share, subscribe, and stay tuned for more content. Also, there's just so much happening in the world of AI every week. I can't possibly cover everything on my YouTube channel. So, to really stay up-to-date with all that's going on in AI, be sure to subscribe to my free weekly newsletter. The link to that will be in the description below. Thanks for watching and I'll see you in the next one.",
+    "word_count": 5619,
     "error": null
   }
 }

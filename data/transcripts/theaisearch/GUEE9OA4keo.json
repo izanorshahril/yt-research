@@ -14,10 +14,4277 @@
     "video_id": "GUEE9OA4keo",
     "has_transcript": true,
     "language": "en",
-    "is_generated": false,
-    "segments": [],
-    "full_text": "Claude Mythos 5 / Fable 5 review. Fable 5 vs GPT 5.5. #ai #aitools #ainews #llm #singularity #aiagent #agi\n\nThanks to our sponsor Hubspot. Access the free Claude Code for Marketing Guide https://clickhubspot.com/20bb67 \n\n0:00 Claude Fable 5 intro\n0:26 Find the frog\n2:00 Ray tracing\n5:48 Earth simulation\n8:17 Hubspot\n9:30 3D reconstruction\n11:07 Music composition\n14:00 Mecha shooter\n16:40 Chemistry course\n19:02 Classifying cancer\n20:49 Benchmarks\n24:30 Specs and nerfing\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
-    "word_count": 0,
+    "is_generated": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "duration": 5.36,
+        "start_formatted": "00:00",
+        "text": "Anthropic just released their latest and"
+      },
+      {
+        "start": 2.48,
+        "duration": 5.2,
+        "start_formatted": "00:02",
+        "text": "best model, Claude Fable 5. And get"
+      },
+      {
+        "start": 5.36,
+        "duration": 3.96,
+        "start_formatted": "00:05",
+        "text": "this, it's even more powerful than their"
+      },
+      {
+        "start": 7.68,
+        "duration": 3.76,
+        "start_formatted": "00:07",
+        "text": "mythos preview model, which they"
+      },
+      {
+        "start": 9.32,
+        "duration": 3.88,
+        "start_formatted": "00:09",
+        "text": "previously said was too dangerous to"
+      },
+      {
+        "start": 11.44,
+        "duration": 3.72,
+        "start_formatted": "00:11",
+        "text": "release. So, in this video, I'm going to"
+      },
+      {
+        "start": 13.2,
+        "duration": 4.88,
+        "start_formatted": "00:13",
+        "text": "go over all the impressive things that"
+      },
+      {
+        "start": 15.16,
+        "duration": 5.16,
+        "start_formatted": "00:15",
+        "text": "Fable 5 can do, plus its limitations,"
+      },
+      {
+        "start": 18.08,
+        "duration": 3.92,
+        "start_formatted": "00:18",
+        "text": "and also go over its specs and pricing"
+      },
+      {
+        "start": 20.32,
+        "duration": 3.88,
+        "start_formatted": "00:20",
+        "text": "and benchmarks and how it compares to"
+      },
+      {
+        "start": 22.0,
+        "duration": 3.88,
+        "start_formatted": "00:22",
+        "text": "the other leading models. Let's jump"
+      },
+      {
+        "start": 24.2,
+        "duration": 3.56,
+        "start_formatted": "00:24",
+        "text": "right in. Thanks to HubSpot for"
+      },
+      {
+        "start": 25.88,
+        "duration": 3.36,
+        "start_formatted": "00:25",
+        "text": "sponsoring this video. Instead of just"
+      },
+      {
+        "start": 27.76,
+        "duration": 3.2,
+        "start_formatted": "00:27",
+        "text": "talking about benchmarks, let's start"
+      },
+      {
+        "start": 29.24,
+        "duration": 4.04,
+        "start_formatted": "00:29",
+        "text": "with a really challenging test that no"
+      },
+      {
+        "start": 30.96,
+        "duration": 4.68,
+        "start_formatted": "00:30",
+        "text": "AI model has gotten correct so far. I'm"
+      },
+      {
+        "start": 33.28,
+        "duration": 4.72,
+        "start_formatted": "00:33",
+        "text": "going to feed Claude this image. There's"
+      },
+      {
+        "start": 35.64,
+        "duration": 3.32,
+        "start_formatted": "00:35",
+        "text": "a frog hidden somewhere in this image."
+      },
+      {
+        "start": 38.0,
+        "duration": 3.4,
+        "start_formatted": "00:38",
+        "text": "If you don't want me to spoil the"
+      },
+      {
+        "start": 38.96,
+        "duration": 4.24,
+        "start_formatted": "00:38",
+        "text": "answer, feel free to pause it right now"
+      },
+      {
+        "start": 41.4,
+        "duration": 4.08,
+        "start_formatted": "00:41",
+        "text": "and look for the frog first. All right,"
+      },
+      {
+        "start": 43.2,
+        "duration": 4.4,
+        "start_formatted": "00:43",
+        "text": "so I'm going to drop it in here and then"
+      },
+      {
+        "start": 45.48,
+        "duration": 3.84,
+        "start_formatted": "00:45",
+        "text": "ask it to find and circle the frog"
+      },
+      {
+        "start": 47.6,
+        "duration": 4.88,
+        "start_formatted": "00:47",
+        "text": "that's hidden in this photo. I'm going"
+      },
+      {
+        "start": 49.32,
+        "duration": 4.96,
+        "start_formatted": "00:49",
+        "text": "to set the effort to Fable 5 Max and"
+      },
+      {
+        "start": 52.48,
+        "duration": 3.24,
+        "start_formatted": "00:52",
+        "text": "then press run. You know, wouldn't it be"
+      },
+      {
+        "start": 54.28,
+        "duration": 3.32,
+        "start_formatted": "00:54",
+        "text": "funny if I was just trolling and there's"
+      },
+      {
+        "start": 55.72,
+        "duration": 3.64,
+        "start_formatted": "00:55",
+        "text": "actually no frog in this image, but"
+      },
+      {
+        "start": 57.6,
+        "duration": 4.16,
+        "start_formatted": "00:57",
+        "text": "y'all are just staring at this trying to"
+      },
+      {
+        "start": 59.36,
+        "duration": 4.36,
+        "start_formatted": "00:59",
+        "text": "find the frog? But no, there's actually"
+      },
+      {
+        "start": 61.76,
+        "duration": 3.6,
+        "start_formatted": "01:01",
+        "text": "a frog in this image. All right, let me"
+      },
+      {
+        "start": 63.72,
+        "duration": 4.32,
+        "start_formatted": "01:03",
+        "text": "expand its thinking process so you can"
+      },
+      {
+        "start": 65.36,
+        "duration": 4.92,
+        "start_formatted": "01:05",
+        "text": "see how it did this. So, it's actually"
+      },
+      {
+        "start": 68.04,
+        "duration": 4.56,
+        "start_formatted": "01:08",
+        "text": "zooming into different quadrants to"
+      },
+      {
+        "start": 70.28,
+        "duration": 4.44,
+        "start_formatted": "01:10",
+        "text": "locate the frog. So, it first splits the"
+      },
+      {
+        "start": 72.6,
+        "duration": 4.68,
+        "start_formatted": "01:12",
+        "text": "image into different sections and then"
+      },
+      {
+        "start": 74.72,
+        "duration": 5.04,
+        "start_formatted": "01:14",
+        "text": "it's inspecting each region and then it"
+      },
+      {
+        "start": 77.28,
+        "duration": 4.52,
+        "start_formatted": "01:17",
+        "text": "spotted a brown frog at exactly these"
+      },
+      {
+        "start": 79.76,
+        "duration": 3.92,
+        "start_formatted": "01:19",
+        "text": "coordinates and it drew a red circle"
+      },
+      {
+        "start": 81.8,
+        "duration": 4.64,
+        "start_formatted": "01:21",
+        "text": "around the frog. That's pretty much it."
+      },
+      {
+        "start": 83.68,
+        "duration": 5.28,
+        "start_formatted": "01:23",
+        "text": "So, if we expand this, you can see that"
+      },
+      {
+        "start": 86.44,
+        "duration": 5.52,
+        "start_formatted": "01:26",
+        "text": "indeed it has circled the frog"
+      },
+      {
+        "start": 88.96,
+        "duration": 5.16,
+        "start_formatted": "01:28",
+        "text": "correctly. Oh my goodness. Let me expand"
+      },
+      {
+        "start": 91.96,
+        "duration": 5.4,
+        "start_formatted": "01:31",
+        "text": "this image for you so you can see that"
+      },
+      {
+        "start": 94.12,
+        "duration": 6.04,
+        "start_formatted": "01:34",
+        "text": "the frog is indeed over here. Here is"
+      },
+      {
+        "start": 97.36,
+        "duration": 5.4,
+        "start_formatted": "01:37",
+        "text": "its head and here are its hind legs."
+      },
+      {
+        "start": 100.16,
+        "duration": 4.52,
+        "start_formatted": "01:40",
+        "text": "This is the first model ever to actually"
+      },
+      {
+        "start": 102.76,
+        "duration": 3.88,
+        "start_formatted": "01:42",
+        "text": "get this prompt correct. So, it looks"
+      },
+      {
+        "start": 104.68,
+        "duration": 5.48,
+        "start_formatted": "01:44",
+        "text": "like I need to make an even harder photo"
+      },
+      {
+        "start": 106.64,
+        "duration": 5.76,
+        "start_formatted": "01:46",
+        "text": "for the next model. Now, the strength of"
+      },
+      {
+        "start": 110.16,
+        "duration": 4.64,
+        "start_formatted": "01:50",
+        "text": "Claude Fable and even the top Opus"
+      },
+      {
+        "start": 112.4,
+        "duration": 4.16,
+        "start_formatted": "01:52",
+        "text": "models isn't just getting it to answer"
+      },
+      {
+        "start": 114.8,
+        "duration": 4.16,
+        "start_formatted": "01:54",
+        "text": "simple questions in the Claude"
+      },
+      {
+        "start": 116.56,
+        "duration": 4.96,
+        "start_formatted": "01:56",
+        "text": "interface, but they're actually designed"
+      },
+      {
+        "start": 118.96,
+        "duration": 4.0,
+        "start_formatted": "01:58",
+        "text": "to do really well at agentic coding. So,"
+      },
+      {
+        "start": 121.52,
+        "duration": 3.8,
+        "start_formatted": "02:01",
+        "text": "what I'm going to do instead of just"
+      },
+      {
+        "start": 122.96,
+        "duration": 4.76,
+        "start_formatted": "02:02",
+        "text": "using the regular Claude chat is to use"
+      },
+      {
+        "start": 125.32,
+        "duration": 4.52,
+        "start_formatted": "02:05",
+        "text": "Claude code. So, this is just the Claude"
+      },
+      {
+        "start": 127.72,
+        "duration": 5.239,
+        "start_formatted": "02:07",
+        "text": "code desktop app, which you can download"
+      },
+      {
+        "start": 129.84,
+        "duration": 5.119,
+        "start_formatted": "02:09",
+        "text": "for free, and let's try this prompt."
+      },
+      {
+        "start": 132.959,
+        "duration": 4.121,
+        "start_formatted": "02:12",
+        "text": "\"Develop a ray tracing simulation"
+      },
+      {
+        "start": 134.959,
+        "duration": 3.961,
+        "start_formatted": "02:14",
+        "text": "featuring one sphere, one cube, and one"
+      },
+      {
+        "start": 137.08,
+        "duration": 3.92,
+        "start_formatted": "02:17",
+        "text": "pyramid. The environment is a blue sky"
+      },
+      {
+        "start": 138.92,
+        "duration": 3.4,
+        "start_formatted": "02:18",
+        "text": "with a checkered ground. Add adjustable"
+      },
+      {
+        "start": 141.0,
+        "duration": 3.2,
+        "start_formatted": "02:21",
+        "text": "parameters such as position,"
+      },
+      {
+        "start": 142.32,
+        "duration": 3.84,
+        "start_formatted": "02:22",
+        "text": "reflectivity, roughness, transparency,"
+      },
+      {
+        "start": 144.2,
+        "duration": 3.64,
+        "start_formatted": "02:24",
+        "text": "and other material properties for each"
+      },
+      {
+        "start": 146.16,
+        "duration": 4.76,
+        "start_formatted": "02:26",
+        "text": "shape. Put everything in a standalone"
+      },
+      {
+        "start": 147.84,
+        "duration": 6.28,
+        "start_formatted": "02:27",
+        "text": "HTML file, but the most important part"
+      },
+      {
+        "start": 150.92,
+        "duration": 6.32,
+        "start_formatted": "02:30",
+        "text": "is this. Do not use 3.js or other"
+      },
+      {
+        "start": 154.12,
+        "duration": 5.68,
+        "start_formatted": "02:34",
+        "text": "external libraries.\" It needs to code up"
+      },
+      {
+        "start": 157.24,
+        "duration": 4.8,
+        "start_formatted": "02:37",
+        "text": "this entire ray tracing simulation from"
+      },
+      {
+        "start": 159.8,
+        "duration": 4.72,
+        "start_formatted": "02:39",
+        "text": "scratch itself. This tests its"
+      },
+      {
+        "start": 162.04,
+        "duration": 4.12,
+        "start_formatted": "02:42",
+        "text": "underlying understanding of physics and"
+      },
+      {
+        "start": 164.52,
+        "duration": 4.24,
+        "start_formatted": "02:44",
+        "text": "lighting. I'm just going to set this to"
+      },
+      {
+        "start": 166.16,
+        "duration": 4.44,
+        "start_formatted": "02:46",
+        "text": "fable high, and then press enter and see"
+      },
+      {
+        "start": 168.76,
+        "duration": 3.64,
+        "start_formatted": "02:48",
+        "text": "what that gives us. All right, so in one"
+      },
+      {
+        "start": 170.6,
+        "duration": 4.44,
+        "start_formatted": "02:50",
+        "text": "shot it already gave me a pretty"
+      },
+      {
+        "start": 172.4,
+        "duration": 4.88,
+        "start_formatted": "02:52",
+        "text": "decent-looking simulation, but it was"
+      },
+      {
+        "start": 175.04,
+        "duration": 3.68,
+        "start_formatted": "02:55",
+        "text": "kind of laggy, so I prompted it further."
+      },
+      {
+        "start": 177.28,
+        "duration": 3.4,
+        "start_formatted": "02:57",
+        "text": "\"It works well, but there's some"
+      },
+      {
+        "start": 178.72,
+        "duration": 3.96,
+        "start_formatted": "02:58",
+        "text": "latency. Can you make this even more"
+      },
+      {
+        "start": 180.68,
+        "duration": 4.92,
+        "start_formatted": "03:00",
+        "text": "efficient on a web browser?\" And then it"
+      },
+      {
+        "start": 182.68,
+        "duration": 5.48,
+        "start_formatted": "03:02",
+        "text": "continued to add some more latency"
+      },
+      {
+        "start": 185.6,
+        "duration": 4.6,
+        "start_formatted": "03:05",
+        "text": "optimizations, and that's it. In just"
+      },
+      {
+        "start": 188.16,
+        "duration": 4.44,
+        "start_formatted": "03:08",
+        "text": "two prompts, here's what we got. Let me"
+      },
+      {
+        "start": 190.2,
+        "duration": 4.92,
+        "start_formatted": "03:10",
+        "text": "open this in a new browser, and let's"
+      },
+      {
+        "start": 192.6,
+        "duration": 4.84,
+        "start_formatted": "03:12",
+        "text": "test this out. So, I can indeed drag"
+      },
+      {
+        "start": 195.12,
+        "duration": 4.56,
+        "start_formatted": "03:15",
+        "text": "around the simulation, and there is like"
+      },
+      {
+        "start": 197.44,
+        "duration": 4.96,
+        "start_formatted": "03:17",
+        "text": "a few milliseconds of latency before it"
+      },
+      {
+        "start": 199.68,
+        "duration": 4.92,
+        "start_formatted": "03:19",
+        "text": "renders the full simulation. Let's play"
+      },
+      {
+        "start": 202.4,
+        "duration": 5.16,
+        "start_formatted": "03:22",
+        "text": "with the sphere first. Let's drag these"
+      },
+      {
+        "start": 204.6,
+        "duration": 6.12,
+        "start_formatted": "03:24",
+        "text": "position sliders. All right, so these"
+      },
+      {
+        "start": 207.56,
+        "duration": 6.88,
+        "start_formatted": "03:27",
+        "text": "position sliders work. Let's also change"
+      },
+      {
+        "start": 210.72,
+        "duration": 5.6,
+        "start_formatted": "03:30",
+        "text": "the color to white. Radius also works,"
+      },
+      {
+        "start": 214.44,
+        "duration": 4.48,
+        "start_formatted": "03:34",
+        "text": "very nice. And let's change the"
+      },
+      {
+        "start": 216.32,
+        "duration": 4.24,
+        "start_formatted": "03:36",
+        "text": "reflectivity to full reflectiveness, and"
+      },
+      {
+        "start": 218.92,
+        "duration": 4.2,
+        "start_formatted": "03:38",
+        "text": "as you can see, now it's super"
+      },
+      {
+        "start": 220.56,
+        "duration": 5.04,
+        "start_formatted": "03:40",
+        "text": "reflective, so that works. Let's change"
+      },
+      {
+        "start": 223.12,
+        "duration": 4.64,
+        "start_formatted": "03:43",
+        "text": "the roughness. That also works, very"
+      },
+      {
+        "start": 225.6,
+        "duration": 4.52,
+        "start_formatted": "03:45",
+        "text": "nice. Let's decrease the roughness back"
+      },
+      {
+        "start": 227.76,
+        "duration": 5.88,
+        "start_formatted": "03:47",
+        "text": "to zero, and let's increase the"
+      },
+      {
+        "start": 230.12,
+        "duration": 5.76,
+        "start_formatted": "03:50",
+        "text": "transparency all the way to one and"
+      },
+      {
+        "start": 233.64,
+        "duration": 4.96,
+        "start_formatted": "03:53",
+        "text": "reflectivity to zero. So, now this is"
+      },
+      {
+        "start": 235.88,
+        "duration": 5.56,
+        "start_formatted": "03:55",
+        "text": "fully transparent. Very nice. And then,"
+      },
+      {
+        "start": 238.6,
+        "duration": 5.64,
+        "start_formatted": "03:58",
+        "text": "let's also change the IOR, which does"
+      },
+      {
+        "start": 241.44,
+        "duration": 4.64,
+        "start_formatted": "04:01",
+        "text": "this. So, all these settings work. Very"
+      },
+      {
+        "start": 244.24,
+        "duration": 4.48,
+        "start_formatted": "04:04",
+        "text": "nice. Next, let's move on to the cube."
+      },
+      {
+        "start": 246.08,
+        "duration": 4.68,
+        "start_formatted": "04:06",
+        "text": "So, let me also adjust the position of"
+      },
+      {
+        "start": 248.72,
+        "duration": 4.04,
+        "start_formatted": "04:08",
+        "text": "the cube. So, these settings work. And"
+      },
+      {
+        "start": 250.76,
+        "duration": 4.8,
+        "start_formatted": "04:10",
+        "text": "actually, what I'm going to do is for"
+      },
+      {
+        "start": 252.76,
+        "duration": 5.36,
+        "start_formatted": "04:12",
+        "text": "the sphere, I'm going to set this to"
+      },
+      {
+        "start": 255.56,
+        "duration": 5.04,
+        "start_formatted": "04:15",
+        "text": "incredibly reflective, so we can see the"
+      },
+      {
+        "start": 258.12,
+        "duration": 4.32,
+        "start_formatted": "04:18",
+        "text": "reflection of the cube within the sphere"
+      },
+      {
+        "start": 260.6,
+        "duration": 4.24,
+        "start_formatted": "04:20",
+        "text": "to make sure that the reflections are"
+      },
+      {
+        "start": 262.44,
+        "duration": 4.44,
+        "start_formatted": "04:22",
+        "text": "also correct. All right. So, let's set"
+      },
+      {
+        "start": 264.84,
+        "duration": 3.72,
+        "start_formatted": "04:24",
+        "text": "the color of the cube to like red, for"
+      },
+      {
+        "start": 266.88,
+        "duration": 4.08,
+        "start_formatted": "04:26",
+        "text": "example. And as you can see, the"
+      },
+      {
+        "start": 268.56,
+        "duration": 5.24,
+        "start_formatted": "04:28",
+        "text": "reflection of the cube on the sphere is"
+      },
+      {
+        "start": 270.96,
+        "duration": 5.04,
+        "start_formatted": "04:30",
+        "text": "also changed to red. Let's also increase"
+      },
+      {
+        "start": 273.8,
+        "duration": 4.36,
+        "start_formatted": "04:33",
+        "text": "the reflectivity. So, reflectivity"
+      },
+      {
+        "start": 276.0,
+        "duration": 5.08,
+        "start_formatted": "04:36",
+        "text": "works. Let's increase the roughness."
+      },
+      {
+        "start": 278.16,
+        "duration": 5.12,
+        "start_formatted": "04:38",
+        "text": "Roughness also works. And let's set this"
+      },
+      {
+        "start": 281.08,
+        "duration": 5.24,
+        "start_formatted": "04:41",
+        "text": "cube to white, actually. And then, let's"
+      },
+      {
+        "start": 283.28,
+        "duration": 6.24,
+        "start_formatted": "04:43",
+        "text": "also play with the transparency and the"
+      },
+      {
+        "start": 286.32,
+        "duration": 5.52,
+        "start_formatted": "04:46",
+        "text": "IOR settings. So, that also works. Very"
+      },
+      {
+        "start": 289.52,
+        "duration": 4.84,
+        "start_formatted": "04:49",
+        "text": "nice. And as you can see, the changes"
+      },
+      {
+        "start": 291.84,
+        "duration": 4.44,
+        "start_formatted": "04:51",
+        "text": "are also applied to the reflection on"
+      },
+      {
+        "start": 294.36,
+        "duration": 3.559,
+        "start_formatted": "04:54",
+        "text": "the sphere. So, everything works. Final"
+      },
+      {
+        "start": 296.28,
+        "duration": 3.88,
+        "start_formatted": "04:56",
+        "text": "test, let's also make sure that the"
+      },
+      {
+        "start": 297.919,
+        "duration": 4.761,
+        "start_formatted": "04:57",
+        "text": "pyramid works. So, we can change like"
+      },
+      {
+        "start": 300.16,
+        "duration": 5.84,
+        "start_formatted": "05:00",
+        "text": "the base width. Very nice, as well as"
+      },
+      {
+        "start": 302.68,
+        "duration": 6.12,
+        "start_formatted": "05:02",
+        "text": "the height and the rotation. And all the"
+      },
+      {
+        "start": 306.0,
+        "duration": 4.56,
+        "start_formatted": "05:06",
+        "text": "reflections within the shapes also work."
+      },
+      {
+        "start": 308.8,
+        "duration": 3.68,
+        "start_formatted": "05:08",
+        "text": "Very nice. And then finally, for"
+      },
+      {
+        "start": 310.56,
+        "duration": 3.28,
+        "start_formatted": "05:10",
+        "text": "environment, let's see what this does."
+      },
+      {
+        "start": 312.48,
+        "duration": 3.2,
+        "start_formatted": "05:12",
+        "text": "There's also all these different"
+      },
+      {
+        "start": 313.84,
+        "duration": 4.84,
+        "start_formatted": "05:13",
+        "text": "settings, for example, changing the"
+      },
+      {
+        "start": 315.68,
+        "duration": 5.92,
+        "start_formatted": "05:15",
+        "text": "sun's position. Very cool. Also, the"
+      },
+      {
+        "start": 318.68,
+        "duration": 5.239,
+        "start_formatted": "05:18",
+        "text": "checker size. Wow. And then also, the"
+      },
+      {
+        "start": 321.6,
+        "duration": 4.16,
+        "start_formatted": "05:21",
+        "text": "ground reflect. So, I mean, it pretty"
+      },
+      {
+        "start": 323.919,
+        "duration": 3.761,
+        "start_formatted": "05:23",
+        "text": "much aced this simulation. And it only"
+      },
+      {
+        "start": 325.76,
+        "duration": 4.04,
+        "start_formatted": "05:25",
+        "text": "took it like one or two prompts. Notice"
+      },
+      {
+        "start": 327.68,
+        "duration": 4.56,
+        "start_formatted": "05:27",
+        "text": "that here, after each round, it's also"
+      },
+      {
+        "start": 329.8,
+        "duration": 4.16,
+        "start_formatted": "05:29",
+        "text": "automatically verifying its fixes and"
+      },
+      {
+        "start": 332.24,
+        "duration": 3.64,
+        "start_formatted": "05:32",
+        "text": "testing it in the browser to make sure"
+      },
+      {
+        "start": 333.96,
+        "duration": 2.959,
+        "start_formatted": "05:33",
+        "text": "everything works. And if it catches"
+      },
+      {
+        "start": 335.88,
+        "duration": 3.08,
+        "start_formatted": "05:35",
+        "text": "anything, it's going to fix those"
+      },
+      {
+        "start": 336.919,
+        "duration": 4.401,
+        "start_formatted": "05:36",
+        "text": "errors, as well. So, this is incredibly"
+      },
+      {
+        "start": 338.96,
+        "duration": 4.24,
+        "start_formatted": "05:38",
+        "text": "robust. However, it does tend to take up"
+      },
+      {
+        "start": 341.32,
+        "duration": 3.64,
+        "start_formatted": "05:41",
+        "text": "way more tokens because it's auto"
+      },
+      {
+        "start": 343.2,
+        "duration": 5.16,
+        "start_formatted": "05:43",
+        "text": "verifying everything. All right, that"
+      },
+      {
+        "start": 344.96,
+        "duration": 6.0,
+        "start_formatted": "05:44",
+        "text": "was too easy. So, next, let's try this."
+      },
+      {
+        "start": 348.36,
+        "duration": 4.0,
+        "start_formatted": "05:48",
+        "text": "Build a fully interactive 3D digital"
+      },
+      {
+        "start": 350.96,
+        "duration": 3.88,
+        "start_formatted": "05:50",
+        "text": "twin of Earth with the following"
+      },
+      {
+        "start": 352.36,
+        "duration": 4.68,
+        "start_formatted": "05:52",
+        "text": "features. Allow users to zoom seamlessly"
+      },
+      {
+        "start": 354.84,
+        "duration": 5.4,
+        "start_formatted": "05:54",
+        "text": "from outer space down into individual"
+      },
+      {
+        "start": 357.04,
+        "duration": 5.04,
+        "start_formatted": "05:57",
+        "text": "city streets. Now, GPT-5.5 can already"
+      },
+      {
+        "start": 360.24,
+        "duration": 3.8,
+        "start_formatted": "06:00",
+        "text": "do this, so that's not too impressive."
+      },
+      {
+        "start": 362.08,
+        "duration": 4.48,
+        "start_formatted": "06:02",
+        "text": "Here are some even more challenging"
+      },
+      {
+        "start": 364.04,
+        "duration": 4.2,
+        "start_formatted": "06:04",
+        "text": "features. When I hover over a country,"
+      },
+      {
+        "start": 366.56,
+        "duration": 3.04,
+        "start_formatted": "06:06",
+        "text": "the country's outline should be"
+      },
+      {
+        "start": 368.24,
+        "duration": 3.28,
+        "start_formatted": "06:08",
+        "text": "highlighted, and there should be a"
+      },
+      {
+        "start": 369.6,
+        "duration": 4.76,
+        "start_formatted": "06:09",
+        "text": "pop-up displaying stats like area,"
+      },
+      {
+        "start": 371.52,
+        "duration": 4.72,
+        "start_formatted": "06:11",
+        "text": "population, and GDP. All right. Plus, we"
+      },
+      {
+        "start": 374.36,
+        "duration": 3.72,
+        "start_formatted": "06:14",
+        "text": "got to add more features to really test"
+      },
+      {
+        "start": 376.24,
+        "duration": 4.24,
+        "start_formatted": "06:16",
+        "text": "the hell out of it, so let's also"
+      },
+      {
+        "start": 378.08,
+        "duration": 5.4,
+        "start_formatted": "06:18",
+        "text": "include toggles for atmospheric cloud"
+      },
+      {
+        "start": 380.48,
+        "duration": 6.04,
+        "start_formatted": "06:20",
+        "text": "cover, flight traffic, and day and night"
+      },
+      {
+        "start": 383.48,
+        "duration": 5.88,
+        "start_formatted": "06:23",
+        "text": "toggles. Night mode should show city"
+      },
+      {
+        "start": 386.52,
+        "duration": 5.0,
+        "start_formatted": "06:26",
+        "text": "lights. Use publicly available assets"
+      },
+      {
+        "start": 389.36,
+        "duration": 4.36,
+        "start_formatted": "06:29",
+        "text": "and layers if needed. Make sure it loads"
+      },
+      {
+        "start": 391.52,
+        "duration": 4.2,
+        "start_formatted": "06:31",
+        "text": "efficiently on a regular web browser."
+      },
+      {
+        "start": 393.72,
+        "duration": 4.08,
+        "start_formatted": "06:33",
+        "text": "Let's press run. All right, that's"
+      },
+      {
+        "start": 395.72,
+        "duration": 3.92,
+        "start_formatted": "06:35",
+        "text": "pretty much it. In just one prompt, I"
+      },
+      {
+        "start": 397.8,
+        "duration": 3.36,
+        "start_formatted": "06:37",
+        "text": "didn't really need to prompt it further."
+      },
+      {
+        "start": 399.64,
+        "duration": 3.6,
+        "start_formatted": "06:39",
+        "text": "Here's what we got. Now, let me open"
+      },
+      {
+        "start": 401.16,
+        "duration": 4.72,
+        "start_formatted": "06:41",
+        "text": "this up in full screen. Perfect. Now, if"
+      },
+      {
+        "start": 403.24,
+        "duration": 4.84,
+        "start_formatted": "06:43",
+        "text": "we hover over any country, you can see"
+      },
+      {
+        "start": 405.88,
+        "duration": 4.4,
+        "start_formatted": "06:45",
+        "text": "the country's outline is highlighted,"
+      },
+      {
+        "start": 408.08,
+        "duration": 4.76,
+        "start_formatted": "06:48",
+        "text": "plus it gives us the various stats like"
+      },
+      {
+        "start": 410.28,
+        "duration": 4.84,
+        "start_formatted": "06:50",
+        "text": "population, area, GDP, et cetera. And"
+      },
+      {
+        "start": 412.84,
+        "duration": 4.2,
+        "start_formatted": "06:52",
+        "text": "then, here's another example. All of"
+      },
+      {
+        "start": 415.12,
+        "duration": 4.28,
+        "start_formatted": "06:55",
+        "text": "these just work right out of the box."
+      },
+      {
+        "start": 417.04,
+        "duration": 4.96,
+        "start_formatted": "06:57",
+        "text": "Very nice. Now, let me toggle off the"
+      },
+      {
+        "start": 419.4,
+        "duration": 4.68,
+        "start_formatted": "06:59",
+        "text": "country borders, and next, let's toggle"
+      },
+      {
+        "start": 422.0,
+        "duration": 4.48,
+        "start_formatted": "07:02",
+        "text": "on cloud cover and see what that does."
+      },
+      {
+        "start": 424.08,
+        "duration": 5.2,
+        "start_formatted": "07:04",
+        "text": "As you can see, it has added some cloud"
+      },
+      {
+        "start": 426.48,
+        "duration": 4.84,
+        "start_formatted": "07:06",
+        "text": "cover to our planet Earth. Next, let's"
+      },
+      {
+        "start": 429.28,
+        "duration": 4.24,
+        "start_formatted": "07:09",
+        "text": "also add flight traffic and see what"
+      },
+      {
+        "start": 431.32,
+        "duration": 4.52,
+        "start_formatted": "07:11",
+        "text": "that does. Wow, this is super cool. So,"
+      },
+      {
+        "start": 433.52,
+        "duration": 4.56,
+        "start_formatted": "07:13",
+        "text": "notice that it's like adding these"
+      },
+      {
+        "start": 435.84,
+        "duration": 4.44,
+        "start_formatted": "07:15",
+        "text": "flight trails across the planet. And"
+      },
+      {
+        "start": 438.08,
+        "duration": 4.36,
+        "start_formatted": "07:18",
+        "text": "then, let's also turn on place labels,"
+      },
+      {
+        "start": 440.28,
+        "duration": 3.52,
+        "start_formatted": "07:20",
+        "text": "so you can see the names of all these"
+      },
+      {
+        "start": 442.44,
+        "duration": 2.88,
+        "start_formatted": "07:22",
+        "text": "different countries and where the"
+      },
+      {
+        "start": 443.8,
+        "duration": 4.04,
+        "start_formatted": "07:23",
+        "text": "flights are coming from. So, it's able"
+      },
+      {
+        "start": 445.32,
+        "duration": 4.08,
+        "start_formatted": "07:25",
+        "text": "to accurately label all the countries."
+      },
+      {
+        "start": 447.84,
+        "duration": 3.48,
+        "start_formatted": "07:27",
+        "text": "All right, next, let me turn off flight"
+      },
+      {
+        "start": 449.4,
+        "duration": 4.48,
+        "start_formatted": "07:29",
+        "text": "traffic and place labels, and then, for"
+      },
+      {
+        "start": 451.32,
+        "duration": 4.72,
+        "start_formatted": "07:31",
+        "text": "this day-night terminator, if I turn"
+      },
+      {
+        "start": 453.88,
+        "duration": 4.84,
+        "start_formatted": "07:33",
+        "text": "this on, then it basically divides the"
+      },
+      {
+        "start": 456.04,
+        "duration": 4.68,
+        "start_formatted": "07:36",
+        "text": "Earth into day and night. Or, if I turn"
+      },
+      {
+        "start": 458.72,
+        "duration": 4.16,
+        "start_formatted": "07:38",
+        "text": "this off, and I turn on night mode, then"
+      },
+      {
+        "start": 460.72,
+        "duration": 4.08,
+        "start_formatted": "07:40",
+        "text": "it just turns the entire Earth into"
+      },
+      {
+        "start": 462.88,
+        "duration": 4.2,
+        "start_formatted": "07:42",
+        "text": "night mode. And you can like zoom in and"
+      },
+      {
+        "start": 464.8,
+        "duration": 5.6,
+        "start_formatted": "07:44",
+        "text": "even see the city lights. All right,"
+      },
+      {
+        "start": 467.08,
+        "duration": 5.96,
+        "start_formatted": "07:47",
+        "text": "next let's zoom way in to somewhere like"
+      },
+      {
+        "start": 470.4,
+        "duration": 5.76,
+        "start_formatted": "07:50",
+        "text": "Tokyo, I think. And indeed, it allows me"
+      },
+      {
+        "start": 473.04,
+        "duration": 5.16,
+        "start_formatted": "07:53",
+        "text": "to zoom way in to like this city street"
+      },
+      {
+        "start": 476.16,
+        "duration": 5.08,
+        "start_formatted": "07:56",
+        "text": "view. Really cool. So, in just one"
+      },
+      {
+        "start": 478.2,
+        "duration": 5.28,
+        "start_formatted": "07:58",
+        "text": "prompt, it's able to generate this super"
+      },
+      {
+        "start": 481.24,
+        "duration": 4.6,
+        "start_formatted": "08:01",
+        "text": "realistic digital twin of Earth with"
+      },
+      {
+        "start": 483.48,
+        "duration": 4.68,
+        "start_formatted": "08:03",
+        "text": "cloud cover, flight traffic, day and"
+      },
+      {
+        "start": 485.84,
+        "duration": 4.88,
+        "start_formatted": "08:05",
+        "text": "night toggles, even country stats and"
+      },
+      {
+        "start": 488.16,
+        "duration": 4.92,
+        "start_formatted": "08:08",
+        "text": "labels. This is incredibly complicated"
+      },
+      {
+        "start": 490.72,
+        "duration": 5.16,
+        "start_formatted": "08:10",
+        "text": "to build in just one prompt, but Fable"
+      },
+      {
+        "start": 493.08,
+        "duration": 4.64,
+        "start_formatted": "08:13",
+        "text": "was able to ace this. Very impressive."
+      },
+      {
+        "start": 495.88,
+        "duration": 3.44,
+        "start_formatted": "08:15",
+        "text": "You've probably heard of how AI tools"
+      },
+      {
+        "start": 497.72,
+        "duration": 3.4,
+        "start_formatted": "08:17",
+        "text": "are transforming marketing, but if"
+      },
+      {
+        "start": 499.32,
+        "duration": 4.0,
+        "start_formatted": "08:19",
+        "text": "you're not sure how to actually use them"
+      },
+      {
+        "start": 501.12,
+        "duration": 4.68,
+        "start_formatted": "08:21",
+        "text": "to build real campaigns without hiring"
+      },
+      {
+        "start": 503.32,
+        "duration": 4.56,
+        "start_formatted": "08:23",
+        "text": "developers, this is the ebook for you."
+      },
+      {
+        "start": 505.8,
+        "duration": 4.24,
+        "start_formatted": "08:25",
+        "text": "Check out Master Claude Code for"
+      },
+      {
+        "start": 507.88,
+        "duration": 4.12,
+        "start_formatted": "08:27",
+        "text": "Marketing: Four Workflows Plus 12"
+      },
+      {
+        "start": 510.04,
+        "duration": 4.28,
+        "start_formatted": "08:30",
+        "text": "Prompts to Ship Campaigns Fast by"
+      },
+      {
+        "start": 512.0,
+        "duration": 4.719,
+        "start_formatted": "08:32",
+        "text": "HubSpot. This bundle includes four"
+      },
+      {
+        "start": 514.32,
+        "duration": 4.56,
+        "start_formatted": "08:34",
+        "text": "workflows that are like a cheat code for"
+      },
+      {
+        "start": 516.719,
+        "duration": 4.041,
+        "start_formatted": "08:36",
+        "text": "building and deploying entire marketing"
+      },
+      {
+        "start": 518.88,
+        "duration": 4.4,
+        "start_formatted": "08:38",
+        "text": "campaigns from your terminal. You'll"
+      },
+      {
+        "start": 520.76,
+        "duration": 4.44,
+        "start_formatted": "08:40",
+        "text": "learn how to conduct research, craft"
+      },
+      {
+        "start": 523.28,
+        "duration": 4.24,
+        "start_formatted": "08:43",
+        "text": "differentiated positioning, build"
+      },
+      {
+        "start": 525.2,
+        "duration": 4.32,
+        "start_formatted": "08:45",
+        "text": "interactive lead magnets, and deploy"
+      },
+      {
+        "start": 527.52,
+        "duration": 4.8,
+        "start_formatted": "08:47",
+        "text": "landing pages, all without writing a"
+      },
+      {
+        "start": 529.52,
+        "duration": 5.6,
+        "start_formatted": "08:49",
+        "text": "single line of code yourself. You get 12"
+      },
+      {
+        "start": 532.32,
+        "duration": 4.64,
+        "start_formatted": "08:52",
+        "text": "ready-to-use prompts to help you unlock"
+      },
+      {
+        "start": 535.12,
+        "duration": 3.64,
+        "start_formatted": "08:55",
+        "text": "Claude Code's full potential for"
+      },
+      {
+        "start": 536.96,
+        "duration": 4.0,
+        "start_formatted": "08:56",
+        "text": "marketing tasks, from researching"
+      },
+      {
+        "start": 538.76,
+        "duration": 3.96,
+        "start_formatted": "08:58",
+        "text": "competitors to writing email sequences"
+      },
+      {
+        "start": 540.96,
+        "duration": 3.36,
+        "start_formatted": "09:00",
+        "text": "that actually convert. Use them to"
+      },
+      {
+        "start": 542.72,
+        "duration": 3.84,
+        "start_formatted": "09:02",
+        "text": "eliminate the guesswork and get"
+      },
+      {
+        "start": 544.32,
+        "duration": 4.36,
+        "start_formatted": "09:04",
+        "text": "high-quality outputs faster. My favorite"
+      },
+      {
+        "start": 546.56,
+        "duration": 4.36,
+        "start_formatted": "09:06",
+        "text": "one is this one-shot landing page"
+      },
+      {
+        "start": 548.68,
+        "duration": 4.92,
+        "start_formatted": "09:08",
+        "text": "builder workflow. It shows you how to go"
+      },
+      {
+        "start": 550.92,
+        "duration": 4.64,
+        "start_formatted": "09:10",
+        "text": "from positioning to a fully deployed"
+      },
+      {
+        "start": 553.6,
+        "duration": 4.08,
+        "start_formatted": "09:13",
+        "text": "landing page in a single session,"
+      },
+      {
+        "start": 555.56,
+        "duration": 4.08,
+        "start_formatted": "09:15",
+        "text": "complete with distinctive design, mobile"
+      },
+      {
+        "start": 557.68,
+        "duration": 4.52,
+        "start_formatted": "09:17",
+        "text": "responsiveness, and clear conversion"
+      },
+      {
+        "start": 559.64,
+        "duration": 4.56,
+        "start_formatted": "09:19",
+        "text": "paths. You can access all of this for"
+      },
+      {
+        "start": 562.2,
+        "duration": 4.04,
+        "start_formatted": "09:22",
+        "text": "free using the link in the description"
+      },
+      {
+        "start": 564.2,
+        "duration": 4.68,
+        "start_formatted": "09:24",
+        "text": "below. This resource was made by"
+      },
+      {
+        "start": 566.24,
+        "duration": 4.56,
+        "start_formatted": "09:26",
+        "text": "HubSpot, the sponsor of this video. All"
+      },
+      {
+        "start": 568.88,
+        "duration": 5.0,
+        "start_formatted": "09:28",
+        "text": "right, next let's see how good it is at"
+      },
+      {
+        "start": 570.8,
+        "duration": 5.08,
+        "start_formatted": "09:30",
+        "text": "reconstructing a 3D scene from just"
+      },
+      {
+        "start": 573.88,
+        "duration": 3.84,
+        "start_formatted": "09:33",
+        "text": "reference image. So, I'm going to input"
+      },
+      {
+        "start": 575.88,
+        "duration": 4.4,
+        "start_formatted": "09:35",
+        "text": "this image, which is really complicated"
+      },
+      {
+        "start": 577.72,
+        "duration": 4.76,
+        "start_formatted": "09:37",
+        "text": "with a ton of office desks and items and"
+      },
+      {
+        "start": 580.28,
+        "duration": 4.2,
+        "start_formatted": "09:40",
+        "text": "people. None of the other top models out"
+      },
+      {
+        "start": 582.48,
+        "duration": 4.52,
+        "start_formatted": "09:42",
+        "text": "there could really code this up well."
+      },
+      {
+        "start": 584.48,
+        "duration": 5.16,
+        "start_formatted": "09:44",
+        "text": "I'm going to feed this into Claude Code"
+      },
+      {
+        "start": 587.0,
+        "duration": 5.16,
+        "start_formatted": "09:47",
+        "text": "and then get it to create a beautiful 3D"
+      },
+      {
+        "start": 589.64,
+        "duration": 5.24,
+        "start_formatted": "09:49",
+        "text": "animated scene from this image. Use a"
+      },
+      {
+        "start": 592.16,
+        "duration": 5.16,
+        "start_formatted": "09:52",
+        "text": "single HTML file. All right, here's what"
+      },
+      {
+        "start": 594.88,
+        "duration": 4.96,
+        "start_formatted": "09:54",
+        "text": "I got. It did code up something pretty"
+      },
+      {
+        "start": 597.32,
+        "duration": 4.56,
+        "start_formatted": "09:57",
+        "text": "nice, but the tables and the desks"
+      },
+      {
+        "start": 599.84,
+        "duration": 4.36,
+        "start_formatted": "09:59",
+        "text": "weren't really aligned with the input"
+      },
+      {
+        "start": 601.88,
+        "duration": 4.6,
+        "start_formatted": "10:01",
+        "text": "image, so I wrote, \"Make sure the desks,"
+      },
+      {
+        "start": 604.2,
+        "duration": 4.2,
+        "start_formatted": "10:04",
+        "text": "items, and people are aligned exactly"
+      },
+      {
+        "start": 606.48,
+        "duration": 4.16,
+        "start_formatted": "10:06",
+        "text": "like the reference image.\" And then it"
+      },
+      {
+        "start": 608.4,
+        "duration": 4.16,
+        "start_formatted": "10:08",
+        "text": "proceeded to code this up further, and"
+      },
+      {
+        "start": 610.64,
+        "duration": 4.72,
+        "start_formatted": "10:10",
+        "text": "then it tried to verify everything"
+      },
+      {
+        "start": 612.56,
+        "duration": 5.4,
+        "start_formatted": "10:12",
+        "text": "itself, and it also fixed some bugs,"
+      },
+      {
+        "start": 615.36,
+        "duration": 4.6,
+        "start_formatted": "10:15",
+        "text": "apparently. And that was it. So, I only"
+      },
+      {
+        "start": 617.96,
+        "duration": 3.84,
+        "start_formatted": "10:17",
+        "text": "used two prompts on this, and here's the"
+      },
+      {
+        "start": 619.96,
+        "duration": 4.08,
+        "start_formatted": "10:19",
+        "text": "result. Now, if you compare this with"
+      },
+      {
+        "start": 621.8,
+        "duration": 4.76,
+        "start_formatted": "10:21",
+        "text": "the original image, then there's still"
+      },
+      {
+        "start": 624.04,
+        "duration": 5.04,
+        "start_formatted": "10:24",
+        "text": "some discrepancies. So, the center table"
+      },
+      {
+        "start": 626.56,
+        "duration": 5.04,
+        "start_formatted": "10:26",
+        "text": "with the rows of three chairs, that's"
+      },
+      {
+        "start": 629.08,
+        "duration": 4.52,
+        "start_formatted": "10:29",
+        "text": "correct, but the rest of the desks"
+      },
+      {
+        "start": 631.6,
+        "duration": 4.56,
+        "start_formatted": "10:31",
+        "text": "aren't really aligned properly with the"
+      },
+      {
+        "start": 633.6,
+        "duration": 4.36,
+        "start_formatted": "10:33",
+        "text": "original image. So, you know, this human"
+      },
+      {
+        "start": 636.16,
+        "duration": 4.04,
+        "start_formatted": "10:36",
+        "text": "should not really be here. There should"
+      },
+      {
+        "start": 637.96,
+        "duration": 4.6,
+        "start_formatted": "10:37",
+        "text": "be more desks. And then it decided to"
+      },
+      {
+        "start": 640.2,
+        "duration": 4.88,
+        "start_formatted": "10:40",
+        "text": "add this random space here, which is not"
+      },
+      {
+        "start": 642.56,
+        "duration": 5.04,
+        "start_formatted": "10:42",
+        "text": "correct. So, it's not perfectly aligned"
+      },
+      {
+        "start": 645.08,
+        "duration": 4.64,
+        "start_formatted": "10:45",
+        "text": "with what I have in the original image."
+      },
+      {
+        "start": 647.6,
+        "duration": 5.16,
+        "start_formatted": "10:47",
+        "text": "So, I would say this generation is a"
+      },
+      {
+        "start": 649.72,
+        "duration": 6.04,
+        "start_formatted": "10:49",
+        "text": "fail. However, if you compare this to"
+      },
+      {
+        "start": 652.76,
+        "duration": 5.28,
+        "start_formatted": "10:52",
+        "text": "the generation from GPT-5.5, then it"
+      },
+      {
+        "start": 655.76,
+        "duration": 4.92,
+        "start_formatted": "10:55",
+        "text": "does look a lot better and more"
+      },
+      {
+        "start": 658.04,
+        "duration": 5.44,
+        "start_formatted": "10:58",
+        "text": "coherent. For GPT-5.5, there's just a"
+      },
+      {
+        "start": 660.68,
+        "duration": 6.0,
+        "start_formatted": "11:00",
+        "text": "lot of disconnected pieces, whereas this"
+      },
+      {
+        "start": 663.48,
+        "duration": 5.44,
+        "start_formatted": "11:03",
+        "text": "one from Fable has overall fewer errors."
+      },
+      {
+        "start": 666.68,
+        "duration": 5.04,
+        "start_formatted": "11:06",
+        "text": "Next, here's one of my classic tests to"
+      },
+      {
+        "start": 668.92,
+        "duration": 4.96,
+        "start_formatted": "11:08",
+        "text": "see how good it is at music composition."
+      },
+      {
+        "start": 671.72,
+        "duration": 4.0,
+        "start_formatted": "11:11",
+        "text": "First, I'm going to get it to make a DAW"
+      },
+      {
+        "start": 673.88,
+        "duration": 4.04,
+        "start_formatted": "11:13",
+        "text": "interface with these instruments: a"
+      },
+      {
+        "start": 675.72,
+        "duration": 3.96,
+        "start_formatted": "11:15",
+        "text": "piano, synth pluck, strings, drums, and"
+      },
+      {
+        "start": 677.92,
+        "duration": 3.48,
+        "start_formatted": "11:17",
+        "text": "bass. For each instrument, there should"
+      },
+      {
+        "start": 679.68,
+        "duration": 3.4,
+        "start_formatted": "11:19",
+        "text": "be a piano roll interface where I can"
+      },
+      {
+        "start": 681.4,
+        "duration": 4.0,
+        "start_formatted": "11:21",
+        "text": "drag and drop notes on the timeline."
+      },
+      {
+        "start": 683.08,
+        "duration": 4.24,
+        "start_formatted": "11:23",
+        "text": "Each track should have pan, volume, and"
+      },
+      {
+        "start": 685.4,
+        "duration": 3.8,
+        "start_formatted": "11:25",
+        "text": "other standard settings. Add play,"
+      },
+      {
+        "start": 687.32,
+        "duration": 3.72,
+        "start_formatted": "11:27",
+        "text": "pause, and other settings. So, let's"
+      },
+      {
+        "start": 689.2,
+        "duration": 3.8,
+        "start_formatted": "11:29",
+        "text": "click run first, and with just one"
+      },
+      {
+        "start": 691.04,
+        "duration": 4.24,
+        "start_formatted": "11:31",
+        "text": "prompt, it did give me a fully working"
+      },
+      {
+        "start": 693.0,
+        "duration": 4.64,
+        "start_formatted": "11:33",
+        "text": "DAW with five tracks and all these"
+      },
+      {
+        "start": 695.28,
+        "duration": 4.6,
+        "start_formatted": "11:35",
+        "text": "different settings. And then I got it to"
+      },
+      {
+        "start": 697.64,
+        "duration": 5.4,
+        "start_formatted": "11:37",
+        "text": "actually compose a song. So I wrote by"
+      },
+      {
+        "start": 699.88,
+        "duration": 5.48,
+        "start_formatted": "11:39",
+        "text": "default show a powerful expressive 32"
+      },
+      {
+        "start": 703.04,
+        "duration": 5.04,
+        "start_formatted": "11:43",
+        "text": "bar song using all the instruments rich"
+      },
+      {
+        "start": 705.36,
+        "duration": 5.24,
+        "start_formatted": "11:45",
+        "text": "in complexity that would win a Grammy."
+      },
+      {
+        "start": 708.08,
+        "duration": 4.4,
+        "start_formatted": "11:48",
+        "text": "Include effects automation, panning, and"
+      },
+      {
+        "start": 710.6,
+        "duration": 3.8,
+        "start_formatted": "11:50",
+        "text": "make sure everything is mastered well."
+      },
+      {
+        "start": 712.48,
+        "duration": 4.24,
+        "start_formatted": "11:52",
+        "text": "So let's open this up in a browser and"
+      },
+      {
+        "start": 714.4,
+        "duration": 4.798,
+        "start_formatted": "11:54",
+        "text": "play it. All right, here's our Grammy"
+      },
+      {
+        "start": 716.72,
+        "duration": 4.498,
+        "start_formatted": "11:56",
+        "text": "award-winning track."
+      },
+      {
+        "start": 719.198,
+        "duration": 2.02,
+        "start_formatted": "11:59",
+        "text": ">> [music]"
+      },
+      {
+        "start": 724.438,
+        "duration": 2.02,
+        "start_formatted": "12:04",
+        "text": "[music]"
+      },
+      {
+        "start": 734.918,
+        "duration": 2.02,
+        "start_formatted": "12:14",
+        "text": "[music]"
+      },
+      {
+        "start": 757.843,
+        "duration": 2.02,
+        "start_formatted": "12:37",
+        "text": "[music]"
+      },
+      {
+        "start": 766.358,
+        "duration": 2.02,
+        "start_formatted": "12:46",
+        "text": "[music]"
+      },
+      {
+        "start": 773.563,
+        "duration": 2.02,
+        "start_formatted": "12:53",
+        "text": "[music]"
+      },
+      {
+        "start": 783.388,
+        "duration": 2.02,
+        "start_formatted": "13:03",
+        "text": "[music]"
+      },
+      {
+        "start": 790.594,
+        "duration": 3.726,
+        "start_formatted": "13:10",
+        "text": "[music]"
+      },
+      {
+        "start": 792.0,
+        "duration": 3.88,
+        "start_formatted": "13:12",
+        "text": ">> It didn't sound too impressive. I mean,"
+      },
+      {
+        "start": 794.32,
+        "duration": 3.04,
+        "start_formatted": "13:14",
+        "text": "it's just playing the same chords over"
+      },
+      {
+        "start": 795.88,
+        "duration": 3.04,
+        "start_formatted": "13:15",
+        "text": "and over again with some slightly"
+      },
+      {
+        "start": 797.36,
+        "duration": 3.76,
+        "start_formatted": "13:17",
+        "text": "different variation in the notes."
+      },
+      {
+        "start": 798.92,
+        "duration": 3.96,
+        "start_formatted": "13:18",
+        "text": "Definitely not enough to win a Grammy."
+      },
+      {
+        "start": 801.12,
+        "duration": 4.08,
+        "start_formatted": "13:21",
+        "text": "And you know, interestingly, it sounds"
+      },
+      {
+        "start": 802.88,
+        "duration": 6.709,
+        "start_formatted": "13:22",
+        "text": "very similar to the composition from GPT"
+      },
+      {
+        "start": 805.2,
+        "duration": 6.409,
+        "start_formatted": "13:25",
+        "text": "5.5 when I tested it on the same prompt."
+      },
+      {
+        "start": 809.589,
+        "duration": 2.02,
+        "start_formatted": "13:29",
+        "text": ">> [music]"
+      },
+      {
+        "start": 815.484,
+        "duration": 2.02,
+        "start_formatted": "13:35",
+        "text": "[music]"
+      },
+      {
+        "start": 824.654,
+        "duration": 3.466,
+        "start_formatted": "13:44",
+        "text": "[music]"
+      },
+      {
+        "start": 825.4,
+        "duration": 4.84,
+        "start_formatted": "13:45",
+        "text": ">> Also, it did not really include"
+      },
+      {
+        "start": 828.12,
+        "duration": 4.64,
+        "start_formatted": "13:48",
+        "text": "automation and panning, although it did"
+      },
+      {
+        "start": 830.24,
+        "duration": 4.64,
+        "start_formatted": "13:50",
+        "text": "include some effects like delay and"
+      },
+      {
+        "start": 832.76,
+        "duration": 4.12,
+        "start_formatted": "13:52",
+        "text": "reverb. Everything doesn't really seem"
+      },
+      {
+        "start": 834.88,
+        "duration": 3.76,
+        "start_formatted": "13:54",
+        "text": "to be mastered well. So, in terms of"
+      },
+      {
+        "start": 836.88,
+        "duration": 4.08,
+        "start_formatted": "13:56",
+        "text": "music composition, I would say Claude"
+      },
+      {
+        "start": 838.64,
+        "duration": 4.08,
+        "start_formatted": "13:58",
+        "text": "Fable isn't really like pro level yet."
+      },
+      {
+        "start": 840.96,
+        "duration": 4.0,
+        "start_formatted": "14:00",
+        "text": "All right, here's a fun one. Let's see"
+      },
+      {
+        "start": 842.72,
+        "duration": 4.4,
+        "start_formatted": "14:02",
+        "text": "how good Fable is at creating video"
+      },
+      {
+        "start": 844.96,
+        "duration": 4.4,
+        "start_formatted": "14:04",
+        "text": "games. So, let's write create a 3D game"
+      },
+      {
+        "start": 847.12,
+        "duration": 3.92,
+        "start_formatted": "14:07",
+        "text": "using 3.js. It should be a futuristic"
+      },
+      {
+        "start": 849.36,
+        "duration": 4.16,
+        "start_formatted": "14:09",
+        "text": "battlefield where I control a Mecca"
+      },
+      {
+        "start": 851.04,
+        "duration": 4.76,
+        "start_formatted": "14:11",
+        "text": "warrior and shoot down waves of alien"
+      },
+      {
+        "start": 853.52,
+        "duration": 3.92,
+        "start_formatted": "14:13",
+        "text": "creatures attacking from the sky and"
+      },
+      {
+        "start": 855.8,
+        "duration": 3.92,
+        "start_formatted": "14:15",
+        "text": "ground. Third-person shooter"
+      },
+      {
+        "start": 857.44,
+        "duration": 4.48,
+        "start_formatted": "14:17",
+        "text": "perspective. Use publicly available 3D"
+      },
+      {
+        "start": 859.72,
+        "duration": 4.84,
+        "start_formatted": "14:19",
+        "text": "assets. Make it look amazing like a pro"
+      },
+      {
+        "start": 861.92,
+        "duration": 4.92,
+        "start_formatted": "14:21",
+        "text": "triple-A video game. And in just one"
+      },
+      {
+        "start": 864.56,
+        "duration": 4.04,
+        "start_formatted": "14:24",
+        "text": "prompt, here's what I got. I can move"
+      },
+      {
+        "start": 866.84,
+        "duration": 4.4,
+        "start_formatted": "14:26",
+        "text": "and do stuff with all these different"
+      },
+      {
+        "start": 868.6,
+        "duration": 5.64,
+        "start_formatted": "14:28",
+        "text": "keys. So, I can also shift to sprint and"
+      },
+      {
+        "start": 871.24,
+        "duration": 5.72,
+        "start_formatted": "14:31",
+        "text": "space to jump or use jet thrusters."
+      },
+      {
+        "start": 874.24,
+        "duration": 4.36,
+        "start_formatted": "14:34",
+        "text": "Pretty cool. Let's deploy this and start"
+      },
+      {
+        "start": 876.96,
+        "duration": 3.36,
+        "start_formatted": "14:36",
+        "text": "playing. All right, you can see that"
+      },
+      {
+        "start": 878.6,
+        "duration": 4.2,
+        "start_formatted": "14:38",
+        "text": "everything works. Oh my goodness,"
+      },
+      {
+        "start": 880.32,
+        "duration": 4.0,
+        "start_formatted": "14:40",
+        "text": "there's like this beetle thing attacking"
+      },
+      {
+        "start": 882.8,
+        "duration": 3.2,
+        "start_formatted": "14:42",
+        "text": "me. And then there are these birds in"
+      },
+      {
+        "start": 884.32,
+        "duration": 4.12,
+        "start_formatted": "14:44",
+        "text": "the sky that are also trying to attack"
+      },
+      {
+        "start": 886.0,
+        "duration": 4.92,
+        "start_formatted": "14:46",
+        "text": "me. Oh my goodness. But everything"
+      },
+      {
+        "start": 888.44,
+        "duration": 5.68,
+        "start_formatted": "14:48",
+        "text": "works. This is very nicely designed."
+      },
+      {
+        "start": 890.92,
+        "duration": 5.76,
+        "start_formatted": "14:50",
+        "text": "This is a 3D third-person shooter game."
+      },
+      {
+        "start": 894.12,
+        "duration": 5.52,
+        "start_formatted": "14:54",
+        "text": "And let's try pressing space and indeed,"
+      },
+      {
+        "start": 896.68,
+        "duration": 5.84,
+        "start_formatted": "14:56",
+        "text": "I can kind of fly up. Really cool. And"
+      },
+      {
+        "start": 899.64,
+        "duration": 5.12,
+        "start_formatted": "14:59",
+        "text": "eventually, my HP goes to zero and it's"
+      },
+      {
+        "start": 902.52,
+        "duration": 4.92,
+        "start_formatted": "15:02",
+        "text": "game over. So, everything works. Notice"
+      },
+      {
+        "start": 904.76,
+        "duration": 5.16,
+        "start_formatted": "15:04",
+        "text": "that it even includes like multiple"
+      },
+      {
+        "start": 907.44,
+        "duration": 4.08,
+        "start_formatted": "15:07",
+        "text": "levels or waves where it gets harder and"
+      },
+      {
+        "start": 909.92,
+        "duration": 4.28,
+        "start_formatted": "15:09",
+        "text": "harder. There are more enemies. So, for"
+      },
+      {
+        "start": 911.52,
+        "duration": 4.44,
+        "start_formatted": "15:11",
+        "text": "example, I made it up to wave three. So,"
+      },
+      {
+        "start": 914.2,
+        "duration": 3.2,
+        "start_formatted": "15:14",
+        "text": "in just one prompt, this works really"
+      },
+      {
+        "start": 915.96,
+        "duration": 2.92,
+        "start_formatted": "15:15",
+        "text": "well already. I didn't even need to"
+      },
+      {
+        "start": 917.4,
+        "duration": 3.52,
+        "start_formatted": "15:17",
+        "text": "prompt it further. All right, now that's"
+      },
+      {
+        "start": 918.88,
+        "duration": 4.4,
+        "start_formatted": "15:18",
+        "text": "the first iteration, but remember in the"
+      },
+      {
+        "start": 920.92,
+        "duration": 4.8,
+        "start_formatted": "15:20",
+        "text": "prompt, I said I told it to use publicly"
+      },
+      {
+        "start": 923.28,
+        "duration": 5.2,
+        "start_formatted": "15:23",
+        "text": "available 3D assets. Well, down here"
+      },
+      {
+        "start": 925.72,
+        "duration": 5.28,
+        "start_formatted": "15:25",
+        "text": "it's basically being extra cautious. So,"
+      },
+      {
+        "start": 928.48,
+        "duration": 5.32,
+        "start_formatted": "15:28",
+        "text": "here it says it avoided any external"
+      },
+      {
+        "start": 931.0,
+        "duration": 5.76,
+        "start_formatted": "15:31",
+        "text": "third-party models for now, but if you'd"
+      },
+      {
+        "start": 933.8,
+        "duration": 6.2,
+        "start_formatted": "15:33",
+        "text": "like I can swap in some Creative Common"
+      },
+      {
+        "start": 936.76,
+        "duration": 4.52,
+        "start_formatted": "15:36",
+        "text": "models for you to use. So, I wrote okay,"
+      },
+      {
+        "start": 940.0,
+        "duration": 3.84,
+        "start_formatted": "15:40",
+        "text": "let's proceed with this and make the"
+      },
+      {
+        "start": 941.28,
+        "duration": 4.84,
+        "start_formatted": "15:41",
+        "text": "game design even better. So, afterwards"
+      },
+      {
+        "start": 943.84,
+        "duration": 4.04,
+        "start_formatted": "15:43",
+        "text": "let's look at the revised game. Notice"
+      },
+      {
+        "start": 946.12,
+        "duration": 5.36,
+        "start_formatted": "15:46",
+        "text": "that it even added more stuff like"
+      },
+      {
+        "start": 947.88,
+        "duration": 6.88,
+        "start_formatted": "15:47",
+        "text": "thruster dash with the Q key as well as"
+      },
+      {
+        "start": 951.48,
+        "duration": 5.92,
+        "start_formatted": "15:51",
+        "text": "1 2 3 4 field upgrade, whatever that is."
+      },
+      {
+        "start": 954.76,
+        "duration": 4.44,
+        "start_formatted": "15:54",
+        "text": "Let's click deploy and run this. And"
+      },
+      {
+        "start": 957.4,
+        "duration": 3.88,
+        "start_formatted": "15:57",
+        "text": "instantly notice how everything just"
+      },
+      {
+        "start": 959.2,
+        "duration": 4.36,
+        "start_formatted": "15:59",
+        "text": "looks a lot better. Oh my god, there's"
+      },
+      {
+        "start": 961.28,
+        "duration": 4.08,
+        "start_formatted": "16:01",
+        "text": "like this spider attacking me now. This"
+      },
+      {
+        "start": 963.56,
+        "duration": 3.48,
+        "start_formatted": "16:03",
+        "text": "is pretty intense just for a round one."
+      },
+      {
+        "start": 965.36,
+        "duration": 3.84,
+        "start_formatted": "16:05",
+        "text": "There's like wasps everywhere. Let me"
+      },
+      {
+        "start": 967.04,
+        "duration": 4.8,
+        "start_formatted": "16:07",
+        "text": "just fly away. So, there you go. With"
+      },
+      {
+        "start": 969.2,
+        "duration": 5.4,
+        "start_formatted": "16:09",
+        "text": "just one additional prompt it's able to"
+      },
+      {
+        "start": 971.84,
+        "duration": 4.6,
+        "start_formatted": "16:11",
+        "text": "make this game design look even better"
+      },
+      {
+        "start": 974.6,
+        "duration": 3.88,
+        "start_formatted": "16:14",
+        "text": "with more actions like thrusters and"
+      },
+      {
+        "start": 976.44,
+        "duration": 3.68,
+        "start_formatted": "16:16",
+        "text": "other different settings. Really cool."
+      },
+      {
+        "start": 978.48,
+        "duration": 4.0,
+        "start_formatted": "16:18",
+        "text": "So, I mean if you want to vibe code a"
+      },
+      {
+        "start": 980.12,
+        "duration": 4.0,
+        "start_formatted": "16:20",
+        "text": "video game, then definitely Fable is one"
+      },
+      {
+        "start": 982.48,
+        "duration": 3.52,
+        "start_formatted": "16:22",
+        "text": "of the most performant models you can"
+      },
+      {
+        "start": 984.12,
+        "duration": 3.48,
+        "start_formatted": "16:24",
+        "text": "use. It has the least amount of errors"
+      },
+      {
+        "start": 986.0,
+        "duration": 3.76,
+        "start_formatted": "16:26",
+        "text": "and it's just so good at understanding"
+      },
+      {
+        "start": 987.6,
+        "duration": 3.8,
+        "start_formatted": "16:27",
+        "text": "my instructions. I'm sure with a few"
+      },
+      {
+        "start": 989.76,
+        "duration": 3.56,
+        "start_formatted": "16:29",
+        "text": "additional prompts you could potentially"
+      },
+      {
+        "start": 991.4,
+        "duration": 3.84,
+        "start_formatted": "16:31",
+        "text": "make this into a production-ready game."
+      },
+      {
+        "start": 993.32,
+        "duration": 4.68,
+        "start_formatted": "16:33",
+        "text": "Now, one of the most powerful features"
+      },
+      {
+        "start": 995.24,
+        "duration": 4.64,
+        "start_formatted": "16:35",
+        "text": "of using Fable or pretty much any other"
+      },
+      {
+        "start": 998.0,
+        "duration": 3.88,
+        "start_formatted": "16:38",
+        "text": "state-of-the-art model is getting it to"
+      },
+      {
+        "start": 999.88,
+        "duration": 3.92,
+        "start_formatted": "16:39",
+        "text": "create educational content for your kids"
+      },
+      {
+        "start": 1001.88,
+        "duration": 3.88,
+        "start_formatted": "16:41",
+        "text": "or for yourself. For example, let's get"
+      },
+      {
+        "start": 1003.8,
+        "duration": 3.84,
+        "start_formatted": "16:43",
+        "text": "it to make a fun educational course on"
+      },
+      {
+        "start": 1005.76,
+        "duration": 3.96,
+        "start_formatted": "16:45",
+        "text": "high school chemistry consisting of"
+      },
+      {
+        "start": 1007.64,
+        "duration": 4.84,
+        "start_formatted": "16:47",
+        "text": "three lessons. Include interactive"
+      },
+      {
+        "start": 1009.72,
+        "duration": 5.16,
+        "start_formatted": "16:49",
+        "text": "visual exercises. Make it look fun and"
+      },
+      {
+        "start": 1012.48,
+        "duration": 4.359,
+        "start_formatted": "16:52",
+        "text": "appealing. So, let's press run. Right,"
+      },
+      {
+        "start": 1014.88,
+        "duration": 4.32,
+        "start_formatted": "16:54",
+        "text": "so in just one prompt here's what we"
+      },
+      {
+        "start": 1016.839,
+        "duration": 4.721,
+        "start_formatted": "16:56",
+        "text": "got. Let me open this up in a new tab."
+      },
+      {
+        "start": 1019.2,
+        "duration": 4.52,
+        "start_formatted": "16:59",
+        "text": "So, here is the landing page. It has"
+      },
+      {
+        "start": 1021.56,
+        "duration": 4.639,
+        "start_formatted": "17:01",
+        "text": "three lessons. Everything is responsive"
+      },
+      {
+        "start": 1023.72,
+        "duration": 4.16,
+        "start_formatted": "17:03",
+        "text": "and nicely designed. Let's start with"
+      },
+      {
+        "start": 1026.199,
+        "duration": 3.561,
+        "start_formatted": "17:06",
+        "text": "lesson one. So, here's what it looks"
+      },
+      {
+        "start": 1027.88,
+        "duration": 4.4,
+        "start_formatted": "17:07",
+        "text": "like. It teaches us about protons,"
+      },
+      {
+        "start": 1029.76,
+        "duration": 4.8,
+        "start_formatted": "17:09",
+        "text": "neutrons, electrons. Plus here is an"
+      },
+      {
+        "start": 1032.28,
+        "duration": 4.679,
+        "start_formatted": "17:12",
+        "text": "interactive exercise to build an atom."
+      },
+      {
+        "start": 1034.56,
+        "duration": 4.48,
+        "start_formatted": "17:14",
+        "text": "So, we can like increase the number of"
+      },
+      {
+        "start": 1036.959,
+        "duration": 4.961,
+        "start_formatted": "17:16",
+        "text": "stuff here, and you know, everything is"
+      },
+      {
+        "start": 1039.04,
+        "duration": 4.96,
+        "start_formatted": "17:19",
+        "text": "actually very accurately coded. So, for"
+      },
+      {
+        "start": 1041.92,
+        "duration": 4.399,
+        "start_formatted": "17:21",
+        "text": "example, the protons and neutrons should"
+      },
+      {
+        "start": 1044.0,
+        "duration": 4.92,
+        "start_formatted": "17:24",
+        "text": "be at the center here, plus indeed,"
+      },
+      {
+        "start": 1046.319,
+        "duration": 4.721,
+        "start_formatted": "17:26",
+        "text": "there should be two electrons in the"
+      },
+      {
+        "start": 1048.92,
+        "duration": 4.4,
+        "start_formatted": "17:28",
+        "text": "first orbit, and then I believe eight"
+      },
+      {
+        "start": 1051.04,
+        "duration": 4.36,
+        "start_formatted": "17:31",
+        "text": "electrons in the second orbit. So, let's"
+      },
+      {
+        "start": 1053.32,
+        "duration": 4.52,
+        "start_formatted": "17:33",
+        "text": "actually increase this further, and"
+      },
+      {
+        "start": 1055.4,
+        "duration": 4.88,
+        "start_formatted": "17:35",
+        "text": "indeed, once we get to electron 11, then"
+      },
+      {
+        "start": 1057.84,
+        "duration": 4.64,
+        "start_formatted": "17:37",
+        "text": "it adds another orbit outside of it. So,"
+      },
+      {
+        "start": 1060.28,
+        "duration": 4.44,
+        "start_formatted": "17:40",
+        "text": "everything is actually scientifically"
+      },
+      {
+        "start": 1062.48,
+        "duration": 4.28,
+        "start_formatted": "17:42",
+        "text": "correct. Next, it also gives us a mini"
+      },
+      {
+        "start": 1064.72,
+        "duration": 4.16,
+        "start_formatted": "17:44",
+        "text": "quiz. So, let's like just randomly"
+      },
+      {
+        "start": 1066.76,
+        "duration": 3.76,
+        "start_formatted": "17:46",
+        "text": "select some answers, and as you can see,"
+      },
+      {
+        "start": 1068.88,
+        "duration": 4.0,
+        "start_formatted": "17:48",
+        "text": "everything is programmed and animated"
+      },
+      {
+        "start": 1070.52,
+        "duration": 4.52,
+        "start_formatted": "17:50",
+        "text": "very well. It gives us the final score"
+      },
+      {
+        "start": 1072.88,
+        "duration": 4.32,
+        "start_formatted": "17:52",
+        "text": "at the bottom. Next, let's hop on to"
+      },
+      {
+        "start": 1075.04,
+        "duration": 4.68,
+        "start_formatted": "17:55",
+        "text": "lesson two. Here, it even gives us an"
+      },
+      {
+        "start": 1077.2,
+        "duration": 4.44,
+        "start_formatted": "17:57",
+        "text": "interactive element explorer with a part"
+      },
+      {
+        "start": 1079.72,
+        "duration": 4.28,
+        "start_formatted": "17:59",
+        "text": "of the periodic table, and if we click"
+      },
+      {
+        "start": 1081.64,
+        "duration": 4.8,
+        "start_formatted": "18:01",
+        "text": "on each one, then indeed, it does give"
+      },
+      {
+        "start": 1084.0,
+        "duration": 5.16,
+        "start_formatted": "18:04",
+        "text": "us very accurate information about each"
+      },
+      {
+        "start": 1086.44,
+        "duration": 4.8,
+        "start_formatted": "18:06",
+        "text": "element that I select. This is very"
+      },
+      {
+        "start": 1089.16,
+        "duration": 4.44,
+        "start_formatted": "18:09",
+        "text": "comprehensive. And then next, let's"
+      },
+      {
+        "start": 1091.24,
+        "duration": 4.52,
+        "start_formatted": "18:11",
+        "text": "start this game. I'm a noble gas hiding"
+      },
+      {
+        "start": 1093.6,
+        "duration": 4.72,
+        "start_formatted": "18:13",
+        "text": "in period two. People bend me into"
+      },
+      {
+        "start": 1095.76,
+        "duration": 4.44,
+        "start_formatted": "18:15",
+        "text": "glowing signs. Who am I? Let's just"
+      },
+      {
+        "start": 1098.32,
+        "duration": 4.16,
+        "start_formatted": "18:18",
+        "text": "randomly select something and see if it"
+      },
+      {
+        "start": 1100.2,
+        "duration": 4.0,
+        "start_formatted": "18:20",
+        "text": "is correct. It's not nitrogen. Let's"
+      },
+      {
+        "start": 1102.48,
+        "duration": 3.6,
+        "start_formatted": "18:22",
+        "text": "actually try to solve this. Noble gas,"
+      },
+      {
+        "start": 1104.2,
+        "duration": 4.28,
+        "start_formatted": "18:24",
+        "text": "so I think it's one of these. Maybe it's"
+      },
+      {
+        "start": 1106.08,
+        "duration": 4.76,
+        "start_formatted": "18:26",
+        "text": "neon, and indeed, it's neon. And then it"
+      },
+      {
+        "start": 1108.48,
+        "duration": 4.56,
+        "start_formatted": "18:28",
+        "text": "also gives us a mini quiz at the end."
+      },
+      {
+        "start": 1110.84,
+        "duration": 4.84,
+        "start_formatted": "18:30",
+        "text": "And then next, let's move on to the last"
+      },
+      {
+        "start": 1113.04,
+        "duration": 4.6,
+        "start_formatted": "18:33",
+        "text": "lesson. Here is where we can balance"
+      },
+      {
+        "start": 1115.68,
+        "duration": 3.84,
+        "start_formatted": "18:35",
+        "text": "different molecules to create compounds,"
+      },
+      {
+        "start": 1117.64,
+        "duration": 3.32,
+        "start_formatted": "18:37",
+        "text": "I guess. Everything just works. And then"
+      },
+      {
+        "start": 1119.52,
+        "duration": 3.8,
+        "start_formatted": "18:39",
+        "text": "here's a quick game, so let me just"
+      },
+      {
+        "start": 1120.96,
+        "duration": 4.64,
+        "start_formatted": "18:40",
+        "text": "randomly select an answer. And then here"
+      },
+      {
+        "start": 1123.32,
+        "duration": 4.44,
+        "start_formatted": "18:43",
+        "text": "is where we learn about pH. It's"
+      },
+      {
+        "start": 1125.6,
+        "duration": 5.04,
+        "start_formatted": "18:45",
+        "text": "designed and animated very nicely. And"
+      },
+      {
+        "start": 1127.76,
+        "duration": 5.12,
+        "start_formatted": "18:47",
+        "text": "then finally, here is a mini quiz. So,"
+      },
+      {
+        "start": 1130.64,
+        "duration": 5.52,
+        "start_formatted": "18:50",
+        "text": "everything just works. You can get Fable"
+      },
+      {
+        "start": 1132.88,
+        "duration": 5.08,
+        "start_formatted": "18:52",
+        "text": "to create lessons for any topic you or"
+      },
+      {
+        "start": 1136.16,
+        "duration": 3.76,
+        "start_formatted": "18:56",
+        "text": "your kid wants to learn. This is"
+      },
+      {
+        "start": 1137.96,
+        "duration": 3.6,
+        "start_formatted": "18:57",
+        "text": "incredibly useful for creating"
+      },
+      {
+        "start": 1139.92,
+        "duration": 3.92,
+        "start_formatted": "18:59",
+        "text": "educational content. All right, now"
+      },
+      {
+        "start": 1141.56,
+        "duration": 4.36,
+        "start_formatted": "19:01",
+        "text": "moving back to Cloud Code, next, let's"
+      },
+      {
+        "start": 1143.84,
+        "duration": 4.44,
+        "start_formatted": "19:03",
+        "text": "see if it can classify different types"
+      },
+      {
+        "start": 1145.92,
+        "duration": 5.08,
+        "start_formatted": "19:05",
+        "text": "of cancer tumors. So, I'm going to input"
+      },
+      {
+        "start": 1148.28,
+        "duration": 4.8,
+        "start_formatted": "19:08",
+        "text": "this image of six different slides. Each"
+      },
+      {
+        "start": 1151.0,
+        "duration": 3.84,
+        "start_formatted": "19:11",
+        "text": "slide corresponds to a different type of"
+      },
+      {
+        "start": 1153.08,
+        "duration": 3.84,
+        "start_formatted": "19:13",
+        "text": "tumor. I'm going to plug it in here and"
+      },
+      {
+        "start": 1154.84,
+        "duration": 4.6,
+        "start_formatted": "19:14",
+        "text": "then write identify the types of tumors"
+      },
+      {
+        "start": 1156.92,
+        "duration": 4.44,
+        "start_formatted": "19:16",
+        "text": "in each of these six images if any."
+      },
+      {
+        "start": 1159.44,
+        "duration": 5.32,
+        "start_formatted": "19:19",
+        "text": "However, note that it immediately"
+      },
+      {
+        "start": 1161.36,
+        "duration": 4.84,
+        "start_formatted": "19:21",
+        "text": "switched to Opus 4.8 instead of Fable."
+      },
+      {
+        "start": 1164.76,
+        "duration": 3.92,
+        "start_formatted": "19:24",
+        "text": "All right, I tried this several times"
+      },
+      {
+        "start": 1166.2,
+        "duration": 4.88,
+        "start_formatted": "19:26",
+        "text": "and it still just switched to Opus 4.8."
+      },
+      {
+        "start": 1168.68,
+        "duration": 4.48,
+        "start_formatted": "19:28",
+        "text": "And if I click on Y here it says that"
+      },
+      {
+        "start": 1171.08,
+        "duration": 4.2,
+        "start_formatted": "19:31",
+        "text": "Fable actually has safety measures that"
+      },
+      {
+        "start": 1173.16,
+        "duration": 4.4,
+        "start_formatted": "19:33",
+        "text": "flag messages on most cybersecurity or"
+      },
+      {
+        "start": 1175.28,
+        "duration": 4.28,
+        "start_formatted": "19:35",
+        "text": "biology topics, which is kind of lame."
+      },
+      {
+        "start": 1177.56,
+        "duration": 4.16,
+        "start_formatted": "19:37",
+        "text": "So, if I have any like medical condition"
+      },
+      {
+        "start": 1179.56,
+        "duration": 4.32,
+        "start_formatted": "19:39",
+        "text": "or something that I wanted to diagnose,"
+      },
+      {
+        "start": 1181.72,
+        "duration": 4.16,
+        "start_formatted": "19:41",
+        "text": "I most likely will not be able to use"
+      },
+      {
+        "start": 1183.88,
+        "duration": 5.28,
+        "start_formatted": "19:43",
+        "text": "Fable. Instead, it's just going to"
+      },
+      {
+        "start": 1185.88,
+        "duration": 5.24,
+        "start_formatted": "19:45",
+        "text": "switch to Opus 4.8. I also tried to get"
+      },
+      {
+        "start": 1189.16,
+        "duration": 4.08,
+        "start_formatted": "19:49",
+        "text": "it to do some deep scientific research."
+      },
+      {
+        "start": 1191.12,
+        "duration": 4.2,
+        "start_formatted": "19:51",
+        "text": "So, here the prompt is describe the"
+      },
+      {
+        "start": 1193.24,
+        "duration": 4.72,
+        "start_formatted": "19:53",
+        "text": "molecular drivers of this type of"
+      },
+      {
+        "start": 1195.32,
+        "duration": 4.96,
+        "start_formatted": "19:55",
+        "text": "leukemia, discuss targeted therapy"
+      },
+      {
+        "start": 1197.96,
+        "duration": 4.68,
+        "start_formatted": "19:57",
+        "text": "evolution from etc. etc. include"
+      },
+      {
+        "start": 1200.28,
+        "duration": 4.28,
+        "start_formatted": "20:00",
+        "text": "relevant tables and visualizations. And"
+      },
+      {
+        "start": 1202.64,
+        "duration": 5.12,
+        "start_formatted": "20:02",
+        "text": "again, at the bottom here it says"
+      },
+      {
+        "start": 1204.56,
+        "duration": 5.44,
+        "start_formatted": "20:04",
+        "text": "switched to Opus 4.8 again because this"
+      },
+      {
+        "start": 1207.76,
+        "duration": 4.08,
+        "start_formatted": "20:07",
+        "text": "is a biology topic. So, unfortunately,"
+      },
+      {
+        "start": 1210.0,
+        "duration": 4.44,
+        "start_formatted": "20:10",
+        "text": "as you can see here, if you want to get"
+      },
+      {
+        "start": 1211.84,
+        "duration": 4.76,
+        "start_formatted": "20:11",
+        "text": "Fable 5 to answer some biology-related"
+      },
+      {
+        "start": 1214.44,
+        "duration": 4.44,
+        "start_formatted": "20:14",
+        "text": "questions, it's most likely not going to"
+      },
+      {
+        "start": 1216.6,
+        "duration": 3.8,
+        "start_formatted": "20:16",
+        "text": "answer you and then just switch to Opus."
+      },
+      {
+        "start": 1218.88,
+        "duration": 4.4,
+        "start_formatted": "20:18",
+        "text": "All right, so that sums up my quick"
+      },
+      {
+        "start": 1220.4,
+        "duration": 5.4,
+        "start_formatted": "20:20",
+        "text": "tests on Fable 5. It's definitely"
+      },
+      {
+        "start": 1223.28,
+        "duration": 5.32,
+        "start_formatted": "20:23",
+        "text": "state-of-the-art and noticeably better"
+      },
+      {
+        "start": 1225.8,
+        "duration": 5.2,
+        "start_formatted": "20:25",
+        "text": "than GPT 5.5 in terms of vibe coding"
+      },
+      {
+        "start": 1228.6,
+        "duration": 4.72,
+        "start_formatted": "20:28",
+        "text": "different things. It tends to verify its"
+      },
+      {
+        "start": 1231.0,
+        "duration": 4.32,
+        "start_formatted": "20:31",
+        "text": "edits automatically, so it's a lot less"
+      },
+      {
+        "start": 1233.32,
+        "duration": 4.0,
+        "start_formatted": "20:33",
+        "text": "error-prone and it just works most of"
+      },
+      {
+        "start": 1235.32,
+        "duration": 4.08,
+        "start_formatted": "20:35",
+        "text": "the time. However, that being said, it"
+      },
+      {
+        "start": 1237.32,
+        "duration": 4.44,
+        "start_formatted": "20:37",
+        "text": "also wastes a ton of tokens. We're going"
+      },
+      {
+        "start": 1239.4,
+        "duration": 4.2,
+        "start_formatted": "20:39",
+        "text": "to go over the costs in a second. And"
+      },
+      {
+        "start": 1241.76,
+        "duration": 3.56,
+        "start_formatted": "20:41",
+        "text": "for most instances, it's kind of"
+      },
+      {
+        "start": 1243.6,
+        "duration": 4.48,
+        "start_formatted": "20:43",
+        "text": "overkill. You don't really need to use"
+      },
+      {
+        "start": 1245.32,
+        "duration": 4.44,
+        "start_formatted": "20:45",
+        "text": "Fable 5 to do most stuff. Next, let's"
+      },
+      {
+        "start": 1248.08,
+        "duration": 3.92,
+        "start_formatted": "20:48",
+        "text": "look at its specs, performance, and"
+      },
+      {
+        "start": 1249.76,
+        "duration": 5.08,
+        "start_formatted": "20:49",
+        "text": "benchmarks. So, across pretty much all"
+      },
+      {
+        "start": 1252.0,
+        "duration": 5.12,
+        "start_formatted": "20:52",
+        "text": "categories, you can see that Fable 5 not"
+      },
+      {
+        "start": 1254.84,
+        "duration": 4.08,
+        "start_formatted": "20:54",
+        "text": "only beats the previous Claude Mythos"
+      },
+      {
+        "start": 1257.12,
+        "duration": 3.96,
+        "start_formatted": "20:57",
+        "text": "preview, which they said was too"
+      },
+      {
+        "start": 1258.92,
+        "duration": 4.96,
+        "start_formatted": "20:58",
+        "text": "dangerous to release, but also Claude's"
+      },
+      {
+        "start": 1261.08,
+        "duration": 5.84,
+        "start_formatted": "21:01",
+        "text": "previous leading model Opus 4.8 as well"
+      },
+      {
+        "start": 1263.88,
+        "duration": 4.76,
+        "start_formatted": "21:03",
+        "text": "as 5.5 and Gemini 3.1 Pro. And I mean,"
+      },
+      {
+        "start": 1266.92,
+        "duration": 4.44,
+        "start_formatted": "21:06",
+        "text": "for most of these benchmarks, it's not"
+      },
+      {
+        "start": 1268.64,
+        "duration": 4.92,
+        "start_formatted": "21:08",
+        "text": "just a marginal improvement, but a huge"
+      },
+      {
+        "start": 1271.36,
+        "duration": 6.04,
+        "start_formatted": "21:11",
+        "text": "leap. For example, for SweepBench, this"
+      },
+      {
+        "start": 1273.56,
+        "duration": 6.4,
+        "start_formatted": "21:13",
+        "text": "is like an over 20% leap over GPT-5."
+      },
+      {
+        "start": 1277.4,
+        "duration": 4.92,
+        "start_formatted": "21:17",
+        "text": "Same with this agentic coding benchmark,"
+      },
+      {
+        "start": 1279.96,
+        "duration": 4.96,
+        "start_formatted": "21:19",
+        "text": "as well as computer use, agentic coding,"
+      },
+      {
+        "start": 1282.32,
+        "duration": 5.36,
+        "start_formatted": "21:22",
+        "text": "and cybersecurity. This is a huge leap"
+      },
+      {
+        "start": 1284.92,
+        "duration": 5.2,
+        "start_formatted": "21:24",
+        "text": "compared to GPT-5.5. Now, if you look at"
+      },
+      {
+        "start": 1287.68,
+        "duration": 5.08,
+        "start_formatted": "21:27",
+        "text": "this benchmark from Artificial Analysis,"
+      },
+      {
+        "start": 1290.12,
+        "duration": 4.84,
+        "start_formatted": "21:30",
+        "text": "Fable 5 is ranked number one. It has a"
+      },
+      {
+        "start": 1292.76,
+        "duration": 5.32,
+        "start_formatted": "21:32",
+        "text": "million token context window, similar to"
+      },
+      {
+        "start": 1294.96,
+        "duration": 5.44,
+        "start_formatted": "21:34",
+        "text": "the other top models like GPT-5.5 or"
+      },
+      {
+        "start": 1298.08,
+        "duration": 4.36,
+        "start_formatted": "21:38",
+        "text": "Gemini 3.1 Pro. So, this 1 million token"
+      },
+      {
+        "start": 1300.4,
+        "duration": 3.64,
+        "start_formatted": "21:40",
+        "text": "window has become the standard now. This"
+      },
+      {
+        "start": 1302.44,
+        "duration": 3.12,
+        "start_formatted": "21:42",
+        "text": "is basically how much information you"
+      },
+      {
+        "start": 1304.04,
+        "duration": 3.76,
+        "start_formatted": "21:44",
+        "text": "can fit into your prompt at once, and a"
+      },
+      {
+        "start": 1305.56,
+        "duration": 4.36,
+        "start_formatted": "21:45",
+        "text": "million tokens is roughly like 700,000"
+      },
+      {
+        "start": 1307.8,
+        "duration": 3.88,
+        "start_formatted": "21:47",
+        "text": "words, or a small and medium-sized"
+      },
+      {
+        "start": 1309.92,
+        "duration": 3.48,
+        "start_formatted": "21:49",
+        "text": "codebase. If you check out their"
+      },
+      {
+        "start": 1311.68,
+        "duration": 5.08,
+        "start_formatted": "21:51",
+        "text": "intelligence index, then you can see"
+      },
+      {
+        "start": 1313.4,
+        "duration": 7.2,
+        "start_formatted": "21:53",
+        "text": "that Fable 5 is indeed ranked number one"
+      },
+      {
+        "start": 1316.76,
+        "duration": 7.0,
+        "start_formatted": "21:56",
+        "text": "at 65. And then, GPT-5.5 Extra High is"
+      },
+      {
+        "start": 1320.6,
+        "duration": 5.04,
+        "start_formatted": "22:00",
+        "text": "only 60, and then Gemini 3.1 Pro is even"
+      },
+      {
+        "start": 1323.76,
+        "duration": 4.92,
+        "start_formatted": "22:03",
+        "text": "lower. Now, if you look at the speed of"
+      },
+      {
+        "start": 1325.64,
+        "duration": 5.24,
+        "start_formatted": "22:05",
+        "text": "this, Fable 5 is extremely slow. I often"
+      },
+      {
+        "start": 1328.68,
+        "duration": 4.48,
+        "start_formatted": "22:08",
+        "text": "have to wait minutes for it to even"
+      },
+      {
+        "start": 1330.88,
+        "duration": 4.08,
+        "start_formatted": "22:10",
+        "text": "complete just a simple prompt. And here"
+      },
+      {
+        "start": 1333.16,
+        "duration": 5.16,
+        "start_formatted": "22:13",
+        "text": "is the most important thing, which is"
+      },
+      {
+        "start": 1334.96,
+        "duration": 5.44,
+        "start_formatted": "22:14",
+        "text": "the price. Fable 5 is by far the most"
+      },
+      {
+        "start": 1338.32,
+        "duration": 4.36,
+        "start_formatted": "22:18",
+        "text": "expensive model out there. If we break"
+      },
+      {
+        "start": 1340.4,
+        "duration": 4.52,
+        "start_formatted": "22:20",
+        "text": "this down further, then it's 50 bucks"
+      },
+      {
+        "start": 1342.68,
+        "duration": 5.68,
+        "start_formatted": "22:22",
+        "text": "per million output tokens, which is"
+      },
+      {
+        "start": 1344.92,
+        "duration": 5.2,
+        "start_formatted": "22:24",
+        "text": "crazy. Notice that GPT-5.5 is only 30"
+      },
+      {
+        "start": 1348.36,
+        "duration": 4.36,
+        "start_formatted": "22:28",
+        "text": "bucks, and then the Claude Opus models"
+      },
+      {
+        "start": 1350.12,
+        "duration": 4.96,
+        "start_formatted": "22:30",
+        "text": "is only 25 bucks per output tokens. This"
+      },
+      {
+        "start": 1352.72,
+        "duration": 4.04,
+        "start_formatted": "22:32",
+        "text": "is two times more expensive than Opus."
+      },
+      {
+        "start": 1355.08,
+        "duration": 4.12,
+        "start_formatted": "22:35",
+        "text": "And if you look at the hallucination"
+      },
+      {
+        "start": 1356.76,
+        "duration": 4.88,
+        "start_formatted": "22:36",
+        "text": "rate of Fable, it's actually very high."
+      },
+      {
+        "start": 1359.2,
+        "duration": 4.6,
+        "start_formatted": "22:39",
+        "text": "This is even worse than Llama 3.1, which"
+      },
+      {
+        "start": 1361.64,
+        "duration": 4.96,
+        "start_formatted": "22:41",
+        "text": "is pretty shocking. So, it has higher"
+      },
+      {
+        "start": 1363.8,
+        "duration": 4.88,
+        "start_formatted": "22:43",
+        "text": "hallucination than Opus 4.8, as well as"
+      },
+      {
+        "start": 1366.6,
+        "duration": 4.68,
+        "start_formatted": "22:46",
+        "text": "even some open models like MiniMax,"
+      },
+      {
+        "start": 1368.68,
+        "duration": 5.16,
+        "start_formatted": "22:48",
+        "text": "Mimo, and JLM. Here's another benchmark"
+      },
+      {
+        "start": 1371.28,
+        "duration": 5.2,
+        "start_formatted": "22:51",
+        "text": "called LiveBench by Abacus AI, and"
+      },
+      {
+        "start": 1373.84,
+        "duration": 4.36,
+        "start_formatted": "22:53",
+        "text": "interestingly, here Fable 5 is not"
+      },
+      {
+        "start": 1376.48,
+        "duration": 6.0,
+        "start_formatted": "22:56",
+        "text": "ranked number one, but actually number"
+      },
+      {
+        "start": 1378.2,
+        "duration": 6.28,
+        "start_formatted": "22:58",
+        "text": "four, even below GPT-5.5, 5.4, and"
+      },
+      {
+        "start": 1382.48,
+        "duration": 3.96,
+        "start_formatted": "23:02",
+        "text": "Gemini 3.1 Pro, which is kind of"
+      },
+      {
+        "start": 1384.48,
+        "duration": 4.52,
+        "start_formatted": "23:04",
+        "text": "shocking. Here, it doesn't seem to do"
+      },
+      {
+        "start": 1386.44,
+        "duration": 4.4,
+        "start_formatted": "23:06",
+        "text": "very well in coding and instruction"
+      },
+      {
+        "start": 1389.0,
+        "duration": 3.88,
+        "start_formatted": "23:09",
+        "text": "following. Here's another benchmark"
+      },
+      {
+        "start": 1390.84,
+        "duration": 4.2,
+        "start_formatted": "23:10",
+        "text": "called Deep Squeeze, which seems to be a"
+      },
+      {
+        "start": 1392.88,
+        "duration": 4.44,
+        "start_formatted": "23:12",
+        "text": "more accurate measure of how good these"
+      },
+      {
+        "start": 1395.04,
+        "duration": 4.0,
+        "start_formatted": "23:15",
+        "text": "models are in terms of handling coding"
+      },
+      {
+        "start": 1397.32,
+        "duration": 4.36,
+        "start_formatted": "23:17",
+        "text": "tasks. However, at the time of this"
+      },
+      {
+        "start": 1399.04,
+        "duration": 4.88,
+        "start_formatted": "23:19",
+        "text": "recording, they have not added Fable 5"
+      },
+      {
+        "start": 1401.68,
+        "duration": 4.0,
+        "start_formatted": "23:21",
+        "text": "yet. Here's another benchmark called"
+      },
+      {
+        "start": 1403.92,
+        "duration": 3.92,
+        "start_formatted": "23:23",
+        "text": "Vending Bench, which measures a model's"
+      },
+      {
+        "start": 1405.68,
+        "duration": 4.12,
+        "start_formatted": "23:25",
+        "text": "performance on running a business over a"
+      },
+      {
+        "start": 1407.84,
+        "duration": 4.48,
+        "start_formatted": "23:27",
+        "text": "long time. So, it's tasked with running"
+      },
+      {
+        "start": 1409.8,
+        "duration": 4.84,
+        "start_formatted": "23:29",
+        "text": "a simulated vending business over a"
+      },
+      {
+        "start": 1412.32,
+        "duration": 4.36,
+        "start_formatted": "23:32",
+        "text": "year, and the score is basically their"
+      },
+      {
+        "start": 1414.64,
+        "duration": 3.68,
+        "start_formatted": "23:34",
+        "text": "bank account balance at the end. Did"
+      },
+      {
+        "start": 1416.68,
+        "duration": 4.44,
+        "start_formatted": "23:36",
+        "text": "they make money, and how much did they"
+      },
+      {
+        "start": 1418.32,
+        "duration": 4.64,
+        "start_formatted": "23:38",
+        "text": "make? Now, interestingly, Fable 5 High"
+      },
+      {
+        "start": 1421.12,
+        "duration": 4.04,
+        "start_formatted": "23:41",
+        "text": "was not ranked number one. It's like"
+      },
+      {
+        "start": 1422.96,
+        "duration": 4.32,
+        "start_formatted": "23:42",
+        "text": "ranked all the way down at number nine."
+      },
+      {
+        "start": 1425.16,
+        "duration": 5.2,
+        "start_formatted": "23:45",
+        "text": "It did not make the most money, whereas"
+      },
+      {
+        "start": 1427.28,
+        "duration": 5.36,
+        "start_formatted": "23:47",
+        "text": "the older Opus models plus GPT 5.5 and"
+      },
+      {
+        "start": 1430.36,
+        "duration": 5.12,
+        "start_formatted": "23:50",
+        "text": "Kimiko 2.6 made significantly more"
+      },
+      {
+        "start": 1432.64,
+        "duration": 4.68,
+        "start_formatted": "23:52",
+        "text": "money. So, maybe Fable 5 had too much"
+      },
+      {
+        "start": 1435.48,
+        "duration": 4.16,
+        "start_formatted": "23:55",
+        "text": "guardrails, it's too nerfed, or it's"
+      },
+      {
+        "start": 1437.32,
+        "duration": 3.92,
+        "start_formatted": "23:57",
+        "text": "just too honest, and therefore, in terms"
+      },
+      {
+        "start": 1439.64,
+        "duration": 3.84,
+        "start_formatted": "23:59",
+        "text": "of running a business, it's not as"
+      },
+      {
+        "start": 1441.24,
+        "duration": 5.44,
+        "start_formatted": "24:01",
+        "text": "profitable as the other models. Now, in"
+      },
+      {
+        "start": 1443.48,
+        "duration": 5.2,
+        "start_formatted": "24:03",
+        "text": "terms of debating, Claude Fable 5 High"
+      },
+      {
+        "start": 1446.68,
+        "duration": 4.84,
+        "start_formatted": "24:06",
+        "text": "is the current leader, much better than"
+      },
+      {
+        "start": 1448.68,
+        "duration": 4.48,
+        "start_formatted": "24:08",
+        "text": "GPT 5.5, Gemini, or the other open"
+      },
+      {
+        "start": 1451.52,
+        "duration": 3.4,
+        "start_formatted": "24:11",
+        "text": "models. Here's another leaderboard"
+      },
+      {
+        "start": 1453.16,
+        "duration": 4.08,
+        "start_formatted": "24:13",
+        "text": "called Simple Bench, which tests an AI"
+      },
+      {
+        "start": 1454.92,
+        "duration": 4.88,
+        "start_formatted": "24:14",
+        "text": "model on common sense stuff, and as you"
+      },
+      {
+        "start": 1457.24,
+        "duration": 4.68,
+        "start_formatted": "24:17",
+        "text": "can see, Fable is indeed ranked number"
+      },
+      {
+        "start": 1459.8,
+        "duration": 4.28,
+        "start_formatted": "24:19",
+        "text": "one, but not by a lot, just like less"
+      },
+      {
+        "start": 1461.92,
+        "duration": 4.8,
+        "start_formatted": "24:21",
+        "text": "than two percentage points above Gemini"
+      },
+      {
+        "start": 1464.08,
+        "duration": 5.8,
+        "start_formatted": "24:24",
+        "text": "3.1 Pro. Apparently, still below the"
+      },
+      {
+        "start": 1466.72,
+        "duration": 5.24,
+        "start_formatted": "24:26",
+        "text": "human baseline of 83.7."
+      },
+      {
+        "start": 1469.88,
+        "duration": 3.48,
+        "start_formatted": "24:29",
+        "text": "Next, let's also discuss the specs of"
+      },
+      {
+        "start": 1471.96,
+        "duration": 3.36,
+        "start_formatted": "24:31",
+        "text": "this, because there are a ton of really"
+      },
+      {
+        "start": 1473.36,
+        "duration": 4.0,
+        "start_formatted": "24:33",
+        "text": "fascinating insights from this release"
+      },
+      {
+        "start": 1475.32,
+        "duration": 4.48,
+        "start_formatted": "24:35",
+        "text": "page. So, first of all, they describe"
+      },
+      {
+        "start": 1477.36,
+        "duration": 4.36,
+        "start_formatted": "24:37",
+        "text": "Fable 5 as their most capable model"
+      },
+      {
+        "start": 1479.8,
+        "duration": 3.36,
+        "start_formatted": "24:39",
+        "text": "that's generally available, with"
+      },
+      {
+        "start": 1481.72,
+        "duration": 4.04,
+        "start_formatted": "24:41",
+        "text": "state-of-the-art performance across"
+      },
+      {
+        "start": 1483.16,
+        "duration": 5.2,
+        "start_formatted": "24:43",
+        "text": "nearly all tested benchmarks, especially"
+      },
+      {
+        "start": 1485.76,
+        "duration": 4.84,
+        "start_formatted": "24:45",
+        "text": "for long and complex tasks. So, it's"
+      },
+      {
+        "start": 1488.36,
+        "duration": 4.52,
+        "start_formatted": "24:48",
+        "text": "really good for like agentic coding and"
+      },
+      {
+        "start": 1490.6,
+        "duration": 4.48,
+        "start_formatted": "24:50",
+        "text": "software engineering tasks. For example,"
+      },
+      {
+        "start": 1492.88,
+        "duration": 4.72,
+        "start_formatted": "24:52",
+        "text": "Stripe was able to get Fable 5 to"
+      },
+      {
+        "start": 1495.08,
+        "duration": 5.48,
+        "start_formatted": "24:55",
+        "text": "perform a codebase-wide migration in a"
+      },
+      {
+        "start": 1497.6,
+        "duration": 5.16,
+        "start_formatted": "24:57",
+        "text": "50 million line code base in just one"
+      },
+      {
+        "start": 1500.56,
+        "duration": 4.72,
+        "start_formatted": "25:00",
+        "text": "day. This task would have taken a team"
+      },
+      {
+        "start": 1502.76,
+        "duration": 5.16,
+        "start_formatted": "25:02",
+        "text": "over two months to complete manually."
+      },
+      {
+        "start": 1505.28,
+        "duration": 4.68,
+        "start_formatted": "25:05",
+        "text": "It's also highly capable of serious"
+      },
+      {
+        "start": 1507.92,
+        "duration": 5.0,
+        "start_formatted": "25:07",
+        "text": "knowledge work tasks, especially for"
+      },
+      {
+        "start": 1509.96,
+        "duration": 5.36,
+        "start_formatted": "25:09",
+        "text": "finance, document analysis, interpreting"
+      },
+      {
+        "start": 1512.92,
+        "duration": 4.68,
+        "start_formatted": "25:12",
+        "text": "charts and tables, and factual lookup."
+      },
+      {
+        "start": 1515.32,
+        "duration": 4.72,
+        "start_formatted": "25:15",
+        "text": "Its vision capabilities are also super"
+      },
+      {
+        "start": 1517.6,
+        "duration": 5.12,
+        "start_formatted": "25:17",
+        "text": "strong, so it's able to easily extract"
+      },
+      {
+        "start": 1520.04,
+        "duration": 4.6,
+        "start_formatted": "25:20",
+        "text": "stuff from scientific figures or rebuild"
+      },
+      {
+        "start": 1522.72,
+        "duration": 4.56,
+        "start_formatted": "25:22",
+        "text": "an app just from screenshots. Or here,"
+      },
+      {
+        "start": 1524.64,
+        "duration": 5.0,
+        "start_formatted": "25:24",
+        "text": "it even beats Pokémon Fire Red with a"
+      },
+      {
+        "start": 1527.28,
+        "duration": 4.12,
+        "start_formatted": "25:27",
+        "text": "minimal vision-only harness. And as you"
+      },
+      {
+        "start": 1529.64,
+        "duration": 3.96,
+        "start_formatted": "25:29",
+        "text": "can see from my frog test, this is"
+      },
+      {
+        "start": 1531.4,
+        "duration": 3.96,
+        "start_formatted": "25:31",
+        "text": "indeed very performant. This is the only"
+      },
+      {
+        "start": 1533.6,
+        "duration": 4.32,
+        "start_formatted": "25:33",
+        "text": "model that could successfully find the"
+      },
+      {
+        "start": 1535.36,
+        "duration": 5.2,
+        "start_formatted": "25:35",
+        "text": "frog in this image. This is also much"
+      },
+      {
+        "start": 1537.92,
+        "duration": 5.28,
+        "start_formatted": "25:37",
+        "text": "better at long horizon tasks. This can"
+      },
+      {
+        "start": 1540.56,
+        "duration": 3.96,
+        "start_formatted": "25:40",
+        "text": "stay focused across millions of tokens"
+      },
+      {
+        "start": 1543.2,
+        "duration": 3.2,
+        "start_formatted": "25:43",
+        "text": "as long as, well, you don't run out of"
+      },
+      {
+        "start": 1544.52,
+        "duration": 3.8,
+        "start_formatted": "25:44",
+        "text": "credits. It's also really good at"
+      },
+      {
+        "start": 1546.4,
+        "duration": 4.0,
+        "start_formatted": "25:46",
+        "text": "biology. It was able to come up with"
+      },
+      {
+        "start": 1548.32,
+        "duration": 4.16,
+        "start_formatted": "25:48",
+        "text": "these really strong candidates for drug"
+      },
+      {
+        "start": 1550.4,
+        "duration": 4.04,
+        "start_formatted": "25:50",
+        "text": "design. However, that is using Fable's"
+      },
+      {
+        "start": 1552.48,
+        "duration": 4.28,
+        "start_formatted": "25:52",
+        "text": "raw model. The Fable that you and I have"
+      },
+      {
+        "start": 1554.44,
+        "duration": 3.92,
+        "start_formatted": "25:54",
+        "text": "access to is severely nerfed, and it's"
+      },
+      {
+        "start": 1556.76,
+        "duration": 3.8,
+        "start_formatted": "25:56",
+        "text": "not going to respond to any"
+      },
+      {
+        "start": 1558.36,
+        "duration": 4.08,
+        "start_formatted": "25:58",
+        "text": "biology-related questions. Now, it's"
+      },
+      {
+        "start": 1560.56,
+        "duration": 4.44,
+        "start_formatted": "26:00",
+        "text": "time to talk about the most important"
+      },
+      {
+        "start": 1562.44,
+        "duration": 4.84,
+        "start_formatted": "26:02",
+        "text": "part of this, which is the nerfing and"
+      },
+      {
+        "start": 1565.0,
+        "duration": 4.92,
+        "start_formatted": "26:05",
+        "text": "the guardrails of this model. So, Fable"
+      },
+      {
+        "start": 1567.28,
+        "duration": 5.8,
+        "start_formatted": "26:07",
+        "text": "5 is basically the same underlying model"
+      },
+      {
+        "start": 1569.92,
+        "duration": 5.6,
+        "start_formatted": "26:09",
+        "text": "as Mythos 5, but with extra safeguards"
+      },
+      {
+        "start": 1573.08,
+        "duration": 5.12,
+        "start_formatted": "26:13",
+        "text": "or basically more nerfing. As you can"
+      },
+      {
+        "start": 1575.52,
+        "duration": 4.4,
+        "start_formatted": "26:15",
+        "text": "see from my medical example, Fable 5"
+      },
+      {
+        "start": 1578.2,
+        "duration": 4.12,
+        "start_formatted": "26:18",
+        "text": "will refuse to answer this, and it'll"
+      },
+      {
+        "start": 1579.92,
+        "duration": 5.2,
+        "start_formatted": "26:19",
+        "text": "simply fall back to Opus or a dumber"
+      },
+      {
+        "start": 1582.32,
+        "duration": 5.04,
+        "start_formatted": "26:22",
+        "text": "model, especially if you ask it about"
+      },
+      {
+        "start": 1585.12,
+        "duration": 5.08,
+        "start_formatted": "26:25",
+        "text": "something related to cybersecurity,"
+      },
+      {
+        "start": 1587.36,
+        "duration": 5.08,
+        "start_formatted": "26:27",
+        "text": "biology, chemistry, or distillation. So,"
+      },
+      {
+        "start": 1590.2,
+        "duration": 4.56,
+        "start_formatted": "26:30",
+        "text": "if you need an AI to help with these"
+      },
+      {
+        "start": 1592.44,
+        "duration": 3.84,
+        "start_formatted": "26:32",
+        "text": "topics, don't get Fable 5. It's simply"
+      },
+      {
+        "start": 1594.76,
+        "duration": 3.72,
+        "start_formatted": "26:34",
+        "text": "not going to answer you. That being"
+      },
+      {
+        "start": 1596.28,
+        "duration": 4.48,
+        "start_formatted": "26:36",
+        "text": "said, for regular vibe coding stuff, as"
+      },
+      {
+        "start": 1598.48,
+        "duration": 4.88,
+        "start_formatted": "26:38",
+        "text": "I showed you in some of my examples,"
+      },
+      {
+        "start": 1600.76,
+        "duration": 4.64,
+        "start_formatted": "26:40",
+        "text": "this is indeed incredibly performant and"
+      },
+      {
+        "start": 1603.36,
+        "duration": 3.88,
+        "start_formatted": "26:43",
+        "text": "noticeably better and less error-prone"
+      },
+      {
+        "start": 1605.4,
+        "duration": 4.72,
+        "start_formatted": "26:45",
+        "text": "than the other top models. All right, so"
+      },
+      {
+        "start": 1607.24,
+        "duration": 5.76,
+        "start_formatted": "26:47",
+        "text": "that sums up my review of Claude Fable"
+      },
+      {
+        "start": 1610.12,
+        "duration": 5.24,
+        "start_formatted": "26:50",
+        "text": "5. If you ask me, would I personally use"
+      },
+      {
+        "start": 1613.0,
+        "duration": 4.8,
+        "start_formatted": "26:53",
+        "text": "this? Honestly, the answer is not really"
+      },
+      {
+        "start": 1615.36,
+        "duration": 4.64,
+        "start_formatted": "26:55",
+        "text": "because it's so damn expensive and slow."
+      },
+      {
+        "start": 1617.8,
+        "duration": 4.32,
+        "start_formatted": "26:57",
+        "text": "It just burns away my credits and tokens"
+      },
+      {
+        "start": 1620.0,
+        "duration": 5.0,
+        "start_formatted": "27:00",
+        "text": "and for most of the time I don't really"
+      },
+      {
+        "start": 1622.12,
+        "duration": 4.84,
+        "start_formatted": "27:02",
+        "text": "need Fable 5. I think the only time I"
+      },
+      {
+        "start": 1625.0,
+        "duration": 3.88,
+        "start_formatted": "27:05",
+        "text": "would potentially use this is if there's"
+      },
+      {
+        "start": 1626.96,
+        "duration": 4.04,
+        "start_formatted": "27:06",
+        "text": "some really annoying bug that's hidden"
+      },
+      {
+        "start": 1628.88,
+        "duration": 4.64,
+        "start_formatted": "27:08",
+        "text": "in my code base which none of the other"
+      },
+      {
+        "start": 1631.0,
+        "duration": 4.76,
+        "start_formatted": "27:11",
+        "text": "top models could successfully find, then"
+      },
+      {
+        "start": 1633.52,
+        "duration": 4.44,
+        "start_formatted": "27:13",
+        "text": "maybe I would use Fable 5 as the last"
+      },
+      {
+        "start": 1635.76,
+        "duration": 5.2,
+        "start_formatted": "27:15",
+        "text": "resort. But honestly, for most of my"
+      },
+      {
+        "start": 1637.96,
+        "duration": 4.96,
+        "start_formatted": "27:17",
+        "text": "other daily tasks, GPT 5.5 and Codex"
+      },
+      {
+        "start": 1640.96,
+        "duration": 3.24,
+        "start_formatted": "27:20",
+        "text": "just handles it beautifully already. But"
+      },
+      {
+        "start": 1642.92,
+        "duration": 3.44,
+        "start_formatted": "27:22",
+        "text": "let me know in the comments what you"
+      },
+      {
+        "start": 1644.2,
+        "duration": 5.16,
+        "start_formatted": "27:24",
+        "text": "think. As always, I will be on the"
+      },
+      {
+        "start": 1646.36,
+        "duration": 4.88,
+        "start_formatted": "27:26",
+        "text": "lookout for the top AI news and tools to"
+      },
+      {
+        "start": 1649.36,
+        "duration": 3.56,
+        "start_formatted": "27:29",
+        "text": "share with you. So, if you enjoyed this"
+      },
+      {
+        "start": 1651.24,
+        "duration": 3.8,
+        "start_formatted": "27:31",
+        "text": "video, remember to like, share,"
+      },
+      {
+        "start": 1652.92,
+        "duration": 4.44,
+        "start_formatted": "27:32",
+        "text": "subscribe, and stay tuned for more"
+      },
+      {
+        "start": 1655.04,
+        "duration": 4.16,
+        "start_formatted": "27:35",
+        "text": "content. Also, there's just so much"
+      },
+      {
+        "start": 1657.36,
+        "duration": 4.24,
+        "start_formatted": "27:37",
+        "text": "happening in the world of AI every week."
+      },
+      {
+        "start": 1659.2,
+        "duration": 4.64,
+        "start_formatted": "27:39",
+        "text": "I can't possibly cover everything on my"
+      },
+      {
+        "start": 1661.6,
+        "duration": 4.56,
+        "start_formatted": "27:41",
+        "text": "YouTube channel. So, to really stay"
+      },
+      {
+        "start": 1663.84,
+        "duration": 5.0,
+        "start_formatted": "27:43",
+        "text": "up-to-date with all that's going on in"
+      },
+      {
+        "start": 1666.16,
+        "duration": 4.68,
+        "start_formatted": "27:46",
+        "text": "AI, be sure to subscribe to my free"
+      },
+      {
+        "start": 1668.84,
+        "duration": 3.92,
+        "start_formatted": "27:48",
+        "text": "weekly newsletter. The link to that will"
+      },
+      {
+        "start": 1670.84,
+        "duration": 3.96,
+        "start_formatted": "27:50",
+        "text": "be in the description below. Thanks for"
+      },
+      {
+        "start": 1672.76,
+        "duration": 4.36,
+        "start_formatted": "27:52",
+        "text": "watching and I'll see you in the next"
+      },
+      {
+        "start": 1674.8,
+        "duration": 2.32,
+        "start_formatted": "27:54",
+        "text": "one."
+      }
+    ],
+    "full_text": "Anthropic just released their latest and best model, Claude Fable 5. And get this, it's even more powerful than their mythos preview model, which they previously said was too dangerous to release. So, in this video, I'm going to go over all the impressive things that Fable 5 can do, plus its limitations, and also go over its specs and pricing and benchmarks and how it compares to the other leading models. Let's jump right in. Thanks to HubSpot for sponsoring this video. Instead of just talking about benchmarks, let's start with a really challenging test that no AI model has gotten correct so far. I'm going to feed Claude this image. There's a frog hidden somewhere in this image. If you don't want me to spoil the answer, feel free to pause it right now and look for the frog first. All right, so I'm going to drop it in here and then ask it to find and circle the frog that's hidden in this photo. I'm going to set the effort to Fable 5 Max and then press run. You know, wouldn't it be funny if I was just trolling and there's actually no frog in this image, but y'all are just staring at this trying to find the frog? But no, there's actually a frog in this image. All right, let me expand its thinking process so you can see how it did this. So, it's actually zooming into different quadrants to locate the frog. So, it first splits the image into different sections and then it's inspecting each region and then it spotted a brown frog at exactly these coordinates and it drew a red circle around the frog. That's pretty much it. So, if we expand this, you can see that indeed it has circled the frog correctly. Oh my goodness. Let me expand this image for you so you can see that the frog is indeed over here. Here is its head and here are its hind legs. This is the first model ever to actually get this prompt correct. So, it looks like I need to make an even harder photo for the next model. Now, the strength of Claude Fable and even the top Opus models isn't just getting it to answer simple questions in the Claude interface, but they're actually designed to do really well at agentic coding. So, what I'm going to do instead of just using the regular Claude chat is to use Claude code. So, this is just the Claude code desktop app, which you can download for free, and let's try this prompt. \"Develop a ray tracing simulation featuring one sphere, one cube, and one pyramid. The environment is a blue sky with a checkered ground. Add adjustable parameters such as position, reflectivity, roughness, transparency, and other material properties for each shape. Put everything in a standalone HTML file, but the most important part is this. Do not use 3.js or other external libraries.\" It needs to code up this entire ray tracing simulation from scratch itself. This tests its underlying understanding of physics and lighting. I'm just going to set this to fable high, and then press enter and see what that gives us. All right, so in one shot it already gave me a pretty decent-looking simulation, but it was kind of laggy, so I prompted it further. \"It works well, but there's some latency. Can you make this even more efficient on a web browser?\" And then it continued to add some more latency optimizations, and that's it. In just two prompts, here's what we got. Let me open this in a new browser, and let's test this out. So, I can indeed drag around the simulation, and there is like a few milliseconds of latency before it renders the full simulation. Let's play with the sphere first. Let's drag these position sliders. All right, so these position sliders work. Let's also change the color to white. Radius also works, very nice. And let's change the reflectivity to full reflectiveness, and as you can see, now it's super reflective, so that works. Let's change the roughness. That also works, very nice. Let's decrease the roughness back to zero, and let's increase the transparency all the way to one and reflectivity to zero. So, now this is fully transparent. Very nice. And then, let's also change the IOR, which does this. So, all these settings work. Very nice. Next, let's move on to the cube. So, let me also adjust the position of the cube. So, these settings work. And actually, what I'm going to do is for the sphere, I'm going to set this to incredibly reflective, so we can see the reflection of the cube within the sphere to make sure that the reflections are also correct. All right. So, let's set the color of the cube to like red, for example. And as you can see, the reflection of the cube on the sphere is also changed to red. Let's also increase the reflectivity. So, reflectivity works. Let's increase the roughness. Roughness also works. And let's set this cube to white, actually. And then, let's also play with the transparency and the IOR settings. So, that also works. Very nice. And as you can see, the changes are also applied to the reflection on the sphere. So, everything works. Final test, let's also make sure that the pyramid works. So, we can change like the base width. Very nice, as well as the height and the rotation. And all the reflections within the shapes also work. Very nice. And then finally, for environment, let's see what this does. There's also all these different settings, for example, changing the sun's position. Very cool. Also, the checker size. Wow. And then also, the ground reflect. So, I mean, it pretty much aced this simulation. And it only took it like one or two prompts. Notice that here, after each round, it's also automatically verifying its fixes and testing it in the browser to make sure everything works. And if it catches anything, it's going to fix those errors, as well. So, this is incredibly robust. However, it does tend to take up way more tokens because it's auto verifying everything. All right, that was too easy. So, next, let's try this. Build a fully interactive 3D digital twin of Earth with the following features. Allow users to zoom seamlessly from outer space down into individual city streets. Now, GPT-5.5 can already do this, so that's not too impressive. Here are some even more challenging features. When I hover over a country, the country's outline should be highlighted, and there should be a pop-up displaying stats like area, population, and GDP. All right. Plus, we got to add more features to really test the hell out of it, so let's also include toggles for atmospheric cloud cover, flight traffic, and day and night toggles. Night mode should show city lights. Use publicly available assets and layers if needed. Make sure it loads efficiently on a regular web browser. Let's press run. All right, that's pretty much it. In just one prompt, I didn't really need to prompt it further. Here's what we got. Now, let me open this up in full screen. Perfect. Now, if we hover over any country, you can see the country's outline is highlighted, plus it gives us the various stats like population, area, GDP, et cetera. And then, here's another example. All of these just work right out of the box. Very nice. Now, let me toggle off the country borders, and next, let's toggle on cloud cover and see what that does. As you can see, it has added some cloud cover to our planet Earth. Next, let's also add flight traffic and see what that does. Wow, this is super cool. So, notice that it's like adding these flight trails across the planet. And then, let's also turn on place labels, so you can see the names of all these different countries and where the flights are coming from. So, it's able to accurately label all the countries. All right, next, let me turn off flight traffic and place labels, and then, for this day-night terminator, if I turn this on, then it basically divides the Earth into day and night. Or, if I turn this off, and I turn on night mode, then it just turns the entire Earth into night mode. And you can like zoom in and even see the city lights. All right, next let's zoom way in to somewhere like Tokyo, I think. And indeed, it allows me to zoom way in to like this city street view. Really cool. So, in just one prompt, it's able to generate this super realistic digital twin of Earth with cloud cover, flight traffic, day and night toggles, even country stats and labels. This is incredibly complicated to build in just one prompt, but Fable was able to ace this. Very impressive. You've probably heard of how AI tools are transforming marketing, but if you're not sure how to actually use them to build real campaigns without hiring developers, this is the ebook for you. Check out Master Claude Code for Marketing: Four Workflows Plus 12 Prompts to Ship Campaigns Fast by HubSpot. This bundle includes four workflows that are like a cheat code for building and deploying entire marketing campaigns from your terminal. You'll learn how to conduct research, craft differentiated positioning, build interactive lead magnets, and deploy landing pages, all without writing a single line of code yourself. You get 12 ready-to-use prompts to help you unlock Claude Code's full potential for marketing tasks, from researching competitors to writing email sequences that actually convert. Use them to eliminate the guesswork and get high-quality outputs faster. My favorite one is this one-shot landing page builder workflow. It shows you how to go from positioning to a fully deployed landing page in a single session, complete with distinctive design, mobile responsiveness, and clear conversion paths. You can access all of this for free using the link in the description below. This resource was made by HubSpot, the sponsor of this video. All right, next let's see how good it is at reconstructing a 3D scene from just reference image. So, I'm going to input this image, which is really complicated with a ton of office desks and items and people. None of the other top models out there could really code this up well. I'm going to feed this into Claude Code and then get it to create a beautiful 3D animated scene from this image. Use a single HTML file. All right, here's what I got. It did code up something pretty nice, but the tables and the desks weren't really aligned with the input image, so I wrote, \"Make sure the desks, items, and people are aligned exactly like the reference image.\" And then it proceeded to code this up further, and then it tried to verify everything itself, and it also fixed some bugs, apparently. And that was it. So, I only used two prompts on this, and here's the result. Now, if you compare this with the original image, then there's still some discrepancies. So, the center table with the rows of three chairs, that's correct, but the rest of the desks aren't really aligned properly with the original image. So, you know, this human should not really be here. There should be more desks. And then it decided to add this random space here, which is not correct. So, it's not perfectly aligned with what I have in the original image. So, I would say this generation is a fail. However, if you compare this to the generation from GPT-5.5, then it does look a lot better and more coherent. For GPT-5.5, there's just a lot of disconnected pieces, whereas this one from Fable has overall fewer errors. Next, here's one of my classic tests to see how good it is at music composition. First, I'm going to get it to make a DAW interface with these instruments: a piano, synth pluck, strings, drums, and bass. For each instrument, there should be a piano roll interface where I can drag and drop notes on the timeline. Each track should have pan, volume, and other standard settings. Add play, pause, and other settings. So, let's click run first, and with just one prompt, it did give me a fully working DAW with five tracks and all these different settings. And then I got it to actually compose a song. So I wrote by default show a powerful expressive 32 bar song using all the instruments rich in complexity that would win a Grammy. Include effects automation, panning, and make sure everything is mastered well. So let's open this up in a browser and play it. All right, here's our Grammy award-winning track. >> [music] [music] [music] [music] [music] [music] [music] [music] >> It didn't sound too impressive. I mean, it's just playing the same chords over and over again with some slightly different variation in the notes. Definitely not enough to win a Grammy. And you know, interestingly, it sounds very similar to the composition from GPT 5.5 when I tested it on the same prompt. >> [music] [music] [music] >> Also, it did not really include automation and panning, although it did include some effects like delay and reverb. Everything doesn't really seem to be mastered well. So, in terms of music composition, I would say Claude Fable isn't really like pro level yet. All right, here's a fun one. Let's see how good Fable is at creating video games. So, let's write create a 3D game using 3.js. It should be a futuristic battlefield where I control a Mecca warrior and shoot down waves of alien creatures attacking from the sky and ground. Third-person shooter perspective. Use publicly available 3D assets. Make it look amazing like a pro triple-A video game. And in just one prompt, here's what I got. I can move and do stuff with all these different keys. So, I can also shift to sprint and space to jump or use jet thrusters. Pretty cool. Let's deploy this and start playing. All right, you can see that everything works. Oh my goodness, there's like this beetle thing attacking me. And then there are these birds in the sky that are also trying to attack me. Oh my goodness. But everything works. This is very nicely designed. This is a 3D third-person shooter game. And let's try pressing space and indeed, I can kind of fly up. Really cool. And eventually, my HP goes to zero and it's game over. So, everything works. Notice that it even includes like multiple levels or waves where it gets harder and harder. There are more enemies. So, for example, I made it up to wave three. So, in just one prompt, this works really well already. I didn't even need to prompt it further. All right, now that's the first iteration, but remember in the prompt, I said I told it to use publicly available 3D assets. Well, down here it's basically being extra cautious. So, here it says it avoided any external third-party models for now, but if you'd like I can swap in some Creative Common models for you to use. So, I wrote okay, let's proceed with this and make the game design even better. So, afterwards let's look at the revised game. Notice that it even added more stuff like thruster dash with the Q key as well as 1 2 3 4 field upgrade, whatever that is. Let's click deploy and run this. And instantly notice how everything just looks a lot better. Oh my god, there's like this spider attacking me now. This is pretty intense just for a round one. There's like wasps everywhere. Let me just fly away. So, there you go. With just one additional prompt it's able to make this game design look even better with more actions like thrusters and other different settings. Really cool. So, I mean if you want to vibe code a video game, then definitely Fable is one of the most performant models you can use. It has the least amount of errors and it's just so good at understanding my instructions. I'm sure with a few additional prompts you could potentially make this into a production-ready game. Now, one of the most powerful features of using Fable or pretty much any other state-of-the-art model is getting it to create educational content for your kids or for yourself. For example, let's get it to make a fun educational course on high school chemistry consisting of three lessons. Include interactive visual exercises. Make it look fun and appealing. So, let's press run. Right, so in just one prompt here's what we got. Let me open this up in a new tab. So, here is the landing page. It has three lessons. Everything is responsive and nicely designed. Let's start with lesson one. So, here's what it looks like. It teaches us about protons, neutrons, electrons. Plus here is an interactive exercise to build an atom. So, we can like increase the number of stuff here, and you know, everything is actually very accurately coded. So, for example, the protons and neutrons should be at the center here, plus indeed, there should be two electrons in the first orbit, and then I believe eight electrons in the second orbit. So, let's actually increase this further, and indeed, once we get to electron 11, then it adds another orbit outside of it. So, everything is actually scientifically correct. Next, it also gives us a mini quiz. So, let's like just randomly select some answers, and as you can see, everything is programmed and animated very well. It gives us the final score at the bottom. Next, let's hop on to lesson two. Here, it even gives us an interactive element explorer with a part of the periodic table, and if we click on each one, then indeed, it does give us very accurate information about each element that I select. This is very comprehensive. And then next, let's start this game. I'm a noble gas hiding in period two. People bend me into glowing signs. Who am I? Let's just randomly select something and see if it is correct. It's not nitrogen. Let's actually try to solve this. Noble gas, so I think it's one of these. Maybe it's neon, and indeed, it's neon. And then it also gives us a mini quiz at the end. And then next, let's move on to the last lesson. Here is where we can balance different molecules to create compounds, I guess. Everything just works. And then here's a quick game, so let me just randomly select an answer. And then here is where we learn about pH. It's designed and animated very nicely. And then finally, here is a mini quiz. So, everything just works. You can get Fable to create lessons for any topic you or your kid wants to learn. This is incredibly useful for creating educational content. All right, now moving back to Cloud Code, next, let's see if it can classify different types of cancer tumors. So, I'm going to input this image of six different slides. Each slide corresponds to a different type of tumor. I'm going to plug it in here and then write identify the types of tumors in each of these six images if any. However, note that it immediately switched to Opus 4.8 instead of Fable. All right, I tried this several times and it still just switched to Opus 4.8. And if I click on Y here it says that Fable actually has safety measures that flag messages on most cybersecurity or biology topics, which is kind of lame. So, if I have any like medical condition or something that I wanted to diagnose, I most likely will not be able to use Fable. Instead, it's just going to switch to Opus 4.8. I also tried to get it to do some deep scientific research. So, here the prompt is describe the molecular drivers of this type of leukemia, discuss targeted therapy evolution from etc. etc. include relevant tables and visualizations. And again, at the bottom here it says switched to Opus 4.8 again because this is a biology topic. So, unfortunately, as you can see here, if you want to get Fable 5 to answer some biology-related questions, it's most likely not going to answer you and then just switch to Opus. All right, so that sums up my quick tests on Fable 5. It's definitely state-of-the-art and noticeably better than GPT 5.5 in terms of vibe coding different things. It tends to verify its edits automatically, so it's a lot less error-prone and it just works most of the time. However, that being said, it also wastes a ton of tokens. We're going to go over the costs in a second. And for most instances, it's kind of overkill. You don't really need to use Fable 5 to do most stuff. Next, let's look at its specs, performance, and benchmarks. So, across pretty much all categories, you can see that Fable 5 not only beats the previous Claude Mythos preview, which they said was too dangerous to release, but also Claude's previous leading model Opus 4.8 as well as 5.5 and Gemini 3.1 Pro. And I mean, for most of these benchmarks, it's not just a marginal improvement, but a huge leap. For example, for SweepBench, this is like an over 20% leap over GPT-5. Same with this agentic coding benchmark, as well as computer use, agentic coding, and cybersecurity. This is a huge leap compared to GPT-5.5. Now, if you look at this benchmark from Artificial Analysis, Fable 5 is ranked number one. It has a million token context window, similar to the other top models like GPT-5.5 or Gemini 3.1 Pro. So, this 1 million token window has become the standard now. This is basically how much information you can fit into your prompt at once, and a million tokens is roughly like 700,000 words, or a small and medium-sized codebase. If you check out their intelligence index, then you can see that Fable 5 is indeed ranked number one at 65. And then, GPT-5.5 Extra High is only 60, and then Gemini 3.1 Pro is even lower. Now, if you look at the speed of this, Fable 5 is extremely slow. I often have to wait minutes for it to even complete just a simple prompt. And here is the most important thing, which is the price. Fable 5 is by far the most expensive model out there. If we break this down further, then it's 50 bucks per million output tokens, which is crazy. Notice that GPT-5.5 is only 30 bucks, and then the Claude Opus models is only 25 bucks per output tokens. This is two times more expensive than Opus. And if you look at the hallucination rate of Fable, it's actually very high. This is even worse than Llama 3.1, which is pretty shocking. So, it has higher hallucination than Opus 4.8, as well as even some open models like MiniMax, Mimo, and JLM. Here's another benchmark called LiveBench by Abacus AI, and interestingly, here Fable 5 is not ranked number one, but actually number four, even below GPT-5.5, 5.4, and Gemini 3.1 Pro, which is kind of shocking. Here, it doesn't seem to do very well in coding and instruction following. Here's another benchmark called Deep Squeeze, which seems to be a more accurate measure of how good these models are in terms of handling coding tasks. However, at the time of this recording, they have not added Fable 5 yet. Here's another benchmark called Vending Bench, which measures a model's performance on running a business over a long time. So, it's tasked with running a simulated vending business over a year, and the score is basically their bank account balance at the end. Did they make money, and how much did they make? Now, interestingly, Fable 5 High was not ranked number one. It's like ranked all the way down at number nine. It did not make the most money, whereas the older Opus models plus GPT 5.5 and Kimiko 2.6 made significantly more money. So, maybe Fable 5 had too much guardrails, it's too nerfed, or it's just too honest, and therefore, in terms of running a business, it's not as profitable as the other models. Now, in terms of debating, Claude Fable 5 High is the current leader, much better than GPT 5.5, Gemini, or the other open models. Here's another leaderboard called Simple Bench, which tests an AI model on common sense stuff, and as you can see, Fable is indeed ranked number one, but not by a lot, just like less than two percentage points above Gemini 3.1 Pro. Apparently, still below the human baseline of 83.7. Next, let's also discuss the specs of this, because there are a ton of really fascinating insights from this release page. So, first of all, they describe Fable 5 as their most capable model that's generally available, with state-of-the-art performance across nearly all tested benchmarks, especially for long and complex tasks. So, it's really good for like agentic coding and software engineering tasks. For example, Stripe was able to get Fable 5 to perform a codebase-wide migration in a 50 million line code base in just one day. This task would have taken a team over two months to complete manually. It's also highly capable of serious knowledge work tasks, especially for finance, document analysis, interpreting charts and tables, and factual lookup. Its vision capabilities are also super strong, so it's able to easily extract stuff from scientific figures or rebuild an app just from screenshots. Or here, it even beats Pokémon Fire Red with a minimal vision-only harness. And as you can see from my frog test, this is indeed very performant. This is the only model that could successfully find the frog in this image. This is also much better at long horizon tasks. This can stay focused across millions of tokens as long as, well, you don't run out of credits. It's also really good at biology. It was able to come up with these really strong candidates for drug design. However, that is using Fable's raw model. The Fable that you and I have access to is severely nerfed, and it's not going to respond to any biology-related questions. Now, it's time to talk about the most important part of this, which is the nerfing and the guardrails of this model. So, Fable 5 is basically the same underlying model as Mythos 5, but with extra safeguards or basically more nerfing. As you can see from my medical example, Fable 5 will refuse to answer this, and it'll simply fall back to Opus or a dumber model, especially if you ask it about something related to cybersecurity, biology, chemistry, or distillation. So, if you need an AI to help with these topics, don't get Fable 5. It's simply not going to answer you. That being said, for regular vibe coding stuff, as I showed you in some of my examples, this is indeed incredibly performant and noticeably better and less error-prone than the other top models. All right, so that sums up my review of Claude Fable 5. If you ask me, would I personally use this? Honestly, the answer is not really because it's so damn expensive and slow. It just burns away my credits and tokens and for most of the time I don't really need Fable 5. I think the only time I would potentially use this is if there's some really annoying bug that's hidden in my code base which none of the other top models could successfully find, then maybe I would use Fable 5 as the last resort. But honestly, for most of my other daily tasks, GPT 5.5 and Codex just handles it beautifully already. But let me know in the comments what you think. As always, I will be on the lookout for the top AI news and tools to share with you. So, if you enjoyed this video, remember to like, share, subscribe, and stay tuned for more content. Also, there's just so much happening in the world of AI every week. I can't possibly cover everything on my YouTube channel. So, to really stay up-to-date with all that's going on in AI, be sure to subscribe to my free weekly newsletter. The link to that will be in the description below. Thanks for watching and I'll see you in the next one.",
+    "word_count": 4817,
     "error": null
   }
 }

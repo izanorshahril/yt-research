@@ -14,10 +14,4961 @@
     "video_id": "s3rNDndvav0",
     "has_transcript": true,
     "language": "en",
-    "is_generated": false,
-    "segments": [],
-    "full_text": "MAMMAL biology foundation model that understands genes, proteins, small molecules. Beats AlphaFold 3! #ai #ainews #science #agi #singularity  Thanks to our sponsor Runway. Try Runway Agent today https://runwayml.com/aisearch-agent\n\nIf you enjoyed this video, you will also like: https://youtu.be/QvN6Tu6dHYM\n\nFull paper: https://www.nature.com/articles/s44386-026-00047-4\n\n0:00 MAMMAL intro \n0:38 Problems with drug design\n1:36 How biology works\n3:23 How drug design works\n5:24 Why modern tech fails\n6:47 How MAMMAL works\n10:10 How good is it\n10:59 Predicting drug toxicity\n13:48 Runway Agent\n15:19 Labelling cells based on gene activity\n16:05 New cancer drug discovery\n20:19 Implications for drug repurposing\n21:16 Antibodies\n22:17 MAMMAL vs Alphafold\n23:29 Why Alphafold failed\n26:05 Designing new drugs\n27:27 Generating antibody fingers \n29:29 Implications for medicine\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
-    "word_count": 0,
+    "is_generated": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "duration": 4.2,
+        "start_formatted": "00:00",
+        "text": "This might genuinely be one of the"
+      },
+      {
+        "start": 2.12,
+        "duration": 4.72,
+        "start_formatted": "00:02",
+        "text": "biggest breakthroughs in medicine and"
+      },
+      {
+        "start": 4.2,
+        "duration": 5.04,
+        "start_formatted": "00:04",
+        "text": "drug discovery we've seen in decades. A"
+      },
+      {
+        "start": 6.84,
+        "duration": 5.08,
+        "start_formatted": "00:06",
+        "text": "new paper just dropped and it's about"
+      },
+      {
+        "start": 9.24,
+        "duration": 4.32,
+        "start_formatted": "00:09",
+        "text": "this new AI model called Mammal. And"
+      },
+      {
+        "start": 11.92,
+        "duration": 3.8,
+        "start_formatted": "00:11",
+        "text": "this can completely transform"
+      },
+      {
+        "start": 13.56,
+        "duration": 3.92,
+        "start_formatted": "00:13",
+        "text": "biosciences and medicine. It could"
+      },
+      {
+        "start": 15.72,
+        "duration": 4.2,
+        "start_formatted": "00:15",
+        "text": "potentially come up with a ton of new"
+      },
+      {
+        "start": 17.48,
+        "duration": 4.8,
+        "start_formatted": "00:17",
+        "text": "cures for diseases like cancer and this"
+      },
+      {
+        "start": 19.92,
+        "duration": 4.6,
+        "start_formatted": "00:19",
+        "text": "can make drug discovery way faster and"
+      },
+      {
+        "start": 22.28,
+        "duration": 4.68,
+        "start_formatted": "00:22",
+        "text": "cheaper and more accurate. This could"
+      },
+      {
+        "start": 24.52,
+        "duration": 4.52,
+        "start_formatted": "00:24",
+        "text": "also lead to personalized medicine and"
+      },
+      {
+        "start": 26.96,
+        "duration": 4.2,
+        "start_formatted": "00:26",
+        "text": "beyond. Now this paper is super"
+      },
+      {
+        "start": 29.04,
+        "duration": 3.8,
+        "start_formatted": "00:29",
+        "text": "technical and jam- packed with details."
+      },
+      {
+        "start": 31.16,
+        "duration": 4.08,
+        "start_formatted": "00:31",
+        "text": "So in this video I'm going to break it"
+      },
+      {
+        "start": 32.84,
+        "duration": 4.84,
+        "start_formatted": "00:32",
+        "text": "down into simple terms so it's easy for"
+      },
+      {
+        "start": 35.24,
+        "duration": 4.72,
+        "start_formatted": "00:35",
+        "text": "anyone to understand. Let's jump right"
+      },
+      {
+        "start": 37.68,
+        "duration": 4.32,
+        "start_formatted": "00:37",
+        "text": "in. Now to understand why this paper is"
+      },
+      {
+        "start": 39.96,
+        "duration": 4.44,
+        "start_formatted": "00:39",
+        "text": "such a big deal, it's helpful to first"
+      },
+      {
+        "start": 42.0,
+        "duration": 5.36,
+        "start_formatted": "00:42",
+        "text": "start with the problems of medicine and"
+      },
+      {
+        "start": 44.4,
+        "duration": 5.04,
+        "start_formatted": "00:44",
+        "text": "drug design today. Imagine spending 10"
+      },
+      {
+        "start": 47.36,
+        "duration": 4.6,
+        "start_formatted": "00:47",
+        "text": "years and a billion dollars building"
+      },
+      {
+        "start": 49.44,
+        "duration": 5.52,
+        "start_formatted": "00:49",
+        "text": "something and there's a 90% chance it"
+      },
+      {
+        "start": 51.96,
+        "duration": 5.16,
+        "start_formatted": "00:51",
+        "text": "just doesn't work. 90% That's the"
+      },
+      {
+        "start": 54.96,
+        "duration": 3.72,
+        "start_formatted": "00:54",
+        "text": "failure rate of new drugs. From the"
+      },
+      {
+        "start": 57.12,
+        "duration": 3.32,
+        "start_formatted": "00:57",
+        "text": "moment scientists come up with a"
+      },
+      {
+        "start": 58.68,
+        "duration": 4.0,
+        "start_formatted": "00:58",
+        "text": "promising new medicine to the moment it"
+      },
+      {
+        "start": 60.44,
+        "duration": 4.92,
+        "start_formatted": "01:00",
+        "text": "goes through clinical trials, roughly"
+      },
+      {
+        "start": 62.68,
+        "duration": 4.32,
+        "start_formatted": "01:02",
+        "text": "90% don't make it through approval."
+      },
+      {
+        "start": 65.36,
+        "duration": 3.68,
+        "start_formatted": "01:05",
+        "text": "That's kind of insane when you think"
+      },
+      {
+        "start": 67.0,
+        "duration": 4.36,
+        "start_formatted": "01:07",
+        "text": "about it. We've already sequenced the"
+      },
+      {
+        "start": 69.04,
+        "duration": 3.92,
+        "start_formatted": "01:09",
+        "text": "human genome, we have smartphones, we"
+      },
+      {
+        "start": 71.36,
+        "duration": 4.32,
+        "start_formatted": "01:11",
+        "text": "have AI that can predict protein"
+      },
+      {
+        "start": 72.96,
+        "duration": 5.24,
+        "start_formatted": "01:12",
+        "text": "structures or even understand DNA. We"
+      },
+      {
+        "start": 75.68,
+        "duration": 4.2,
+        "start_formatted": "01:15",
+        "text": "have so much amazing technology, yet"
+      },
+      {
+        "start": 78.2,
+        "duration": 3.96,
+        "start_formatted": "01:18",
+        "text": "when it comes to actually making new"
+      },
+      {
+        "start": 79.88,
+        "duration": 4.52,
+        "start_formatted": "01:19",
+        "text": "medicine, we're still wrong most of the"
+      },
+      {
+        "start": 82.16,
+        "duration": 4.32,
+        "start_formatted": "01:22",
+        "text": "time. Think about this. If I built"
+      },
+      {
+        "start": 84.4,
+        "duration": 3.96,
+        "start_formatted": "01:24",
+        "text": "bridges and nine out of 10 of them"
+      },
+      {
+        "start": 86.48,
+        "duration": 4.0,
+        "start_formatted": "01:26",
+        "text": "collapsed, that would be horrible. I"
+      },
+      {
+        "start": 88.36,
+        "duration": 4.04,
+        "start_formatted": "01:28",
+        "text": "would be out of business. So why is"
+      },
+      {
+        "start": 90.48,
+        "duration": 4.28,
+        "start_formatted": "01:30",
+        "text": "modern medicine, even with all our"
+      },
+      {
+        "start": 92.4,
+        "duration": 4.68,
+        "start_formatted": "01:32",
+        "text": "insane modern technology, still hitting"
+      },
+      {
+        "start": 94.76,
+        "duration": 4.48,
+        "start_formatted": "01:34",
+        "text": "this wall? To understand this, we first"
+      },
+      {
+        "start": 97.08,
+        "duration": 4.48,
+        "start_formatted": "01:37",
+        "text": "need to understand some basic biology"
+      },
+      {
+        "start": 99.24,
+        "duration": 5.08,
+        "start_formatted": "01:39",
+        "text": "and how drug design works. You see,"
+      },
+      {
+        "start": 101.56,
+        "duration": 5.24,
+        "start_formatted": "01:41",
+        "text": "every living thing has DNA. This is the"
+      },
+      {
+        "start": 104.32,
+        "duration": 4.76,
+        "start_formatted": "01:44",
+        "text": "code for living things to function and"
+      },
+      {
+        "start": 106.8,
+        "duration": 4.44,
+        "start_formatted": "01:46",
+        "text": "stay alive. And within DNA, there are"
+      },
+      {
+        "start": 109.08,
+        "duration": 4.28,
+        "start_formatted": "01:49",
+        "text": "sections called genes. These are"
+      },
+      {
+        "start": 111.24,
+        "duration": 4.24,
+        "start_formatted": "01:51",
+        "text": "basically instruction manuals. They"
+      },
+      {
+        "start": 113.36,
+        "duration": 4.76,
+        "start_formatted": "01:53",
+        "text": "contain the code for making proteins."
+      },
+      {
+        "start": 115.48,
+        "duration": 4.56,
+        "start_formatted": "01:55",
+        "text": "And proteins are the tiny machines that"
+      },
+      {
+        "start": 118.12,
+        "duration": 3.72,
+        "start_formatted": "01:58",
+        "text": "actually do most of the work inside your"
+      },
+      {
+        "start": 120.04,
+        "duration": 4.0,
+        "start_formatted": "02:00",
+        "text": "body. They send signals, build"
+      },
+      {
+        "start": 121.84,
+        "duration": 4.76,
+        "start_formatted": "02:01",
+        "text": "structures, speed up chemical reactions,"
+      },
+      {
+        "start": 124.04,
+        "duration": 4.88,
+        "start_formatted": "02:04",
+        "text": "control immune responses, keep cells"
+      },
+      {
+        "start": 126.6,
+        "duration": 4.88,
+        "start_formatted": "02:06",
+        "text": "alive, and a ton of other stuff. But,"
+      },
+      {
+        "start": 128.92,
+        "duration": 5.0,
+        "start_formatted": "02:08",
+        "text": "genes aren't always active. Some genes"
+      },
+      {
+        "start": 131.48,
+        "duration": 4.76,
+        "start_formatted": "02:11",
+        "text": "can be turned up, some turned down, or"
+      },
+      {
+        "start": 133.92,
+        "duration": 4.6,
+        "start_formatted": "02:13",
+        "text": "mutated. Scientists call this gene"
+      },
+      {
+        "start": 136.24,
+        "duration": 4.76,
+        "start_formatted": "02:16",
+        "text": "expression. Basically, a measurement of"
+      },
+      {
+        "start": 138.52,
+        "duration": 4.12,
+        "start_formatted": "02:18",
+        "text": "which genes are active and how active"
+      },
+      {
+        "start": 141.0,
+        "duration": 4.68,
+        "start_formatted": "02:21",
+        "text": "they are. And this controls how many"
+      },
+      {
+        "start": 142.64,
+        "duration": 5.68,
+        "start_formatted": "02:22",
+        "text": "proteins are made. So, we have DNA which"
+      },
+      {
+        "start": 145.68,
+        "duration": 5.0,
+        "start_formatted": "02:25",
+        "text": "contains genes, which code up proteins,"
+      },
+      {
+        "start": 148.32,
+        "duration": 4.8,
+        "start_formatted": "02:28",
+        "text": "which are essential for the function of"
+      },
+      {
+        "start": 150.68,
+        "duration": 4.36,
+        "start_formatted": "02:30",
+        "text": "all living things. I'm oversimplifying"
+      },
+      {
+        "start": 153.12,
+        "duration": 4.72,
+        "start_formatted": "02:33",
+        "text": "here, but that's essentially the mini"
+      },
+      {
+        "start": 155.04,
+        "duration": 5.04,
+        "start_formatted": "02:35",
+        "text": "lesson on how life works. Now, there are"
+      },
+      {
+        "start": 157.84,
+        "duration": 4.64,
+        "start_formatted": "02:37",
+        "text": "a few possible ways for this pathway to"
+      },
+      {
+        "start": 160.08,
+        "duration": 4.92,
+        "start_formatted": "02:40",
+        "text": "go wrong, which could cause disease. The"
+      },
+      {
+        "start": 162.48,
+        "duration": 4.2,
+        "start_formatted": "02:42",
+        "text": "DNA might get mutations, which would"
+      },
+      {
+        "start": 165.0,
+        "duration": 4.0,
+        "start_formatted": "02:45",
+        "text": "mess things up. This could cause"
+      },
+      {
+        "start": 166.68,
+        "duration": 4.64,
+        "start_formatted": "02:46",
+        "text": "proteins to be made incorrectly or not"
+      },
+      {
+        "start": 169.0,
+        "duration": 4.76,
+        "start_formatted": "02:49",
+        "text": "at all. Or the gene expression might be"
+      },
+      {
+        "start": 171.32,
+        "duration": 4.44,
+        "start_formatted": "02:51",
+        "text": "too high or too low, which also affects"
+      },
+      {
+        "start": 173.76,
+        "duration": 3.84,
+        "start_formatted": "02:53",
+        "text": "how proteins are made. Even subtle"
+      },
+      {
+        "start": 175.76,
+        "duration": 4.28,
+        "start_formatted": "02:55",
+        "text": "errors in this pathway could cause some"
+      },
+      {
+        "start": 177.6,
+        "duration": 4.72,
+        "start_formatted": "02:57",
+        "text": "catastrophic diseases that you and I are"
+      },
+      {
+        "start": 180.04,
+        "duration": 4.76,
+        "start_formatted": "03:00",
+        "text": "familiar with, like cancer. In fact, in"
+      },
+      {
+        "start": 182.32,
+        "duration": 4.84,
+        "start_formatted": "03:02",
+        "text": "really simple terms, how cancer works is"
+      },
+      {
+        "start": 184.8,
+        "duration": 5.159,
+        "start_formatted": "03:04",
+        "text": "there might be a mutation that damages a"
+      },
+      {
+        "start": 187.16,
+        "duration": 5.64,
+        "start_formatted": "03:07",
+        "text": "gene in the DNA, which controls for cell"
+      },
+      {
+        "start": 189.959,
+        "duration": 4.841,
+        "start_formatted": "03:09",
+        "text": "division. This changes gene expression"
+      },
+      {
+        "start": 192.8,
+        "duration": 4.08,
+        "start_formatted": "03:12",
+        "text": "or protein function. And subsequently,"
+      },
+      {
+        "start": 194.8,
+        "duration": 4.68,
+        "start_formatted": "03:14",
+        "text": "these proteins then tell the cell to"
+      },
+      {
+        "start": 196.88,
+        "duration": 5.079,
+        "start_formatted": "03:16",
+        "text": "grow, to ignore stop signals, and spread"
+      },
+      {
+        "start": 199.48,
+        "duration": 4.52,
+        "start_formatted": "03:19",
+        "text": "into a tumor. That's essentially cancer."
+      },
+      {
+        "start": 201.959,
+        "duration": 4.841,
+        "start_formatted": "03:21",
+        "text": "Now, here's how drugs are currently"
+      },
+      {
+        "start": 204.0,
+        "duration": 4.72,
+        "start_formatted": "03:24",
+        "text": "designed around this process. Scientists"
+      },
+      {
+        "start": 206.8,
+        "duration": 4.439,
+        "start_formatted": "03:26",
+        "text": "usually start by trying to find the"
+      },
+      {
+        "start": 208.72,
+        "duration": 4.12,
+        "start_formatted": "03:28",
+        "text": "specific part of the disease pathway"
+      },
+      {
+        "start": 211.239,
+        "duration": 3.801,
+        "start_formatted": "03:31",
+        "text": "that has gone wrong. In other words,"
+      },
+      {
+        "start": 212.84,
+        "duration": 4.48,
+        "start_formatted": "03:32",
+        "text": "they look for the bad guy. Maybe there's"
+      },
+      {
+        "start": 215.04,
+        "duration": 4.08,
+        "start_formatted": "03:35",
+        "text": "a protein telling cancer cells to keep"
+      },
+      {
+        "start": 217.32,
+        "duration": 4.04,
+        "start_formatted": "03:37",
+        "text": "dividing. Maybe there's an enzyme"
+      },
+      {
+        "start": 219.12,
+        "duration": 4.839,
+        "start_formatted": "03:39",
+        "text": "helping a virus copy itself. Anyways,"
+      },
+      {
+        "start": 221.36,
+        "duration": 4.8,
+        "start_formatted": "03:41",
+        "text": "once the researchers find that target,"
+      },
+      {
+        "start": 223.959,
+        "duration": 4.201,
+        "start_formatted": "03:43",
+        "text": "the goal is to design a drug that can"
+      },
+      {
+        "start": 226.16,
+        "duration": 5.0,
+        "start_formatted": "03:46",
+        "text": "interact with it. Think of the target"
+      },
+      {
+        "start": 228.16,
+        "duration": 5.16,
+        "start_formatted": "03:48",
+        "text": "like a lock and the drug like a key. If"
+      },
+      {
+        "start": 231.16,
+        "duration": 4.32,
+        "start_formatted": "03:51",
+        "text": "the key fits within the lock, it can"
+      },
+      {
+        "start": 233.32,
+        "duration": 4.52,
+        "start_formatted": "03:53",
+        "text": "either block the protein or change what"
+      },
+      {
+        "start": 235.48,
+        "duration": 4.32,
+        "start_formatted": "03:55",
+        "text": "it does. Now, there are two main types"
+      },
+      {
+        "start": 237.84,
+        "duration": 4.96,
+        "start_formatted": "03:57",
+        "text": "of drugs that are relevant to this"
+      },
+      {
+        "start": 239.8,
+        "duration": 5.72,
+        "start_formatted": "03:59",
+        "text": "paper. Some drugs are small molecules"
+      },
+      {
+        "start": 242.8,
+        "duration": 5.24,
+        "start_formatted": "04:02",
+        "text": "like Tylenol. They're tiny, stable, and"
+      },
+      {
+        "start": 245.52,
+        "duration": 4.36,
+        "start_formatted": "04:05",
+        "text": "often easy to manufacture as pills. And"
+      },
+      {
+        "start": 248.04,
+        "duration": 4.16,
+        "start_formatted": "04:08",
+        "text": "because they're so small, they can"
+      },
+      {
+        "start": 249.88,
+        "duration": 4.72,
+        "start_formatted": "04:09",
+        "text": "sometimes just slip inside cells and"
+      },
+      {
+        "start": 252.2,
+        "duration": 4.759,
+        "start_formatted": "04:12",
+        "text": "bind to proteins there. Another type of"
+      },
+      {
+        "start": 254.6,
+        "duration": 4.199,
+        "start_formatted": "04:14",
+        "text": "drug is called an antibody, which is"
+      },
+      {
+        "start": 256.959,
+        "duration": 4.681,
+        "start_formatted": "04:16",
+        "text": "much larger. You can think of them as"
+      },
+      {
+        "start": 258.799,
+        "duration": 4.881,
+        "start_formatted": "04:18",
+        "text": "highly precise biological clamps."
+      },
+      {
+        "start": 261.64,
+        "duration": 4.44,
+        "start_formatted": "04:21",
+        "text": "They're designed to stick to the bad guy"
+      },
+      {
+        "start": 263.68,
+        "duration": 5.44,
+        "start_formatted": "04:23",
+        "text": "with extreme accuracy. Because of their"
+      },
+      {
+        "start": 266.08,
+        "duration": 5.04,
+        "start_formatted": "04:26",
+        "text": "size, they usually work outside cells or"
+      },
+      {
+        "start": 269.12,
+        "duration": 3.96,
+        "start_formatted": "04:29",
+        "text": "on the surface of cells. The hope is"
+      },
+      {
+        "start": 271.12,
+        "duration": 4.32,
+        "start_formatted": "04:31",
+        "text": "that if you shut down the bad guy, the"
+      },
+      {
+        "start": 273.08,
+        "duration": 4.96,
+        "start_formatted": "04:33",
+        "text": "disease, such as cancer, would also stop"
+      },
+      {
+        "start": 275.44,
+        "duration": 4.72,
+        "start_formatted": "04:35",
+        "text": "growing and die. But this is where it"
+      },
+      {
+        "start": 278.04,
+        "duration": 4.8,
+        "start_formatted": "04:38",
+        "text": "gets incredibly difficult because the"
+      },
+      {
+        "start": 280.16,
+        "duration": 5.08,
+        "start_formatted": "04:40",
+        "text": "body is not just one simple machine."
+      },
+      {
+        "start": 282.84,
+        "duration": 4.4,
+        "start_formatted": "04:42",
+        "text": "It's made of a billion moving parts."
+      },
+      {
+        "start": 285.24,
+        "duration": 4.24,
+        "start_formatted": "04:45",
+        "text": "Even though the designed drug could"
+      },
+      {
+        "start": 287.24,
+        "duration": 4.16,
+        "start_formatted": "04:47",
+        "text": "successfully bind to the bad guy, it"
+      },
+      {
+        "start": 289.48,
+        "duration": 3.84,
+        "start_formatted": "04:49",
+        "text": "might affect other parts of the body as"
+      },
+      {
+        "start": 291.4,
+        "duration": 4.24,
+        "start_formatted": "04:51",
+        "text": "well and have some side effects. So,"
+      },
+      {
+        "start": 293.32,
+        "duration": 5.24,
+        "start_formatted": "04:53",
+        "text": "it's not as simple as the analogy of a"
+      },
+      {
+        "start": 295.64,
+        "duration": 4.76,
+        "start_formatted": "04:55",
+        "text": "key and a lock. Maybe that key can also"
+      },
+      {
+        "start": 298.56,
+        "duration": 4.359,
+        "start_formatted": "04:58",
+        "text": "open other locks in the body, which"
+      },
+      {
+        "start": 300.4,
+        "duration": 4.72,
+        "start_formatted": "05:00",
+        "text": "could cause harmful effects. So, drug"
+      },
+      {
+        "start": 302.919,
+        "duration": 4.761,
+        "start_formatted": "05:02",
+        "text": "design is basically an attempt to find"
+      },
+      {
+        "start": 305.12,
+        "duration": 5.04,
+        "start_formatted": "05:05",
+        "text": "the perfect molecular tool. Strong"
+      },
+      {
+        "start": 307.68,
+        "duration": 4.48,
+        "start_formatted": "05:07",
+        "text": "enough to stop the disease, but precise"
+      },
+      {
+        "start": 310.16,
+        "duration": 4.0,
+        "start_formatted": "05:10",
+        "text": "enough so that it doesn't also harm the"
+      },
+      {
+        "start": 312.16,
+        "duration": 4.44,
+        "start_formatted": "05:12",
+        "text": "rest of the body, and safe enough to"
+      },
+      {
+        "start": 314.16,
+        "duration": 4.92,
+        "start_formatted": "05:14",
+        "text": "give to a real human. You also have to"
+      },
+      {
+        "start": 316.6,
+        "duration": 4.44,
+        "start_formatted": "05:16",
+        "text": "prove the drug actually works at safe"
+      },
+      {
+        "start": 319.08,
+        "duration": 4.0,
+        "start_formatted": "05:19",
+        "text": "doses and it doesn't accidentally kill"
+      },
+      {
+        "start": 321.04,
+        "duration": 4.4,
+        "start_formatted": "05:21",
+        "text": "the patient. That's the real challenge"
+      },
+      {
+        "start": 323.08,
+        "duration": 5.08,
+        "start_formatted": "05:23",
+        "text": "of drug design. And this is where modern"
+      },
+      {
+        "start": 325.44,
+        "duration": 4.88,
+        "start_formatted": "05:25",
+        "text": "technology runs into a weird problem."
+      },
+      {
+        "start": 328.16,
+        "duration": 4.72,
+        "start_formatted": "05:28",
+        "text": "You see, we have incredibly powerful"
+      },
+      {
+        "start": 330.32,
+        "duration": 5.24,
+        "start_formatted": "05:30",
+        "text": "tools today, but most of them only"
+      },
+      {
+        "start": 332.88,
+        "duration": 4.4,
+        "start_formatted": "05:32",
+        "text": "understand one slice of the puzzle. One"
+      },
+      {
+        "start": 335.56,
+        "duration": 4.12,
+        "start_formatted": "05:35",
+        "text": "AI model might predict protein"
+      },
+      {
+        "start": 337.28,
+        "duration": 4.88,
+        "start_formatted": "05:37",
+        "text": "structures. In fact, that's exactly what"
+      },
+      {
+        "start": 339.68,
+        "duration": 4.52,
+        "start_formatted": "05:39",
+        "text": "Google's AlphaFold does. Another AI"
+      },
+      {
+        "start": 342.16,
+        "duration": 4.84,
+        "start_formatted": "05:42",
+        "text": "might be great at reading and generating"
+      },
+      {
+        "start": 344.2,
+        "duration": 4.56,
+        "start_formatted": "05:44",
+        "text": "DNA. One One is called Evo 2, and in"
+      },
+      {
+        "start": 347.0,
+        "duration": 4.04,
+        "start_formatted": "05:47",
+        "text": "fact, I covered this in a previous"
+      },
+      {
+        "start": 348.76,
+        "duration": 4.24,
+        "start_formatted": "05:48",
+        "text": "video, so see this if you want to learn"
+      },
+      {
+        "start": 351.04,
+        "duration": 4.12,
+        "start_formatted": "05:51",
+        "text": "more. And we have other tools that can"
+      },
+      {
+        "start": 353.0,
+        "duration": 4.6,
+        "start_formatted": "05:53",
+        "text": "screen chemical compounds, others that"
+      },
+      {
+        "start": 355.16,
+        "duration": 4.28,
+        "start_formatted": "05:55",
+        "text": "can analyze clinical trial data, and so"
+      },
+      {
+        "start": 357.6,
+        "duration": 3.92,
+        "start_formatted": "05:57",
+        "text": "on and so forth. But, here's the thing,"
+      },
+      {
+        "start": 359.44,
+        "duration": 4.4,
+        "start_formatted": "05:59",
+        "text": "disease does not happen in separate"
+      },
+      {
+        "start": 361.52,
+        "duration": 5.28,
+        "start_formatted": "06:01",
+        "text": "folders. It flows through the entire"
+      },
+      {
+        "start": 363.84,
+        "duration": 5.52,
+        "start_formatted": "06:03",
+        "text": "system, from DNA to gene activity, to"
+      },
+      {
+        "start": 366.8,
+        "duration": 4.76,
+        "start_formatted": "06:06",
+        "text": "proteins, to cells, and then to entire"
+      },
+      {
+        "start": 369.36,
+        "duration": 4.6,
+        "start_formatted": "06:09",
+        "text": "bodies. The problem is that all these"
+      },
+      {
+        "start": 371.56,
+        "duration": 4.08,
+        "start_formatted": "06:11",
+        "text": "tools are often siloed. They're trained"
+      },
+      {
+        "start": 373.96,
+        "duration": 4.0,
+        "start_formatted": "06:13",
+        "text": "on different data sets, built by"
+      },
+      {
+        "start": 375.64,
+        "duration": 4.48,
+        "start_formatted": "06:15",
+        "text": "different teams, optimized for different"
+      },
+      {
+        "start": 377.96,
+        "duration": 4.68,
+        "start_formatted": "06:17",
+        "text": "tasks. So, instead of one system that"
+      },
+      {
+        "start": 380.12,
+        "duration": 4.68,
+        "start_formatted": "06:20",
+        "text": "understands the full chain of biology,"
+      },
+      {
+        "start": 382.64,
+        "duration": 4.48,
+        "start_formatted": "06:22",
+        "text": "we have a bunch of specialized tools"
+      },
+      {
+        "start": 384.8,
+        "duration": 4.2,
+        "start_formatted": "06:24",
+        "text": "looking at disconnected snapshots. It's"
+      },
+      {
+        "start": 387.12,
+        "duration": 4.32,
+        "start_formatted": "06:27",
+        "text": "like trying to solve a crime scene where"
+      },
+      {
+        "start": 389.0,
+        "duration": 4.76,
+        "start_formatted": "06:29",
+        "text": "one detective only has the fingerprints,"
+      },
+      {
+        "start": 391.44,
+        "duration": 4.84,
+        "start_formatted": "06:31",
+        "text": "another detective only has the security"
+      },
+      {
+        "start": 393.76,
+        "duration": 5.28,
+        "start_formatted": "06:33",
+        "text": "footage, another one only has the final"
+      },
+      {
+        "start": 396.28,
+        "duration": 4.6,
+        "start_formatted": "06:36",
+        "text": "autopsy report. Each clue matters, but"
+      },
+      {
+        "start": 399.04,
+        "duration": 3.8,
+        "start_formatted": "06:39",
+        "text": "they don't really talk to each other, so"
+      },
+      {
+        "start": 400.88,
+        "duration": 4.36,
+        "start_formatted": "06:40",
+        "text": "they can't connect everything into one"
+      },
+      {
+        "start": 402.84,
+        "duration": 4.6,
+        "start_formatted": "06:42",
+        "text": "story. Well, that's exactly what Mammal"
+      },
+      {
+        "start": 405.24,
+        "duration": 4.76,
+        "start_formatted": "06:45",
+        "text": "is trying to solve. They've built an AI"
+      },
+      {
+        "start": 407.44,
+        "duration": 5.28,
+        "start_formatted": "06:47",
+        "text": "model that understands everything at"
+      },
+      {
+        "start": 410.0,
+        "duration": 5.2,
+        "start_formatted": "06:50",
+        "text": "once, chemistry, genetics, and protein"
+      },
+      {
+        "start": 412.72,
+        "duration": 5.44,
+        "start_formatted": "06:52",
+        "text": "structure simultaneously. And the scale"
+      },
+      {
+        "start": 415.2,
+        "duration": 5.56,
+        "start_formatted": "06:55",
+        "text": "of what they did is honestly insane."
+      },
+      {
+        "start": 418.16,
+        "duration": 4.92,
+        "start_formatted": "06:58",
+        "text": "Mammal was pre-trained on 2 billion"
+      },
+      {
+        "start": 420.76,
+        "duration": 4.76,
+        "start_formatted": "07:00",
+        "text": "samples. They scraped basically every"
+      },
+      {
+        "start": 423.08,
+        "duration": 4.36,
+        "start_formatted": "07:03",
+        "text": "major biological database out there."
+      },
+      {
+        "start": 425.52,
+        "duration": 4.76,
+        "start_formatted": "07:05",
+        "text": "They observed antibody space, which"
+      },
+      {
+        "start": 427.44,
+        "duration": 5.16,
+        "start_formatted": "07:07",
+        "text": "contains billions of antibody sequences,"
+      },
+      {
+        "start": 430.28,
+        "duration": 4.4,
+        "start_formatted": "07:10",
+        "text": "UniProt, which contains almost every"
+      },
+      {
+        "start": 432.6,
+        "duration": 4.2,
+        "start_formatted": "07:12",
+        "text": "protein we know. And then we also have"
+      },
+      {
+        "start": 434.68,
+        "duration": 4.4,
+        "start_formatted": "07:14",
+        "text": "Zinc and PubChem, which contains"
+      },
+      {
+        "start": 436.8,
+        "duration": 4.64,
+        "start_formatted": "07:16",
+        "text": "millions of small molecule structures,"
+      },
+      {
+        "start": 439.08,
+        "duration": 4.4,
+        "start_formatted": "07:19",
+        "text": "Cell X Gene, which contains a ton of"
+      },
+      {
+        "start": 441.44,
+        "duration": 3.64,
+        "start_formatted": "07:21",
+        "text": "gene expression data. So, the model was"
+      },
+      {
+        "start": 443.48,
+        "duration": 4.24,
+        "start_formatted": "07:23",
+        "text": "trained on everything to do with"
+      },
+      {
+        "start": 445.08,
+        "duration": 4.92,
+        "start_formatted": "07:25",
+        "text": "chemistry, genetics, and proteins. But,"
+      },
+      {
+        "start": 447.72,
+        "duration": 4.32,
+        "start_formatted": "07:27",
+        "text": "how does the AI actually read all of"
+      },
+      {
+        "start": 450.0,
+        "duration": 4.6,
+        "start_formatted": "07:30",
+        "text": "this? These are in different formats,"
+      },
+      {
+        "start": 452.04,
+        "duration": 4.84,
+        "start_formatted": "07:32",
+        "text": "right? A small molecule like aspirin"
+      },
+      {
+        "start": 454.6,
+        "duration": 4.68,
+        "start_formatted": "07:34",
+        "text": "looks nothing like a gene, which also"
+      },
+      {
+        "start": 456.88,
+        "duration": 4.6,
+        "start_formatted": "07:36",
+        "text": "looks nothing like an antibody. So, the"
+      },
+      {
+        "start": 459.28,
+        "duration": 4.8,
+        "start_formatted": "07:39",
+        "text": "researchers did something clever. They"
+      },
+      {
+        "start": 461.48,
+        "duration": 5.04,
+        "start_formatted": "07:41",
+        "text": "forced everything into a single unified"
+      },
+      {
+        "start": 464.08,
+        "duration": 5.24,
+        "start_formatted": "07:44",
+        "text": "format, sequences of characters, but"
+      },
+      {
+        "start": 466.52,
+        "duration": 5.12,
+        "start_formatted": "07:46",
+        "text": "each domain has its own grammar. For"
+      },
+      {
+        "start": 469.32,
+        "duration": 4.8,
+        "start_formatted": "07:49",
+        "text": "molecules, they used something called a"
+      },
+      {
+        "start": 471.64,
+        "duration": 5.12,
+        "start_formatted": "07:51",
+        "text": "SMILES string. This is basically a way"
+      },
+      {
+        "start": 474.12,
+        "duration": 5.64,
+        "start_formatted": "07:54",
+        "text": "to flatten a 3D chemical structure into"
+      },
+      {
+        "start": 476.76,
+        "duration": 6.28,
+        "start_formatted": "07:56",
+        "text": "just one line of text. For example, the"
+      },
+      {
+        "start": 479.76,
+        "duration": 5.2,
+        "start_formatted": "07:59",
+        "text": "SMILES for Tylenol becomes this, where"
+      },
+      {
+        "start": 483.04,
+        "duration": 3.92,
+        "start_formatted": "08:03",
+        "text": "every letter is an atom and every"
+      },
+      {
+        "start": 484.96,
+        "duration": 4.8,
+        "start_formatted": "08:04",
+        "text": "symbol, like the equal sign, is a"
+      },
+      {
+        "start": 486.96,
+        "duration": 4.6,
+        "start_formatted": "08:06",
+        "text": "chemical bond. The AI learns chemistry"
+      },
+      {
+        "start": 489.76,
+        "duration": 5.0,
+        "start_formatted": "08:09",
+        "text": "just by tracking patterns across"
+      },
+      {
+        "start": 491.56,
+        "duration": 5.44,
+        "start_formatted": "08:11",
+        "text": "millions of these text strings. Now, for"
+      },
+      {
+        "start": 494.76,
+        "duration": 4.48,
+        "start_formatted": "08:14",
+        "text": "genes, it's totally different. The model"
+      },
+      {
+        "start": 497.0,
+        "duration": 4.76,
+        "start_formatted": "08:17",
+        "text": "takes every gene in a cell and ranks"
+      },
+      {
+        "start": 499.24,
+        "duration": 5.12,
+        "start_formatted": "08:19",
+        "text": "them by how active they are. In other"
+      },
+      {
+        "start": 501.76,
+        "duration": 5.32,
+        "start_formatted": "08:21",
+        "text": "words, how much they are expressed. The"
+      },
+      {
+        "start": 504.36,
+        "duration": 5.04,
+        "start_formatted": "08:24",
+        "text": "genes screaming the loudest go first."
+      },
+      {
+        "start": 507.08,
+        "duration": 4.839,
+        "start_formatted": "08:27",
+        "text": "The silent ones go last. So, the model"
+      },
+      {
+        "start": 509.4,
+        "duration": 5.079,
+        "start_formatted": "08:29",
+        "text": "reads a cell as a priority list of which"
+      },
+      {
+        "start": 511.919,
+        "duration": 5.12,
+        "start_formatted": "08:31",
+        "text": "genes are doing the most work right now."
+      },
+      {
+        "start": 514.479,
+        "duration": 4.361,
+        "start_formatted": "08:34",
+        "text": "And then for proteins and antibodies,"
+      },
+      {
+        "start": 517.039,
+        "duration": 4.201,
+        "start_formatted": "08:37",
+        "text": "which are also proteins, it just reads"
+      },
+      {
+        "start": 518.84,
+        "duration": 4.879,
+        "start_formatted": "08:38",
+        "text": "the chain of amino acids. These are the"
+      },
+      {
+        "start": 521.24,
+        "duration": 4.8,
+        "start_formatted": "08:41",
+        "text": "building blocks of proteins. But, right"
+      },
+      {
+        "start": 523.719,
+        "duration": 3.961,
+        "start_formatted": "08:43",
+        "text": "now everything is in different formats."
+      },
+      {
+        "start": 526.04,
+        "duration": 3.36,
+        "start_formatted": "08:46",
+        "text": "It's like you're reading a book, but the"
+      },
+      {
+        "start": 527.68,
+        "duration": 4.0,
+        "start_formatted": "08:47",
+        "text": "first paragraph is in English, the"
+      },
+      {
+        "start": 529.4,
+        "duration": 4.56,
+        "start_formatted": "08:49",
+        "text": "second paragraph is in sheet music, and"
+      },
+      {
+        "start": 531.68,
+        "duration": 4.08,
+        "start_formatted": "08:51",
+        "text": "the third paragraph is in JavaScript. It"
+      },
+      {
+        "start": 533.96,
+        "duration": 3.6,
+        "start_formatted": "08:53",
+        "text": "gets really confusing, right? This"
+      },
+      {
+        "start": 535.76,
+        "duration": 3.92,
+        "start_formatted": "08:55",
+        "text": "doesn't make sense at all. And if you"
+      },
+      {
+        "start": 537.56,
+        "duration": 4.12,
+        "start_formatted": "08:57",
+        "text": "throw all this raw data to train a"
+      },
+      {
+        "start": 539.68,
+        "duration": 3.68,
+        "start_formatted": "08:59",
+        "text": "neural network, it also gets super"
+      },
+      {
+        "start": 541.68,
+        "duration": 4.2,
+        "start_formatted": "09:01",
+        "text": "confused. Well, this is where the"
+      },
+      {
+        "start": 543.36,
+        "duration": 5.08,
+        "start_formatted": "09:03",
+        "text": "engineering gets super clever. Mammal"
+      },
+      {
+        "start": 545.88,
+        "duration": 4.84,
+        "start_formatted": "09:05",
+        "text": "uses what's called a modular tokenizer."
+      },
+      {
+        "start": 548.44,
+        "duration": 5.28,
+        "start_formatted": "09:08",
+        "text": "Think of a tokenizer as a dictionary the"
+      },
+      {
+        "start": 550.72,
+        "duration": 5.2,
+        "start_formatted": "09:10",
+        "text": "AI uses to translate this raw data into"
+      },
+      {
+        "start": 553.72,
+        "duration": 4.48,
+        "start_formatted": "09:13",
+        "text": "consistent language that the AI"
+      },
+      {
+        "start": 555.92,
+        "duration": 4.76,
+        "start_formatted": "09:15",
+        "text": "understands. But, Mammal doesn't just"
+      },
+      {
+        "start": 558.2,
+        "duration": 4.92,
+        "start_formatted": "09:18",
+        "text": "use one dictionary. It uses an umbrella"
+      },
+      {
+        "start": 560.68,
+        "duration": 4.36,
+        "start_formatted": "09:20",
+        "text": "tokenizer with specialized sub"
+      },
+      {
+        "start": 563.12,
+        "duration": 4.12,
+        "start_formatted": "09:23",
+        "text": "dictionaries underneath. So, there's one"
+      },
+      {
+        "start": 565.04,
+        "duration": 4.52,
+        "start_formatted": "09:25",
+        "text": "dictionary for chemistry, one dictionary"
+      },
+      {
+        "start": 567.24,
+        "duration": 5.28,
+        "start_formatted": "09:27",
+        "text": "for genetics, and another dictionary for"
+      },
+      {
+        "start": 569.56,
+        "duration": 5.36,
+        "start_formatted": "09:29",
+        "text": "proteins. If it sees a small molecule,"
+      },
+      {
+        "start": 572.52,
+        "duration": 5.08,
+        "start_formatted": "09:32",
+        "text": "it uses the small molecule dictionary to"
+      },
+      {
+        "start": 574.92,
+        "duration": 4.92,
+        "start_formatted": "09:34",
+        "text": "convert that into tokens and embeddings."
+      },
+      {
+        "start": 577.6,
+        "duration": 4.56,
+        "start_formatted": "09:37",
+        "text": "If it gets a protein, it uses the"
+      },
+      {
+        "start": 579.84,
+        "duration": 4.32,
+        "start_formatted": "09:39",
+        "text": "protein dictionary to convert that into"
+      },
+      {
+        "start": 582.16,
+        "duration": 4.24,
+        "start_formatted": "09:42",
+        "text": "embeddings. And the same logic applies"
+      },
+      {
+        "start": 584.16,
+        "duration": 4.2,
+        "start_formatted": "09:44",
+        "text": "to genes. And here's the magic part."
+      },
+      {
+        "start": 586.4,
+        "duration": 4.44,
+        "start_formatted": "09:46",
+        "text": "Once everything is translated and"
+      },
+      {
+        "start": 588.36,
+        "duration": 4.68,
+        "start_formatted": "09:48",
+        "text": "converted into these embeddings, they"
+      },
+      {
+        "start": 590.84,
+        "duration": 4.6,
+        "start_formatted": "09:50",
+        "text": "all get mixed together into a shared"
+      },
+      {
+        "start": 593.04,
+        "duration": 5.2,
+        "start_formatted": "09:53",
+        "text": "multi-dimensional space. So, the model"
+      },
+      {
+        "start": 595.44,
+        "duration": 6.0,
+        "start_formatted": "09:55",
+        "text": "learns chemistry, proteins, and genetic"
+      },
+      {
+        "start": 598.24,
+        "duration": 4.8,
+        "start_formatted": "09:58",
+        "text": "expression all in one unified space."
+      },
+      {
+        "start": 601.44,
+        "duration": 3.72,
+        "start_formatted": "10:01",
+        "text": "Because it merges all these domains"
+      },
+      {
+        "start": 603.04,
+        "duration": 4.2,
+        "start_formatted": "10:03",
+        "text": "together, it can learn the relationships"
+      },
+      {
+        "start": 605.16,
+        "duration": 4.32,
+        "start_formatted": "10:05",
+        "text": "between all these different things. Now,"
+      },
+      {
+        "start": 607.24,
+        "duration": 4.04,
+        "start_formatted": "10:07",
+        "text": "this design sounds great, but how well"
+      },
+      {
+        "start": 609.48,
+        "duration": 3.56,
+        "start_formatted": "10:09",
+        "text": "does it actually perform in the real"
+      },
+      {
+        "start": 611.28,
+        "duration": 3.96,
+        "start_formatted": "10:11",
+        "text": "world? For example, can it actually"
+      },
+      {
+        "start": 613.04,
+        "duration": 4.2,
+        "start_formatted": "10:13",
+        "text": "predict drug behavior? Well, the"
+      },
+      {
+        "start": 615.24,
+        "duration": 4.88,
+        "start_formatted": "10:15",
+        "text": "researchers put Mammoth through some"
+      },
+      {
+        "start": 617.24,
+        "duration": 6.6,
+        "start_formatted": "10:17",
+        "text": "pretty intense tests. Specifically, they"
+      },
+      {
+        "start": 620.12,
+        "duration": 6.92,
+        "start_formatted": "10:20",
+        "text": "evaluated it across 11 distinct, highly"
+      },
+      {
+        "start": 623.84,
+        "duration": 5.2,
+        "start_formatted": "10:23",
+        "text": "rigorous benchmarks that span the entire"
+      },
+      {
+        "start": 627.04,
+        "duration": 4.04,
+        "start_formatted": "10:27",
+        "text": "drug discovery pipeline. They threw"
+      },
+      {
+        "start": 629.04,
+        "duration": 3.96,
+        "start_formatted": "10:29",
+        "text": "everything at it, and it turns out the"
+      },
+      {
+        "start": 631.08,
+        "duration": 4.08,
+        "start_formatted": "10:31",
+        "text": "results across the board were"
+      },
+      {
+        "start": 633.0,
+        "duration": 4.68,
+        "start_formatted": "10:33",
+        "text": "phenomenal. So, here's the table of"
+      },
+      {
+        "start": 635.16,
+        "duration": 4.52,
+        "start_formatted": "10:35",
+        "text": "results, and across these 11 benchmarks,"
+      },
+      {
+        "start": 637.68,
+        "duration": 4.32,
+        "start_formatted": "10:37",
+        "text": "Mammoth achieved state-of-the-art"
+      },
+      {
+        "start": 639.68,
+        "duration": 5.28,
+        "start_formatted": "10:39",
+        "text": "performance. It outright beat the"
+      },
+      {
+        "start": 642.0,
+        "duration": 5.2,
+        "start_formatted": "10:42",
+        "text": "previous best models in the world on all"
+      },
+      {
+        "start": 644.96,
+        "duration": 4.16,
+        "start_formatted": "10:44",
+        "text": "of these tasks. Let's dig into some"
+      },
+      {
+        "start": 647.2,
+        "duration": 4.04,
+        "start_formatted": "10:47",
+        "text": "specific benchmarks. Earlier, we"
+      },
+      {
+        "start": 649.12,
+        "duration": 4.16,
+        "start_formatted": "10:49",
+        "text": "discussed the nightmare of designing a"
+      },
+      {
+        "start": 651.24,
+        "duration": 4.0,
+        "start_formatted": "10:51",
+        "text": "drug that actually works. It's able to"
+      },
+      {
+        "start": 653.28,
+        "duration": 4.44,
+        "start_formatted": "10:53",
+        "text": "reduce the disease, but it also ends up"
+      },
+      {
+        "start": 655.24,
+        "duration": 4.8,
+        "start_formatted": "10:55",
+        "text": "being toxic to the human. So, is Mammoth"
+      },
+      {
+        "start": 657.72,
+        "duration": 5.84,
+        "start_formatted": "10:57",
+        "text": "able to predict these scenarios? They"
+      },
+      {
+        "start": 660.04,
+        "duration": 6.6,
+        "start_formatted": "11:00",
+        "text": "evaluated Mammoth on two critical safety"
+      },
+      {
+        "start": 663.56,
+        "duration": 5.04,
+        "start_formatted": "11:03",
+        "text": "benchmarks. One is called BBBP, which"
+      },
+      {
+        "start": 666.64,
+        "duration": 4.88,
+        "start_formatted": "11:06",
+        "text": "stands for blood-brain barrier"
+      },
+      {
+        "start": 668.6,
+        "duration": 4.88,
+        "start_formatted": "11:08",
+        "text": "penetration. Another one is ClinTox,"
+      },
+      {
+        "start": 671.52,
+        "duration": 4.76,
+        "start_formatted": "11:11",
+        "text": "which is a data set used to predict"
+      },
+      {
+        "start": 673.48,
+        "duration": 5.24,
+        "start_formatted": "11:13",
+        "text": "clinical toxicity and FDA approval."
+      },
+      {
+        "start": 676.28,
+        "duration": 4.64,
+        "start_formatted": "11:16",
+        "text": "Let's pause on this blood-brain barrier"
+      },
+      {
+        "start": 678.72,
+        "duration": 4.28,
+        "start_formatted": "11:18",
+        "text": "for a second. This is actually a massive"
+      },
+      {
+        "start": 680.92,
+        "duration": 4.52,
+        "start_formatted": "11:20",
+        "text": "hurdle in pharmacology. You see, the"
+      },
+      {
+        "start": 683.0,
+        "duration": 4.2,
+        "start_formatted": "11:23",
+        "text": "brain has this incredibly tight security"
+      },
+      {
+        "start": 685.44,
+        "duration": 3.88,
+        "start_formatted": "11:25",
+        "text": "system. Of course, it doesn't want any"
+      },
+      {
+        "start": 687.2,
+        "duration": 4.0,
+        "start_formatted": "11:27",
+        "text": "external stuff flowing into the brain."
+      },
+      {
+        "start": 689.32,
+        "duration": 3.92,
+        "start_formatted": "11:29",
+        "text": "But if you're designing a therapeutic"
+      },
+      {
+        "start": 691.2,
+        "duration": 4.52,
+        "start_formatted": "11:31",
+        "text": "for something like Alzheimer's or"
+      },
+      {
+        "start": 693.24,
+        "duration": 4.4,
+        "start_formatted": "11:33",
+        "text": "Parkinson's, your drug must be able to"
+      },
+      {
+        "start": 695.72,
+        "duration": 3.44,
+        "start_formatted": "11:35",
+        "text": "penetrate this barrier to reach the"
+      },
+      {
+        "start": 697.64,
+        "duration": 3.72,
+        "start_formatted": "11:37",
+        "text": "brain. Or conversely, if you're"
+      },
+      {
+        "start": 699.16,
+        "duration": 4.84,
+        "start_formatted": "11:39",
+        "text": "designing a really heavy chemotherapy"
+      },
+      {
+        "start": 701.36,
+        "duration": 5.48,
+        "start_formatted": "11:41",
+        "text": "drug for the liver, you absolutely do"
+      },
+      {
+        "start": 704.0,
+        "duration": 4.72,
+        "start_formatted": "11:44",
+        "text": "not want it crossing this barrier and"
+      },
+      {
+        "start": 706.84,
+        "duration": 4.36,
+        "start_formatted": "11:46",
+        "text": "getting into the brain. So predicting"
+      },
+      {
+        "start": 708.72,
+        "duration": 4.72,
+        "start_formatted": "11:48",
+        "text": "that penetration is super important."
+      },
+      {
+        "start": 711.2,
+        "duration": 4.6,
+        "start_formatted": "11:51",
+        "text": "Now, for this benchmark, the reigning"
+      },
+      {
+        "start": 713.44,
+        "duration": 4.92,
+        "start_formatted": "11:53",
+        "text": "champion for predicting this was a model"
+      },
+      {
+        "start": 715.8,
+        "duration": 4.36,
+        "start_formatted": "11:55",
+        "text": "called MoleFormer. This is a highly"
+      },
+      {
+        "start": 718.36,
+        "duration": 4.6,
+        "start_formatted": "11:58",
+        "text": "specialized model. It was trained"
+      },
+      {
+        "start": 720.16,
+        "duration": 4.88,
+        "start_formatted": "12:00",
+        "text": "exclusively on over a billion small"
+      },
+      {
+        "start": 722.96,
+        "duration": 4.56,
+        "start_formatted": "12:02",
+        "text": "molecule sequences. So think of it as"
+      },
+      {
+        "start": 725.04,
+        "duration": 4.4,
+        "start_formatted": "12:05",
+        "text": "like a hyper-focused master of small"
+      },
+      {
+        "start": 727.52,
+        "duration": 4.64,
+        "start_formatted": "12:07",
+        "text": "molecule chemistry. On the other hand,"
+      },
+      {
+        "start": 729.44,
+        "duration": 5.56,
+        "start_formatted": "12:09",
+        "text": "this new Mammal is a generalist. But the"
+      },
+      {
+        "start": 732.16,
+        "duration": 4.88,
+        "start_formatted": "12:12",
+        "text": "insane thing is, on this blood-brain"
+      },
+      {
+        "start": 735.0,
+        "duration": 4.84,
+        "start_formatted": "12:15",
+        "text": "barrier penetration test, while the"
+      },
+      {
+        "start": 737.04,
+        "duration": 5.64,
+        "start_formatted": "12:17",
+        "text": "hyper-specialized MoleFormer achieved a"
+      },
+      {
+        "start": 739.84,
+        "duration": 4.8,
+        "start_formatted": "12:19",
+        "text": "very good score, Mammal was able to beat"
+      },
+      {
+        "start": 742.68,
+        "duration": 4.04,
+        "start_formatted": "12:22",
+        "text": "it. And then same for this ClinTox"
+      },
+      {
+        "start": 744.64,
+        "duration": 4.96,
+        "start_formatted": "12:24",
+        "text": "safety benchmark, which predicts FDA"
+      },
+      {
+        "start": 746.72,
+        "duration": 5.08,
+        "start_formatted": "12:26",
+        "text": "approval. Mammal also beat MoleFormer by"
+      },
+      {
+        "start": 749.6,
+        "duration": 4.12,
+        "start_formatted": "12:29",
+        "text": "a few percentage points. Let's take a"
+      },
+      {
+        "start": 751.8,
+        "duration": 4.52,
+        "start_formatted": "12:31",
+        "text": "second to highlight why this is so"
+      },
+      {
+        "start": 753.72,
+        "duration": 4.92,
+        "start_formatted": "12:33",
+        "text": "impressive. In almost every field, a"
+      },
+      {
+        "start": 756.32,
+        "duration": 4.24,
+        "start_formatted": "12:36",
+        "text": "specialist will beat a generalist in"
+      },
+      {
+        "start": 758.64,
+        "duration": 4.12,
+        "start_formatted": "12:38",
+        "text": "their specific domain, right? For"
+      },
+      {
+        "start": 760.56,
+        "duration": 4.24,
+        "start_formatted": "12:40",
+        "text": "example, if a decathlete races a"
+      },
+      {
+        "start": 762.76,
+        "duration": 3.76,
+        "start_formatted": "12:42",
+        "text": "professional swimmer, the decathlete"
+      },
+      {
+        "start": 764.8,
+        "duration": 4.12,
+        "start_formatted": "12:44",
+        "text": "will likely lose since he's not really"
+      },
+      {
+        "start": 766.52,
+        "duration": 4.68,
+        "start_formatted": "12:46",
+        "text": "specialized in swimming. Well, in this"
+      },
+      {
+        "start": 768.92,
+        "duration": 4.56,
+        "start_formatted": "12:48",
+        "text": "case, Mammal is the decathlete. It"
+      },
+      {
+        "start": 771.2,
+        "duration": 4.48,
+        "start_formatted": "12:51",
+        "text": "spreads its knowledge across chemistry,"
+      },
+      {
+        "start": 773.48,
+        "duration": 4.84,
+        "start_formatted": "12:53",
+        "text": "genetics, and proteins. It's not just"
+      },
+      {
+        "start": 775.68,
+        "duration": 4.24,
+        "start_formatted": "12:55",
+        "text": "specialized in small molecule sequences,"
+      },
+      {
+        "start": 778.32,
+        "duration": 3.8,
+        "start_formatted": "12:58",
+        "text": "but yet it was able to beat the"
+      },
+      {
+        "start": 779.92,
+        "duration": 4.68,
+        "start_formatted": "12:59",
+        "text": "specialist pro swimmer. It beats"
+      },
+      {
+        "start": 782.12,
+        "duration": 4.76,
+        "start_formatted": "13:02",
+        "text": "MoleFormer that was highly specialized"
+      },
+      {
+        "start": 784.6,
+        "duration": 4.8,
+        "start_formatted": "13:04",
+        "text": "in chemistry. That's actually very"
+      },
+      {
+        "start": 786.88,
+        "duration": 4.32,
+        "start_formatted": "13:06",
+        "text": "insightful. Why does knowing about genes"
+      },
+      {
+        "start": 789.4,
+        "duration": 3.28,
+        "start_formatted": "13:09",
+        "text": "and proteins also make it better at"
+      },
+      {
+        "start": 791.2,
+        "duration": 4.16,
+        "start_formatted": "13:11",
+        "text": "chemistry? Well, that's because"
+      },
+      {
+        "start": 792.68,
+        "duration": 5.32,
+        "start_formatted": "13:12",
+        "text": "everything is interconnected in biology."
+      },
+      {
+        "start": 795.36,
+        "duration": 4.88,
+        "start_formatted": "13:15",
+        "text": "There's a billion moving parts, and this"
+      },
+      {
+        "start": 798.0,
+        "duration": 3.96,
+        "start_formatted": "13:18",
+        "text": "proves that being multimodal, being able"
+      },
+      {
+        "start": 800.24,
+        "duration": 3.84,
+        "start_formatted": "13:20",
+        "text": "to understand all these different"
+      },
+      {
+        "start": 801.96,
+        "duration": 4.72,
+        "start_formatted": "13:21",
+        "text": "domains, is not a distraction, but"
+      },
+      {
+        "start": 804.08,
+        "duration": 4.84,
+        "start_formatted": "13:24",
+        "text": "instead an advantage. Small molecules"
+      },
+      {
+        "start": 806.68,
+        "duration": 4.8,
+        "start_formatted": "13:26",
+        "text": "exist to interact with proteins and"
+      },
+      {
+        "start": 808.92,
+        "duration": 4.8,
+        "start_formatted": "13:28",
+        "text": "alter gene expression. Because mammal"
+      },
+      {
+        "start": 811.48,
+        "duration": 4.64,
+        "start_formatted": "13:31",
+        "text": "was forced to learn the relationships"
+      },
+      {
+        "start": 813.72,
+        "duration": 4.44,
+        "start_formatted": "13:33",
+        "text": "between all these different modalities"
+      },
+      {
+        "start": 816.12,
+        "duration": 4.24,
+        "start_formatted": "13:36",
+        "text": "during training, it developed a much"
+      },
+      {
+        "start": 818.16,
+        "duration": 4.52,
+        "start_formatted": "13:38",
+        "text": "deeper understanding of the overall"
+      },
+      {
+        "start": 820.36,
+        "duration": 4.56,
+        "start_formatted": "13:40",
+        "text": "biology of the molecules. And this makes"
+      },
+      {
+        "start": 822.68,
+        "duration": 4.68,
+        "start_formatted": "13:42",
+        "text": "it much better at predicting outcomes"
+      },
+      {
+        "start": 824.92,
+        "duration": 4.56,
+        "start_formatted": "13:44",
+        "text": "compared to a specialized model. But the"
+      },
+      {
+        "start": 827.36,
+        "duration": 4.6,
+        "start_formatted": "13:47",
+        "text": "researchers didn't stop there. If you"
+      },
+      {
+        "start": 829.48,
+        "duration": 4.52,
+        "start_formatted": "13:49",
+        "text": "make videos or content online, you"
+      },
+      {
+        "start": 831.96,
+        "duration": 4.12,
+        "start_formatted": "13:51",
+        "text": "should definitely check out Runway, the"
+      },
+      {
+        "start": 834.0,
+        "duration": 4.36,
+        "start_formatted": "13:54",
+        "text": "sponsor of this video. They just"
+      },
+      {
+        "start": 836.08,
+        "duration": 3.8,
+        "start_formatted": "13:56",
+        "text": "released Runway Agent. Think of it as"
+      },
+      {
+        "start": 838.36,
+        "duration": 3.64,
+        "start_formatted": "13:58",
+        "text": "like your creative partner that can"
+      },
+      {
+        "start": 839.88,
+        "duration": 4.44,
+        "start_formatted": "13:59",
+        "text": "autonomously turn your idea into a"
+      },
+      {
+        "start": 842.0,
+        "duration": 4.64,
+        "start_formatted": "14:02",
+        "text": "publish-ready video. I mean, full"
+      },
+      {
+        "start": 844.32,
+        "duration": 4.72,
+        "start_formatted": "14:04",
+        "text": "multi-shot videos with voice-over,"
+      },
+      {
+        "start": 846.64,
+        "duration": 4.52,
+        "start_formatted": "14:06",
+        "text": "music, scene transitions, and actual"
+      },
+      {
+        "start": 849.04,
+        "duration": 4.2,
+        "start_formatted": "14:09",
+        "text": "narrative structure already assembled"
+      },
+      {
+        "start": 851.16,
+        "duration": 3.88,
+        "start_formatted": "14:11",
+        "text": "for you. You start by simply describing"
+      },
+      {
+        "start": 853.24,
+        "duration": 4.4,
+        "start_formatted": "14:13",
+        "text": "what you want. Maybe it's a product"
+      },
+      {
+        "start": 855.04,
+        "duration": 4.92,
+        "start_formatted": "14:15",
+        "text": "launch, an ad campaign, a YouTube intro,"
+      },
+      {
+        "start": 857.64,
+        "duration": 3.84,
+        "start_formatted": "14:17",
+        "text": "or even just a vague idea in your head."
+      },
+      {
+        "start": 859.96,
+        "duration": 4.16,
+        "start_formatted": "14:19",
+        "text": "So, instead of staring at a blank"
+      },
+      {
+        "start": 861.48,
+        "duration": 4.64,
+        "start_formatted": "14:21",
+        "text": "timeline in editing software for hours,"
+      },
+      {
+        "start": 864.12,
+        "duration": 4.04,
+        "start_formatted": "14:24",
+        "text": "you're basically working with an AI"
+      },
+      {
+        "start": 866.12,
+        "duration": 3.92,
+        "start_formatted": "14:26",
+        "text": "creative partner that helps shape the"
+      },
+      {
+        "start": 868.16,
+        "duration": 4.28,
+        "start_formatted": "14:28",
+        "text": "idea with you. And here's the crazy"
+      },
+      {
+        "start": 870.04,
+        "duration": 4.56,
+        "start_formatted": "14:30",
+        "text": "part. Before the video is generated, you"
+      },
+      {
+        "start": 872.44,
+        "duration": 4.48,
+        "start_formatted": "14:32",
+        "text": "can see the entire plan first. Every"
+      },
+      {
+        "start": 874.6,
+        "duration": 3.96,
+        "start_formatted": "14:34",
+        "text": "scene, the visual direction, the flow of"
+      },
+      {
+        "start": 876.92,
+        "duration": 3.44,
+        "start_formatted": "14:36",
+        "text": "the story, and you can tweak it,"
+      },
+      {
+        "start": 878.56,
+        "duration": 3.96,
+        "start_formatted": "14:38",
+        "text": "redirect it, or completely reshape it"
+      },
+      {
+        "start": 880.36,
+        "duration": 4.4,
+        "start_formatted": "14:40",
+        "text": "before it gets rendered. It doesn't feel"
+      },
+      {
+        "start": 882.52,
+        "duration": 4.0,
+        "start_formatted": "14:42",
+        "text": "like gambling on prompts anymore. And"
+      },
+      {
+        "start": 884.76,
+        "duration": 3.88,
+        "start_formatted": "14:44",
+        "text": "once everything looks right, Runway"
+      },
+      {
+        "start": 886.52,
+        "duration": 4.72,
+        "start_formatted": "14:46",
+        "text": "Agent builds the actual finished video"
+      },
+      {
+        "start": 888.64,
+        "duration": 5.04,
+        "start_formatted": "14:48",
+        "text": "for you. Multiple scenes, voice-over,"
+      },
+      {
+        "start": 891.24,
+        "duration": 5.24,
+        "start_formatted": "14:51",
+        "text": "music, editing, all assembled and ready"
+      },
+      {
+        "start": 893.68,
+        "duration": 4.96,
+        "start_formatted": "14:53",
+        "text": "to publish. Most AI video tools still"
+      },
+      {
+        "start": 896.48,
+        "duration": 4.44,
+        "start_formatted": "14:56",
+        "text": "you fragments, but this feels much"
+      },
+      {
+        "start": 898.64,
+        "duration": 4.04,
+        "start_formatted": "14:58",
+        "text": "closer to an actual end-to-end workflow."
+      },
+      {
+        "start": 900.92,
+        "duration": 3.72,
+        "start_formatted": "15:00",
+        "text": "That means more videos, faster"
+      },
+      {
+        "start": 902.68,
+        "duration": 4.4,
+        "start_formatted": "15:02",
+        "text": "campaigns, smaller teams producing"
+      },
+      {
+        "start": 904.64,
+        "duration": 4.84,
+        "start_formatted": "15:04",
+        "text": "bigger content, and way less time stuck"
+      },
+      {
+        "start": 907.08,
+        "duration": 4.32,
+        "start_formatted": "15:07",
+        "text": "in post-production. Try Runway Agent"
+      },
+      {
+        "start": 909.48,
+        "duration": 4.12,
+        "start_formatted": "15:09",
+        "text": "today using the link in the description"
+      },
+      {
+        "start": 911.4,
+        "duration": 4.96,
+        "start_formatted": "15:11",
+        "text": "below or the QR code on the screen, and"
+      },
+      {
+        "start": 913.6,
+        "duration": 6.16,
+        "start_formatted": "15:13",
+        "text": "get 50% off your first 3 months with the"
+      },
+      {
+        "start": 916.36,
+        "duration": 7.16,
+        "start_formatted": "15:16",
+        "text": "code agent50. Next, they tested it on"
+      },
+      {
+        "start": 919.76,
+        "duration": 6.28,
+        "start_formatted": "15:19",
+        "text": "labeling cell types using the Zang 68K"
+      },
+      {
+        "start": 923.52,
+        "duration": 4.52,
+        "start_formatted": "15:23",
+        "text": "data set. This consists of thousands of"
+      },
+      {
+        "start": 926.04,
+        "duration": 4.16,
+        "start_formatted": "15:26",
+        "text": "gene activity data from a ton of"
+      },
+      {
+        "start": 928.04,
+        "duration": 4.44,
+        "start_formatted": "15:28",
+        "text": "different immune cell types in the"
+      },
+      {
+        "start": 930.2,
+        "duration": 4.4,
+        "start_formatted": "15:30",
+        "text": "blood. The AI's job is to look at the"
+      },
+      {
+        "start": 932.48,
+        "duration": 4.4,
+        "start_formatted": "15:32",
+        "text": "genetic activity of the cell and"
+      },
+      {
+        "start": 934.6,
+        "duration": 5.72,
+        "start_formatted": "15:34",
+        "text": "correctly label it. For example, this is"
+      },
+      {
+        "start": 936.88,
+        "duration": 5.92,
+        "start_formatted": "15:36",
+        "text": "the CD4+ T cell or this is the NK cell,"
+      },
+      {
+        "start": 940.32,
+        "duration": 4.88,
+        "start_formatted": "15:40",
+        "text": "etc. etc. Basically, label the cell"
+      },
+      {
+        "start": 942.8,
+        "duration": 4.48,
+        "start_formatted": "15:42",
+        "text": "given its genetic activity. And this is"
+      },
+      {
+        "start": 945.2,
+        "duration": 4.2,
+        "start_formatted": "15:45",
+        "text": "incredibly important for figuring out"
+      },
+      {
+        "start": 947.28,
+        "duration": 4.48,
+        "start_formatted": "15:47",
+        "text": "how a patient's immune system is"
+      },
+      {
+        "start": 949.4,
+        "duration": 4.76,
+        "start_formatted": "15:49",
+        "text": "responding to a disease or treatment."
+      },
+      {
+        "start": 951.76,
+        "duration": 4.68,
+        "start_formatted": "15:51",
+        "text": "It's a fundamental classification task."
+      },
+      {
+        "start": 954.16,
+        "duration": 5.88,
+        "start_formatted": "15:54",
+        "text": "And on this highly complex task, MAML"
+      },
+      {
+        "start": 956.44,
+        "duration": 5.6,
+        "start_formatted": "15:56",
+        "text": "achieved a 7.5% improvement over the"
+      },
+      {
+        "start": 960.04,
+        "duration": 4.36,
+        "start_formatted": "16:00",
+        "text": "state-of-the-art model. Again, this is a"
+      },
+      {
+        "start": 962.04,
+        "duration": 4.16,
+        "start_formatted": "16:02",
+        "text": "huge leap. And it gets even more"
+      },
+      {
+        "start": 964.4,
+        "duration": 4.36,
+        "start_formatted": "16:04",
+        "text": "impressive. I think the highlight of"
+      },
+      {
+        "start": 966.2,
+        "duration": 5.2,
+        "start_formatted": "16:06",
+        "text": "this paper is this cancer drug response"
+      },
+      {
+        "start": 968.76,
+        "duration": 4.56,
+        "start_formatted": "16:08",
+        "text": "section. This is proof of a genuine"
+      },
+      {
+        "start": 971.4,
+        "duration": 3.84,
+        "start_formatted": "16:11",
+        "text": "biomedical breakthrough. So, here's the"
+      },
+      {
+        "start": 973.32,
+        "duration": 3.8,
+        "start_formatted": "16:13",
+        "text": "setup for this test. The researchers"
+      },
+      {
+        "start": 975.24,
+        "duration": 3.72,
+        "start_formatted": "16:15",
+        "text": "wanted to prove that MAML wasn't just"
+      },
+      {
+        "start": 977.12,
+        "duration": 3.64,
+        "start_formatted": "16:17",
+        "text": "regurgitating information it had"
+      },
+      {
+        "start": 978.96,
+        "duration": 3.76,
+        "start_formatted": "16:18",
+        "text": "memorized from training. They wanted to"
+      },
+      {
+        "start": 980.76,
+        "duration": 4.52,
+        "start_formatted": "16:20",
+        "text": "see if it could predict how completely"
+      },
+      {
+        "start": 982.72,
+        "duration": 5.0,
+        "start_formatted": "16:22",
+        "text": "new and unseen drugs would perform"
+      },
+      {
+        "start": 985.28,
+        "duration": 4.88,
+        "start_formatted": "16:25",
+        "text": "against human cancer cells. So, they"
+      },
+      {
+        "start": 987.72,
+        "duration": 5.08,
+        "start_formatted": "16:27",
+        "text": "selected four drugs that were definitely"
+      },
+      {
+        "start": 990.16,
+        "duration": 5.72,
+        "start_formatted": "16:30",
+        "text": "not included in its training data. So,"
+      },
+      {
+        "start": 992.8,
+        "duration": 6.28,
+        "start_formatted": "16:32",
+        "text": "this includes carfilzomib, nintedanib,"
+      },
+      {
+        "start": 995.88,
+        "duration": 5.72,
+        "start_formatted": "16:35",
+        "text": "infigratinib, and vemurafenib."
+      },
+      {
+        "start": 999.08,
+        "duration": 4.84,
+        "start_formatted": "16:39",
+        "text": "What a mouthful. Anyway, they took the"
+      },
+      {
+        "start": 1001.6,
+        "duration": 4.6,
+        "start_formatted": "16:41",
+        "text": "chemical strings for these four drugs"
+      },
+      {
+        "start": 1003.92,
+        "duration": 5.0,
+        "start_formatted": "16:43",
+        "text": "and they gave them to MAML in addition"
+      },
+      {
+        "start": 1006.2,
+        "duration": 5.32,
+        "start_formatted": "16:46",
+        "text": "to the genetic profiles of over 800"
+      },
+      {
+        "start": 1008.92,
+        "duration": 4.24,
+        "start_formatted": "16:48",
+        "text": "different types of cancer tumor cells."
+      },
+      {
+        "start": 1011.52,
+        "duration": 4.24,
+        "start_formatted": "16:51",
+        "text": "This includes like lung cancer, breast"
+      },
+      {
+        "start": 1013.16,
+        "duration": 4.96,
+        "start_formatted": "16:53",
+        "text": "cancer, colon cancer, and so on. A huge"
+      },
+      {
+        "start": 1015.76,
+        "duration": 4.48,
+        "start_formatted": "16:55",
+        "text": "diversity of human cancer cells. And"
+      },
+      {
+        "start": 1018.12,
+        "duration": 4.8,
+        "start_formatted": "16:58",
+        "text": "they asked MAML one question. How"
+      },
+      {
+        "start": 1020.24,
+        "duration": 5.64,
+        "start_formatted": "17:00",
+        "text": "effective are these four new drugs"
+      },
+      {
+        "start": 1022.92,
+        "duration": 4.8,
+        "start_formatted": "17:02",
+        "text": "across these 800 tumor cell types? Rank"
+      },
+      {
+        "start": 1025.88,
+        "duration": 4.079,
+        "start_formatted": "17:05",
+        "text": "them from the most deadly down to the"
+      },
+      {
+        "start": 1027.72,
+        "duration": 3.84,
+        "start_formatted": "17:07",
+        "text": "least deadly to the cancer. Now, you"
+      },
+      {
+        "start": 1029.959,
+        "duration": 3.48,
+        "start_formatted": "17:09",
+        "text": "might be wondering if these drugs"
+      },
+      {
+        "start": 1031.56,
+        "duration": 3.639,
+        "start_formatted": "17:11",
+        "text": "weren't in the training data, what if"
+      },
+      {
+        "start": 1033.439,
+        "duration": 3.88,
+        "start_formatted": "17:13",
+        "text": "they still looked very similar to"
+      },
+      {
+        "start": 1035.199,
+        "duration": 4.24,
+        "start_formatted": "17:15",
+        "text": "something in the training data that the"
+      },
+      {
+        "start": 1037.319,
+        "duration": 4.201,
+        "start_formatted": "17:17",
+        "text": "AI memorized. That's a very valid"
+      },
+      {
+        "start": 1039.439,
+        "duration": 4.281,
+        "start_formatted": "17:19",
+        "text": "concern. So, to prove these drugs were"
+      },
+      {
+        "start": 1041.52,
+        "duration": 4.36,
+        "start_formatted": "17:21",
+        "text": "truly new to the model, to prove that it"
+      },
+      {
+        "start": 1043.72,
+        "duration": 4.479,
+        "start_formatted": "17:23",
+        "text": "has never seen these types of drugs"
+      },
+      {
+        "start": 1045.88,
+        "duration": 3.92,
+        "start_formatted": "17:25",
+        "text": "before, the researchers calculated"
+      },
+      {
+        "start": 1048.199,
+        "duration": 4.081,
+        "start_formatted": "17:28",
+        "text": "something called the Tanimoto"
+      },
+      {
+        "start": 1049.8,
+        "duration": 4.84,
+        "start_formatted": "17:29",
+        "text": "similarity. This is basically used to"
+      },
+      {
+        "start": 1052.28,
+        "duration": 4.72,
+        "start_formatted": "17:32",
+        "text": "measure how structurally similar two"
+      },
+      {
+        "start": 1054.64,
+        "duration": 4.64,
+        "start_formatted": "17:34",
+        "text": "molecules are based on their chemical"
+      },
+      {
+        "start": 1057.0,
+        "duration": 4.8,
+        "start_formatted": "17:37",
+        "text": "structure. And the researchers confirmed"
+      },
+      {
+        "start": 1059.28,
+        "duration": 6.64,
+        "start_formatted": "17:39",
+        "text": "that three out of the four drugs had a"
+      },
+      {
+        "start": 1061.8,
+        "duration": 6.44,
+        "start_formatted": "17:41",
+        "text": "maximum Tanimoto value of less than .7"
+      },
+      {
+        "start": 1065.92,
+        "duration": 4.44,
+        "start_formatted": "17:45",
+        "text": "when compared to anything Mammal had"
+      },
+      {
+        "start": 1068.24,
+        "duration": 5.72,
+        "start_formatted": "17:48",
+        "text": "ever seen. And in the rigorous world of"
+      },
+      {
+        "start": 1070.36,
+        "duration": 5.88,
+        "start_formatted": "17:50",
+        "text": "chemistry, a score below .7 means that"
+      },
+      {
+        "start": 1073.96,
+        "duration": 4.72,
+        "start_formatted": "17:53",
+        "text": "these drugs are basically structurally"
+      },
+      {
+        "start": 1076.24,
+        "duration": 4.2,
+        "start_formatted": "17:56",
+        "text": "different. So, these drugs are like"
+      },
+      {
+        "start": 1078.68,
+        "duration": 4.08,
+        "start_formatted": "17:58",
+        "text": "strangers to the AI. They look"
+      },
+      {
+        "start": 1080.44,
+        "duration": 4.72,
+        "start_formatted": "18:00",
+        "text": "completely new to the AI and like"
+      },
+      {
+        "start": 1082.76,
+        "duration": 4.92,
+        "start_formatted": "18:02",
+        "text": "nothing it has seen before. Now, back to"
+      },
+      {
+        "start": 1085.16,
+        "duration": 5.6,
+        "start_formatted": "18:05",
+        "text": "the task. It needs to rank how potent"
+      },
+      {
+        "start": 1087.68,
+        "duration": 5.52,
+        "start_formatted": "18:07",
+        "text": "each drug will be against 805 different"
+      },
+      {
+        "start": 1090.76,
+        "duration": 4.76,
+        "start_formatted": "18:10",
+        "text": "variations of cancer tumors. And here's"
+      },
+      {
+        "start": 1093.2,
+        "duration": 4.72,
+        "start_formatted": "18:13",
+        "text": "its prediction. Mammal returned a very"
+      },
+      {
+        "start": 1095.52,
+        "duration": 4.88,
+        "start_formatted": "18:15",
+        "text": "confident and specific ranking. It"
+      },
+      {
+        "start": 1097.92,
+        "duration": 5.24,
+        "start_formatted": "18:17",
+        "text": "predicted that carfilzomib is the most"
+      },
+      {
+        "start": 1100.4,
+        "duration": 5.64,
+        "start_formatted": "18:20",
+        "text": "potent across the majority of tumors. It"
+      },
+      {
+        "start": 1103.16,
+        "duration": 5.64,
+        "start_formatted": "18:23",
+        "text": "then ranked nintedanib second, and then"
+      },
+      {
+        "start": 1106.04,
+        "duration": 4.92,
+        "start_formatted": "18:26",
+        "text": "this one third, and this one fourth, the"
+      },
+      {
+        "start": 1108.8,
+        "duration": 4.44,
+        "start_formatted": "18:28",
+        "text": "least potent of the four. Now, here's"
+      },
+      {
+        "start": 1110.96,
+        "duration": 4.96,
+        "start_formatted": "18:30",
+        "text": "the plot twist. If you actually look up"
+      },
+      {
+        "start": 1113.24,
+        "duration": 4.68,
+        "start_formatted": "18:33",
+        "text": "carfilzomib, it's a real FDA-approved"
+      },
+      {
+        "start": 1115.92,
+        "duration": 5.16,
+        "start_formatted": "18:35",
+        "text": "drug. But it's currently approved and"
+      },
+      {
+        "start": 1117.92,
+        "duration": 5.84,
+        "start_formatted": "18:37",
+        "text": "only used for blood cancers. All this"
+      },
+      {
+        "start": 1121.08,
+        "duration": 5.64,
+        "start_formatted": "18:41",
+        "text": "time, doctors believed that carfilzomib"
+      },
+      {
+        "start": 1123.76,
+        "duration": 4.44,
+        "start_formatted": "18:43",
+        "text": "was useless against solid tumors. They"
+      },
+      {
+        "start": 1126.72,
+        "duration": 4.08,
+        "start_formatted": "18:46",
+        "text": "just thought it didn't work. That's the"
+      },
+      {
+        "start": 1128.2,
+        "duration": 5.08,
+        "start_formatted": "18:48",
+        "text": "currently accepted view from expert"
+      },
+      {
+        "start": 1130.8,
+        "duration": 5.48,
+        "start_formatted": "18:50",
+        "text": "oncologists. But here, the AI put this"
+      },
+      {
+        "start": 1133.28,
+        "duration": 5.52,
+        "start_formatted": "18:53",
+        "text": "as the number one strongest drug against"
+      },
+      {
+        "start": 1136.28,
+        "duration": 4.48,
+        "start_formatted": "18:56",
+        "text": "solid cancer types. Remember, we don't"
+      },
+      {
+        "start": 1138.8,
+        "duration": 3.88,
+        "start_formatted": "18:58",
+        "text": "have this knowledge before. Experts"
+      },
+      {
+        "start": 1140.76,
+        "duration": 4.04,
+        "start_formatted": "19:00",
+        "text": "never thought this would be the case. If"
+      },
+      {
+        "start": 1142.68,
+        "duration": 4.28,
+        "start_formatted": "19:02",
+        "text": "we put this to the test in real life, we"
+      },
+      {
+        "start": 1144.8,
+        "duration": 4.04,
+        "start_formatted": "19:04",
+        "text": "would expect it to fail miserably,"
+      },
+      {
+        "start": 1146.96,
+        "duration": 4.0,
+        "start_formatted": "19:06",
+        "text": "right? But here, Mammal seems so"
+      },
+      {
+        "start": 1148.84,
+        "duration": 4.32,
+        "start_formatted": "19:08",
+        "text": "confident. It looked at the structure of"
+      },
+      {
+        "start": 1150.96,
+        "duration": 5.32,
+        "start_formatted": "19:10",
+        "text": "this drug and confidently said that this"
+      },
+      {
+        "start": 1153.16,
+        "duration": 5.32,
+        "start_formatted": "19:13",
+        "text": "would be very strong against solid tumor"
+      },
+      {
+        "start": 1156.28,
+        "duration": 4.2,
+        "start_formatted": "19:16",
+        "text": "cells, completely contrary to what"
+      },
+      {
+        "start": 1158.48,
+        "duration": 4.32,
+        "start_formatted": "19:18",
+        "text": "doctors think. So, the researchers put"
+      },
+      {
+        "start": 1160.48,
+        "duration": 4.52,
+        "start_formatted": "19:20",
+        "text": "this to the test. They conducted a"
+      },
+      {
+        "start": 1162.8,
+        "duration": 5.6,
+        "start_formatted": "19:22",
+        "text": "real-life physical experiment where they"
+      },
+      {
+        "start": 1165.0,
+        "duration": 6.28,
+        "start_formatted": "19:25",
+        "text": "tested these drugs against solid cancer"
+      },
+      {
+        "start": 1168.4,
+        "duration": 5.04,
+        "start_formatted": "19:28",
+        "text": "cells, and what they found was shocking."
+      },
+      {
+        "start": 1171.28,
+        "duration": 5.0,
+        "start_formatted": "19:31",
+        "text": "The results perfectly matched mammals'"
+      },
+      {
+        "start": 1173.44,
+        "duration": 6.04,
+        "start_formatted": "19:33",
+        "text": "predictions. It got the precise potency"
+      },
+      {
+        "start": 1176.28,
+        "duration": 5.44,
+        "start_formatted": "19:36",
+        "text": "ranking exactly right. Carfilzomib was"
+      },
+      {
+        "start": 1179.48,
+        "duration": 5.24,
+        "start_formatted": "19:39",
+        "text": "the most potent, cascading down to"
+      },
+      {
+        "start": 1181.72,
+        "duration": 5.72,
+        "start_formatted": "19:41",
+        "text": "vemurafenib as the least potent. Mammals"
+      },
+      {
+        "start": 1184.72,
+        "duration": 6.04,
+        "start_formatted": "19:44",
+        "text": "successfully preserved this relative"
+      },
+      {
+        "start": 1187.44,
+        "duration": 6.6,
+        "start_formatted": "19:47",
+        "text": "order across approximately 95% of all"
+      },
+      {
+        "start": 1190.76,
+        "duration": 6.56,
+        "start_formatted": "19:50",
+        "text": "805 cancer cell types. Let's take a"
+      },
+      {
+        "start": 1194.04,
+        "duration": 6.24,
+        "start_formatted": "19:54",
+        "text": "second to process how insane this is. An"
+      },
+      {
+        "start": 1197.32,
+        "duration": 6.12,
+        "start_formatted": "19:57",
+        "text": "AI that merely reads text strings looked"
+      },
+      {
+        "start": 1200.28,
+        "duration": 5.28,
+        "start_formatted": "20:00",
+        "text": "at a blood cancer drug it had never seen"
+      },
+      {
+        "start": 1203.44,
+        "duration": 4.6,
+        "start_formatted": "20:03",
+        "text": "before. It looked at the genetics of"
+      },
+      {
+        "start": 1205.56,
+        "duration": 4.4,
+        "start_formatted": "20:05",
+        "text": "hundreds of solid tumors, which is a"
+      },
+      {
+        "start": 1208.04,
+        "duration": 3.8,
+        "start_formatted": "20:08",
+        "text": "different thing, and it correctly"
+      },
+      {
+        "start": 1209.96,
+        "duration": 4.88,
+        "start_formatted": "20:09",
+        "text": "deduced that this drug would be"
+      },
+      {
+        "start": 1211.84,
+        "duration": 4.96,
+        "start_formatted": "20:11",
+        "text": "effective against these solid tumors,"
+      },
+      {
+        "start": 1214.84,
+        "duration": 4.16,
+        "start_formatted": "20:14",
+        "text": "even though for decades human experts"
+      },
+      {
+        "start": 1216.8,
+        "duration": 4.76,
+        "start_formatted": "20:16",
+        "text": "assumed these drugs would not work. The"
+      },
+      {
+        "start": 1219.0,
+        "duration": 4.16,
+        "start_formatted": "20:19",
+        "text": "implications of this are massive. What"
+      },
+      {
+        "start": 1221.56,
+        "duration": 4.16,
+        "start_formatted": "20:21",
+        "text": "we're witnessing is an AI that can"
+      },
+      {
+        "start": 1223.16,
+        "duration": 4.72,
+        "start_formatted": "20:23",
+        "text": "generalize to entirely new chemical"
+      },
+      {
+        "start": 1225.72,
+        "duration": 4.64,
+        "start_formatted": "20:25",
+        "text": "compounds and accurately predict their"
+      },
+      {
+        "start": 1227.88,
+        "duration": 4.92,
+        "start_formatted": "20:27",
+        "text": "uses for treating diseases, which is the"
+      },
+      {
+        "start": 1230.36,
+        "duration": 4.56,
+        "start_formatted": "20:30",
+        "text": "entire field of drug discovery, and"
+      },
+      {
+        "start": 1232.8,
+        "duration": 3.52,
+        "start_formatted": "20:32",
+        "text": "especially for drug repurposing. If"
+      },
+      {
+        "start": 1234.92,
+        "duration": 3.44,
+        "start_formatted": "20:34",
+        "text": "you're not familiar with drug"
+      },
+      {
+        "start": 1236.32,
+        "duration": 4.52,
+        "start_formatted": "20:36",
+        "text": "repurposing, it means taking a drug that"
+      },
+      {
+        "start": 1238.36,
+        "duration": 4.68,
+        "start_formatted": "20:38",
+        "text": "already exists and testing whether it"
+      },
+      {
+        "start": 1240.84,
+        "duration": 3.96,
+        "start_formatted": "20:40",
+        "text": "can treat a different disease. Instead"
+      },
+      {
+        "start": 1243.04,
+        "duration": 4.16,
+        "start_formatted": "20:43",
+        "text": "of starting from zero and designing a"
+      },
+      {
+        "start": 1244.8,
+        "duration": 5.36,
+        "start_formatted": "20:44",
+        "text": "brand new molecule, scientists look at"
+      },
+      {
+        "start": 1247.2,
+        "duration": 4.28,
+        "start_formatted": "20:47",
+        "text": "approved drugs or failed drug candidates"
+      },
+      {
+        "start": 1250.16,
+        "duration": 3.04,
+        "start_formatted": "20:50",
+        "text": "and ask, \"Could this work somewhere"
+      },
+      {
+        "start": 1251.48,
+        "duration": 4.24,
+        "start_formatted": "20:51",
+        "text": "else?\" And this is really important"
+      },
+      {
+        "start": 1253.2,
+        "duration": 5.04,
+        "start_formatted": "20:53",
+        "text": "because discovering or inventing a new"
+      },
+      {
+        "start": 1255.72,
+        "duration": 4.64,
+        "start_formatted": "20:55",
+        "text": "drug from scratch takes like 10 to 15"
+      },
+      {
+        "start": 1258.24,
+        "duration": 4.32,
+        "start_formatted": "20:58",
+        "text": "years and billions of dollars. But if"
+      },
+      {
+        "start": 1260.36,
+        "duration": 5.32,
+        "start_formatted": "21:00",
+        "text": "you have an AI that can scan the entire"
+      },
+      {
+        "start": 1262.56,
+        "duration": 4.96,
+        "start_formatted": "21:02",
+        "text": "library of existing drug candidates and"
+      },
+      {
+        "start": 1265.68,
+        "duration": 4.64,
+        "start_formatted": "21:05",
+        "text": "see if it can treat another disease,"
+      },
+      {
+        "start": 1267.52,
+        "duration": 5.36,
+        "start_formatted": "21:07",
+        "text": "that opens up massive opportunities. But"
+      },
+      {
+        "start": 1270.32,
+        "duration": 4.84,
+        "start_formatted": "21:10",
+        "text": "as incredible as this cancer drug story"
+      },
+      {
+        "start": 1272.88,
+        "duration": 5.24,
+        "start_formatted": "21:12",
+        "text": "is, remember that small molecules are"
+      },
+      {
+        "start": 1275.16,
+        "duration": 5.32,
+        "start_formatted": "21:15",
+        "text": "just one type of drug. Another type is"
+      },
+      {
+        "start": 1278.12,
+        "duration": 4.88,
+        "start_formatted": "21:18",
+        "text": "the antibody. These are larger proteins"
+      },
+      {
+        "start": 1280.48,
+        "duration": 4.36,
+        "start_formatted": "21:20",
+        "text": "that clamp onto the problematic protein"
+      },
+      {
+        "start": 1283.0,
+        "duration": 3.92,
+        "start_formatted": "21:23",
+        "text": "very precisely. And predicting the"
+      },
+      {
+        "start": 1284.84,
+        "duration": 4.28,
+        "start_formatted": "21:24",
+        "text": "structure and application of this is"
+      },
+      {
+        "start": 1286.92,
+        "duration": 4.68,
+        "start_formatted": "21:26",
+        "text": "super complicated. You see, a protein is"
+      },
+      {
+        "start": 1289.12,
+        "duration": 5.36,
+        "start_formatted": "21:29",
+        "text": "just a long chain of amino acids that"
+      },
+      {
+        "start": 1291.6,
+        "duration": 5.0,
+        "start_formatted": "21:31",
+        "text": "fold into complex 3D shapes. That shape"
+      },
+      {
+        "start": 1294.48,
+        "duration": 3.96,
+        "start_formatted": "21:34",
+        "text": "determines what they stick to and what"
+      },
+      {
+        "start": 1296.6,
+        "duration": 4.44,
+        "start_formatted": "21:36",
+        "text": "effect they will have in the body. But"
+      },
+      {
+        "start": 1298.44,
+        "duration": 4.92,
+        "start_formatted": "21:38",
+        "text": "in theory, a protein has a ginormous"
+      },
+      {
+        "start": 1301.04,
+        "duration": 4.36,
+        "start_formatted": "21:41",
+        "text": "number of possible ways it could fold."
+      },
+      {
+        "start": 1303.36,
+        "duration": 4.04,
+        "start_formatted": "21:43",
+        "text": "If it tried every possible shape"
+      },
+      {
+        "start": 1305.4,
+        "duration": 4.4,
+        "start_formatted": "21:45",
+        "text": "randomly, it could take longer than the"
+      },
+      {
+        "start": 1307.4,
+        "duration": 3.92,
+        "start_formatted": "21:47",
+        "text": "age of the universe to find the correct"
+      },
+      {
+        "start": 1309.8,
+        "duration": 3.8,
+        "start_formatted": "21:49",
+        "text": "one. But in real life, of course,"
+      },
+      {
+        "start": 1311.32,
+        "duration": 4.12,
+        "start_formatted": "21:51",
+        "text": "proteins fold almost instantly because"
+      },
+      {
+        "start": 1313.6,
+        "duration": 3.92,
+        "start_formatted": "21:53",
+        "text": "physics guide them towards the most"
+      },
+      {
+        "start": 1315.44,
+        "duration": 4.68,
+        "start_formatted": "21:55",
+        "text": "stable shape. So, to create a"
+      },
+      {
+        "start": 1317.52,
+        "duration": 4.48,
+        "start_formatted": "21:57",
+        "text": "protein-based drug, like an antibody,"
+      },
+      {
+        "start": 1320.12,
+        "duration": 4.68,
+        "start_formatted": "22:00",
+        "text": "scientists need to understand not just"
+      },
+      {
+        "start": 1322.0,
+        "duration": 4.88,
+        "start_formatted": "22:02",
+        "text": "the protein sequence, but how it folds."
+      },
+      {
+        "start": 1324.8,
+        "duration": 4.12,
+        "start_formatted": "22:04",
+        "text": "How does it move and what does it bind"
+      },
+      {
+        "start": 1326.88,
+        "duration": 4.44,
+        "start_formatted": "22:06",
+        "text": "to? Now, at least in terms of predicting"
+      },
+      {
+        "start": 1328.92,
+        "duration": 5.2,
+        "start_formatted": "22:08",
+        "text": "how proteins fold, that's exactly what"
+      },
+      {
+        "start": 1331.32,
+        "duration": 4.48,
+        "start_formatted": "22:11",
+        "text": "Google's legendary AlphaFold does. But"
+      },
+      {
+        "start": 1334.12,
+        "duration": 3.72,
+        "start_formatted": "22:14",
+        "text": "since Mammal was also trained on"
+      },
+      {
+        "start": 1335.8,
+        "duration": 4.48,
+        "start_formatted": "22:15",
+        "text": "proteins, what happens if we compare"
+      },
+      {
+        "start": 1337.84,
+        "duration": 4.96,
+        "start_formatted": "22:17",
+        "text": "Mammal with the latest AlphaFold 3"
+      },
+      {
+        "start": 1340.28,
+        "duration": 4.4,
+        "start_formatted": "22:20",
+        "text": "head-to-head? Keep in mind, AlphaFold is"
+      },
+      {
+        "start": 1342.8,
+        "duration": 4.16,
+        "start_formatted": "22:22",
+        "text": "super accurate. It's like the industry"
+      },
+      {
+        "start": 1344.68,
+        "duration": 3.8,
+        "start_formatted": "22:24",
+        "text": "standard for predicting proteins. It's"
+      },
+      {
+        "start": 1346.96,
+        "duration": 3.76,
+        "start_formatted": "22:26",
+        "text": "considered like one of the greatest"
+      },
+      {
+        "start": 1348.48,
+        "duration": 4.96,
+        "start_formatted": "22:28",
+        "text": "modern scientific achievements, and the"
+      },
+      {
+        "start": 1350.72,
+        "duration": 5.0,
+        "start_formatted": "22:30",
+        "text": "team even won a Nobel Prize in chemistry"
+      },
+      {
+        "start": 1353.44,
+        "duration": 4.96,
+        "start_formatted": "22:33",
+        "text": "for this. Now, we just established that"
+      },
+      {
+        "start": 1355.72,
+        "duration": 4.84,
+        "start_formatted": "22:35",
+        "text": "Mammal is just a sequence model, right?"
+      },
+      {
+        "start": 1358.4,
+        "duration": 4.4,
+        "start_formatted": "22:38",
+        "text": "It reads text in one dimension. How can"
+      },
+      {
+        "start": 1360.56,
+        "duration": 4.28,
+        "start_formatted": "22:40",
+        "text": "it possibly beat AlphaFold, which is"
+      },
+      {
+        "start": 1362.8,
+        "duration": 4.0,
+        "start_formatted": "22:42",
+        "text": "specialized at predicting the 3D"
+      },
+      {
+        "start": 1364.84,
+        "duration": 4.16,
+        "start_formatted": "22:44",
+        "text": "structure of proteins? Well, the"
+      },
+      {
+        "start": 1366.8,
+        "duration": 4.68,
+        "start_formatted": "22:46",
+        "text": "researchers put this to the test. They"
+      },
+      {
+        "start": 1369.0,
+        "duration": 5.12,
+        "start_formatted": "22:49",
+        "text": "showed both Mammal and AlphaFold an"
+      },
+      {
+        "start": 1371.48,
+        "duration": 4.88,
+        "start_formatted": "22:51",
+        "text": "antibody and a disease target. And they"
+      },
+      {
+        "start": 1374.12,
+        "duration": 4.64,
+        "start_formatted": "22:54",
+        "text": "asked, will these two stick together?"
+      },
+      {
+        "start": 1376.36,
+        "duration": 4.72,
+        "start_formatted": "22:56",
+        "text": "Yes or no. They tested both models"
+      },
+      {
+        "start": 1378.76,
+        "duration": 4.44,
+        "start_formatted": "22:58",
+        "text": "across seven different well-documented"
+      },
+      {
+        "start": 1381.08,
+        "duration": 4.88,
+        "start_formatted": "23:01",
+        "text": "targets, and again, the results were"
+      },
+      {
+        "start": 1383.2,
+        "duration": 6.08,
+        "start_formatted": "23:03",
+        "text": "shocking. Mammal actually beat AlphaFold"
+      },
+      {
+        "start": 1385.96,
+        "duration": 5.76,
+        "start_formatted": "23:05",
+        "text": "3 on five of those seven targets. Again,"
+      },
+      {
+        "start": 1389.28,
+        "duration": 4.8,
+        "start_formatted": "23:09",
+        "text": "this is pretty crazy. AlphaFold 3 can"
+      },
+      {
+        "start": 1391.72,
+        "duration": 5.2,
+        "start_formatted": "23:11",
+        "text": "literally see 3D shapes of these"
+      },
+      {
+        "start": 1394.08,
+        "duration": 5.08,
+        "start_formatted": "23:14",
+        "text": "proteins. So, shouldn't it easily see if"
+      },
+      {
+        "start": 1396.92,
+        "duration": 4.08,
+        "start_formatted": "23:16",
+        "text": "it fits with the target disease? How on"
+      },
+      {
+        "start": 1399.16,
+        "duration": 4.24,
+        "start_formatted": "23:19",
+        "text": "Earth could a one-dimensional text"
+      },
+      {
+        "start": 1401.0,
+        "duration": 4.16,
+        "start_formatted": "23:21",
+        "text": "reader like Mammal actually win? To"
+      },
+      {
+        "start": 1403.4,
+        "duration": 3.92,
+        "start_formatted": "23:23",
+        "text": "understand why, we have to understand a"
+      },
+      {
+        "start": 1405.16,
+        "duration": 4.56,
+        "start_formatted": "23:25",
+        "text": "very flawed assumption about how"
+      },
+      {
+        "start": 1407.32,
+        "duration": 4.6,
+        "start_formatted": "23:27",
+        "text": "proteins work at the microscopic level."
+      },
+      {
+        "start": 1409.72,
+        "duration": 4.68,
+        "start_formatted": "23:29",
+        "text": "You see, in textbooks or in other"
+      },
+      {
+        "start": 1411.92,
+        "duration": 5.08,
+        "start_formatted": "23:31",
+        "text": "content, they often describe proteins as"
+      },
+      {
+        "start": 1414.4,
+        "duration": 5.0,
+        "start_formatted": "23:34",
+        "text": "just rigid, static structures. Every"
+      },
+      {
+        "start": 1417.0,
+        "duration": 4.48,
+        "start_formatted": "23:37",
+        "text": "textbook illustration shows proteins as"
+      },
+      {
+        "start": 1419.4,
+        "duration": 3.52,
+        "start_formatted": "23:39",
+        "text": "these solid interlocking shapes,"
+      },
+      {
+        "start": 1421.48,
+        "duration": 3.44,
+        "start_formatted": "23:41",
+        "text": "because, well, that's the only way we"
+      },
+      {
+        "start": 1422.92,
+        "duration": 4.12,
+        "start_formatted": "23:42",
+        "text": "could historically draw them or"
+      },
+      {
+        "start": 1424.92,
+        "duration": 4.56,
+        "start_formatted": "23:44",
+        "text": "photograph them. But, in reality, at"
+      },
+      {
+        "start": 1427.04,
+        "duration": 5.56,
+        "start_formatted": "23:47",
+        "text": "least for human proteins, around 30 to"
+      },
+      {
+        "start": 1429.48,
+        "duration": 5.68,
+        "start_formatted": "23:49",
+        "text": "40% of the sequence consists of"
+      },
+      {
+        "start": 1432.6,
+        "duration": 5.32,
+        "start_formatted": "23:52",
+        "text": "intrinsically disordered regions, or"
+      },
+      {
+        "start": 1435.16,
+        "duration": 5.24,
+        "start_formatted": "23:55",
+        "text": "IDRs for short. Now, what on Earth are"
+      },
+      {
+        "start": 1437.92,
+        "duration": 5.56,
+        "start_formatted": "23:57",
+        "text": "these? These sections of the protein"
+      },
+      {
+        "start": 1440.4,
+        "duration": 5.32,
+        "start_formatted": "24:00",
+        "text": "actually don't have a stable 3D shape."
+      },
+      {
+        "start": 1443.48,
+        "duration": 4.4,
+        "start_formatted": "24:03",
+        "text": "Instead, they're floppy and highly"
+      },
+      {
+        "start": 1445.72,
+        "duration": 4.6,
+        "start_formatted": "24:05",
+        "text": "flexible. An IDR kind of looks and"
+      },
+      {
+        "start": 1447.88,
+        "duration": 4.4,
+        "start_formatted": "24:07",
+        "text": "behaves like a piece of wet spaghetti,"
+      },
+      {
+        "start": 1450.32,
+        "duration": 4.16,
+        "start_formatted": "24:10",
+        "text": "constantly wiggling, folding, and"
+      },
+      {
+        "start": 1452.28,
+        "duration": 4.48,
+        "start_formatted": "24:12",
+        "text": "shifting around. So, actually, protein"
+      },
+      {
+        "start": 1454.48,
+        "duration": 4.64,
+        "start_formatted": "24:14",
+        "text": "structures are quite dynamic, not"
+      },
+      {
+        "start": 1456.76,
+        "duration": 4.6,
+        "start_formatted": "24:16",
+        "text": "static. They're not just solid blocks,"
+      },
+      {
+        "start": 1459.12,
+        "duration": 4.4,
+        "start_formatted": "24:19",
+        "text": "but they're actually fluid, and they can"
+      },
+      {
+        "start": 1461.36,
+        "duration": 3.84,
+        "start_formatted": "24:21",
+        "text": "change shapes or move around. And, this"
+      },
+      {
+        "start": 1463.52,
+        "duration": 5.16,
+        "start_formatted": "24:23",
+        "text": "is crucial because some of the most"
+      },
+      {
+        "start": 1465.2,
+        "duration": 6.64,
+        "start_formatted": "24:25",
+        "text": "important protein targets, like EGFR and"
+      },
+      {
+        "start": 1468.68,
+        "duration": 5.36,
+        "start_formatted": "24:28",
+        "text": "HER2, which are notoriously aggressive"
+      },
+      {
+        "start": 1471.84,
+        "duration": 4.44,
+        "start_formatted": "24:31",
+        "text": "drivers of breast cancer and stomach"
+      },
+      {
+        "start": 1474.04,
+        "duration": 4.64,
+        "start_formatted": "24:34",
+        "text": "cancer, have a ton of these floppy"
+      },
+      {
+        "start": 1476.28,
+        "duration": 5.12,
+        "start_formatted": "24:36",
+        "text": "intrinsically disordered regions. If you"
+      },
+      {
+        "start": 1478.68,
+        "duration": 4.76,
+        "start_formatted": "24:38",
+        "text": "give these floppy regions to AlphaFold"
+      },
+      {
+        "start": 1481.4,
+        "duration": 4.56,
+        "start_formatted": "24:41",
+        "text": "3, well, it struggles to actually"
+      },
+      {
+        "start": 1483.44,
+        "duration": 4.76,
+        "start_formatted": "24:43",
+        "text": "predict the structure of this because"
+      },
+      {
+        "start": 1485.96,
+        "duration": 4.96,
+        "start_formatted": "24:45",
+        "text": "it's trained on predicting static and"
+      },
+      {
+        "start": 1488.2,
+        "duration": 5.4,
+        "start_formatted": "24:48",
+        "text": "solid 3D structures. AlphaFold only"
+      },
+      {
+        "start": 1490.92,
+        "duration": 4.84,
+        "start_formatted": "24:50",
+        "text": "learned from those frozen snapshots of"
+      },
+      {
+        "start": 1493.6,
+        "duration": 5.16,
+        "start_formatted": "24:53",
+        "text": "proteins during training. So, if you"
+      },
+      {
+        "start": 1495.76,
+        "duration": 5.6,
+        "start_formatted": "24:55",
+        "text": "give AlphaFold 3 the sequence of these"
+      },
+      {
+        "start": 1498.76,
+        "duration": 4.84,
+        "start_formatted": "24:58",
+        "text": "highly flexible and chaotic targets and"
+      },
+      {
+        "start": 1501.36,
+        "duration": 3.96,
+        "start_formatted": "25:01",
+        "text": "ask if a specific antibody will bind to"
+      },
+      {
+        "start": 1503.6,
+        "duration": 3.92,
+        "start_formatted": "25:03",
+        "text": "it, it actually does not answer this"
+      },
+      {
+        "start": 1505.32,
+        "duration": 4.48,
+        "start_formatted": "25:05",
+        "text": "well. But, if you give the same question"
+      },
+      {
+        "start": 1507.52,
+        "duration": 4.64,
+        "start_formatted": "25:07",
+        "text": "to Mammal, it had much better"
+      },
+      {
+        "start": 1509.8,
+        "duration": 5.12,
+        "start_formatted": "25:09",
+        "text": "predictions. Mammal actually wins on the"
+      },
+      {
+        "start": 1512.16,
+        "duration": 4.72,
+        "start_formatted": "25:12",
+        "text": "floppy proteins because it isn't trying"
+      },
+      {
+        "start": 1514.92,
+        "duration": 4.4,
+        "start_formatted": "25:14",
+        "text": "to draw a static picture of them."
+      },
+      {
+        "start": 1516.88,
+        "duration": 4.64,
+        "start_formatted": "25:16",
+        "text": "Because Mammal is a large language model"
+      },
+      {
+        "start": 1519.32,
+        "duration": 4.84,
+        "start_formatted": "25:19",
+        "text": "operating on sequences, it doesn't try"
+      },
+      {
+        "start": 1521.52,
+        "duration": 4.92,
+        "start_formatted": "25:21",
+        "text": "to force the protein into any specific"
+      },
+      {
+        "start": 1524.16,
+        "duration": 4.92,
+        "start_formatted": "25:24",
+        "text": "shape. Instead, it seems to understand"
+      },
+      {
+        "start": 1526.44,
+        "duration": 5.44,
+        "start_formatted": "25:26",
+        "text": "the underlying grammar or the rules of"
+      },
+      {
+        "start": 1529.08,
+        "duration": 4.96,
+        "start_formatted": "25:29",
+        "text": "proteins, including floppy parts. It"
+      },
+      {
+        "start": 1531.88,
+        "duration": 4.12,
+        "start_formatted": "25:31",
+        "text": "relies on the math of the sequence and"
+      },
+      {
+        "start": 1534.04,
+        "duration": 4.36,
+        "start_formatted": "25:34",
+        "text": "not just a snapshot of the structure."
+      },
+      {
+        "start": 1536.0,
+        "duration": 4.68,
+        "start_formatted": "25:36",
+        "text": "And this is a brilliant distinction."
+      },
+      {
+        "start": 1538.4,
+        "duration": 4.8,
+        "start_formatted": "25:38",
+        "text": "It's far more robust at predicting"
+      },
+      {
+        "start": 1540.68,
+        "duration": 4.44,
+        "start_formatted": "25:40",
+        "text": "whether an antibody will bind to a"
+      },
+      {
+        "start": 1543.2,
+        "duration": 4.76,
+        "start_formatted": "25:43",
+        "text": "disease target. And again, this"
+      },
+      {
+        "start": 1545.12,
+        "duration": 5.32,
+        "start_formatted": "25:45",
+        "text": "unleashes some insane possibilities. We"
+      },
+      {
+        "start": 1547.96,
+        "duration": 5.0,
+        "start_formatted": "25:47",
+        "text": "can now plug all antibody candidates"
+      },
+      {
+        "start": 1550.44,
+        "duration": 4.64,
+        "start_formatted": "25:50",
+        "text": "through this AI and ask if it can bind"
+      },
+      {
+        "start": 1552.96,
+        "duration": 4.76,
+        "start_formatted": "25:52",
+        "text": "to certain diseases. And this could lead"
+      },
+      {
+        "start": 1555.08,
+        "duration": 4.92,
+        "start_formatted": "25:55",
+        "text": "to a ton of huge discoveries and new"
+      },
+      {
+        "start": 1557.72,
+        "duration": 4.08,
+        "start_formatted": "25:57",
+        "text": "drugs. Now, so far we've only asked"
+      },
+      {
+        "start": 1560.0,
+        "duration": 4.12,
+        "start_formatted": "26:00",
+        "text": "Mammal questions about existing"
+      },
+      {
+        "start": 1561.8,
+        "duration": 4.6,
+        "start_formatted": "26:01",
+        "text": "candidates and whether they respond to"
+      },
+      {
+        "start": 1564.12,
+        "duration": 4.68,
+        "start_formatted": "26:04",
+        "text": "certain diseases. What if we want to"
+      },
+      {
+        "start": 1566.4,
+        "duration": 4.84,
+        "start_formatted": "26:06",
+        "text": "generate a completely new drug from"
+      },
+      {
+        "start": 1568.8,
+        "duration": 4.8,
+        "start_formatted": "26:08",
+        "text": "scratch? The crazy thing is they"
+      },
+      {
+        "start": 1571.24,
+        "duration": 5.0,
+        "start_formatted": "26:11",
+        "text": "actually designed Mammal to be able to"
+      },
+      {
+        "start": 1573.6,
+        "duration": 5.12,
+        "start_formatted": "26:13",
+        "text": "do this. It's not just an analyst, but"
+      },
+      {
+        "start": 1576.24,
+        "duration": 4.96,
+        "start_formatted": "26:16",
+        "text": "it can also act as the inventor. So,"
+      },
+      {
+        "start": 1578.72,
+        "duration": 5.48,
+        "start_formatted": "26:18",
+        "text": "next the researchers tested its ability"
+      },
+      {
+        "start": 1581.2,
+        "duration": 5.12,
+        "start_formatted": "26:21",
+        "text": "to design new antibodies from scratch."
+      },
+      {
+        "start": 1584.2,
+        "duration": 3.72,
+        "start_formatted": "26:24",
+        "text": "To understand the significance of this,"
+      },
+      {
+        "start": 1586.32,
+        "duration": 3.56,
+        "start_formatted": "26:26",
+        "text": "we first need to understand how"
+      },
+      {
+        "start": 1587.92,
+        "duration": 4.8,
+        "start_formatted": "26:27",
+        "text": "antibodies work. An antibody is"
+      },
+      {
+        "start": 1589.88,
+        "duration": 5.36,
+        "start_formatted": "26:29",
+        "text": "basically a massive Y-shaped protein"
+      },
+      {
+        "start": 1592.72,
+        "duration": 4.72,
+        "start_formatted": "26:32",
+        "text": "used by our immune system to identify"
+      },
+      {
+        "start": 1595.24,
+        "duration": 4.72,
+        "start_formatted": "26:35",
+        "text": "and deactivate things like viruses or"
+      },
+      {
+        "start": 1597.44,
+        "duration": 4.8,
+        "start_formatted": "26:37",
+        "text": "cancer cells. Picture it as a giant"
+      },
+      {
+        "start": 1599.96,
+        "duration": 4.56,
+        "start_formatted": "26:39",
+        "text": "microscopic claw floating through the"
+      },
+      {
+        "start": 1602.24,
+        "duration": 4.72,
+        "start_formatted": "26:42",
+        "text": "bloodstream. Now, the main body of that"
+      },
+      {
+        "start": 1604.52,
+        "duration": 4.52,
+        "start_formatted": "26:44",
+        "text": "Y-shaped claw is quite stable and"
+      },
+      {
+        "start": 1606.96,
+        "duration": 4.32,
+        "start_formatted": "26:46",
+        "text": "consistent. But, the very tips of the"
+      },
+      {
+        "start": 1609.04,
+        "duration": 4.88,
+        "start_formatted": "26:49",
+        "text": "claw, the parts that actually reach out"
+      },
+      {
+        "start": 1611.28,
+        "duration": 5.08,
+        "start_formatted": "26:51",
+        "text": "and physically grab the disease antigen,"
+      },
+      {
+        "start": 1613.92,
+        "duration": 5.04,
+        "start_formatted": "26:53",
+        "text": "these are highly variable. These tips"
+      },
+      {
+        "start": 1616.36,
+        "duration": 5.0,
+        "start_formatted": "26:56",
+        "text": "are called CDRs or complementarity"
+      },
+      {
+        "start": 1618.96,
+        "duration": 4.36,
+        "start_formatted": "26:58",
+        "text": "determining regions. And the CDRs are"
+      },
+      {
+        "start": 1621.36,
+        "duration": 3.88,
+        "start_formatted": "27:01",
+        "text": "kind of like the fingers at the end of"
+      },
+      {
+        "start": 1623.32,
+        "duration": 4.04,
+        "start_formatted": "27:03",
+        "text": "the claw. These fingers are the most"
+      },
+      {
+        "start": 1625.24,
+        "duration": 4.96,
+        "start_formatted": "27:05",
+        "text": "important part of the antibody because"
+      },
+      {
+        "start": 1627.36,
+        "duration": 4.76,
+        "start_formatted": "27:07",
+        "text": "they are highly specific. The sequence"
+      },
+      {
+        "start": 1630.2,
+        "duration": 4.76,
+        "start_formatted": "27:10",
+        "text": "of amino acids that code up these"
+      },
+      {
+        "start": 1632.12,
+        "duration": 5.2,
+        "start_formatted": "27:12",
+        "text": "fingers determine exactly what disease"
+      },
+      {
+        "start": 1634.96,
+        "duration": 5.12,
+        "start_formatted": "27:14",
+        "text": "the antibody can grab onto. In fact, the"
+      },
+      {
+        "start": 1637.32,
+        "duration": 4.56,
+        "start_formatted": "27:17",
+        "text": "entire field of modern antibody design"
+      },
+      {
+        "start": 1640.08,
+        "duration": 4.4,
+        "start_formatted": "27:20",
+        "text": "involves trying to engineer new and"
+      },
+      {
+        "start": 1641.88,
+        "duration": 4.64,
+        "start_formatted": "27:21",
+        "text": "better fingers to grab a specific"
+      },
+      {
+        "start": 1644.48,
+        "duration": 4.68,
+        "start_formatted": "27:24",
+        "text": "target. So, how did they set up this"
+      },
+      {
+        "start": 1646.52,
+        "duration": 5.84,
+        "start_formatted": "27:26",
+        "text": "test for Mammal? They used a huge"
+      },
+      {
+        "start": 1649.16,
+        "duration": 5.28,
+        "start_formatted": "27:29",
+        "text": "dataset called SabDab, which has a ton"
+      },
+      {
+        "start": 1652.36,
+        "duration": 4.08,
+        "start_formatted": "27:32",
+        "text": "of different antibodies. They took"
+      },
+      {
+        "start": 1654.44,
+        "duration": 4.76,
+        "start_formatted": "27:34",
+        "text": "thousands of known and successful"
+      },
+      {
+        "start": 1656.44,
+        "duration": 5.68,
+        "start_formatted": "27:36",
+        "text": "antibodies, but they artificially erased"
+      },
+      {
+        "start": 1659.2,
+        "duration": 5.04,
+        "start_formatted": "27:39",
+        "text": "the CDRs or the fingers so that the AI"
+      },
+      {
+        "start": 1662.12,
+        "duration": 4.36,
+        "start_formatted": "27:42",
+        "text": "couldn't see it. They then fed Mammal"
+      },
+      {
+        "start": 1664.24,
+        "duration": 3.48,
+        "start_formatted": "27:44",
+        "text": "the disease it needed to target, and"
+      },
+      {
+        "start": 1666.48,
+        "duration": 3.68,
+        "start_formatted": "27:46",
+        "text": "essentially they gave it a"
+      },
+      {
+        "start": 1667.72,
+        "duration": 4.76,
+        "start_formatted": "27:47",
+        "text": "fill-in-the-blank test. Based on this"
+      },
+      {
+        "start": 1670.16,
+        "duration": 4.52,
+        "start_formatted": "27:50",
+        "text": "target disease, predict the exact"
+      },
+      {
+        "start": 1672.48,
+        "duration": 5.0,
+        "start_formatted": "27:52",
+        "text": "sequence of amino acids the fingers"
+      },
+      {
+        "start": 1674.68,
+        "duration": 4.48,
+        "start_formatted": "27:54",
+        "text": "should have to bind onto this disease."
+      },
+      {
+        "start": 1677.48,
+        "duration": 4.04,
+        "start_formatted": "27:57",
+        "text": "Remember, Mammal only reads"
+      },
+      {
+        "start": 1679.16,
+        "duration": 4.52,
+        "start_formatted": "27:59",
+        "text": "one-dimensional text sequences. It's"
+      },
+      {
+        "start": 1681.52,
+        "duration": 4.64,
+        "start_formatted": "28:01",
+        "text": "just a language model. It wasn't allowed"
+      },
+      {
+        "start": 1683.68,
+        "duration": 5.76,
+        "start_formatted": "28:03",
+        "text": "to look at any 3D structural maps of the"
+      },
+      {
+        "start": 1686.16,
+        "duration": 6.04,
+        "start_formatted": "28:06",
+        "text": "antibody or the disease. It had to infer"
+      },
+      {
+        "start": 1689.44,
+        "duration": 4.56,
+        "start_formatted": "28:09",
+        "text": "the physical shape of both of these just"
+      },
+      {
+        "start": 1692.2,
+        "duration": 4.4,
+        "start_formatted": "28:12",
+        "text": "by understanding the grammar or the"
+      },
+      {
+        "start": 1694.0,
+        "duration": 5.24,
+        "start_formatted": "28:14",
+        "text": "rules of proteins. And guess what? The"
+      },
+      {
+        "start": 1696.6,
+        "duration": 4.76,
+        "start_formatted": "28:16",
+        "text": "results were shocking. Mammal was able"
+      },
+      {
+        "start": 1699.24,
+        "duration": 4.76,
+        "start_formatted": "28:19",
+        "text": "to generate the correct sequences of all"
+      },
+      {
+        "start": 1701.36,
+        "duration": 4.12,
+        "start_formatted": "28:21",
+        "text": "these fingers even better than other"
+      },
+      {
+        "start": 1704.0,
+        "duration": 3.8,
+        "start_formatted": "28:24",
+        "text": "state-of-the-art methods that were"
+      },
+      {
+        "start": 1705.48,
+        "duration": 4.8,
+        "start_formatted": "28:25",
+        "text": "specialized at this. But, here's where"
+      },
+      {
+        "start": 1707.8,
+        "duration": 5.0,
+        "start_formatted": "28:27",
+        "text": "it gets even crazier. There's one"
+      },
+      {
+        "start": 1710.28,
+        "duration": 4.4,
+        "start_formatted": "28:30",
+        "text": "specific region where it completely blew"
+      },
+      {
+        "start": 1712.8,
+        "duration": 5.04,
+        "start_formatted": "28:32",
+        "text": "away the competition, and that's the"
+      },
+      {
+        "start": 1714.68,
+        "duration": 5.56,
+        "start_formatted": "28:34",
+        "text": "CDRH3 region. Now, what makes this"
+      },
+      {
+        "start": 1717.84,
+        "duration": 5.96,
+        "start_formatted": "28:37",
+        "text": "specific finger so special? You see,"
+      },
+      {
+        "start": 1720.24,
+        "duration": 6.4,
+        "start_formatted": "28:40",
+        "text": "this CDRH3 region is notoriously the"
+      },
+      {
+        "start": 1723.8,
+        "duration": 5.88,
+        "start_formatted": "28:43",
+        "text": "longest and most complex and chaotic and"
+      },
+      {
+        "start": 1726.64,
+        "duration": 5.04,
+        "start_formatted": "28:46",
+        "text": "variable region of the entire antibody."
+      },
+      {
+        "start": 1729.68,
+        "duration": 4.4,
+        "start_formatted": "28:49",
+        "text": "Because of its length and flexibility,"
+      },
+      {
+        "start": 1731.68,
+        "duration": 4.68,
+        "start_formatted": "28:51",
+        "text": "it's almost entirely responsible for"
+      },
+      {
+        "start": 1734.08,
+        "duration": 4.12,
+        "start_formatted": "28:54",
+        "text": "determining what the antibody can bind"
+      },
+      {
+        "start": 1736.36,
+        "duration": 5.04,
+        "start_formatted": "28:56",
+        "text": "to. And consequently, it's also the"
+      },
+      {
+        "start": 1738.2,
+        "duration": 5.2,
+        "start_formatted": "28:58",
+        "text": "hardest piece for any AI to predict. And"
+      },
+      {
+        "start": 1741.4,
+        "duration": 4.64,
+        "start_formatted": "29:01",
+        "text": "for this region, Mammal absolutely"
+      },
+      {
+        "start": 1743.4,
+        "duration": 5.92,
+        "start_formatted": "29:03",
+        "text": "crushed the competition. It achieved a"
+      },
+      {
+        "start": 1746.04,
+        "duration": 6.68,
+        "start_formatted": "29:06",
+        "text": "massive 19% improvement compared to the"
+      },
+      {
+        "start": 1749.32,
+        "duration": 5.32,
+        "start_formatted": "29:09",
+        "text": "previous leading models. A 19% leap in"
+      },
+      {
+        "start": 1752.72,
+        "duration": 4.2,
+        "start_formatted": "29:12",
+        "text": "predicting the hardest, most variable"
+      },
+      {
+        "start": 1754.64,
+        "duration": 4.24,
+        "start_formatted": "29:14",
+        "text": "part of the antibody using nothing but"
+      },
+      {
+        "start": 1756.92,
+        "duration": 3.96,
+        "start_formatted": "29:16",
+        "text": "its underlying understanding of the"
+      },
+      {
+        "start": 1758.88,
+        "duration": 3.88,
+        "start_formatted": "29:18",
+        "text": "grammar of proteins. That's pretty"
+      },
+      {
+        "start": 1760.88,
+        "duration": 3.88,
+        "start_formatted": "29:20",
+        "text": "astonishing. It means the model isn't"
+      },
+      {
+        "start": 1762.76,
+        "duration": 4.72,
+        "start_formatted": "29:22",
+        "text": "just memorizing common patterns, it"
+      },
+      {
+        "start": 1764.76,
+        "duration": 4.96,
+        "start_formatted": "29:24",
+        "text": "truly understands the rules of biology."
+      },
+      {
+        "start": 1767.48,
+        "duration": 4.48,
+        "start_formatted": "29:27",
+        "text": "So, as we zoom out, what does this all"
+      },
+      {
+        "start": 1769.72,
+        "duration": 4.72,
+        "start_formatted": "29:29",
+        "text": "mean? We potentially have the first true"
+      },
+      {
+        "start": 1771.96,
+        "duration": 4.64,
+        "start_formatted": "29:31",
+        "text": "foundation model for biology. One that"
+      },
+      {
+        "start": 1774.44,
+        "duration": 4.52,
+        "start_formatted": "29:34",
+        "text": "doesn't just read papers or just look at"
+      },
+      {
+        "start": 1776.6,
+        "duration": 5.04,
+        "start_formatted": "29:36",
+        "text": "molecules or analyze genes, but it does"
+      },
+      {
+        "start": 1778.96,
+        "duration": 4.76,
+        "start_formatted": "29:38",
+        "text": "all of it at once. It's one unified"
+      },
+      {
+        "start": 1781.64,
+        "duration": 4.2,
+        "start_formatted": "29:41",
+        "text": "model that understands everything. If"
+      },
+      {
+        "start": 1783.72,
+        "duration": 4.64,
+        "start_formatted": "29:43",
+        "text": "Mammal actually works the way the paper"
+      },
+      {
+        "start": 1785.84,
+        "duration": 4.92,
+        "start_formatted": "29:45",
+        "text": "claims, we could be looking at a future"
+      },
+      {
+        "start": 1788.36,
+        "duration": 5.12,
+        "start_formatted": "29:48",
+        "text": "where drug discovery isn't a 10-year,"
+      },
+      {
+        "start": 1790.76,
+        "duration": 5.04,
+        "start_formatted": "29:50",
+        "text": "billion-dollar gamble that fails 90% of"
+      },
+      {
+        "start": 1793.48,
+        "duration": 5.32,
+        "start_formatted": "29:53",
+        "text": "the time. Instead, we can now design"
+      },
+      {
+        "start": 1795.8,
+        "duration": 5.6,
+        "start_formatted": "29:55",
+        "text": "drugs way faster and cheaper and more"
+      },
+      {
+        "start": 1798.8,
+        "duration": 4.68,
+        "start_formatted": "29:58",
+        "text": "accurately. We can also explore existing"
+      },
+      {
+        "start": 1801.4,
+        "duration": 4.52,
+        "start_formatted": "30:01",
+        "text": "known drug candidates and see if they"
+      },
+      {
+        "start": 1803.48,
+        "duration": 4.84,
+        "start_formatted": "30:03",
+        "text": "can target any other disease. I mean, we"
+      },
+      {
+        "start": 1805.92,
+        "duration": 4.32,
+        "start_formatted": "30:05",
+        "text": "can expect a massive acceleration in new"
+      },
+      {
+        "start": 1808.32,
+        "duration": 3.84,
+        "start_formatted": "30:08",
+        "text": "drugs in the coming months if this is"
+      },
+      {
+        "start": 1810.24,
+        "duration": 4.36,
+        "start_formatted": "30:10",
+        "text": "true. And because this model also"
+      },
+      {
+        "start": 1812.16,
+        "duration": 4.28,
+        "start_formatted": "30:12",
+        "text": "understands DNA and gene expression,"
+      },
+      {
+        "start": 1814.6,
+        "duration": 3.92,
+        "start_formatted": "30:14",
+        "text": "personalized medicine could become"
+      },
+      {
+        "start": 1816.44,
+        "duration": 4.48,
+        "start_formatted": "30:16",
+        "text": "mainstream. We can just take a DNA and"
+      },
+      {
+        "start": 1818.52,
+        "duration": 4.24,
+        "start_formatted": "30:18",
+        "text": "blood sample from the patient and plug"
+      },
+      {
+        "start": 1820.92,
+        "duration": 4.44,
+        "start_formatted": "30:20",
+        "text": "it through this AI to figure out what's"
+      },
+      {
+        "start": 1822.76,
+        "duration": 5.24,
+        "start_formatted": "30:22",
+        "text": "causing their specific disease, what's"
+      },
+      {
+        "start": 1825.36,
+        "duration": 4.4,
+        "start_formatted": "30:25",
+        "text": "wrong with their DNA, or which proteins"
+      },
+      {
+        "start": 1828.0,
+        "duration": 4.0,
+        "start_formatted": "30:28",
+        "text": "in their body are messed up. And then"
+      },
+      {
+        "start": 1829.76,
+        "duration": 5.04,
+        "start_formatted": "30:29",
+        "text": "this AI can also figure out what are the"
+      },
+      {
+        "start": 1832.0,
+        "duration": 4.84,
+        "start_formatted": "30:32",
+        "text": "best drugs to prescribe to this specific"
+      },
+      {
+        "start": 1834.8,
+        "duration": 4.96,
+        "start_formatted": "30:34",
+        "text": "person. Or it can even custom design a"
+      },
+      {
+        "start": 1836.84,
+        "duration": 4.64,
+        "start_formatted": "30:36",
+        "text": "new antibody just for this patient. And"
+      },
+      {
+        "start": 1839.76,
+        "duration": 3.76,
+        "start_formatted": "30:39",
+        "text": "this This bold prediction, but in the"
+      },
+      {
+        "start": 1841.48,
+        "duration": 3.76,
+        "start_formatted": "30:41",
+        "text": "paper, they've already shown that it's"
+      },
+      {
+        "start": 1843.52,
+        "duration": 4.24,
+        "start_formatted": "30:43",
+        "text": "really good at predicting how drug"
+      },
+      {
+        "start": 1845.24,
+        "duration": 4.68,
+        "start_formatted": "30:45",
+        "text": "candidates bind to cancer cells. It"
+      },
+      {
+        "start": 1847.76,
+        "duration": 4.0,
+        "start_formatted": "30:47",
+        "text": "already found a new genuine"
+      },
+      {
+        "start": 1849.92,
+        "duration": 3.68,
+        "start_formatted": "30:49",
+        "text": "breakthrough. So, you know, if we keep"
+      },
+      {
+        "start": 1851.76,
+        "duration": 3.84,
+        "start_formatted": "30:51",
+        "text": "using this model, or if we keep"
+      },
+      {
+        "start": 1853.6,
+        "duration": 3.84,
+        "start_formatted": "30:53",
+        "text": "improving this model even further, we"
+      },
+      {
+        "start": 1855.6,
+        "duration": 4.6,
+        "start_formatted": "30:55",
+        "text": "could potentially see some new cures for"
+      },
+      {
+        "start": 1857.44,
+        "duration": 4.48,
+        "start_formatted": "30:57",
+        "text": "cancer very soon, in addition to other"
+      },
+      {
+        "start": 1860.2,
+        "duration": 4.2,
+        "start_formatted": "31:00",
+        "text": "diseases. This is definitely one of the"
+      },
+      {
+        "start": 1861.92,
+        "duration": 4.64,
+        "start_formatted": "31:01",
+        "text": "most impactful papers this year so far."
+      },
+      {
+        "start": 1864.4,
+        "duration": 4.32,
+        "start_formatted": "31:04",
+        "text": "It's going to have huge impacts across"
+      },
+      {
+        "start": 1866.56,
+        "duration": 4.32,
+        "start_formatted": "31:06",
+        "text": "medicine, biosciences, and drug"
+      },
+      {
+        "start": 1868.72,
+        "duration": 4.64,
+        "start_formatted": "31:08",
+        "text": "discovery if what they claim is indeed"
+      },
+      {
+        "start": 1870.88,
+        "duration": 4.64,
+        "start_formatted": "31:10",
+        "text": "true. Anyways, that sums up my deep dive"
+      },
+      {
+        "start": 1873.36,
+        "duration": 4.6,
+        "start_formatted": "31:13",
+        "text": "on this paper. It's very technical."
+      },
+      {
+        "start": 1875.52,
+        "duration": 4.24,
+        "start_formatted": "31:15",
+        "text": "There's a ton of complex biology stuff"
+      },
+      {
+        "start": 1877.96,
+        "duration": 3.84,
+        "start_formatted": "31:17",
+        "text": "here, so I hope I simplified it enough"
+      },
+      {
+        "start": 1879.76,
+        "duration": 3.92,
+        "start_formatted": "31:19",
+        "text": "for you to understand. Let me know in"
+      },
+      {
+        "start": 1881.8,
+        "duration": 4.16,
+        "start_formatted": "31:21",
+        "text": "the comments what you think of this. As"
+      },
+      {
+        "start": 1883.68,
+        "duration": 5.12,
+        "start_formatted": "31:23",
+        "text": "always, I will be on the lookout for the"
+      },
+      {
+        "start": 1885.96,
+        "duration": 4.88,
+        "start_formatted": "31:25",
+        "text": "top AI news and tools to share with you."
+      },
+      {
+        "start": 1888.8,
+        "duration": 4.0,
+        "start_formatted": "31:28",
+        "text": "So, if you enjoyed this video, remember"
+      },
+      {
+        "start": 1890.84,
+        "duration": 4.32,
+        "start_formatted": "31:30",
+        "text": "to like, share, subscribe, and stay"
+      },
+      {
+        "start": 1892.8,
+        "duration": 4.16,
+        "start_formatted": "31:32",
+        "text": "tuned for more content. Also, there's"
+      },
+      {
+        "start": 1895.16,
+        "duration": 4.2,
+        "start_formatted": "31:35",
+        "text": "just so much happening in the world of"
+      },
+      {
+        "start": 1896.96,
+        "duration": 4.84,
+        "start_formatted": "31:36",
+        "text": "AI every week. I can't possibly cover"
+      },
+      {
+        "start": 1899.36,
+        "duration": 4.8,
+        "start_formatted": "31:39",
+        "text": "everything on my YouTube channel. So, to"
+      },
+      {
+        "start": 1901.8,
+        "duration": 5.0,
+        "start_formatted": "31:41",
+        "text": "really stay up-to-date with all that's"
+      },
+      {
+        "start": 1904.16,
+        "duration": 4.92,
+        "start_formatted": "31:44",
+        "text": "going on in AI, be sure to subscribe to"
+      },
+      {
+        "start": 1906.8,
+        "duration": 4.24,
+        "start_formatted": "31:46",
+        "text": "my free weekly newsletter. The link to"
+      },
+      {
+        "start": 1909.08,
+        "duration": 4.04,
+        "start_formatted": "31:49",
+        "text": "that will be in the description below."
+      },
+      {
+        "start": 1911.04,
+        "duration": 4.8,
+        "start_formatted": "31:51",
+        "text": "Thanks for watching, and I'll see you in"
+      },
+      {
+        "start": 1913.12,
+        "duration": 2.72,
+        "start_formatted": "31:53",
+        "text": "the next one."
+      }
+    ],
+    "full_text": "This might genuinely be one of the biggest breakthroughs in medicine and drug discovery we've seen in decades. A new paper just dropped and it's about this new AI model called Mammal. And this can completely transform biosciences and medicine. It could potentially come up with a ton of new cures for diseases like cancer and this can make drug discovery way faster and cheaper and more accurate. This could also lead to personalized medicine and beyond. Now this paper is super technical and jam- packed with details. So in this video I'm going to break it down into simple terms so it's easy for anyone to understand. Let's jump right in. Now to understand why this paper is such a big deal, it's helpful to first start with the problems of medicine and drug design today. Imagine spending 10 years and a billion dollars building something and there's a 90% chance it just doesn't work. 90% That's the failure rate of new drugs. From the moment scientists come up with a promising new medicine to the moment it goes through clinical trials, roughly 90% don't make it through approval. That's kind of insane when you think about it. We've already sequenced the human genome, we have smartphones, we have AI that can predict protein structures or even understand DNA. We have so much amazing technology, yet when it comes to actually making new medicine, we're still wrong most of the time. Think about this. If I built bridges and nine out of 10 of them collapsed, that would be horrible. I would be out of business. So why is modern medicine, even with all our insane modern technology, still hitting this wall? To understand this, we first need to understand some basic biology and how drug design works. You see, every living thing has DNA. This is the code for living things to function and stay alive. And within DNA, there are sections called genes. These are basically instruction manuals. They contain the code for making proteins. And proteins are the tiny machines that actually do most of the work inside your body. They send signals, build structures, speed up chemical reactions, control immune responses, keep cells alive, and a ton of other stuff. But, genes aren't always active. Some genes can be turned up, some turned down, or mutated. Scientists call this gene expression. Basically, a measurement of which genes are active and how active they are. And this controls how many proteins are made. So, we have DNA which contains genes, which code up proteins, which are essential for the function of all living things. I'm oversimplifying here, but that's essentially the mini lesson on how life works. Now, there are a few possible ways for this pathway to go wrong, which could cause disease. The DNA might get mutations, which would mess things up. This could cause proteins to be made incorrectly or not at all. Or the gene expression might be too high or too low, which also affects how proteins are made. Even subtle errors in this pathway could cause some catastrophic diseases that you and I are familiar with, like cancer. In fact, in really simple terms, how cancer works is there might be a mutation that damages a gene in the DNA, which controls for cell division. This changes gene expression or protein function. And subsequently, these proteins then tell the cell to grow, to ignore stop signals, and spread into a tumor. That's essentially cancer. Now, here's how drugs are currently designed around this process. Scientists usually start by trying to find the specific part of the disease pathway that has gone wrong. In other words, they look for the bad guy. Maybe there's a protein telling cancer cells to keep dividing. Maybe there's an enzyme helping a virus copy itself. Anyways, once the researchers find that target, the goal is to design a drug that can interact with it. Think of the target like a lock and the drug like a key. If the key fits within the lock, it can either block the protein or change what it does. Now, there are two main types of drugs that are relevant to this paper. Some drugs are small molecules like Tylenol. They're tiny, stable, and often easy to manufacture as pills. And because they're so small, they can sometimes just slip inside cells and bind to proteins there. Another type of drug is called an antibody, which is much larger. You can think of them as highly precise biological clamps. They're designed to stick to the bad guy with extreme accuracy. Because of their size, they usually work outside cells or on the surface of cells. The hope is that if you shut down the bad guy, the disease, such as cancer, would also stop growing and die. But this is where it gets incredibly difficult because the body is not just one simple machine. It's made of a billion moving parts. Even though the designed drug could successfully bind to the bad guy, it might affect other parts of the body as well and have some side effects. So, it's not as simple as the analogy of a key and a lock. Maybe that key can also open other locks in the body, which could cause harmful effects. So, drug design is basically an attempt to find the perfect molecular tool. Strong enough to stop the disease, but precise enough so that it doesn't also harm the rest of the body, and safe enough to give to a real human. You also have to prove the drug actually works at safe doses and it doesn't accidentally kill the patient. That's the real challenge of drug design. And this is where modern technology runs into a weird problem. You see, we have incredibly powerful tools today, but most of them only understand one slice of the puzzle. One AI model might predict protein structures. In fact, that's exactly what Google's AlphaFold does. Another AI might be great at reading and generating DNA. One One is called Evo 2, and in fact, I covered this in a previous video, so see this if you want to learn more. And we have other tools that can screen chemical compounds, others that can analyze clinical trial data, and so on and so forth. But, here's the thing, disease does not happen in separate folders. It flows through the entire system, from DNA to gene activity, to proteins, to cells, and then to entire bodies. The problem is that all these tools are often siloed. They're trained on different data sets, built by different teams, optimized for different tasks. So, instead of one system that understands the full chain of biology, we have a bunch of specialized tools looking at disconnected snapshots. It's like trying to solve a crime scene where one detective only has the fingerprints, another detective only has the security footage, another one only has the final autopsy report. Each clue matters, but they don't really talk to each other, so they can't connect everything into one story. Well, that's exactly what Mammal is trying to solve. They've built an AI model that understands everything at once, chemistry, genetics, and protein structure simultaneously. And the scale of what they did is honestly insane. Mammal was pre-trained on 2 billion samples. They scraped basically every major biological database out there. They observed antibody space, which contains billions of antibody sequences, UniProt, which contains almost every protein we know. And then we also have Zinc and PubChem, which contains millions of small molecule structures, Cell X Gene, which contains a ton of gene expression data. So, the model was trained on everything to do with chemistry, genetics, and proteins. But, how does the AI actually read all of this? These are in different formats, right? A small molecule like aspirin looks nothing like a gene, which also looks nothing like an antibody. So, the researchers did something clever. They forced everything into a single unified format, sequences of characters, but each domain has its own grammar. For molecules, they used something called a SMILES string. This is basically a way to flatten a 3D chemical structure into just one line of text. For example, the SMILES for Tylenol becomes this, where every letter is an atom and every symbol, like the equal sign, is a chemical bond. The AI learns chemistry just by tracking patterns across millions of these text strings. Now, for genes, it's totally different. The model takes every gene in a cell and ranks them by how active they are. In other words, how much they are expressed. The genes screaming the loudest go first. The silent ones go last. So, the model reads a cell as a priority list of which genes are doing the most work right now. And then for proteins and antibodies, which are also proteins, it just reads the chain of amino acids. These are the building blocks of proteins. But, right now everything is in different formats. It's like you're reading a book, but the first paragraph is in English, the second paragraph is in sheet music, and the third paragraph is in JavaScript. It gets really confusing, right? This doesn't make sense at all. And if you throw all this raw data to train a neural network, it also gets super confused. Well, this is where the engineering gets super clever. Mammal uses what's called a modular tokenizer. Think of a tokenizer as a dictionary the AI uses to translate this raw data into consistent language that the AI understands. But, Mammal doesn't just use one dictionary. It uses an umbrella tokenizer with specialized sub dictionaries underneath. So, there's one dictionary for chemistry, one dictionary for genetics, and another dictionary for proteins. If it sees a small molecule, it uses the small molecule dictionary to convert that into tokens and embeddings. If it gets a protein, it uses the protein dictionary to convert that into embeddings. And the same logic applies to genes. And here's the magic part. Once everything is translated and converted into these embeddings, they all get mixed together into a shared multi-dimensional space. So, the model learns chemistry, proteins, and genetic expression all in one unified space. Because it merges all these domains together, it can learn the relationships between all these different things. Now, this design sounds great, but how well does it actually perform in the real world? For example, can it actually predict drug behavior? Well, the researchers put Mammoth through some pretty intense tests. Specifically, they evaluated it across 11 distinct, highly rigorous benchmarks that span the entire drug discovery pipeline. They threw everything at it, and it turns out the results across the board were phenomenal. So, here's the table of results, and across these 11 benchmarks, Mammoth achieved state-of-the-art performance. It outright beat the previous best models in the world on all of these tasks. Let's dig into some specific benchmarks. Earlier, we discussed the nightmare of designing a drug that actually works. It's able to reduce the disease, but it also ends up being toxic to the human. So, is Mammoth able to predict these scenarios? They evaluated Mammoth on two critical safety benchmarks. One is called BBBP, which stands for blood-brain barrier penetration. Another one is ClinTox, which is a data set used to predict clinical toxicity and FDA approval. Let's pause on this blood-brain barrier for a second. This is actually a massive hurdle in pharmacology. You see, the brain has this incredibly tight security system. Of course, it doesn't want any external stuff flowing into the brain. But if you're designing a therapeutic for something like Alzheimer's or Parkinson's, your drug must be able to penetrate this barrier to reach the brain. Or conversely, if you're designing a really heavy chemotherapy drug for the liver, you absolutely do not want it crossing this barrier and getting into the brain. So predicting that penetration is super important. Now, for this benchmark, the reigning champion for predicting this was a model called MoleFormer. This is a highly specialized model. It was trained exclusively on over a billion small molecule sequences. So think of it as like a hyper-focused master of small molecule chemistry. On the other hand, this new Mammal is a generalist. But the insane thing is, on this blood-brain barrier penetration test, while the hyper-specialized MoleFormer achieved a very good score, Mammal was able to beat it. And then same for this ClinTox safety benchmark, which predicts FDA approval. Mammal also beat MoleFormer by a few percentage points. Let's take a second to highlight why this is so impressive. In almost every field, a specialist will beat a generalist in their specific domain, right? For example, if a decathlete races a professional swimmer, the decathlete will likely lose since he's not really specialized in swimming. Well, in this case, Mammal is the decathlete. It spreads its knowledge across chemistry, genetics, and proteins. It's not just specialized in small molecule sequences, but yet it was able to beat the specialist pro swimmer. It beats MoleFormer that was highly specialized in chemistry. That's actually very insightful. Why does knowing about genes and proteins also make it better at chemistry? Well, that's because everything is interconnected in biology. There's a billion moving parts, and this proves that being multimodal, being able to understand all these different domains, is not a distraction, but instead an advantage. Small molecules exist to interact with proteins and alter gene expression. Because mammal was forced to learn the relationships between all these different modalities during training, it developed a much deeper understanding of the overall biology of the molecules. And this makes it much better at predicting outcomes compared to a specialized model. But the researchers didn't stop there. If you make videos or content online, you should definitely check out Runway, the sponsor of this video. They just released Runway Agent. Think of it as like your creative partner that can autonomously turn your idea into a publish-ready video. I mean, full multi-shot videos with voice-over, music, scene transitions, and actual narrative structure already assembled for you. You start by simply describing what you want. Maybe it's a product launch, an ad campaign, a YouTube intro, or even just a vague idea in your head. So, instead of staring at a blank timeline in editing software for hours, you're basically working with an AI creative partner that helps shape the idea with you. And here's the crazy part. Before the video is generated, you can see the entire plan first. Every scene, the visual direction, the flow of the story, and you can tweak it, redirect it, or completely reshape it before it gets rendered. It doesn't feel like gambling on prompts anymore. And once everything looks right, Runway Agent builds the actual finished video for you. Multiple scenes, voice-over, music, editing, all assembled and ready to publish. Most AI video tools still you fragments, but this feels much closer to an actual end-to-end workflow. That means more videos, faster campaigns, smaller teams producing bigger content, and way less time stuck in post-production. Try Runway Agent today using the link in the description below or the QR code on the screen, and get 50% off your first 3 months with the code agent50. Next, they tested it on labeling cell types using the Zang 68K data set. This consists of thousands of gene activity data from a ton of different immune cell types in the blood. The AI's job is to look at the genetic activity of the cell and correctly label it. For example, this is the CD4+ T cell or this is the NK cell, etc. etc. Basically, label the cell given its genetic activity. And this is incredibly important for figuring out how a patient's immune system is responding to a disease or treatment. It's a fundamental classification task. And on this highly complex task, MAML achieved a 7.5% improvement over the state-of-the-art model. Again, this is a huge leap. And it gets even more impressive. I think the highlight of this paper is this cancer drug response section. This is proof of a genuine biomedical breakthrough. So, here's the setup for this test. The researchers wanted to prove that MAML wasn't just regurgitating information it had memorized from training. They wanted to see if it could predict how completely new and unseen drugs would perform against human cancer cells. So, they selected four drugs that were definitely not included in its training data. So, this includes carfilzomib, nintedanib, infigratinib, and vemurafenib. What a mouthful. Anyway, they took the chemical strings for these four drugs and they gave them to MAML in addition to the genetic profiles of over 800 different types of cancer tumor cells. This includes like lung cancer, breast cancer, colon cancer, and so on. A huge diversity of human cancer cells. And they asked MAML one question. How effective are these four new drugs across these 800 tumor cell types? Rank them from the most deadly down to the least deadly to the cancer. Now, you might be wondering if these drugs weren't in the training data, what if they still looked very similar to something in the training data that the AI memorized. That's a very valid concern. So, to prove these drugs were truly new to the model, to prove that it has never seen these types of drugs before, the researchers calculated something called the Tanimoto similarity. This is basically used to measure how structurally similar two molecules are based on their chemical structure. And the researchers confirmed that three out of the four drugs had a maximum Tanimoto value of less than .7 when compared to anything Mammal had ever seen. And in the rigorous world of chemistry, a score below .7 means that these drugs are basically structurally different. So, these drugs are like strangers to the AI. They look completely new to the AI and like nothing it has seen before. Now, back to the task. It needs to rank how potent each drug will be against 805 different variations of cancer tumors. And here's its prediction. Mammal returned a very confident and specific ranking. It predicted that carfilzomib is the most potent across the majority of tumors. It then ranked nintedanib second, and then this one third, and this one fourth, the least potent of the four. Now, here's the plot twist. If you actually look up carfilzomib, it's a real FDA-approved drug. But it's currently approved and only used for blood cancers. All this time, doctors believed that carfilzomib was useless against solid tumors. They just thought it didn't work. That's the currently accepted view from expert oncologists. But here, the AI put this as the number one strongest drug against solid cancer types. Remember, we don't have this knowledge before. Experts never thought this would be the case. If we put this to the test in real life, we would expect it to fail miserably, right? But here, Mammal seems so confident. It looked at the structure of this drug and confidently said that this would be very strong against solid tumor cells, completely contrary to what doctors think. So, the researchers put this to the test. They conducted a real-life physical experiment where they tested these drugs against solid cancer cells, and what they found was shocking. The results perfectly matched mammals' predictions. It got the precise potency ranking exactly right. Carfilzomib was the most potent, cascading down to vemurafenib as the least potent. Mammals successfully preserved this relative order across approximately 95% of all 805 cancer cell types. Let's take a second to process how insane this is. An AI that merely reads text strings looked at a blood cancer drug it had never seen before. It looked at the genetics of hundreds of solid tumors, which is a different thing, and it correctly deduced that this drug would be effective against these solid tumors, even though for decades human experts assumed these drugs would not work. The implications of this are massive. What we're witnessing is an AI that can generalize to entirely new chemical compounds and accurately predict their uses for treating diseases, which is the entire field of drug discovery, and especially for drug repurposing. If you're not familiar with drug repurposing, it means taking a drug that already exists and testing whether it can treat a different disease. Instead of starting from zero and designing a brand new molecule, scientists look at approved drugs or failed drug candidates and ask, \"Could this work somewhere else?\" And this is really important because discovering or inventing a new drug from scratch takes like 10 to 15 years and billions of dollars. But if you have an AI that can scan the entire library of existing drug candidates and see if it can treat another disease, that opens up massive opportunities. But as incredible as this cancer drug story is, remember that small molecules are just one type of drug. Another type is the antibody. These are larger proteins that clamp onto the problematic protein very precisely. And predicting the structure and application of this is super complicated. You see, a protein is just a long chain of amino acids that fold into complex 3D shapes. That shape determines what they stick to and what effect they will have in the body. But in theory, a protein has a ginormous number of possible ways it could fold. If it tried every possible shape randomly, it could take longer than the age of the universe to find the correct one. But in real life, of course, proteins fold almost instantly because physics guide them towards the most stable shape. So, to create a protein-based drug, like an antibody, scientists need to understand not just the protein sequence, but how it folds. How does it move and what does it bind to? Now, at least in terms of predicting how proteins fold, that's exactly what Google's legendary AlphaFold does. But since Mammal was also trained on proteins, what happens if we compare Mammal with the latest AlphaFold 3 head-to-head? Keep in mind, AlphaFold is super accurate. It's like the industry standard for predicting proteins. It's considered like one of the greatest modern scientific achievements, and the team even won a Nobel Prize in chemistry for this. Now, we just established that Mammal is just a sequence model, right? It reads text in one dimension. How can it possibly beat AlphaFold, which is specialized at predicting the 3D structure of proteins? Well, the researchers put this to the test. They showed both Mammal and AlphaFold an antibody and a disease target. And they asked, will these two stick together? Yes or no. They tested both models across seven different well-documented targets, and again, the results were shocking. Mammal actually beat AlphaFold 3 on five of those seven targets. Again, this is pretty crazy. AlphaFold 3 can literally see 3D shapes of these proteins. So, shouldn't it easily see if it fits with the target disease? How on Earth could a one-dimensional text reader like Mammal actually win? To understand why, we have to understand a very flawed assumption about how proteins work at the microscopic level. You see, in textbooks or in other content, they often describe proteins as just rigid, static structures. Every textbook illustration shows proteins as these solid interlocking shapes, because, well, that's the only way we could historically draw them or photograph them. But, in reality, at least for human proteins, around 30 to 40% of the sequence consists of intrinsically disordered regions, or IDRs for short. Now, what on Earth are these? These sections of the protein actually don't have a stable 3D shape. Instead, they're floppy and highly flexible. An IDR kind of looks and behaves like a piece of wet spaghetti, constantly wiggling, folding, and shifting around. So, actually, protein structures are quite dynamic, not static. They're not just solid blocks, but they're actually fluid, and they can change shapes or move around. And, this is crucial because some of the most important protein targets, like EGFR and HER2, which are notoriously aggressive drivers of breast cancer and stomach cancer, have a ton of these floppy intrinsically disordered regions. If you give these floppy regions to AlphaFold 3, well, it struggles to actually predict the structure of this because it's trained on predicting static and solid 3D structures. AlphaFold only learned from those frozen snapshots of proteins during training. So, if you give AlphaFold 3 the sequence of these highly flexible and chaotic targets and ask if a specific antibody will bind to it, it actually does not answer this well. But, if you give the same question to Mammal, it had much better predictions. Mammal actually wins on the floppy proteins because it isn't trying to draw a static picture of them. Because Mammal is a large language model operating on sequences, it doesn't try to force the protein into any specific shape. Instead, it seems to understand the underlying grammar or the rules of proteins, including floppy parts. It relies on the math of the sequence and not just a snapshot of the structure. And this is a brilliant distinction. It's far more robust at predicting whether an antibody will bind to a disease target. And again, this unleashes some insane possibilities. We can now plug all antibody candidates through this AI and ask if it can bind to certain diseases. And this could lead to a ton of huge discoveries and new drugs. Now, so far we've only asked Mammal questions about existing candidates and whether they respond to certain diseases. What if we want to generate a completely new drug from scratch? The crazy thing is they actually designed Mammal to be able to do this. It's not just an analyst, but it can also act as the inventor. So, next the researchers tested its ability to design new antibodies from scratch. To understand the significance of this, we first need to understand how antibodies work. An antibody is basically a massive Y-shaped protein used by our immune system to identify and deactivate things like viruses or cancer cells. Picture it as a giant microscopic claw floating through the bloodstream. Now, the main body of that Y-shaped claw is quite stable and consistent. But, the very tips of the claw, the parts that actually reach out and physically grab the disease antigen, these are highly variable. These tips are called CDRs or complementarity determining regions. And the CDRs are kind of like the fingers at the end of the claw. These fingers are the most important part of the antibody because they are highly specific. The sequence of amino acids that code up these fingers determine exactly what disease the antibody can grab onto. In fact, the entire field of modern antibody design involves trying to engineer new and better fingers to grab a specific target. So, how did they set up this test for Mammal? They used a huge dataset called SabDab, which has a ton of different antibodies. They took thousands of known and successful antibodies, but they artificially erased the CDRs or the fingers so that the AI couldn't see it. They then fed Mammal the disease it needed to target, and essentially they gave it a fill-in-the-blank test. Based on this target disease, predict the exact sequence of amino acids the fingers should have to bind onto this disease. Remember, Mammal only reads one-dimensional text sequences. It's just a language model. It wasn't allowed to look at any 3D structural maps of the antibody or the disease. It had to infer the physical shape of both of these just by understanding the grammar or the rules of proteins. And guess what? The results were shocking. Mammal was able to generate the correct sequences of all these fingers even better than other state-of-the-art methods that were specialized at this. But, here's where it gets even crazier. There's one specific region where it completely blew away the competition, and that's the CDRH3 region. Now, what makes this specific finger so special? You see, this CDRH3 region is notoriously the longest and most complex and chaotic and variable region of the entire antibody. Because of its length and flexibility, it's almost entirely responsible for determining what the antibody can bind to. And consequently, it's also the hardest piece for any AI to predict. And for this region, Mammal absolutely crushed the competition. It achieved a massive 19% improvement compared to the previous leading models. A 19% leap in predicting the hardest, most variable part of the antibody using nothing but its underlying understanding of the grammar of proteins. That's pretty astonishing. It means the model isn't just memorizing common patterns, it truly understands the rules of biology. So, as we zoom out, what does this all mean? We potentially have the first true foundation model for biology. One that doesn't just read papers or just look at molecules or analyze genes, but it does all of it at once. It's one unified model that understands everything. If Mammal actually works the way the paper claims, we could be looking at a future where drug discovery isn't a 10-year, billion-dollar gamble that fails 90% of the time. Instead, we can now design drugs way faster and cheaper and more accurately. We can also explore existing known drug candidates and see if they can target any other disease. I mean, we can expect a massive acceleration in new drugs in the coming months if this is true. And because this model also understands DNA and gene expression, personalized medicine could become mainstream. We can just take a DNA and blood sample from the patient and plug it through this AI to figure out what's causing their specific disease, what's wrong with their DNA, or which proteins in their body are messed up. And then this AI can also figure out what are the best drugs to prescribe to this specific person. Or it can even custom design a new antibody just for this patient. And this This bold prediction, but in the paper, they've already shown that it's really good at predicting how drug candidates bind to cancer cells. It already found a new genuine breakthrough. So, you know, if we keep using this model, or if we keep improving this model even further, we could potentially see some new cures for cancer very soon, in addition to other diseases. This is definitely one of the most impactful papers this year so far. It's going to have huge impacts across medicine, biosciences, and drug discovery if what they claim is indeed true. Anyways, that sums up my deep dive on this paper. It's very technical. There's a ton of complex biology stuff here, so I hope I simplified it enough for you to understand. Let me know in the comments what you think of this. As always, I will be on the lookout for the top AI news and tools to share with you. So, if you enjoyed this video, remember to like, share, subscribe, and stay tuned for more content. Also, there's just so much happening in the world of AI every week. I can't possibly cover everything on my YouTube channel. So, to really stay up-to-date with all that's going on in AI, be sure to subscribe to my free weekly newsletter. The link to that will be in the description below. Thanks for watching, and I'll see you in the next one.",
+    "word_count": 5285,
     "error": null
   }
 }

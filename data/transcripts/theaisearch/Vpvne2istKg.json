@@ -14,10 +14,3059 @@
     "video_id": "Vpvne2istKg",
     "has_transcript": true,
     "language": "en",
-    "is_generated": false,
-    "segments": [],
-    "full_text": "Seedance 2.5 vs Minimax H3. Top AI video generators #ai #aivideo #aitools #agi \n\nThanks to our sponsor Abacus AI. Try ChatLLM today: http://chatllm.abacus.ai/?token=aisearch\n\nLumina https://byteplus.pxf.io/n4BX7x\nMinimax https://hailuoai.pxf.io/0G19e3\n\n00:00 Intro\n00:23 Multimodal and other features\n00:54 3D ref fight scene\n03:19 Instruction following\n05:50 Sketch to animation\n06:43 Storyboard to commercial\n07:32 UI motion graphic ad\n08:50 Music video\n10:37 ChatLLM\n11:38 Language test\n12:35 More tricky prompts\n16:16 Specs and cost\n19:03 Minimax open source\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
-    "word_count": 0,
+    "is_generated": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "duration": 4.32,
+        "start_formatted": "00:00",
+        "text": "We have two new state-of-the-art video"
+      },
+      {
+        "start": 2.32,
+        "duration": 6.0,
+        "start_formatted": "00:02",
+        "text": "generators that were launched recently,"
+      },
+      {
+        "start": 4.32,
+        "duration": 6.48,
+        "start_formatted": "00:04",
+        "text": "Seed Dance 2.5 and Minimax H3, and both"
+      },
+      {
+        "start": 8.32,
+        "duration": 3.68,
+        "start_formatted": "00:08",
+        "text": "are ridiculously good. In this video,"
+      },
+      {
+        "start": 10.8,
+        "duration": 3.68,
+        "start_formatted": "00:10",
+        "text": "we're going to go over all the"
+      },
+      {
+        "start": 12.0,
+        "duration": 4.56,
+        "start_formatted": "00:12",
+        "text": "incredible things they can do, plus the"
+      },
+      {
+        "start": 14.48,
+        "duration": 4.8,
+        "start_formatted": "00:14",
+        "text": "pros and cons of each, where to use"
+      },
+      {
+        "start": 16.56,
+        "duration": 4.88,
+        "start_formatted": "00:16",
+        "text": "them, their cost, and much more. Let's"
+      },
+      {
+        "start": 19.28,
+        "duration": 4.44,
+        "start_formatted": "00:19",
+        "text": "jump right in. Now, the nice thing about"
+      },
+      {
+        "start": 21.44,
+        "duration": 3.88,
+        "start_formatted": "00:21",
+        "text": "both models is that they are multimodal,"
+      },
+      {
+        "start": 23.72,
+        "duration": 3.6,
+        "start_formatted": "00:23",
+        "text": "which means not only can you give them"
+      },
+      {
+        "start": 25.32,
+        "duration": 4.32,
+        "start_formatted": "00:25",
+        "text": "text prompts, but they can also take in"
+      },
+      {
+        "start": 27.32,
+        "duration": 4.64,
+        "start_formatted": "00:27",
+        "text": "images, videos, and audio to use as"
+      },
+      {
+        "start": 29.64,
+        "duration": 4.4,
+        "start_formatted": "00:29",
+        "text": "references. Now, both models are already"
+      },
+      {
+        "start": 31.96,
+        "duration": 4.0,
+        "start_formatted": "00:31",
+        "text": "capable of a ton of stuff, like taking a"
+      },
+      {
+        "start": 34.04,
+        "duration": 3.8,
+        "start_formatted": "00:34",
+        "text": "video of a green screen and replacing"
+      },
+      {
+        "start": 35.96,
+        "duration": 4.24,
+        "start_formatted": "00:35",
+        "text": "the background, or replacing and adding"
+      },
+      {
+        "start": 37.84,
+        "duration": 4.24,
+        "start_formatted": "00:37",
+        "text": "characters in an existing video. You can"
+      },
+      {
+        "start": 40.2,
+        "duration": 4.44,
+        "start_formatted": "00:40",
+        "text": "also change the weather, the lighting,"
+      },
+      {
+        "start": 42.08,
+        "duration": 4.92,
+        "start_formatted": "00:42",
+        "text": "the camera angle. This is all easy stuff"
+      },
+      {
+        "start": 44.64,
+        "duration": 4.2,
+        "start_formatted": "00:44",
+        "text": "for both models. In this video, I'm"
+      },
+      {
+        "start": 47.0,
+        "duration": 4.0,
+        "start_formatted": "00:47",
+        "text": "going to test them on more extreme and"
+      },
+      {
+        "start": 48.84,
+        "duration": 4.0,
+        "start_formatted": "00:48",
+        "text": "challenging and practical stuff. Let's"
+      },
+      {
+        "start": 51.0,
+        "duration": 3.6,
+        "start_formatted": "00:51",
+        "text": "first talk about fight scenes and other"
+      },
+      {
+        "start": 52.84,
+        "duration": 3.96,
+        "start_formatted": "00:52",
+        "text": "high-action scenes. I'm going to use"
+      },
+      {
+        "start": 54.6,
+        "duration": 4.2,
+        "start_formatted": "00:54",
+        "text": "Seed Dance 2.5 first, and by the way,"
+      },
+      {
+        "start": 56.8,
+        "duration": 4.16,
+        "start_formatted": "00:56",
+        "text": "I'm using this platform called Lumina by"
+      },
+      {
+        "start": 58.8,
+        "duration": 4.64,
+        "start_formatted": "00:58",
+        "text": "BytePlus. This is an all-in-one creative"
+      },
+      {
+        "start": 60.96,
+        "duration": 4.12,
+        "start_formatted": "01:00",
+        "text": "platform for using the latest generative"
+      },
+      {
+        "start": 63.44,
+        "duration": 3.84,
+        "start_formatted": "01:03",
+        "text": "models from ByteDance and other"
+      },
+      {
+        "start": 65.08,
+        "duration": 3.56,
+        "start_formatted": "01:05",
+        "text": "providers. In fact, because Seed Dance"
+      },
+      {
+        "start": 67.28,
+        "duration": 3.28,
+        "start_formatted": "01:07",
+        "text": "is multimodal, let me show you a really"
+      },
+      {
+        "start": 68.64,
+        "duration": 4.56,
+        "start_formatted": "01:08",
+        "text": "cool example where I can input a rough"
+      },
+      {
+        "start": 70.56,
+        "duration": 4.6,
+        "start_formatted": "01:10",
+        "text": "3D animation like this, plus two images"
+      },
+      {
+        "start": 73.2,
+        "duration": 3.04,
+        "start_formatted": "01:13",
+        "text": "of reference characters, and here's my"
+      },
+      {
+        "start": 75.16,
+        "duration": 2.48,
+        "start_formatted": "01:15",
+        "text": "prompt. I'm going to write, \"This"
+      },
+      {
+        "start": 76.24,
+        "duration": 4.0,
+        "start_formatted": "01:16",
+        "text": "character and this character are"
+      },
+      {
+        "start": 77.64,
+        "duration": 4.84,
+        "start_formatted": "01:17",
+        "text": "fighting in an ancient temple. Refer to"
+      },
+      {
+        "start": 80.24,
+        "duration": 3.84,
+        "start_formatted": "01:20",
+        "text": "this video for the pose and movements.\""
+      },
+      {
+        "start": 82.48,
+        "duration": 4.36,
+        "start_formatted": "01:22",
+        "text": "And that's pretty much it. Now, because"
+      },
+      {
+        "start": 84.08,
+        "duration": 5.72,
+        "start_formatted": "01:24",
+        "text": "the original 3D video is 13 seconds, I'm"
+      },
+      {
+        "start": 86.84,
+        "duration": 4.4,
+        "start_formatted": "01:26",
+        "text": "going to select 13 seconds down here."
+      },
+      {
+        "start": 89.8,
+        "duration": 3.36,
+        "start_formatted": "01:29",
+        "text": "The maximum resolution right now is"
+      },
+      {
+        "start": 91.24,
+        "duration": 4.52,
+        "start_formatted": "01:31",
+        "text": "720p, and then I'm going to click"
+      },
+      {
+        "start": 93.16,
+        "duration": 2.6,
+        "start_formatted": "01:33",
+        "text": "generate."
+      },
+      {
+        "start": 106.72,
+        "duration": 3.68,
+        "start_formatted": "01:46",
+        "text": "So, that's the result from Seed Dance."
+      },
+      {
+        "start": 108.6,
+        "duration": 3.76,
+        "start_formatted": "01:48",
+        "text": "Note the character consistency is"
+      },
+      {
+        "start": 110.4,
+        "duration": 3.88,
+        "start_formatted": "01:50",
+        "text": "incredible. The physics and the motion"
+      },
+      {
+        "start": 112.36,
+        "duration": 3.44,
+        "start_formatted": "01:52",
+        "text": "are pretty much flawless. Now, there is"
+      },
+      {
+        "start": 114.28,
+        "duration": 3.36,
+        "start_formatted": "01:54",
+        "text": "one part in the middle here where it"
+      },
+      {
+        "start": 115.8,
+        "duration": 3.44,
+        "start_formatted": "01:55",
+        "text": "decided to do a close-up face-off"
+      },
+      {
+        "start": 117.64,
+        "duration": 3.68,
+        "start_formatted": "01:57",
+        "text": "between the two characters, even though"
+      },
+      {
+        "start": 119.24,
+        "duration": 3.88,
+        "start_formatted": "01:59",
+        "text": "this actually wasn't in the original 3D"
+      },
+      {
+        "start": 121.32,
+        "duration": 3.56,
+        "start_formatted": "02:01",
+        "text": "video. So, I'm not sure where it got"
+      },
+      {
+        "start": 123.12,
+        "duration": 3.8,
+        "start_formatted": "02:03",
+        "text": "that inspiration from, but for the most"
+      },
+      {
+        "start": 124.88,
+        "duration": 3.72,
+        "start_formatted": "02:04",
+        "text": "part, it is very coherent with the"
+      },
+      {
+        "start": 126.92,
+        "duration": 3.4,
+        "start_formatted": "02:06",
+        "text": "motion. All right, next I'm going to do"
+      },
+      {
+        "start": 128.6,
+        "duration": 3.44,
+        "start_formatted": "02:08",
+        "text": "the same thing in Minimax. I'm going to"
+      },
+      {
+        "start": 130.32,
+        "duration": 4.52,
+        "start_formatted": "02:10",
+        "text": "enter the exact same prompt. The 3D"
+      },
+      {
+        "start": 132.04,
+        "duration": 4.96,
+        "start_formatted": "02:12",
+        "text": "reference video is 13.6 seconds, so here"
+      },
+      {
+        "start": 134.84,
+        "duration": 3.56,
+        "start_formatted": "02:14",
+        "text": "I'm going to set it to 14 seconds. And"
+      },
+      {
+        "start": 137.0,
+        "duration": 3.68,
+        "start_formatted": "02:17",
+        "text": "for high low, currently you can only"
+      },
+      {
+        "start": 138.4,
+        "duration": 4.84,
+        "start_formatted": "02:18",
+        "text": "select 2K resolution. Let's click"
+      },
+      {
+        "start": 140.68,
+        "duration": 2.56,
+        "start_formatted": "02:20",
+        "text": "create."
+      },
+      {
+        "start": 143.446,
+        "duration": 2.02,
+        "start_formatted": "02:23",
+        "text": ">> [snorts]"
+      },
+      {
+        "start": 149.341,
+        "duration": 2.02,
+        "start_formatted": "02:29",
+        "text": "[snorts]"
+      },
+      {
+        "start": 155.6,
+        "duration": 3.359,
+        "start_formatted": "02:35",
+        "text": ">> All right, so that's what I got from"
+      },
+      {
+        "start": 156.52,
+        "duration": 4.439,
+        "start_formatted": "02:36",
+        "text": "Minimax. And as you can see, Minimax"
+      },
+      {
+        "start": 158.959,
+        "duration": 3.721,
+        "start_formatted": "02:38",
+        "text": "wasn't actually able to follow the 3D"
+      },
+      {
+        "start": 160.959,
+        "duration": 3.521,
+        "start_formatted": "02:40",
+        "text": "reference. There's a lot of noise and"
+      },
+      {
+        "start": 162.68,
+        "duration": 4.16,
+        "start_formatted": "02:42",
+        "text": "artifacts throughout this fight scene."
+      },
+      {
+        "start": 164.48,
+        "duration": 4.24,
+        "start_formatted": "02:44",
+        "text": "So, in terms of high action shots or"
+      },
+      {
+        "start": 166.84,
+        "duration": 3.28,
+        "start_formatted": "02:46",
+        "text": "fight scenes, Sea Dance is the clear"
+      },
+      {
+        "start": 168.72,
+        "duration": 3.2,
+        "start_formatted": "02:48",
+        "text": "winner. By the way, if you're wondering"
+      },
+      {
+        "start": 170.12,
+        "duration": 3.56,
+        "start_formatted": "02:50",
+        "text": "how to make these 3D assets and"
+      },
+      {
+        "start": 171.92,
+        "duration": 3.8,
+        "start_formatted": "02:51",
+        "text": "animations, there are plenty of free"
+      },
+      {
+        "start": 173.68,
+        "duration": 4.24,
+        "start_formatted": "02:53",
+        "text": "resources you can use. One of them is"
+      },
+      {
+        "start": 175.72,
+        "duration": 3.96,
+        "start_formatted": "02:55",
+        "text": "called Mixamo. You can sign up for free,"
+      },
+      {
+        "start": 177.92,
+        "duration": 3.92,
+        "start_formatted": "02:57",
+        "text": "and it contains a ton of pre-made"
+      },
+      {
+        "start": 179.68,
+        "duration": 4.24,
+        "start_formatted": "02:59",
+        "text": "animations for 3D characters like"
+      },
+      {
+        "start": 181.84,
+        "duration": 4.0,
+        "start_formatted": "03:01",
+        "text": "walking, running, fighting, dancing, or"
+      },
+      {
+        "start": 183.92,
+        "duration": 3.36,
+        "start_formatted": "03:03",
+        "text": "other specific actions. And you can"
+      },
+      {
+        "start": 185.84,
+        "duration": 3.399,
+        "start_formatted": "03:05",
+        "text": "adjust the camera angle to whatever you"
+      },
+      {
+        "start": 187.28,
+        "duration": 3.88,
+        "start_formatted": "03:07",
+        "text": "want, and then press download. Another"
+      },
+      {
+        "start": 189.239,
+        "duration": 4.241,
+        "start_formatted": "03:09",
+        "text": "really helpful open-source platform is"
+      },
+      {
+        "start": 191.16,
+        "duration": 4.2,
+        "start_formatted": "03:11",
+        "text": "called Arty by Nvidia, which I featured"
+      },
+      {
+        "start": 193.48,
+        "duration": 3.88,
+        "start_formatted": "03:13",
+        "text": "on my channel before. And here is where"
+      },
+      {
+        "start": 195.36,
+        "duration": 4.12,
+        "start_formatted": "03:15",
+        "text": "you can create animations of characters"
+      },
+      {
+        "start": 197.36,
+        "duration": 4.08,
+        "start_formatted": "03:17",
+        "text": "moving just with a text prompt. Anyways,"
+      },
+      {
+        "start": 199.48,
+        "duration": 3.44,
+        "start_formatted": "03:19",
+        "text": "back to the video models. For the next"
+      },
+      {
+        "start": 201.44,
+        "duration": 3.16,
+        "start_formatted": "03:21",
+        "text": "test, let's see how good it is at"
+      },
+      {
+        "start": 202.92,
+        "duration": 3.96,
+        "start_formatted": "03:22",
+        "text": "following instructions. So, I'm going to"
+      },
+      {
+        "start": 204.6,
+        "duration": 4.32,
+        "start_formatted": "03:24",
+        "text": "take my classic prompt, a 3D Pixar"
+      },
+      {
+        "start": 206.88,
+        "duration": 3.32,
+        "start_formatted": "03:26",
+        "text": "princess getting chased by a dragon, but"
+      },
+      {
+        "start": 208.92,
+        "duration": 2.8,
+        "start_formatted": "03:28",
+        "text": "I'm going to add a ton of different"
+      },
+      {
+        "start": 210.2,
+        "duration": 3.28,
+        "start_formatted": "03:30",
+        "text": "actions in the scene and see if it can"
+      },
+      {
+        "start": 211.72,
+        "duration": 4.28,
+        "start_formatted": "03:31",
+        "text": "follow them completely. So, it's going"
+      },
+      {
+        "start": 213.48,
+        "duration": 4.12,
+        "start_formatted": "03:33",
+        "text": "to be a 3D Pixar animation, a princess"
+      },
+      {
+        "start": 216.0,
+        "duration": 3.28,
+        "start_formatted": "03:36",
+        "text": "wearing a glittery white dress running"
+      },
+      {
+        "start": 217.6,
+        "duration": 3.4,
+        "start_formatted": "03:37",
+        "text": "away from a massive dragon with glowing"
+      },
+      {
+        "start": 219.28,
+        "duration": 3.6,
+        "start_formatted": "03:39",
+        "text": "red eyes in a forest. The dragon"
+      },
+      {
+        "start": 221.0,
+        "duration": 3.72,
+        "start_formatted": "03:41",
+        "text": "breathes fire, which ignites the ground"
+      },
+      {
+        "start": 222.88,
+        "duration": 3.28,
+        "start_formatted": "03:42",
+        "text": "and the foliage behind her. She ducks"
+      },
+      {
+        "start": 224.72,
+        "duration": 3.32,
+        "start_formatted": "03:44",
+        "text": "beneath a fallen tree as the dragon"
+      },
+      {
+        "start": 226.16,
+        "duration": 4.04,
+        "start_formatted": "03:46",
+        "text": "crashes through it. A flock of glowing"
+      },
+      {
+        "start": 228.04,
+        "duration": 4.56,
+        "start_formatted": "03:48",
+        "text": "blue birds suddenly swarms the dragon's"
+      },
+      {
+        "start": 230.2,
+        "duration": 5.04,
+        "start_formatted": "03:50",
+        "text": "face. The princess grabs a hanging vine"
+      },
+      {
+        "start": 232.6,
+        "duration": 4.48,
+        "start_formatted": "03:52",
+        "text": "and swings, landing inside an abandoned"
+      },
+      {
+        "start": 235.24,
+        "duration": 3.96,
+        "start_formatted": "03:55",
+        "text": "golden bathtub. The bathtub rolls"
+      },
+      {
+        "start": 237.08,
+        "duration": 3.88,
+        "start_formatted": "03:57",
+        "text": "downhill with her inside it. She jumps"
+      },
+      {
+        "start": 239.2,
+        "duration": 3.6,
+        "start_formatted": "03:59",
+        "text": "out moments before it smashes into a"
+      },
+      {
+        "start": 240.96,
+        "duration": 4.08,
+        "start_formatted": "04:00",
+        "text": "boulder. Reaching a river, she jumps"
+      },
+      {
+        "start": 242.8,
+        "duration": 4.2,
+        "start_formatted": "04:02",
+        "text": "onto drifting debris to cross. She jumps"
+      },
+      {
+        "start": 245.04,
+        "duration": 3.8,
+        "start_formatted": "04:05",
+        "text": "from a broken door to a floating barrel,"
+      },
+      {
+        "start": 247.0,
+        "duration": 3.88,
+        "start_formatted": "04:07",
+        "text": "then onto the back of a confused giant"
+      },
+      {
+        "start": 248.84,
+        "duration": 3.96,
+        "start_formatted": "04:08",
+        "text": "turtle. She looks back to see the dragon"
+      },
+      {
+        "start": 250.88,
+        "duration": 3.64,
+        "start_formatted": "04:10",
+        "text": "on the shore roaring in frustration as"
+      },
+      {
+        "start": 252.8,
+        "duration": 3.64,
+        "start_formatted": "04:12",
+        "text": "it can't cross the river. All right, so"
+      },
+      {
+        "start": 254.52,
+        "duration": 4.04,
+        "start_formatted": "04:14",
+        "text": "that was a mouthful. Now, my favorite"
+      },
+      {
+        "start": 256.44,
+        "duration": 3.919,
+        "start_formatted": "04:16",
+        "text": "feature about SeaDance is this allows"
+      },
+      {
+        "start": 258.56,
+        "duration": 3.36,
+        "start_formatted": "04:18",
+        "text": "you to generate videos of up to 30"
+      },
+      {
+        "start": 260.359,
+        "duration": 3.241,
+        "start_formatted": "04:20",
+        "text": "seconds. So, let me drag this all the"
+      },
+      {
+        "start": 261.92,
+        "duration": 4.28,
+        "start_formatted": "04:21",
+        "text": "way to 30, and then let's press"
+      },
+      {
+        "start": 263.6,
+        "duration": 2.6,
+        "start_formatted": "04:23",
+        "text": "generate."
+      },
+      {
+        "start": 294.16,
+        "duration": 4.24,
+        "start_formatted": "04:54",
+        "text": "That was pretty much flawless. It's"
+      },
+      {
+        "start": 296.16,
+        "duration": 3.96,
+        "start_formatted": "04:56",
+        "text": "actually able to follow everything that"
+      },
+      {
+        "start": 298.4,
+        "duration": 3.6,
+        "start_formatted": "04:58",
+        "text": "I specified in the prompts. All right,"
+      },
+      {
+        "start": 300.12,
+        "duration": 3.68,
+        "start_formatted": "05:00",
+        "text": "next, let me do the same thing for"
+      },
+      {
+        "start": 302.0,
+        "duration": 3.68,
+        "start_formatted": "05:02",
+        "text": "MiniMax. So, I'm going to enter the same"
+      },
+      {
+        "start": 303.8,
+        "duration": 3.84,
+        "start_formatted": "05:03",
+        "text": "prompt, and then for MiniMax, it only"
+      },
+      {
+        "start": 305.68,
+        "duration": 3.96,
+        "start_formatted": "05:05",
+        "text": "allows me to generate up to 15 seconds."
+      },
+      {
+        "start": 307.64,
+        "duration": 4.68,
+        "start_formatted": "05:07",
+        "text": "So, let's set that and then press"
+      },
+      {
+        "start": 309.64,
+        "duration": 2.68,
+        "start_formatted": "05:09",
+        "text": "create."
+      },
+      {
+        "start": 325.48,
+        "duration": 4.24,
+        "start_formatted": "05:25",
+        "text": "And surprisingly, the generation from"
+      },
+      {
+        "start": 327.2,
+        "duration": 4.32,
+        "start_formatted": "05:27",
+        "text": "MiniMax is also really good. It managed"
+      },
+      {
+        "start": 329.72,
+        "duration": 3.92,
+        "start_formatted": "05:29",
+        "text": "to squish everything into just 15"
+      },
+      {
+        "start": 331.52,
+        "duration": 4.0,
+        "start_formatted": "05:31",
+        "text": "seconds, and it got most of my prompt"
+      },
+      {
+        "start": 333.64,
+        "duration": 4.12,
+        "start_formatted": "05:33",
+        "text": "correct. It's only missing one minor"
+      },
+      {
+        "start": 335.52,
+        "duration": 4.92,
+        "start_formatted": "05:35",
+        "text": "detail, which is the princess did not"
+      },
+      {
+        "start": 337.76,
+        "duration": 4.52,
+        "start_formatted": "05:37",
+        "text": "jump on a broken door before jumping on"
+      },
+      {
+        "start": 340.44,
+        "duration": 3.84,
+        "start_formatted": "05:40",
+        "text": "a floating barrel. Whereas for SeaDance,"
+      },
+      {
+        "start": 342.28,
+        "duration": 4.28,
+        "start_formatted": "05:42",
+        "text": "it got all the details correct. Still"
+      },
+      {
+        "start": 344.28,
+        "duration": 4.2,
+        "start_formatted": "05:44",
+        "text": "very impressive though for both models."
+      },
+      {
+        "start": 346.56,
+        "duration": 4.08,
+        "start_formatted": "05:46",
+        "text": "All right, next, here's a workflow which"
+      },
+      {
+        "start": 348.48,
+        "duration": 4.48,
+        "start_formatted": "05:48",
+        "text": "might actually be used in real life,"
+      },
+      {
+        "start": 350.64,
+        "duration": 4.0,
+        "start_formatted": "05:50",
+        "text": "especially for animation studios. Let's"
+      },
+      {
+        "start": 352.96,
+        "duration": 3.88,
+        "start_formatted": "05:52",
+        "text": "see if it can take a rough sketch"
+      },
+      {
+        "start": 354.64,
+        "duration": 4.04,
+        "start_formatted": "05:54",
+        "text": "animation like this and generate a fully"
+      },
+      {
+        "start": 356.84,
+        "duration": 3.12,
+        "start_formatted": "05:56",
+        "text": "colored production-ready clip. So,"
+      },
+      {
+        "start": 358.68,
+        "duration": 3.84,
+        "start_formatted": "05:58",
+        "text": "here's what I'm going to put. Based on"
+      },
+      {
+        "start": 359.96,
+        "duration": 4.0,
+        "start_formatted": "05:59",
+        "text": "this reference video, make a realistic"
+      },
+      {
+        "start": 362.52,
+        "duration": 3.32,
+        "start_formatted": "06:02",
+        "text": "high-action cinematic video of a"
+      },
+      {
+        "start": 363.96,
+        "duration": 4.04,
+        "start_formatted": "06:03",
+        "text": "Japanese sorceress fighting a massive"
+      },
+      {
+        "start": 365.84,
+        "duration": 4.32,
+        "start_formatted": "06:05",
+        "text": "rock golem creature. Make sure you use"
+      },
+      {
+        "start": 368.0,
+        "duration": 5.76,
+        "start_formatted": "06:08",
+        "text": "the exact poses, animations, and camera"
+      },
+      {
+        "start": 370.16,
+        "duration": 3.6,
+        "start_formatted": "06:10",
+        "text": "angles from the reference video."
+      },
+      {
+        "start": 381.52,
+        "duration": 3.44,
+        "start_formatted": "06:21",
+        "text": "Now, if you compare this with SeaDance,"
+      },
+      {
+        "start": 383.16,
+        "duration": 3.6,
+        "start_formatted": "06:23",
+        "text": "note that SeaDance is a bit better at"
+      },
+      {
+        "start": 384.96,
+        "duration": 3.8,
+        "start_formatted": "06:24",
+        "text": "actually coloring everything and making"
+      },
+      {
+        "start": 386.76,
+        "duration": 4.6,
+        "start_formatted": "06:26",
+        "text": "it look like a polished production-ready"
+      },
+      {
+        "start": 388.76,
+        "duration": 4.28,
+        "start_formatted": "06:28",
+        "text": "animation. Whereas for MiniMax, it still"
+      },
+      {
+        "start": 391.36,
+        "duration": 4.04,
+        "start_formatted": "06:31",
+        "text": "kind of keeps some of the original"
+      },
+      {
+        "start": 393.04,
+        "duration": 4.48,
+        "start_formatted": "06:33",
+        "text": "sketch elements. So, in this instance,"
+      },
+      {
+        "start": 395.4,
+        "duration": 4.4,
+        "start_formatted": "06:35",
+        "text": "I'd have to give the point to SeaDance."
+      },
+      {
+        "start": 397.52,
+        "duration": 3.92,
+        "start_formatted": "06:37",
+        "text": "Next, here's another practical use case."
+      },
+      {
+        "start": 399.8,
+        "duration": 4.0,
+        "start_formatted": "06:39",
+        "text": "Let's try to get it to create a"
+      },
+      {
+        "start": 401.44,
+        "duration": 3.92,
+        "start_formatted": "06:41",
+        "text": "commercial from just a storyboard and an"
+      },
+      {
+        "start": 403.8,
+        "duration": 3.04,
+        "start_formatted": "06:43",
+        "text": "image of the logo. So, I'm going to"
+      },
+      {
+        "start": 405.36,
+        "duration": 4.2,
+        "start_formatted": "06:45",
+        "text": "write, \"Make an ad for this luxury"
+      },
+      {
+        "start": 406.84,
+        "duration": 4.24,
+        "start_formatted": "06:46",
+        "text": "handbag based on this storyboard and"
+      },
+      {
+        "start": 409.56,
+        "duration": 3.84,
+        "start_formatted": "06:49",
+        "text": "this logo. Include an English"
+      },
+      {
+        "start": 411.08,
+        "duration": 3.76,
+        "start_formatted": "06:51",
+        "text": "voice-over.\""
+      },
+      {
+        "start": 413.4,
+        "duration": 5.28,
+        "start_formatted": "06:53",
+        "text": ">> Infinity."
+      },
+      {
+        "start": 414.84,
+        "duration": 3.84,
+        "start_formatted": "06:54",
+        "text": "A story of timeless elegance."
+      },
+      {
+        "start": 419.04,
+        "duration": 4.48,
+        "start_formatted": "06:59",
+        "text": "Carry the infinite."
+      },
+      {
+        "start": 421.72,
+        "duration": 4.199,
+        "start_formatted": "07:01",
+        "text": ">> So, that was SeaDance's generation,"
+      },
+      {
+        "start": 423.52,
+        "duration": 4.32,
+        "start_formatted": "07:03",
+        "text": "which is pretty good. Next, I'm going to"
+      },
+      {
+        "start": 425.919,
+        "duration": 3.241,
+        "start_formatted": "07:05",
+        "text": "switch over to MiniMax and enter the"
+      },
+      {
+        "start": 427.84,
+        "duration": 3.8,
+        "start_formatted": "07:07",
+        "text": "same prompt."
+      },
+      {
+        "start": 429.16,
+        "duration": 5.28,
+        "start_formatted": "07:09",
+        "text": ">> In a world of fleeting moments,"
+      },
+      {
+        "start": 431.64,
+        "duration": 5.12,
+        "start_formatted": "07:11",
+        "text": "true elegance remains."
+      },
+      {
+        "start": 434.44,
+        "duration": 6.12,
+        "start_formatted": "07:14",
+        "text": "A quiet confidence."
+      },
+      {
+        "start": 436.76,
+        "duration": 3.8,
+        "start_formatted": "07:16",
+        "text": "A journey with no bounds."
+      },
+      {
+        "start": 441.04,
+        "duration": 2.84,
+        "start_formatted": "07:21",
+        "text": "Infinity."
+      },
+      {
+        "start": 442.6,
+        "duration": 3.319,
+        "start_formatted": "07:22",
+        "text": "Beyond time."
+      },
+      {
+        "start": 443.88,
+        "duration": 4.2,
+        "start_formatted": "07:23",
+        "text": ">> Honestly, both are really good."
+      },
+      {
+        "start": 445.919,
+        "duration": 3.761,
+        "start_formatted": "07:25",
+        "text": "Definitely the best models available for"
+      },
+      {
+        "start": 448.08,
+        "duration": 2.64,
+        "start_formatted": "07:28",
+        "text": "this use case. It's hard to pick a"
+      },
+      {
+        "start": 449.68,
+        "duration": 2.64,
+        "start_formatted": "07:29",
+        "text": "winner here, but let me know in the"
+      },
+      {
+        "start": 450.72,
+        "duration": 3.28,
+        "start_formatted": "07:30",
+        "text": "comments what you think. All right,"
+      },
+      {
+        "start": 452.32,
+        "duration": 4.28,
+        "start_formatted": "07:32",
+        "text": "let's step it up a notch. I'm going to"
+      },
+      {
+        "start": 454.0,
+        "duration": 4.96,
+        "start_formatted": "07:34",
+        "text": "upload some simple UI screenshots of an"
+      },
+      {
+        "start": 456.6,
+        "duration": 4.319,
+        "start_formatted": "07:36",
+        "text": "app plus the logo and get it to create a"
+      },
+      {
+        "start": 458.96,
+        "duration": 3.76,
+        "start_formatted": "07:38",
+        "text": "full motion graphic commercial from"
+      },
+      {
+        "start": 460.919,
+        "duration": 3.561,
+        "start_formatted": "07:40",
+        "text": "these assets. So, here's my prompt."
+      },
+      {
+        "start": 462.72,
+        "duration": 3.68,
+        "start_formatted": "07:42",
+        "text": "Here's an app called Artisan Crafts."
+      },
+      {
+        "start": 464.48,
+        "duration": 3.32,
+        "start_formatted": "07:44",
+        "text": "It's a marketplace for people to buy"
+      },
+      {
+        "start": 466.4,
+        "duration": 3.4,
+        "start_formatted": "07:46",
+        "text": "handmade local crafts. Make a"
+      },
+      {
+        "start": 467.8,
+        "duration": 4.36,
+        "start_formatted": "07:47",
+        "text": "professional ad about this. Include"
+      },
+      {
+        "start": 469.8,
+        "duration": 4.2,
+        "start_formatted": "07:49",
+        "text": "voice over from a British female. I'm"
+      },
+      {
+        "start": 472.16,
+        "duration": 3.64,
+        "start_formatted": "07:52",
+        "text": "testing if it can do different accents."
+      },
+      {
+        "start": 474.0,
+        "duration": 3.48,
+        "start_formatted": "07:54",
+        "text": "It should be flat vector motion graphic"
+      },
+      {
+        "start": 475.8,
+        "duration": 4.08,
+        "start_formatted": "07:55",
+        "text": "style. Only use the elements from the"
+      },
+      {
+        "start": 477.48,
+        "duration": 4.04,
+        "start_formatted": "07:57",
+        "text": "attached images. Here is the logo plus"
+      },
+      {
+        "start": 479.88,
+        "duration": 3.68,
+        "start_formatted": "07:59",
+        "text": "the screenshots. Take elements from"
+      },
+      {
+        "start": 481.52,
+        "duration": 4.64,
+        "start_formatted": "08:01",
+        "text": "these attachments for inspiration. This"
+      },
+      {
+        "start": 483.56,
+        "duration": 4.96,
+        "start_formatted": "08:03",
+        "text": "time, let's set it to a vertical video"
+      },
+      {
+        "start": 486.16,
+        "duration": 5.76,
+        "start_formatted": "08:06",
+        "text": "and then press generate."
+      },
+      {
+        "start": 488.52,
+        "duration": 7.72,
+        "start_formatted": "08:08",
+        "text": ">> Discover the story behind every craft."
+      },
+      {
+        "start": 491.92,
+        "duration": 5.52,
+        "start_formatted": "08:11",
+        "text": "Handmade, local, and one of cord."
+      },
+      {
+        "start": 496.24,
+        "duration": 2.92,
+        "start_formatted": "08:16",
+        "text": "Find [music] treasures that tell a"
+      },
+      {
+        "start": 497.44,
+        "duration": 4.44,
+        "start_formatted": "08:17",
+        "text": "story."
+      },
+      {
+        "start": 499.16,
+        "duration": 3.4,
+        "start_formatted": "08:19",
+        "text": "Shop with purpose. Download Artisan"
+      },
+      {
+        "start": 501.88,
+        "duration": 2.32,
+        "start_formatted": "08:21",
+        "text": "Crafts."
+      },
+      {
+        "start": 502.56,
+        "duration": 4.28,
+        "start_formatted": "08:22",
+        "text": ">> I'm also going to enter the same prompt"
+      },
+      {
+        "start": 504.2,
+        "duration": 5.2,
+        "start_formatted": "08:24",
+        "text": "into Mini Max and then press create."
+      },
+      {
+        "start": 506.84,
+        "duration": 4.68,
+        "start_formatted": "08:26",
+        "text": ">> Looking for unique handmade treasures?"
+      },
+      {
+        "start": 509.4,
+        "duration": 3.68,
+        "start_formatted": "08:29",
+        "text": "Welcome to Artisan Crafts. Discover"
+      },
+      {
+        "start": 511.52,
+        "duration": 3.48,
+        "start_formatted": "08:31",
+        "text": "local artisans and beautiful"
+      },
+      {
+        "start": 513.08,
+        "duration": 3.76,
+        "start_formatted": "08:33",
+        "text": "collections. Easily browse through"
+      },
+      {
+        "start": 515.0,
+        "duration": 4.08,
+        "start_formatted": "08:35",
+        "text": "one-of-a-kind pottery, jewelry, and"
+      },
+      {
+        "start": 516.84,
+        "duration": 4.4,
+        "start_formatted": "08:36",
+        "text": "textiles. Find your perfect piece and"
+      },
+      {
+        "start": 519.08,
+        "duration": 2.76,
+        "start_formatted": "08:39",
+        "text": "check out securely. Support creators"
+      },
+      {
+        "start": 521.24,
+        "duration": 2.44,
+        "start_formatted": "08:41",
+        "text": "today."
+      },
+      {
+        "start": 521.84,
+        "duration": 3.64,
+        "start_formatted": "08:41",
+        "text": ">> Both are very similar. If you look"
+      },
+      {
+        "start": 523.68,
+        "duration": 3.6,
+        "start_formatted": "08:43",
+        "text": "closely, there are some slight errors"
+      },
+      {
+        "start": 525.48,
+        "duration": 3.88,
+        "start_formatted": "08:45",
+        "text": "with some of the letters, but other than"
+      },
+      {
+        "start": 527.28,
+        "duration": 3.32,
+        "start_formatted": "08:47",
+        "text": "that, both are pretty decent. Let me"
+      },
+      {
+        "start": 529.36,
+        "duration": 2.64,
+        "start_formatted": "08:49",
+        "text": "know in the comments which one you"
+      },
+      {
+        "start": 530.6,
+        "duration": 3.44,
+        "start_formatted": "08:50",
+        "text": "prefer. All right, here's another"
+      },
+      {
+        "start": 532.0,
+        "duration": 4.72,
+        "start_formatted": "08:52",
+        "text": "practical use case. Let's see if it can"
+      },
+      {
+        "start": 534.04,
+        "duration": 4.68,
+        "start_formatted": "08:54",
+        "text": "create music videos. Because both models"
+      },
+      {
+        "start": 536.72,
+        "duration": 3.88,
+        "start_formatted": "08:56",
+        "text": "are multimodal, you can upload audio for"
+      },
+      {
+        "start": 538.72,
+        "duration": 3.36,
+        "start_formatted": "08:58",
+        "text": "it to use in its generation. Let me"
+      },
+      {
+        "start": 540.6,
+        "duration": 3.16,
+        "start_formatted": "09:00",
+        "text": "input this input track which was"
+      },
+      {
+        "start": 542.08,
+        "duration": 5.36,
+        "start_formatted": "09:02",
+        "text": "generated from the open-source music"
+      },
+      {
+        "start": 543.76,
+        "duration": 3.68,
+        "start_formatted": "09:03",
+        "text": "generator called A-Step."
+      },
+      {
+        "start": 549.16,
+        "duration": 4.12,
+        "start_formatted": "09:09",
+        "text": "And then I'm going to upload this image"
+      },
+      {
+        "start": 551.2,
+        "duration": 3.96,
+        "start_formatted": "09:11",
+        "text": "of a fictional K-pop band plus some"
+      },
+      {
+        "start": 553.28,
+        "duration": 4.52,
+        "start_formatted": "09:13",
+        "text": "typography references. And here's the"
+      },
+      {
+        "start": 555.16,
+        "duration": 4.92,
+        "start_formatted": "09:15",
+        "text": "prompt. Make an MV from this song. Show"
+      },
+      {
+        "start": 557.8,
+        "duration": 4.2,
+        "start_formatted": "09:17",
+        "text": "these K-pop members from this image"
+      },
+      {
+        "start": 560.08,
+        "duration": 3.8,
+        "start_formatted": "09:20",
+        "text": "singing and dancing to the music. Add"
+      },
+      {
+        "start": 562.0,
+        "duration": 3.92,
+        "start_formatted": "09:22",
+        "text": "coarse grain glitch effects and grunge"
+      },
+      {
+        "start": 563.88,
+        "duration": 4.4,
+        "start_formatted": "09:23",
+        "text": "effects. Keep the edit fast and use hard"
+      },
+      {
+        "start": 565.92,
+        "duration": 4.48,
+        "start_formatted": "09:25",
+        "text": "cuts only. Cuts should occur within 3"
+      },
+      {
+        "start": 568.28,
+        "duration": 4.04,
+        "start_formatted": "09:28",
+        "text": "seconds. Make the cuts based on the beat"
+      },
+      {
+        "start": 570.4,
+        "duration": 4.12,
+        "start_formatted": "09:30",
+        "text": "of the song. Use typographic reference"
+      },
+      {
+        "start": 572.32,
+        "duration": 4.48,
+        "start_formatted": "09:32",
+        "text": "from this image. Now, because the song"
+      },
+      {
+        "start": 574.52,
+        "duration": 6.56,
+        "start_formatted": "09:34",
+        "text": "is 15 seconds, let me also drag this to"
+      },
+      {
+        "start": 576.8,
+        "duration": 4.28,
+        "start_formatted": "09:36",
+        "text": "15 seconds and then press create."
+      },
+      {
+        "start": 584.266,
+        "duration": 2.02,
+        "start_formatted": "09:44",
+        "text": ">> [music]"
+      },
+      {
+        "start": 594.2,
+        "duration": 4.24,
+        "start_formatted": "09:54",
+        "text": ">> All right, so Minimax's generation is"
+      },
+      {
+        "start": 595.92,
+        "duration": 4.44,
+        "start_formatted": "09:55",
+        "text": "amazing. The song is exactly the same as"
+      },
+      {
+        "start": 598.44,
+        "duration": 4.12,
+        "start_formatted": "09:58",
+        "text": "my upload. The animations and the cuts"
+      },
+      {
+        "start": 600.36,
+        "duration": 4.28,
+        "start_formatted": "10:00",
+        "text": "do sync with the beat. The characters"
+      },
+      {
+        "start": 602.56,
+        "duration": 4.16,
+        "start_formatted": "10:02",
+        "text": "are singing along and the topography"
+      },
+      {
+        "start": 604.64,
+        "duration": 3.6,
+        "start_formatted": "10:04",
+        "text": "also looks great. This is really"
+      },
+      {
+        "start": 606.72,
+        "duration": 5.84,
+        "start_formatted": "10:06",
+        "text": "impressive. Next, I'm going to run the"
+      },
+      {
+        "start": 608.24,
+        "duration": 4.32,
+        "start_formatted": "10:08",
+        "text": "same prompt using SeaArt Dance 2.5."
+      },
+      {
+        "start": 615.707,
+        "duration": 2.02,
+        "start_formatted": "10:15",
+        "text": ">> [music]"
+      },
+      {
+        "start": 621.602,
+        "duration": 2.02,
+        "start_formatted": "10:21",
+        "text": "[music]"
+      },
+      {
+        "start": 625.64,
+        "duration": 4.68,
+        "start_formatted": "10:25",
+        "text": ">> Now, the generation from ByteDance is a"
+      },
+      {
+        "start": 628.2,
+        "duration": 4.36,
+        "start_formatted": "10:28",
+        "text": "bit weird. So, in terms of generating"
+      },
+      {
+        "start": 630.32,
+        "duration": 3.84,
+        "start_formatted": "10:30",
+        "text": "music videos or videos with these text"
+      },
+      {
+        "start": 632.56,
+        "duration": 3.08,
+        "start_formatted": "10:32",
+        "text": "overlay effects, I would have to give"
+      },
+      {
+        "start": 634.16,
+        "duration": 3.6,
+        "start_formatted": "10:34",
+        "text": "the point to Minimax. I'm really"
+      },
+      {
+        "start": 635.64,
+        "duration": 4.24,
+        "start_formatted": "10:35",
+        "text": "impressed by its generation. On my"
+      },
+      {
+        "start": 637.76,
+        "duration": 4.24,
+        "start_formatted": "10:37",
+        "text": "channel, I featured so many different AI"
+      },
+      {
+        "start": 639.88,
+        "duration": 4.24,
+        "start_formatted": "10:39",
+        "text": "models and tools. It can be very"
+      },
+      {
+        "start": 642.0,
+        "duration": 4.44,
+        "start_formatted": "10:42",
+        "text": "overwhelming. What if you can use all of"
+      },
+      {
+        "start": 644.12,
+        "duration": 5.68,
+        "start_formatted": "10:44",
+        "text": "these models all in one platform? And"
+      },
+      {
+        "start": 646.44,
+        "duration": 5.72,
+        "start_formatted": "10:46",
+        "text": "that brings us to Chat LLM by Abacus AI,"
+      },
+      {
+        "start": 649.8,
+        "duration": 4.44,
+        "start_formatted": "10:49",
+        "text": "the sponsor of this video. Chat LLM is"
+      },
+      {
+        "start": 652.16,
+        "duration": 4.36,
+        "start_formatted": "10:52",
+        "text": "an all-in-one platform for you to use"
+      },
+      {
+        "start": 654.24,
+        "duration": 4.0,
+        "start_formatted": "10:54",
+        "text": "the best AI models out there. You can"
+      },
+      {
+        "start": 656.52,
+        "duration": 4.08,
+        "start_formatted": "10:56",
+        "text": "seamlessly switch between different"
+      },
+      {
+        "start": 658.24,
+        "duration": 4.56,
+        "start_formatted": "10:58",
+        "text": "models in your chats. Plus, you can also"
+      },
+      {
+        "start": 660.6,
+        "duration": 4.4,
+        "start_formatted": "11:00",
+        "text": "use all the top image generators out"
+      },
+      {
+        "start": 662.8,
+        "duration": 3.96,
+        "start_formatted": "11:02",
+        "text": "there as well as the top video models"
+      },
+      {
+        "start": 665.0,
+        "duration": 3.64,
+        "start_formatted": "11:05",
+        "text": "out there, all in one integrated"
+      },
+      {
+        "start": 666.76,
+        "duration": 3.4,
+        "start_formatted": "11:06",
+        "text": "platform. And they're usually very quick"
+      },
+      {
+        "start": 668.64,
+        "duration": 3.12,
+        "start_formatted": "11:08",
+        "text": "to add a model to their site once it"
+      },
+      {
+        "start": 670.16,
+        "duration": 3.64,
+        "start_formatted": "11:10",
+        "text": "comes out. Plus, if you're coding"
+      },
+      {
+        "start": 671.76,
+        "duration": 4.04,
+        "start_formatted": "11:11",
+        "text": "something, they have a really useful"
+      },
+      {
+        "start": 673.8,
+        "duration": 4.36,
+        "start_formatted": "11:13",
+        "text": "agent feature which can do some really"
+      },
+      {
+        "start": 675.8,
+        "duration": 4.44,
+        "start_formatted": "11:15",
+        "text": "complex tasks all autonomously, like"
+      },
+      {
+        "start": 678.16,
+        "duration": 3.679,
+        "start_formatted": "11:18",
+        "text": "creating PowerPoints, websites, and"
+      },
+      {
+        "start": 680.24,
+        "duration": 3.88,
+        "start_formatted": "11:20",
+        "text": "research reports. It's going to"
+      },
+      {
+        "start": 681.839,
+        "duration": 4.641,
+        "start_formatted": "11:21",
+        "text": "supercharge your productivity. Best of"
+      },
+      {
+        "start": 684.12,
+        "duration": 4.32,
+        "start_formatted": "11:24",
+        "text": "all, you can access all these AI models"
+      },
+      {
+        "start": 686.48,
+        "duration": 4.92,
+        "start_formatted": "11:26",
+        "text": "and image and video generators and deep"
+      },
+      {
+        "start": 688.44,
+        "duration": 5.12,
+        "start_formatted": "11:28",
+        "text": "agent for only $10 a month. This is way"
+      },
+      {
+        "start": 691.4,
+        "duration": 4.28,
+        "start_formatted": "11:31",
+        "text": "cheaper than if you paid for each tool"
+      },
+      {
+        "start": 693.56,
+        "duration": 4.4,
+        "start_formatted": "11:33",
+        "text": "separately. Definitely check out Chat"
+      },
+      {
+        "start": 695.68,
+        "duration": 4.2,
+        "start_formatted": "11:35",
+        "text": "LLM in the description below. Now, both"
+      },
+      {
+        "start": 697.96,
+        "duration": 3.96,
+        "start_formatted": "11:37",
+        "text": "models claim they support multiple"
+      },
+      {
+        "start": 699.88,
+        "duration": 3.32,
+        "start_formatted": "11:39",
+        "text": "languages, so let's see how good it is"
+      },
+      {
+        "start": 701.92,
+        "duration": 3.08,
+        "start_formatted": "11:41",
+        "text": "at handling all these different"
+      },
+      {
+        "start": 703.2,
+        "duration": 3.36,
+        "start_formatted": "11:43",
+        "text": "languages. First, we have a Chinese man"
+      },
+      {
+        "start": 705.0,
+        "duration": 3.52,
+        "start_formatted": "11:45",
+        "text": "saying this, then we have an Indian"
+      },
+      {
+        "start": 706.56,
+        "duration": 5.16,
+        "start_formatted": "11:46",
+        "text": "woman saying this, followed by a Spanish"
+      },
+      {
+        "start": 708.52,
+        "duration": 4.96,
+        "start_formatted": "11:48",
+        "text": "woman, German, French, Arabic, Korean,"
+      },
+      {
+        "start": 711.72,
+        "duration": 5.28,
+        "start_formatted": "11:51",
+        "text": "Russian, and Polish. Here are the"
+      },
+      {
+        "start": 713.48,
+        "duration": 3.52,
+        "start_formatted": "11:53",
+        "text": "results from both models."
+      },
+      {
+        "start": 745.28,
+        "duration": 3.16,
+        "start_formatted": "12:25",
+        "text": "Now, I don't speak most of these"
+      },
+      {
+        "start": 747.08,
+        "duration": 3.72,
+        "start_formatted": "12:27",
+        "text": "languages, so let me know in the"
+      },
+      {
+        "start": 748.44,
+        "duration": 4.2,
+        "start_formatted": "12:28",
+        "text": "comments below if any model got any of"
+      },
+      {
+        "start": 750.8,
+        "duration": 4.0,
+        "start_formatted": "12:30",
+        "text": "the languages wrong. Which one do you"
+      },
+      {
+        "start": 752.64,
+        "duration": 4.64,
+        "start_formatted": "12:32",
+        "text": "prefer? Again, both models can already"
+      },
+      {
+        "start": 754.8,
+        "duration": 4.16,
+        "start_formatted": "12:34",
+        "text": "handle like 90% of use cases and"
+      },
+      {
+        "start": 757.28,
+        "duration": 4.2,
+        "start_formatted": "12:37",
+        "text": "scenarios. The prompts that I'm going to"
+      },
+      {
+        "start": 758.96,
+        "duration": 4.72,
+        "start_formatted": "12:38",
+        "text": "test next are really pushing its limits."
+      },
+      {
+        "start": 761.48,
+        "duration": 4.28,
+        "start_formatted": "12:41",
+        "text": "These are prompts that no existing video"
+      },
+      {
+        "start": 763.68,
+        "duration": 4.52,
+        "start_formatted": "12:43",
+        "text": "model could get correct so far. So, my"
+      },
+      {
+        "start": 765.76,
+        "duration": 4.84,
+        "start_formatted": "12:45",
+        "text": "next prompt is this: a solo violinist"
+      },
+      {
+        "start": 768.2,
+        "duration": 4.32,
+        "start_formatted": "12:48",
+        "text": "playing the solo section of Vivaldi's"
+      },
+      {
+        "start": 770.6,
+        "duration": 4.0,
+        "start_formatted": "12:50",
+        "text": "Summer, first movement. It's actually"
+      },
+      {
+        "start": 772.52,
+        "duration": 3.68,
+        "start_formatted": "12:52",
+        "text": "testing the AI on a few things. First,"
+      },
+      {
+        "start": 774.6,
+        "duration": 4.239,
+        "start_formatted": "12:54",
+        "text": "it's testing if it can generate someone"
+      },
+      {
+        "start": 776.2,
+        "duration": 4.56,
+        "start_formatted": "12:56",
+        "text": "playing the violin accurately, including"
+      },
+      {
+        "start": 778.839,
+        "duration": 4.081,
+        "start_formatted": "12:58",
+        "text": "how they move the bow, where they press"
+      },
+      {
+        "start": 780.76,
+        "duration": 4.04,
+        "start_formatted": "13:00",
+        "text": "their fingers, etc. It's also testing"
+      },
+      {
+        "start": 782.92,
+        "duration": 3.88,
+        "start_formatted": "13:02",
+        "text": "whether the AI has knowledge on what"
+      },
+      {
+        "start": 784.8,
+        "duration": 3.8,
+        "start_formatted": "13:04",
+        "text": "this classical piece, Vivaldi's Summer,"
+      },
+      {
+        "start": 786.8,
+        "duration": 3.6,
+        "start_formatted": "13:06",
+        "text": "actually sounds like. A very challenging"
+      },
+      {
+        "start": 788.6,
+        "duration": 4.52,
+        "start_formatted": "13:08",
+        "text": "prompt. Here's the generation from"
+      },
+      {
+        "start": 790.4,
+        "duration": 2.72,
+        "start_formatted": "13:10",
+        "text": "Seedance."
+      },
+      {
+        "start": 801.28,
+        "duration": 5.08,
+        "start_formatted": "13:21",
+        "text": "Now, I got to say the violin movements"
+      },
+      {
+        "start": 803.72,
+        "duration": 5.44,
+        "start_formatted": "13:23",
+        "text": "and playing look very realistic. The way"
+      },
+      {
+        "start": 806.36,
+        "duration": 5.36,
+        "start_formatted": "13:26",
+        "text": "she moves her bow, plus the fingers, are"
+      },
+      {
+        "start": 809.16,
+        "duration": 4.8,
+        "start_formatted": "13:29",
+        "text": "actually mostly in sync with the sound"
+      },
+      {
+        "start": 811.72,
+        "duration": 4.16,
+        "start_formatted": "13:31",
+        "text": "that she's playing. However, this isn't"
+      },
+      {
+        "start": 813.96,
+        "duration": 4.2,
+        "start_formatted": "13:33",
+        "text": "Vivaldi's Summer, so it doesn't seem to"
+      },
+      {
+        "start": 815.88,
+        "duration": 5.92,
+        "start_formatted": "13:35",
+        "text": "have this knowledge built in. Next, here"
+      },
+      {
+        "start": 818.16,
+        "duration": 3.64,
+        "start_formatted": "13:38",
+        "text": "is Minimax's generation."
+      },
+      {
+        "start": 823.344,
+        "duration": 2.02,
+        "start_formatted": "13:43",
+        "text": ">> [music]"
+      },
+      {
+        "start": 829.239,
+        "duration": 2.721,
+        "start_formatted": "13:49",
+        "text": "[music]"
+      },
+      {
+        "start": 829.96,
+        "duration": 4.12,
+        "start_formatted": "13:49",
+        "text": ">> I would say this generation is not that"
+      },
+      {
+        "start": 831.96,
+        "duration": 4.08,
+        "start_formatted": "13:51",
+        "text": "good. It doesn't really understand how a"
+      },
+      {
+        "start": 834.08,
+        "duration": 3.64,
+        "start_formatted": "13:54",
+        "text": "violin should be played, so especially"
+      },
+      {
+        "start": 836.04,
+        "duration": 3.44,
+        "start_formatted": "13:56",
+        "text": "at the end there when he's playing those"
+      },
+      {
+        "start": 837.72,
+        "duration": 3.52,
+        "start_formatted": "13:57",
+        "text": "really fast notes, the bow movements and"
+      },
+      {
+        "start": 839.48,
+        "duration": 3.56,
+        "start_formatted": "13:59",
+        "text": "the fingers aren't really in sync with"
+      },
+      {
+        "start": 841.24,
+        "duration": 3.52,
+        "start_formatted": "14:01",
+        "text": "the music. Plus, this also doesn't sound"
+      },
+      {
+        "start": 843.04,
+        "duration": 3.84,
+        "start_formatted": "14:03",
+        "text": "like Vivaldi's Summer. Next, here's"
+      },
+      {
+        "start": 844.76,
+        "duration": 4.24,
+        "start_formatted": "14:04",
+        "text": "another tricky prompt which no AI video"
+      },
+      {
+        "start": 846.88,
+        "duration": 4.16,
+        "start_formatted": "14:06",
+        "text": "model has gotten correct so far. A"
+      },
+      {
+        "start": 849.0,
+        "duration": 5.32,
+        "start_formatted": "14:09",
+        "text": "professor explaining the Pythagorean"
+      },
+      {
+        "start": 851.04,
+        "duration": 3.28,
+        "start_formatted": "14:11",
+        "text": "theorem on the whiteboard."
+      },
+      {
+        "start": 859.2,
+        "duration": 5.64,
+        "start_formatted": "14:19",
+        "text": ">> So, for any right triangle, a squared"
+      },
+      {
+        "start": 862.04,
+        "duration": 4.68,
+        "start_formatted": "14:22",
+        "text": "plus b squared equals c squared."
+      },
+      {
+        "start": 864.84,
+        "duration": 5.72,
+        "start_formatted": "14:24",
+        "text": "Therefore,"
+      },
+      {
+        "start": 866.72,
+        "duration": 6.36,
+        "start_formatted": "14:26",
+        "text": "a squared plus b squared"
+      },
+      {
+        "start": 870.56,
+        "duration": 3.88,
+        "start_formatted": "14:30",
+        "text": "will always equal c squared, the"
+      },
+      {
+        "start": 873.08,
+        "duration": 3.84,
+        "start_formatted": "14:33",
+        "text": "hypotenuse."
+      },
+      {
+        "start": 874.44,
+        "duration": 4.52,
+        "start_formatted": "14:34",
+        "text": ">> So, as you can see, both models weren't"
+      },
+      {
+        "start": 876.92,
+        "duration": 4.32,
+        "start_formatted": "14:36",
+        "text": "actually able to generate an accurate"
+      },
+      {
+        "start": 878.96,
+        "duration": 4.2,
+        "start_formatted": "14:38",
+        "text": "diagram of the Pythagorean theorem, or"
+      },
+      {
+        "start": 881.24,
+        "duration": 3.8,
+        "start_formatted": "14:41",
+        "text": "like a right triangle with all the sides"
+      },
+      {
+        "start": 883.16,
+        "duration": 3.72,
+        "start_formatted": "14:43",
+        "text": "labeled. They do know about the formula"
+      },
+      {
+        "start": 885.04,
+        "duration": 3.6,
+        "start_formatted": "14:45",
+        "text": "though, so both were able to get the"
+      },
+      {
+        "start": 886.88,
+        "duration": 3.48,
+        "start_formatted": "14:46",
+        "text": "professor to write out the formula."
+      },
+      {
+        "start": 888.64,
+        "duration": 3.6,
+        "start_formatted": "14:48",
+        "text": "Here's another really tricky test. A"
+      },
+      {
+        "start": 890.36,
+        "duration": 3.96,
+        "start_formatted": "14:50",
+        "text": "motion graphic highlighting the country"
+      },
+      {
+        "start": 892.24,
+        "duration": 3.88,
+        "start_formatted": "14:52",
+        "text": "of Peru on the world map. The voiceover"
+      },
+      {
+        "start": 894.32,
+        "duration": 3.64,
+        "start_formatted": "14:54",
+        "text": "is a woman with an Indian accent"
+      },
+      {
+        "start": 896.12,
+        "duration": 3.64,
+        "start_formatted": "14:56",
+        "text": "describing the history of Peru. So, this"
+      },
+      {
+        "start": 897.96,
+        "duration": 3.48,
+        "start_formatted": "14:57",
+        "text": "is testing multiple things. It's testing"
+      },
+      {
+        "start": 899.76,
+        "duration": 3.84,
+        "start_formatted": "14:59",
+        "text": "if it can generate a world map and"
+      },
+      {
+        "start": 901.44,
+        "duration": 3.72,
+        "start_formatted": "15:01",
+        "text": "highlight Peru, plus it's seeing if it"
+      },
+      {
+        "start": 903.6,
+        "duration": 3.96,
+        "start_formatted": "15:03",
+        "text": "can generate a voiceover with an Indian"
+      },
+      {
+        "start": 905.16,
+        "duration": 5.92,
+        "start_formatted": "15:05",
+        "text": "accent, plus it's testing its knowledge"
+      },
+      {
+        "start": 907.56,
+        "duration": 3.52,
+        "start_formatted": "15:07",
+        "text": "on the history of Peru."
+      },
+      {
+        "start": 912.12,
+        "duration": 5.12,
+        "start_formatted": "15:12",
+        "text": ">> Home to the legendary Inca Empire"
+      },
+      {
+        "start": 915.12,
+        "duration": 5.52,
+        "start_formatted": "15:15",
+        "text": "and a rich cultural heritage that"
+      },
+      {
+        "start": 917.24,
+        "duration": 3.4,
+        "start_formatted": "15:17",
+        "text": "endures to this day."
+      },
+      {
+        "start": 922.04,
+        "duration": 6.04,
+        "start_formatted": "15:22",
+        "text": "Peru, a land of ancient mysteries, was"
+      },
+      {
+        "start": 925.72,
+        "duration": 3.68,
+        "start_formatted": "15:25",
+        "text": "once the cradle of the mighty Inca"
+      },
+      {
+        "start": 928.08,
+        "duration": 3.64,
+        "start_formatted": "15:28",
+        "text": "Empire."
+      },
+      {
+        "start": 929.4,
+        "duration": 4.04,
+        "start_formatted": "15:29",
+        "text": ">> So, this was a fail for both models."
+      },
+      {
+        "start": 931.72,
+        "duration": 3.96,
+        "start_formatted": "15:31",
+        "text": "It's not really good at generating world"
+      },
+      {
+        "start": 933.44,
+        "duration": 3.84,
+        "start_formatted": "15:33",
+        "text": "maps. It's not good at highlighting Peru"
+      },
+      {
+        "start": 935.68,
+        "duration": 3.32,
+        "start_formatted": "15:35",
+        "text": "or generating motion graphic style"
+      },
+      {
+        "start": 937.28,
+        "duration": 3.96,
+        "start_formatted": "15:37",
+        "text": "videos. All right, so those were some of"
+      },
+      {
+        "start": 939.0,
+        "duration": 4.48,
+        "start_formatted": "15:39",
+        "text": "my preliminary tests. As you can see,"
+      },
+      {
+        "start": 941.24,
+        "duration": 4.2,
+        "start_formatted": "15:41",
+        "text": "Seed Dance is really good at high action"
+      },
+      {
+        "start": 943.48,
+        "duration": 4.28,
+        "start_formatted": "15:43",
+        "text": "shots and fight scenes. In fact, no"
+      },
+      {
+        "start": 945.44,
+        "duration": 4.08,
+        "start_formatted": "15:45",
+        "text": "video model even comes close to Seed"
+      },
+      {
+        "start": 947.76,
+        "duration": 3.68,
+        "start_formatted": "15:47",
+        "text": "Dance quality. It's also great at"
+      },
+      {
+        "start": 949.52,
+        "duration": 4.12,
+        "start_formatted": "15:49",
+        "text": "character consistency and following"
+      },
+      {
+        "start": 951.44,
+        "duration": 4.44,
+        "start_formatted": "15:51",
+        "text": "instructions. If you have any 3D"
+      },
+      {
+        "start": 953.64,
+        "duration": 4.08,
+        "start_formatted": "15:53",
+        "text": "animations or sketch animations, Seed"
+      },
+      {
+        "start": 955.88,
+        "duration": 4.2,
+        "start_formatted": "15:55",
+        "text": "Dance is by far the best model to turn"
+      },
+      {
+        "start": 957.72,
+        "duration": 3.8,
+        "start_formatted": "15:57",
+        "text": "these into production-ready content. On"
+      },
+      {
+        "start": 960.08,
+        "duration": 4.0,
+        "start_formatted": "16:00",
+        "text": "the other hand, Mini Max seems to be"
+      },
+      {
+        "start": 961.52,
+        "duration": 5.04,
+        "start_formatted": "16:01",
+        "text": "really good at making music videos or"
+      },
+      {
+        "start": 964.08,
+        "duration": 4.52,
+        "start_formatted": "16:04",
+        "text": "videos with text overlay effects. It's"
+      },
+      {
+        "start": 966.56,
+        "duration": 4.36,
+        "start_formatted": "16:06",
+        "text": "actually able to sync the video very"
+      },
+      {
+        "start": 968.6,
+        "duration": 4.76,
+        "start_formatted": "16:08",
+        "text": "well to the music. Both models do really"
+      },
+      {
+        "start": 970.92,
+        "duration": 4.24,
+        "start_formatted": "16:10",
+        "text": "well in terms of generating commercials"
+      },
+      {
+        "start": 973.36,
+        "duration": 3.68,
+        "start_formatted": "16:13",
+        "text": "or generating content from just a"
+      },
+      {
+        "start": 975.16,
+        "duration": 3.84,
+        "start_formatted": "16:15",
+        "text": "storyboard reference. Next, let's"
+      },
+      {
+        "start": 977.04,
+        "duration": 4.16,
+        "start_formatted": "16:17",
+        "text": "compare the specs of each. For Seed"
+      },
+      {
+        "start": 979.0,
+        "duration": 4.24,
+        "start_formatted": "16:19",
+        "text": "Dance 2.5, you can generate videos in"
+      },
+      {
+        "start": 981.2,
+        "duration": 4.36,
+        "start_formatted": "16:21",
+        "text": "all these aspect ratios, and currently"
+      },
+      {
+        "start": 983.24,
+        "duration": 4.52,
+        "start_formatted": "16:23",
+        "text": "you can only generate up to 720p,"
+      },
+      {
+        "start": 985.56,
+        "duration": 4.68,
+        "start_formatted": "16:25",
+        "text": "although they are planning to roll out"
+      },
+      {
+        "start": 987.76,
+        "duration": 4.079,
+        "start_formatted": "16:27",
+        "text": "1080p and 4K resolution in the near"
+      },
+      {
+        "start": 990.24,
+        "duration": 3.96,
+        "start_formatted": "16:30",
+        "text": "future. And currently, my favorite"
+      },
+      {
+        "start": 991.839,
+        "duration": 4.961,
+        "start_formatted": "16:31",
+        "text": "feature about this is this can generate"
+      },
+      {
+        "start": 994.2,
+        "duration": 4.28,
+        "start_formatted": "16:34",
+        "text": "up to 30 seconds in duration. And if"
+      },
+      {
+        "start": 996.8,
+        "duration": 4.0,
+        "start_formatted": "16:36",
+        "text": "that's not enough, you can actually take"
+      },
+      {
+        "start": 998.48,
+        "duration": 4.32,
+        "start_formatted": "16:38",
+        "text": "your generation and input it again to"
+      },
+      {
+        "start": 1000.8,
+        "duration": 4.36,
+        "start_formatted": "16:40",
+        "text": "create another 30-second clip that"
+      },
+      {
+        "start": 1002.8,
+        "duration": 4.4,
+        "start_formatted": "16:42",
+        "text": "extends from that video. So, in theory,"
+      },
+      {
+        "start": 1005.16,
+        "duration": 3.76,
+        "start_formatted": "16:45",
+        "text": "you can kind of create infinite duration"
+      },
+      {
+        "start": 1007.2,
+        "duration": 3.76,
+        "start_formatted": "16:47",
+        "text": "clips if you just keep looping these"
+      },
+      {
+        "start": 1008.92,
+        "duration": 4.04,
+        "start_formatted": "16:48",
+        "text": "extensions. Now, as I've shown you in my"
+      },
+      {
+        "start": 1010.96,
+        "duration": 3.96,
+        "start_formatted": "16:50",
+        "text": "demos, this is a multimodal model, so"
+      },
+      {
+        "start": 1012.96,
+        "duration": 4.56,
+        "start_formatted": "16:52",
+        "text": "this can take in text, audio, images,"
+      },
+      {
+        "start": 1014.92,
+        "duration": 4.919,
+        "start_formatted": "16:54",
+        "text": "and video to use as references. In fact,"
+      },
+      {
+        "start": 1017.52,
+        "duration": 5.16,
+        "start_formatted": "16:57",
+        "text": "this can take in up to 50 reference"
+      },
+      {
+        "start": 1019.839,
+        "duration": 5.36,
+        "start_formatted": "16:59",
+        "text": "inputs, including 30 images, 10 video"
+      },
+      {
+        "start": 1022.68,
+        "duration": 4.56,
+        "start_formatted": "17:02",
+        "text": "clips, and 10 audio clips for its use in"
+      },
+      {
+        "start": 1025.199,
+        "duration": 4.0,
+        "start_formatted": "17:05",
+        "text": "a single pass. So, it's incredibly"
+      },
+      {
+        "start": 1027.24,
+        "duration": 3.8,
+        "start_formatted": "17:07",
+        "text": "versatile. Next, let's go over the cost"
+      },
+      {
+        "start": 1029.199,
+        "duration": 4.0,
+        "start_formatted": "17:09",
+        "text": "of this. So, at least in the Lumina"
+      },
+      {
+        "start": 1031.04,
+        "duration": 6.159,
+        "start_formatted": "17:11",
+        "text": "platform, let me just type in a random"
+      },
+      {
+        "start": 1033.199,
+        "duration": 6.961,
+        "start_formatted": "17:13",
+        "text": "prompt. Let's set this to 16:9 at 10"
+      },
+      {
+        "start": 1037.199,
+        "duration": 4.76,
+        "start_formatted": "17:17",
+        "text": "seconds, this costs 460 credits. If I"
+      },
+      {
+        "start": 1040.16,
+        "duration": 3.919,
+        "start_formatted": "17:20",
+        "text": "upload an image, it doesn't change the"
+      },
+      {
+        "start": 1041.959,
+        "duration": 4.12,
+        "start_formatted": "17:21",
+        "text": "cost. This is still 460. But, if I"
+      },
+      {
+        "start": 1044.079,
+        "duration": 4.801,
+        "start_formatted": "17:24",
+        "text": "upload a video, then the cost increases"
+      },
+      {
+        "start": 1046.079,
+        "duration": 4.921,
+        "start_formatted": "17:26",
+        "text": "to 570. Now, at least on Lumina, you can"
+      },
+      {
+        "start": 1048.88,
+        "duration": 3.92,
+        "start_formatted": "17:28",
+        "text": "subscribe to these plans, which would"
+      },
+      {
+        "start": 1051.0,
+        "duration": 3.64,
+        "start_formatted": "17:31",
+        "text": "give you like a few thousand credits to"
+      },
+      {
+        "start": 1052.8,
+        "duration": 4.56,
+        "start_formatted": "17:32",
+        "text": "start. And if you want to top up, then a"
+      },
+      {
+        "start": 1054.64,
+        "duration": 6.12,
+        "start_formatted": "17:34",
+        "text": "thousand credits costs roughly $10. So,"
+      },
+      {
+        "start": 1057.36,
+        "duration": 5.32,
+        "start_formatted": "17:37",
+        "text": "a 10-second clip costs roughly $5 to $6,"
+      },
+      {
+        "start": 1060.76,
+        "duration": 3.56,
+        "start_formatted": "17:40",
+        "text": "depending on your input references."
+      },
+      {
+        "start": 1062.68,
+        "duration": 3.44,
+        "start_formatted": "17:42",
+        "text": "Definitely the most expensive video"
+      },
+      {
+        "start": 1064.32,
+        "duration": 4.08,
+        "start_formatted": "17:44",
+        "text": "model out there. Let's compare this with"
+      },
+      {
+        "start": 1066.12,
+        "duration": 4.44,
+        "start_formatted": "17:46",
+        "text": "Minimax. I can generate videos with all"
+      },
+      {
+        "start": 1068.4,
+        "duration": 5.12,
+        "start_formatted": "17:48",
+        "text": "these different aspect ratios. I can't"
+      },
+      {
+        "start": 1070.56,
+        "duration": 4.84,
+        "start_formatted": "17:50",
+        "text": "even select the 768p resolution. This"
+      },
+      {
+        "start": 1073.52,
+        "duration": 4.32,
+        "start_formatted": "17:53",
+        "text": "can only generate 2K resolution by"
+      },
+      {
+        "start": 1075.4,
+        "duration": 4.08,
+        "start_formatted": "17:55",
+        "text": "default, and it can generate up to 15"
+      },
+      {
+        "start": 1077.84,
+        "duration": 3.76,
+        "start_formatted": "17:57",
+        "text": "seconds. Let me show you the cost of a"
+      },
+      {
+        "start": 1079.48,
+        "duration": 4.52,
+        "start_formatted": "17:59",
+        "text": "10-second clip. Again, I'm going to just"
+      },
+      {
+        "start": 1081.6,
+        "duration": 5.52,
+        "start_formatted": "18:01",
+        "text": "type in a random prompt. Just a text"
+      },
+      {
+        "start": 1084.0,
+        "duration": 5.4,
+        "start_formatted": "18:04",
+        "text": "prompt would cost 120 credits. Now, if I"
+      },
+      {
+        "start": 1087.12,
+        "duration": 5.04,
+        "start_formatted": "18:07",
+        "text": "input an image, this also doesn't change"
+      },
+      {
+        "start": 1089.4,
+        "duration": 5.44,
+        "start_formatted": "18:09",
+        "text": "the cost. But, if I input a reference"
+      },
+      {
+        "start": 1092.16,
+        "duration": 4.92,
+        "start_formatted": "18:12",
+        "text": "video, then it does change it to 252"
+      },
+      {
+        "start": 1094.84,
+        "duration": 4.04,
+        "start_formatted": "18:14",
+        "text": "credits. You can subscribe to these"
+      },
+      {
+        "start": 1097.08,
+        "duration": 3.52,
+        "start_formatted": "18:17",
+        "text": "Minimax plans, which give you several"
+      },
+      {
+        "start": 1098.88,
+        "duration": 3.8,
+        "start_formatted": "18:18",
+        "text": "thousand credits to start, or you can"
+      },
+      {
+        "start": 1100.6,
+        "duration": 5.04,
+        "start_formatted": "18:20",
+        "text": "also top up credits. So, again, a"
+      },
+      {
+        "start": 1102.68,
+        "duration": 4.64,
+        "start_formatted": "18:22",
+        "text": "thousand credits is roughly $10. So, one"
+      },
+      {
+        "start": 1105.64,
+        "duration": 3.72,
+        "start_formatted": "18:25",
+        "text": "video generation would cost like one to"
+      },
+      {
+        "start": 1107.32,
+        "duration": 4.56,
+        "start_formatted": "18:27",
+        "text": "three dollars, depending on what"
+      },
+      {
+        "start": 1109.36,
+        "duration": 5.16,
+        "start_formatted": "18:29",
+        "text": "references you input. So, Minimax costs"
+      },
+      {
+        "start": 1111.88,
+        "duration": 4.88,
+        "start_formatted": "18:31",
+        "text": "half the price of SeaDance 2.5. Now, in"
+      },
+      {
+        "start": 1114.52,
+        "duration": 5.04,
+        "start_formatted": "18:34",
+        "text": "terms of using the model via API,"
+      },
+      {
+        "start": 1116.76,
+        "duration": 4.76,
+        "start_formatted": "18:36",
+        "text": "SeaDance has not enabled API access yet."
+      },
+      {
+        "start": 1119.56,
+        "duration": 4.76,
+        "start_formatted": "18:39",
+        "text": "I think they are rolling this out next"
+      },
+      {
+        "start": 1121.52,
+        "duration": 5.2,
+        "start_formatted": "18:41",
+        "text": "week. In terms of Minimax, API access is"
+      },
+      {
+        "start": 1124.32,
+        "duration": 4.84,
+        "start_formatted": "18:44",
+        "text": "already out. So, for a 2K resolution"
+      },
+      {
+        "start": 1126.72,
+        "duration": 4.24,
+        "start_formatted": "18:46",
+        "text": "video, it costs roughly 13 cents per"
+      },
+      {
+        "start": 1129.16,
+        "duration": 3.76,
+        "start_formatted": "18:49",
+        "text": "second. So, here's the thing. Minimax is"
+      },
+      {
+        "start": 1130.96,
+        "duration": 3.96,
+        "start_formatted": "18:50",
+        "text": "like half as expensive, and it can"
+      },
+      {
+        "start": 1132.92,
+        "duration": 4.64,
+        "start_formatted": "18:52",
+        "text": "generate 2K resolution videos, whereas"
+      },
+      {
+        "start": 1134.92,
+        "duration": 4.48,
+        "start_formatted": "18:54",
+        "text": "SeaDance can only generate 720p, and"
+      },
+      {
+        "start": 1137.56,
+        "duration": 3.56,
+        "start_formatted": "18:57",
+        "text": "it's like two times more expensive. Now,"
+      },
+      {
+        "start": 1139.4,
+        "duration": 4.16,
+        "start_formatted": "18:59",
+        "text": "the really cool thing is that for"
+      },
+      {
+        "start": 1141.12,
+        "duration": 4.4,
+        "start_formatted": "19:01",
+        "text": "Minimax H3, they are actually releasing"
+      },
+      {
+        "start": 1143.56,
+        "duration": 3.56,
+        "start_formatted": "19:03",
+        "text": "the model to this. So, at least at the"
+      },
+      {
+        "start": 1145.52,
+        "duration": 4.04,
+        "start_formatted": "19:05",
+        "text": "time of this recording, there are still"
+      },
+      {
+        "start": 1147.12,
+        "duration": 4.04,
+        "start_formatted": "19:07",
+        "text": "five hours until they release the model."
+      },
+      {
+        "start": 1149.56,
+        "duration": 4.6,
+        "start_formatted": "19:09",
+        "text": "Apparently, with the quantized version,"
+      },
+      {
+        "start": 1151.16,
+        "duration": 4.56,
+        "start_formatted": "19:11",
+        "text": "this can even fit on just an RTX 3090."
+      },
+      {
+        "start": 1154.16,
+        "duration": 3.2,
+        "start_formatted": "19:14",
+        "text": "So, you don't need like a huge data"
+      },
+      {
+        "start": 1155.72,
+        "duration": 4.28,
+        "start_formatted": "19:15",
+        "text": "center to run this. You can just run"
+      },
+      {
+        "start": 1157.36,
+        "duration": 5.04,
+        "start_formatted": "19:17",
+        "text": "this on a mid-to-high-end consumer GPU."
+      },
+      {
+        "start": 1160.0,
+        "duration": 4.4,
+        "start_formatted": "19:20",
+        "text": "Super exciting, and I will definitely do"
+      },
+      {
+        "start": 1162.4,
+        "duration": 4.48,
+        "start_formatted": "19:22",
+        "text": "a full installation tutorial on this"
+      },
+      {
+        "start": 1164.4,
+        "duration": 6.44,
+        "start_formatted": "19:24",
+        "text": "once it is released. So, that sums up my"
+      },
+      {
+        "start": 1166.88,
+        "duration": 6.28,
+        "start_formatted": "19:26",
+        "text": "review of Seed Dance 2.5 and Minimax H3."
+      },
+      {
+        "start": 1170.84,
+        "duration": 4.36,
+        "start_formatted": "19:30",
+        "text": "These are both definitely the best video"
+      },
+      {
+        "start": 1173.16,
+        "duration": 3.96,
+        "start_formatted": "19:33",
+        "text": "models you can use right now. There are"
+      },
+      {
+        "start": 1175.2,
+        "duration": 3.8,
+        "start_formatted": "19:35",
+        "text": "pros and cons of each, so hopefully this"
+      },
+      {
+        "start": 1177.12,
+        "duration": 4.32,
+        "start_formatted": "19:37",
+        "text": "video gives you a good idea of what to"
+      },
+      {
+        "start": 1179.0,
+        "duration": 5.44,
+        "start_formatted": "19:39",
+        "text": "expect. As always, I will be on the"
+      },
+      {
+        "start": 1181.44,
+        "duration": 4.88,
+        "start_formatted": "19:41",
+        "text": "lookout for the top AI news and tools to"
+      },
+      {
+        "start": 1184.44,
+        "duration": 3.52,
+        "start_formatted": "19:44",
+        "text": "share with you. So, if you enjoyed this"
+      },
+      {
+        "start": 1186.32,
+        "duration": 3.8,
+        "start_formatted": "19:46",
+        "text": "video, remember to like, share,"
+      },
+      {
+        "start": 1187.96,
+        "duration": 4.48,
+        "start_formatted": "19:47",
+        "text": "subscribe, and stay tuned for more"
+      },
+      {
+        "start": 1190.12,
+        "duration": 4.16,
+        "start_formatted": "19:50",
+        "text": "content. Also, there's just so much"
+      },
+      {
+        "start": 1192.44,
+        "duration": 4.24,
+        "start_formatted": "19:52",
+        "text": "happening in the world of AI every week."
+      },
+      {
+        "start": 1194.28,
+        "duration": 4.64,
+        "start_formatted": "19:54",
+        "text": "I can't possibly cover everything on my"
+      },
+      {
+        "start": 1196.68,
+        "duration": 4.56,
+        "start_formatted": "19:56",
+        "text": "YouTube channel. So, to really stay"
+      },
+      {
+        "start": 1198.92,
+        "duration": 5.0,
+        "start_formatted": "19:58",
+        "text": "up-to-date with all that's going on in"
+      },
+      {
+        "start": 1201.24,
+        "duration": 4.64,
+        "start_formatted": "20:01",
+        "text": "AI, be sure to subscribe to my free"
+      },
+      {
+        "start": 1203.92,
+        "duration": 3.92,
+        "start_formatted": "20:03",
+        "text": "weekly newsletter. The link to that will"
+      },
+      {
+        "start": 1205.88,
+        "duration": 4.0,
+        "start_formatted": "20:05",
+        "text": "be in the description below. Thanks for"
+      },
+      {
+        "start": 1207.84,
+        "duration": 4.32,
+        "start_formatted": "20:07",
+        "text": "watching, and I'll see you in the next"
+      },
+      {
+        "start": 1209.88,
+        "duration": 2.28,
+        "start_formatted": "20:09",
+        "text": "one."
+      }
+    ],
+    "full_text": "We have two new state-of-the-art video generators that were launched recently, Seed Dance 2.5 and Minimax H3, and both are ridiculously good. In this video, we're going to go over all the incredible things they can do, plus the pros and cons of each, where to use them, their cost, and much more. Let's jump right in. Now, the nice thing about both models is that they are multimodal, which means not only can you give them text prompts, but they can also take in images, videos, and audio to use as references. Now, both models are already capable of a ton of stuff, like taking a video of a green screen and replacing the background, or replacing and adding characters in an existing video. You can also change the weather, the lighting, the camera angle. This is all easy stuff for both models. In this video, I'm going to test them on more extreme and challenging and practical stuff. Let's first talk about fight scenes and other high-action scenes. I'm going to use Seed Dance 2.5 first, and by the way, I'm using this platform called Lumina by BytePlus. This is an all-in-one creative platform for using the latest generative models from ByteDance and other providers. In fact, because Seed Dance is multimodal, let me show you a really cool example where I can input a rough 3D animation like this, plus two images of reference characters, and here's my prompt. I'm going to write, \"This character and this character are fighting in an ancient temple. Refer to this video for the pose and movements.\" And that's pretty much it. Now, because the original 3D video is 13 seconds, I'm going to select 13 seconds down here. The maximum resolution right now is 720p, and then I'm going to click generate. So, that's the result from Seed Dance. Note the character consistency is incredible. The physics and the motion are pretty much flawless. Now, there is one part in the middle here where it decided to do a close-up face-off between the two characters, even though this actually wasn't in the original 3D video. So, I'm not sure where it got that inspiration from, but for the most part, it is very coherent with the motion. All right, next I'm going to do the same thing in Minimax. I'm going to enter the exact same prompt. The 3D reference video is 13.6 seconds, so here I'm going to set it to 14 seconds. And for high low, currently you can only select 2K resolution. Let's click create. >> [snorts] [snorts] >> All right, so that's what I got from Minimax. And as you can see, Minimax wasn't actually able to follow the 3D reference. There's a lot of noise and artifacts throughout this fight scene. So, in terms of high action shots or fight scenes, Sea Dance is the clear winner. By the way, if you're wondering how to make these 3D assets and animations, there are plenty of free resources you can use. One of them is called Mixamo. You can sign up for free, and it contains a ton of pre-made animations for 3D characters like walking, running, fighting, dancing, or other specific actions. And you can adjust the camera angle to whatever you want, and then press download. Another really helpful open-source platform is called Arty by Nvidia, which I featured on my channel before. And here is where you can create animations of characters moving just with a text prompt. Anyways, back to the video models. For the next test, let's see how good it is at following instructions. So, I'm going to take my classic prompt, a 3D Pixar princess getting chased by a dragon, but I'm going to add a ton of different actions in the scene and see if it can follow them completely. So, it's going to be a 3D Pixar animation, a princess wearing a glittery white dress running away from a massive dragon with glowing red eyes in a forest. The dragon breathes fire, which ignites the ground and the foliage behind her. She ducks beneath a fallen tree as the dragon crashes through it. A flock of glowing blue birds suddenly swarms the dragon's face. The princess grabs a hanging vine and swings, landing inside an abandoned golden bathtub. The bathtub rolls downhill with her inside it. She jumps out moments before it smashes into a boulder. Reaching a river, she jumps onto drifting debris to cross. She jumps from a broken door to a floating barrel, then onto the back of a confused giant turtle. She looks back to see the dragon on the shore roaring in frustration as it can't cross the river. All right, so that was a mouthful. Now, my favorite feature about SeaDance is this allows you to generate videos of up to 30 seconds. So, let me drag this all the way to 30, and then let's press generate. That was pretty much flawless. It's actually able to follow everything that I specified in the prompts. All right, next, let me do the same thing for MiniMax. So, I'm going to enter the same prompt, and then for MiniMax, it only allows me to generate up to 15 seconds. So, let's set that and then press create. And surprisingly, the generation from MiniMax is also really good. It managed to squish everything into just 15 seconds, and it got most of my prompt correct. It's only missing one minor detail, which is the princess did not jump on a broken door before jumping on a floating barrel. Whereas for SeaDance, it got all the details correct. Still very impressive though for both models. All right, next, here's a workflow which might actually be used in real life, especially for animation studios. Let's see if it can take a rough sketch animation like this and generate a fully colored production-ready clip. So, here's what I'm going to put. Based on this reference video, make a realistic high-action cinematic video of a Japanese sorceress fighting a massive rock golem creature. Make sure you use the exact poses, animations, and camera angles from the reference video. Now, if you compare this with SeaDance, note that SeaDance is a bit better at actually coloring everything and making it look like a polished production-ready animation. Whereas for MiniMax, it still kind of keeps some of the original sketch elements. So, in this instance, I'd have to give the point to SeaDance. Next, here's another practical use case. Let's try to get it to create a commercial from just a storyboard and an image of the logo. So, I'm going to write, \"Make an ad for this luxury handbag based on this storyboard and this logo. Include an English voice-over.\" >> Infinity. A story of timeless elegance. Carry the infinite. >> So, that was SeaDance's generation, which is pretty good. Next, I'm going to switch over to MiniMax and enter the same prompt. >> In a world of fleeting moments, true elegance remains. A quiet confidence. A journey with no bounds. Infinity. Beyond time. >> Honestly, both are really good. Definitely the best models available for this use case. It's hard to pick a winner here, but let me know in the comments what you think. All right, let's step it up a notch. I'm going to upload some simple UI screenshots of an app plus the logo and get it to create a full motion graphic commercial from these assets. So, here's my prompt. Here's an app called Artisan Crafts. It's a marketplace for people to buy handmade local crafts. Make a professional ad about this. Include voice over from a British female. I'm testing if it can do different accents. It should be flat vector motion graphic style. Only use the elements from the attached images. Here is the logo plus the screenshots. Take elements from these attachments for inspiration. This time, let's set it to a vertical video and then press generate. >> Discover the story behind every craft. Handmade, local, and one of cord. Find [music] treasures that tell a story. Shop with purpose. Download Artisan Crafts. >> I'm also going to enter the same prompt into Mini Max and then press create. >> Looking for unique handmade treasures? Welcome to Artisan Crafts. Discover local artisans and beautiful collections. Easily browse through one-of-a-kind pottery, jewelry, and textiles. Find your perfect piece and check out securely. Support creators today. >> Both are very similar. If you look closely, there are some slight errors with some of the letters, but other than that, both are pretty decent. Let me know in the comments which one you prefer. All right, here's another practical use case. Let's see if it can create music videos. Because both models are multimodal, you can upload audio for it to use in its generation. Let me input this input track which was generated from the open-source music generator called A-Step. And then I'm going to upload this image of a fictional K-pop band plus some typography references. And here's the prompt. Make an MV from this song. Show these K-pop members from this image singing and dancing to the music. Add coarse grain glitch effects and grunge effects. Keep the edit fast and use hard cuts only. Cuts should occur within 3 seconds. Make the cuts based on the beat of the song. Use typographic reference from this image. Now, because the song is 15 seconds, let me also drag this to 15 seconds and then press create. >> [music] >> All right, so Minimax's generation is amazing. The song is exactly the same as my upload. The animations and the cuts do sync with the beat. The characters are singing along and the topography also looks great. This is really impressive. Next, I'm going to run the same prompt using SeaArt Dance 2.5. >> [music] [music] >> Now, the generation from ByteDance is a bit weird. So, in terms of generating music videos or videos with these text overlay effects, I would have to give the point to Minimax. I'm really impressed by its generation. On my channel, I featured so many different AI models and tools. It can be very overwhelming. What if you can use all of these models all in one platform? And that brings us to Chat LLM by Abacus AI, the sponsor of this video. Chat LLM is an all-in-one platform for you to use the best AI models out there. You can seamlessly switch between different models in your chats. Plus, you can also use all the top image generators out there as well as the top video models out there, all in one integrated platform. And they're usually very quick to add a model to their site once it comes out. Plus, if you're coding something, they have a really useful agent feature which can do some really complex tasks all autonomously, like creating PowerPoints, websites, and research reports. It's going to supercharge your productivity. Best of all, you can access all these AI models and image and video generators and deep agent for only $10 a month. This is way cheaper than if you paid for each tool separately. Definitely check out Chat LLM in the description below. Now, both models claim they support multiple languages, so let's see how good it is at handling all these different languages. First, we have a Chinese man saying this, then we have an Indian woman saying this, followed by a Spanish woman, German, French, Arabic, Korean, Russian, and Polish. Here are the results from both models. Now, I don't speak most of these languages, so let me know in the comments below if any model got any of the languages wrong. Which one do you prefer? Again, both models can already handle like 90% of use cases and scenarios. The prompts that I'm going to test next are really pushing its limits. These are prompts that no existing video model could get correct so far. So, my next prompt is this: a solo violinist playing the solo section of Vivaldi's Summer, first movement. It's actually testing the AI on a few things. First, it's testing if it can generate someone playing the violin accurately, including how they move the bow, where they press their fingers, etc. It's also testing whether the AI has knowledge on what this classical piece, Vivaldi's Summer, actually sounds like. A very challenging prompt. Here's the generation from Seedance. Now, I got to say the violin movements and playing look very realistic. The way she moves her bow, plus the fingers, are actually mostly in sync with the sound that she's playing. However, this isn't Vivaldi's Summer, so it doesn't seem to have this knowledge built in. Next, here is Minimax's generation. >> [music] [music] >> I would say this generation is not that good. It doesn't really understand how a violin should be played, so especially at the end there when he's playing those really fast notes, the bow movements and the fingers aren't really in sync with the music. Plus, this also doesn't sound like Vivaldi's Summer. Next, here's another tricky prompt which no AI video model has gotten correct so far. A professor explaining the Pythagorean theorem on the whiteboard. >> So, for any right triangle, a squared plus b squared equals c squared. Therefore, a squared plus b squared will always equal c squared, the hypotenuse. >> So, as you can see, both models weren't actually able to generate an accurate diagram of the Pythagorean theorem, or like a right triangle with all the sides labeled. They do know about the formula though, so both were able to get the professor to write out the formula. Here's another really tricky test. A motion graphic highlighting the country of Peru on the world map. The voiceover is a woman with an Indian accent describing the history of Peru. So, this is testing multiple things. It's testing if it can generate a world map and highlight Peru, plus it's seeing if it can generate a voiceover with an Indian accent, plus it's testing its knowledge on the history of Peru. >> Home to the legendary Inca Empire and a rich cultural heritage that endures to this day. Peru, a land of ancient mysteries, was once the cradle of the mighty Inca Empire. >> So, this was a fail for both models. It's not really good at generating world maps. It's not good at highlighting Peru or generating motion graphic style videos. All right, so those were some of my preliminary tests. As you can see, Seed Dance is really good at high action shots and fight scenes. In fact, no video model even comes close to Seed Dance quality. It's also great at character consistency and following instructions. If you have any 3D animations or sketch animations, Seed Dance is by far the best model to turn these into production-ready content. On the other hand, Mini Max seems to be really good at making music videos or videos with text overlay effects. It's actually able to sync the video very well to the music. Both models do really well in terms of generating commercials or generating content from just a storyboard reference. Next, let's compare the specs of each. For Seed Dance 2.5, you can generate videos in all these aspect ratios, and currently you can only generate up to 720p, although they are planning to roll out 1080p and 4K resolution in the near future. And currently, my favorite feature about this is this can generate up to 30 seconds in duration. And if that's not enough, you can actually take your generation and input it again to create another 30-second clip that extends from that video. So, in theory, you can kind of create infinite duration clips if you just keep looping these extensions. Now, as I've shown you in my demos, this is a multimodal model, so this can take in text, audio, images, and video to use as references. In fact, this can take in up to 50 reference inputs, including 30 images, 10 video clips, and 10 audio clips for its use in a single pass. So, it's incredibly versatile. Next, let's go over the cost of this. So, at least in the Lumina platform, let me just type in a random prompt. Let's set this to 16:9 at 10 seconds, this costs 460 credits. If I upload an image, it doesn't change the cost. This is still 460. But, if I upload a video, then the cost increases to 570. Now, at least on Lumina, you can subscribe to these plans, which would give you like a few thousand credits to start. And if you want to top up, then a thousand credits costs roughly $10. So, a 10-second clip costs roughly $5 to $6, depending on your input references. Definitely the most expensive video model out there. Let's compare this with Minimax. I can generate videos with all these different aspect ratios. I can't even select the 768p resolution. This can only generate 2K resolution by default, and it can generate up to 15 seconds. Let me show you the cost of a 10-second clip. Again, I'm going to just type in a random prompt. Just a text prompt would cost 120 credits. Now, if I input an image, this also doesn't change the cost. But, if I input a reference video, then it does change it to 252 credits. You can subscribe to these Minimax plans, which give you several thousand credits to start, or you can also top up credits. So, again, a thousand credits is roughly $10. So, one video generation would cost like one to three dollars, depending on what references you input. So, Minimax costs half the price of SeaDance 2.5. Now, in terms of using the model via API, SeaDance has not enabled API access yet. I think they are rolling this out next week. In terms of Minimax, API access is already out. So, for a 2K resolution video, it costs roughly 13 cents per second. So, here's the thing. Minimax is like half as expensive, and it can generate 2K resolution videos, whereas SeaDance can only generate 720p, and it's like two times more expensive. Now, the really cool thing is that for Minimax H3, they are actually releasing the model to this. So, at least at the time of this recording, there are still five hours until they release the model. Apparently, with the quantized version, this can even fit on just an RTX 3090. So, you don't need like a huge data center to run this. You can just run this on a mid-to-high-end consumer GPU. Super exciting, and I will definitely do a full installation tutorial on this once it is released. So, that sums up my review of Seed Dance 2.5 and Minimax H3. These are both definitely the best video models you can use right now. There are pros and cons of each, so hopefully this video gives you a good idea of what to expect. As always, I will be on the lookout for the top AI news and tools to share with you. So, if you enjoyed this video, remember to like, share, subscribe, and stay tuned for more content. Also, there's just so much happening in the world of AI every week. I can't possibly cover everything on my YouTube channel. So, to really stay up-to-date with all that's going on in AI, be sure to subscribe to my free weekly newsletter. The link to that will be in the description below. Thanks for watching, and I'll see you in the next one.",
+    "word_count": 3297,
     "error": null
   }
 }

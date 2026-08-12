@@ -14,10 +14,4901 @@
     "video_id": "bEnE5pbpe_Q",
     "has_transcript": true,
     "language": "en",
-    "is_generated": false,
-    "segments": [],
-    "full_text": "Kimi K3 review. Best open source AI model. #ai #ainews #aitools #agi #llm #singularity Thanks to our sponsor Luma. Try Luma today: https://lumalabs.ai/aisearch-agents20\n\nKimi K3: https://www.kimi.com/\nKimi attention residual explainer: https://youtu.be/2IfAVV7ewO0\n\nAlso see:\nGLM 5.2 review https://youtu.be/6d__WOpZswY\nGPT 5.6 review https://youtu.be/SettwwX2cCI\nClaude Fable review https://youtu.be/GUEE9OA4keo\n\n00:00 Kimi K3 intro\n00:40 Kimi code\n02:37 Liquid physics test\n05:20 Blender v8 engine\n07:26 Financial explainer video\n10:10 3D model test \n12:25 Luma Agents\n14:31 Mecha shooter\n16:13 Music composition\n19:11 Cancer detection\n20:43 Find the frog\n21:42 Deep research\n24:25 Specs and benchmarks\n28:31 Open source\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
-    "word_count": 0,
+    "is_generated": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "duration": 4.2,
+        "start_formatted": "00:00",
+        "text": "Guys, this is pretty crazy. Open-source"
+      },
+      {
+        "start": 2.2,
+        "duration": 3.96,
+        "start_formatted": "00:02",
+        "text": "AI is no longer a few months behind the"
+      },
+      {
+        "start": 4.2,
+        "duration": 4.28,
+        "start_formatted": "00:04",
+        "text": "closed frontier models. Today, we have a"
+      },
+      {
+        "start": 6.16,
+        "duration": 4.72,
+        "start_formatted": "00:06",
+        "text": "new open-source model which is just as"
+      },
+      {
+        "start": 8.48,
+        "duration": 5.12,
+        "start_formatted": "00:08",
+        "text": "good. So, Moonshot AI just released"
+      },
+      {
+        "start": 10.88,
+        "duration": 5.64,
+        "start_formatted": "00:10",
+        "text": "their latest model, Kimmy K3. It's a"
+      },
+      {
+        "start": 13.6,
+        "duration": 5.44,
+        "start_formatted": "00:13",
+        "text": "massive open-source model and get this,"
+      },
+      {
+        "start": 16.52,
+        "duration": 5.24,
+        "start_formatted": "00:16",
+        "text": "it's right up there among the best"
+      },
+      {
+        "start": 19.04,
+        "duration": 5.52,
+        "start_formatted": "00:19",
+        "text": "closed models out there including GPT"
+      },
+      {
+        "start": 21.76,
+        "duration": 5.96,
+        "start_formatted": "00:21",
+        "text": "5.6 and Claude Fable. Like, this is"
+      },
+      {
+        "start": 24.56,
+        "duration": 4.48,
+        "start_formatted": "00:24",
+        "text": "ridiculously intelligent and performant."
+      },
+      {
+        "start": 27.72,
+        "duration": 3.2,
+        "start_formatted": "00:27",
+        "text": "In this video, we're going to go over"
+      },
+      {
+        "start": 29.04,
+        "duration": 3.239,
+        "start_formatted": "00:29",
+        "text": "all the impressive things it can do and"
+      },
+      {
+        "start": 30.92,
+        "duration": 2.92,
+        "start_formatted": "00:30",
+        "text": "of course I'm going to show you where"
+      },
+      {
+        "start": 32.279,
+        "duration": 4.161,
+        "start_formatted": "00:32",
+        "text": "and how to use it. Plus, we're going to"
+      },
+      {
+        "start": 33.84,
+        "duration": 4.88,
+        "start_formatted": "00:33",
+        "text": "go over its cost, specs, benchmarks, and"
+      },
+      {
+        "start": 36.44,
+        "duration": 4.44,
+        "start_formatted": "00:36",
+        "text": "performance against other AI models."
+      },
+      {
+        "start": 38.72,
+        "duration": 3.76,
+        "start_formatted": "00:38",
+        "text": "Let's jump right in. First of all, it's"
+      },
+      {
+        "start": 40.88,
+        "duration": 3.92,
+        "start_formatted": "00:40",
+        "text": "important to note that all the top AI"
+      },
+      {
+        "start": 42.48,
+        "duration": 3.88,
+        "start_formatted": "00:42",
+        "text": "models can already do simple stuff like"
+      },
+      {
+        "start": 44.8,
+        "duration": 3.92,
+        "start_formatted": "00:44",
+        "text": "helping you summarize things, take"
+      },
+      {
+        "start": 46.36,
+        "duration": 3.88,
+        "start_formatted": "00:46",
+        "text": "notes, reply to emails, writing essays,"
+      },
+      {
+        "start": 48.72,
+        "duration": 3.72,
+        "start_formatted": "00:48",
+        "text": "etc. So, instead, what we're going to"
+      },
+      {
+        "start": 50.24,
+        "duration": 4.44,
+        "start_formatted": "00:50",
+        "text": "test are some much harder prompts that"
+      },
+      {
+        "start": 52.44,
+        "duration": 3.88,
+        "start_formatted": "00:52",
+        "text": "require like multiple skills, workflows,"
+      },
+      {
+        "start": 54.68,
+        "duration": 3.92,
+        "start_formatted": "00:54",
+        "text": "tools. I'm going to test the hell out of"
+      },
+      {
+        "start": 56.32,
+        "duration": 5.0,
+        "start_formatted": "00:56",
+        "text": "it on much trickier prompts. Now, there"
+      },
+      {
+        "start": 58.6,
+        "duration": 4.16,
+        "start_formatted": "00:58",
+        "text": "are various places you can use Kimmy K3."
+      },
+      {
+        "start": 61.32,
+        "duration": 3.879,
+        "start_formatted": "01:01",
+        "text": "For example, you can just use it"
+      },
+      {
+        "start": 62.76,
+        "duration": 4.0,
+        "start_formatted": "01:02",
+        "text": "directly on their online chat interface."
+      },
+      {
+        "start": 65.199,
+        "duration": 3.441,
+        "start_formatted": "01:05",
+        "text": "But, if you use it this way, you're not"
+      },
+      {
+        "start": 66.76,
+        "duration": 3.68,
+        "start_formatted": "01:06",
+        "text": "really unlocking its full potential."
+      },
+      {
+        "start": 68.64,
+        "duration": 3.6,
+        "start_formatted": "01:08",
+        "text": "That's because this is designed for"
+      },
+      {
+        "start": 70.44,
+        "duration": 4.2,
+        "start_formatted": "01:10",
+        "text": "multi-step long horizon agentic"
+      },
+      {
+        "start": 72.24,
+        "duration": 4.24,
+        "start_formatted": "01:12",
+        "text": "workflows. So, basically, tasks where it"
+      },
+      {
+        "start": 74.64,
+        "duration": 3.96,
+        "start_formatted": "01:14",
+        "text": "can autonomously use tools and keep"
+      },
+      {
+        "start": 76.48,
+        "duration": 3.72,
+        "start_formatted": "01:16",
+        "text": "doing stuff for multiple steps until it"
+      },
+      {
+        "start": 78.6,
+        "duration": 3.84,
+        "start_formatted": "01:18",
+        "text": "achieves your goal. So, actually, a"
+      },
+      {
+        "start": 80.2,
+        "duration": 4.44,
+        "start_formatted": "01:20",
+        "text": "better way to use Kimmy K3 and all the"
+      },
+      {
+        "start": 82.44,
+        "duration": 4.08,
+        "start_formatted": "01:22",
+        "text": "frontier models is to use it through an"
+      },
+      {
+        "start": 84.64,
+        "duration": 4.4,
+        "start_formatted": "01:24",
+        "text": "agentic harness. Now, you could link"
+      },
+      {
+        "start": 86.52,
+        "duration": 4.36,
+        "start_formatted": "01:26",
+        "text": "this to Claude Code or Codex or what I"
+      },
+      {
+        "start": 89.04,
+        "duration": 3.84,
+        "start_formatted": "01:29",
+        "text": "like to use is their native harness"
+      },
+      {
+        "start": 90.88,
+        "duration": 4.08,
+        "start_formatted": "01:30",
+        "text": "called Kimmy Code. And with this, you"
+      },
+      {
+        "start": 92.88,
+        "duration": 4.44,
+        "start_formatted": "01:32",
+        "text": "can basically use Kimmy as an agent to"
+      },
+      {
+        "start": 94.96,
+        "duration": 4.76,
+        "start_formatted": "01:34",
+        "text": "work on multiple projects at once. And"
+      },
+      {
+        "start": 97.32,
+        "duration": 4.16,
+        "start_formatted": "01:37",
+        "text": "each project can contain multiple files"
+      },
+      {
+        "start": 99.72,
+        "duration": 3.52,
+        "start_formatted": "01:39",
+        "text": "and folders as you can see here, which"
+      },
+      {
+        "start": 101.48,
+        "duration": 3.32,
+        "start_formatted": "01:41",
+        "text": "persist locally. And with this way, you"
+      },
+      {
+        "start": 103.24,
+        "duration": 2.96,
+        "start_formatted": "01:43",
+        "text": "can basically have an army of agents"
+      },
+      {
+        "start": 104.8,
+        "duration": 3.2,
+        "start_formatted": "01:44",
+        "text": "working on different projects at the"
+      },
+      {
+        "start": 106.2,
+        "duration": 3.4,
+        "start_formatted": "01:46",
+        "text": "same time. Now, currently, you can use"
+      },
+      {
+        "start": 108.0,
+        "duration": 3.12,
+        "start_formatted": "01:48",
+        "text": "Kimmy Code using the terminal, which"
+      },
+      {
+        "start": 109.6,
+        "duration": 3.48,
+        "start_formatted": "01:49",
+        "text": "looks like this, which I don't really"
+      },
+      {
+        "start": 111.12,
+        "duration": 4.52,
+        "start_formatted": "01:51",
+        "text": "like. So, what I like to do is use it"
+      },
+      {
+        "start": 113.08,
+        "duration": 4.48,
+        "start_formatted": "01:53",
+        "text": "through an IDE like VS Code. So, it's"
+      },
+      {
+        "start": 115.64,
+        "duration": 4.12,
+        "start_formatted": "01:55",
+        "text": "super easy to install. All you need to"
+      },
+      {
+        "start": 117.56,
+        "duration": 4.36,
+        "start_formatted": "01:57",
+        "text": "do is go to VS Code and then click on"
+      },
+      {
+        "start": 119.76,
+        "duration": 4.96,
+        "start_formatted": "01:59",
+        "text": "extensions and then at the top here type"
+      },
+      {
+        "start": 121.92,
+        "duration": 4.8,
+        "start_formatted": "02:01",
+        "text": "in Kimiko and you should see Kimiko. So,"
+      },
+      {
+        "start": 124.72,
+        "duration": 4.28,
+        "start_formatted": "02:04",
+        "text": "simply click on this and then click"
+      },
+      {
+        "start": 126.72,
+        "duration": 4.56,
+        "start_formatted": "02:06",
+        "text": "install over here. So, afterwards you"
+      },
+      {
+        "start": 129.0,
+        "duration": 3.72,
+        "start_formatted": "02:09",
+        "text": "should see this Kimiko button. So, once"
+      },
+      {
+        "start": 131.28,
+        "duration": 3.32,
+        "start_formatted": "02:11",
+        "text": "you click on that you can open any"
+      },
+      {
+        "start": 132.72,
+        "duration": 3.88,
+        "start_formatted": "02:12",
+        "text": "folder and then down here is where you"
+      },
+      {
+        "start": 134.6,
+        "duration": 4.04,
+        "start_formatted": "02:14",
+        "text": "can chat with Kimiko. If this is too"
+      },
+      {
+        "start": 136.6,
+        "duration": 3.88,
+        "start_formatted": "02:16",
+        "text": "squashed for you, you can also expand"
+      },
+      {
+        "start": 138.64,
+        "duration": 4.52,
+        "start_formatted": "02:18",
+        "text": "the chat like this or click on this"
+      },
+      {
+        "start": 140.48,
+        "duration": 5.72,
+        "start_formatted": "02:20",
+        "text": "button to expand it to full width. Now,"
+      },
+      {
+        "start": 143.16,
+        "duration": 4.92,
+        "start_formatted": "02:23",
+        "text": "down here is where you can select K3"
+      },
+      {
+        "start": 146.2,
+        "duration": 3.6,
+        "start_formatted": "02:26",
+        "text": "model and then here is where you can"
+      },
+      {
+        "start": 148.08,
+        "duration": 3.44,
+        "start_formatted": "02:28",
+        "text": "select the thinking mode. And then you"
+      },
+      {
+        "start": 149.8,
+        "duration": 3.76,
+        "start_formatted": "02:29",
+        "text": "can also click on this button to enter"
+      },
+      {
+        "start": 151.52,
+        "duration": 4.24,
+        "start_formatted": "02:31",
+        "text": "plan mode. So, this will just plan out"
+      },
+      {
+        "start": 153.56,
+        "duration": 4.32,
+        "start_formatted": "02:33",
+        "text": "its strategy and not execute anything."
+      },
+      {
+        "start": 155.76,
+        "duration": 3.72,
+        "start_formatted": "02:35",
+        "text": "So, that's basically how Kimiko works."
+      },
+      {
+        "start": 157.88,
+        "duration": 3.56,
+        "start_formatted": "02:37",
+        "text": "Let's start off with a really tricky"
+      },
+      {
+        "start": 159.48,
+        "duration": 4.32,
+        "start_formatted": "02:39",
+        "text": "prompt already. Let's get it to simulate"
+      },
+      {
+        "start": 161.44,
+        "duration": 4.16,
+        "start_formatted": "02:41",
+        "text": "liquid splashes with adjustable gravity"
+      },
+      {
+        "start": 163.8,
+        "duration": 3.76,
+        "start_formatted": "02:43",
+        "text": "and light settings. And to make this"
+      },
+      {
+        "start": 165.6,
+        "duration": 4.16,
+        "start_formatted": "02:45",
+        "text": "even more complicated, allow me to"
+      },
+      {
+        "start": 167.56,
+        "duration": 4.0,
+        "start_formatted": "02:47",
+        "text": "control movements using hand tracking"
+      },
+      {
+        "start": 169.76,
+        "duration": 4.199,
+        "start_formatted": "02:49",
+        "text": "via webcam. Put everything in a"
+      },
+      {
+        "start": 171.56,
+        "duration": 5.92,
+        "start_formatted": "02:51",
+        "text": "standalone HTML file and the most"
+      },
+      {
+        "start": 173.959,
+        "duration": 5.801,
+        "start_formatted": "02:53",
+        "text": "important part is do not use 3.js or any"
+      },
+      {
+        "start": 177.48,
+        "duration": 3.96,
+        "start_formatted": "02:57",
+        "text": "external libraries. I want to test its"
+      },
+      {
+        "start": 179.76,
+        "duration": 4.24,
+        "start_formatted": "02:59",
+        "text": "physics understanding. Can it code up"
+      },
+      {
+        "start": 181.44,
+        "duration": 4.32,
+        "start_formatted": "03:01",
+        "text": "splash physics completely from scratch?"
+      },
+      {
+        "start": 184.0,
+        "duration": 4.04,
+        "start_formatted": "03:04",
+        "text": "Let's press run. Now, as one of the"
+      },
+      {
+        "start": 185.76,
+        "duration": 4.44,
+        "start_formatted": "03:05",
+        "text": "frontier models, this is quite slow. It"
+      },
+      {
+        "start": 188.04,
+        "duration": 3.919,
+        "start_formatted": "03:08",
+        "text": "worked for 30 minutes. It first planned"
+      },
+      {
+        "start": 190.2,
+        "duration": 3.759,
+        "start_formatted": "03:10",
+        "text": "out how to carry out this task, then"
+      },
+      {
+        "start": 191.959,
+        "duration": 4.161,
+        "start_formatted": "03:11",
+        "text": "it's rendering this liquid splash"
+      },
+      {
+        "start": 193.959,
+        "duration": 4.121,
+        "start_formatted": "03:13",
+        "text": "playground. It knows to check whether"
+      },
+      {
+        "start": 196.12,
+        "duration": 4.16,
+        "start_formatted": "03:16",
+        "text": "that thing works, for example, by"
+      },
+      {
+        "start": 198.08,
+        "duration": 4.2,
+        "start_formatted": "03:18",
+        "text": "pulling up my Chrome browser and taking"
+      },
+      {
+        "start": 200.28,
+        "duration": 3.959,
+        "start_formatted": "03:20",
+        "text": "screenshots of the interface. And if it"
+      },
+      {
+        "start": 202.28,
+        "duration": 3.959,
+        "start_formatted": "03:22",
+        "text": "doesn't work, then it proceeds to"
+      },
+      {
+        "start": 204.239,
+        "duration": 3.841,
+        "start_formatted": "03:24",
+        "text": "troubleshoot and fix the issue until you"
+      },
+      {
+        "start": 206.239,
+        "duration": 3.881,
+        "start_formatted": "03:26",
+        "text": "get a fully working app. So, it did"
+      },
+      {
+        "start": 208.08,
+        "duration": 4.0,
+        "start_formatted": "03:28",
+        "text": "identify some issues and it proceeded to"
+      },
+      {
+        "start": 210.12,
+        "duration": 4.2,
+        "start_formatted": "03:30",
+        "text": "fix it and then it found a dramatic"
+      },
+      {
+        "start": 212.08,
+        "duration": 4.72,
+        "start_formatted": "03:32",
+        "text": "improvement. Then it's proceeding to"
+      },
+      {
+        "start": 214.32,
+        "duration": 4.639,
+        "start_formatted": "03:34",
+        "text": "verify the app one more time with a full"
+      },
+      {
+        "start": 216.8,
+        "duration": 4.96,
+        "start_formatted": "03:36",
+        "text": "test. And then afterwards, it gives me"
+      },
+      {
+        "start": 218.959,
+        "duration": 4.28,
+        "start_formatted": "03:38",
+        "text": "this final splash.html file. So, that's"
+      },
+      {
+        "start": 221.76,
+        "duration": 3.44,
+        "start_formatted": "03:41",
+        "text": "pretty much it. Let's see what it built"
+      },
+      {
+        "start": 223.239,
+        "duration": 3.921,
+        "start_formatted": "03:43",
+        "text": "in just one prompt. All right, so first"
+      },
+      {
+        "start": 225.2,
+        "duration": 4.36,
+        "start_formatted": "03:45",
+        "text": "you can see indeed we have this liquid"
+      },
+      {
+        "start": 227.16,
+        "duration": 5.96,
+        "start_formatted": "03:47",
+        "text": "splash simulator built completely from"
+      },
+      {
+        "start": 229.56,
+        "duration": 5.04,
+        "start_formatted": "03:49",
+        "text": "scratch. Let me decrease the gravity and"
+      },
+      {
+        "start": 233.12,
+        "duration": 3.44,
+        "start_formatted": "03:53",
+        "text": "here's what we get if we decrease the"
+      },
+      {
+        "start": 234.6,
+        "duration": 4.32,
+        "start_formatted": "03:54",
+        "text": "gravity. It's now floating upwards cuz"
+      },
+      {
+        "start": 236.56,
+        "duration": 4.36,
+        "start_formatted": "03:56",
+        "text": "gravity is a negative value. Let's"
+      },
+      {
+        "start": 238.92,
+        "duration": 4.0,
+        "start_formatted": "03:58",
+        "text": "increase this to like a bit closer to"
+      },
+      {
+        "start": 240.92,
+        "duration": 3.8,
+        "start_formatted": "04:00",
+        "text": "zero and then we can also play with"
+      },
+      {
+        "start": 242.92,
+        "duration": 4.56,
+        "start_formatted": "04:02",
+        "text": "viscosity. So here is really high"
+      },
+      {
+        "start": 244.72,
+        "duration": 5.04,
+        "start_formatted": "04:04",
+        "text": "viscosity and then here is goo and"
+      },
+      {
+        "start": 247.48,
+        "duration": 4.68,
+        "start_formatted": "04:07",
+        "text": "cohesion. So if I increase it, it looks"
+      },
+      {
+        "start": 249.76,
+        "duration": 4.6,
+        "start_formatted": "04:09",
+        "text": "like this. Very nice. Here is surface"
+      },
+      {
+        "start": 252.16,
+        "duration": 4.16,
+        "start_formatted": "04:12",
+        "text": "detail. So it looks like this. I can"
+      },
+      {
+        "start": 254.36,
+        "duration": 4.76,
+        "start_formatted": "04:14",
+        "text": "even add rain here. So let's click on"
+      },
+      {
+        "start": 256.32,
+        "duration": 4.6,
+        "start_formatted": "04:16",
+        "text": "rain and wow, that's pretty cool. Now I"
+      },
+      {
+        "start": 259.12,
+        "duration": 5.04,
+        "start_formatted": "04:19",
+        "text": "should be able to control this with my"
+      },
+      {
+        "start": 260.92,
+        "duration": 5.2,
+        "start_formatted": "04:20",
+        "text": "hand using webcam. So let's click on"
+      },
+      {
+        "start": 264.16,
+        "duration": 4.72,
+        "start_formatted": "04:24",
+        "text": "this hand button to turn on my webcam."
+      },
+      {
+        "start": 266.12,
+        "duration": 4.76,
+        "start_formatted": "04:26",
+        "text": "And indeed now I can use my hand to"
+      },
+      {
+        "start": 268.88,
+        "duration": 4.6,
+        "start_formatted": "04:28",
+        "text": "create these liquid splashes. And while"
+      },
+      {
+        "start": 270.88,
+        "duration": 5.32,
+        "start_formatted": "04:30",
+        "text": "I do that, let me also try to adjust the"
+      },
+      {
+        "start": 273.48,
+        "duration": 5.32,
+        "start_formatted": "04:33",
+        "text": "light angle. So it looks like this if I"
+      },
+      {
+        "start": 276.2,
+        "duration": 6.48,
+        "start_formatted": "04:36",
+        "text": "adjust the light angle. And then here is"
+      },
+      {
+        "start": 278.8,
+        "duration": 6.84,
+        "start_formatted": "04:38",
+        "text": "light intensity, which looks like this."
+      },
+      {
+        "start": 282.68,
+        "duration": 5.68,
+        "start_formatted": "04:42",
+        "text": "Very nice. And then also glow. It's very"
+      },
+      {
+        "start": 285.64,
+        "duration": 5.4,
+        "start_formatted": "04:45",
+        "text": "subtle effect. And then tint hue. So we"
+      },
+      {
+        "start": 288.36,
+        "duration": 4.48,
+        "start_formatted": "04:48",
+        "text": "can also change the color of the water."
+      },
+      {
+        "start": 291.04,
+        "duration": 4.72,
+        "start_formatted": "04:51",
+        "text": "So anyways, there you go. Here is a"
+      },
+      {
+        "start": 292.84,
+        "duration": 5.16,
+        "start_formatted": "04:52",
+        "text": "fully functional liquid splash simulator"
+      },
+      {
+        "start": 295.76,
+        "duration": 4.52,
+        "start_formatted": "04:55",
+        "text": "with adjustable liquid settings like"
+      },
+      {
+        "start": 298.0,
+        "duration": 4.0,
+        "start_formatted": "04:58",
+        "text": "viscosity and cohesion and also"
+      },
+      {
+        "start": 300.28,
+        "duration": 3.96,
+        "start_formatted": "05:00",
+        "text": "adjustable light settings and everything"
+      },
+      {
+        "start": 302.0,
+        "duration": 4.16,
+        "start_formatted": "05:02",
+        "text": "just works. I can even control this with"
+      },
+      {
+        "start": 304.24,
+        "duration": 4.0,
+        "start_formatted": "05:04",
+        "text": "my hand movements and I coded this up"
+      },
+      {
+        "start": 306.16,
+        "duration": 4.08,
+        "start_formatted": "05:06",
+        "text": "all from scratch without any external"
+      },
+      {
+        "start": 308.24,
+        "duration": 3.8,
+        "start_formatted": "05:08",
+        "text": "libraries. This is pretty crazy for an"
+      },
+      {
+        "start": 310.24,
+        "duration": 4.28,
+        "start_formatted": "05:10",
+        "text": "open source model. Now as a frontier"
+      },
+      {
+        "start": 312.04,
+        "duration": 4.12,
+        "start_formatted": "05:12",
+        "text": "model, Kimi Cat 3 is really slow. It"
+      },
+      {
+        "start": 314.52,
+        "duration": 3.399,
+        "start_formatted": "05:14",
+        "text": "seems to think for a long time and be"
+      },
+      {
+        "start": 316.16,
+        "duration": 3.88,
+        "start_formatted": "05:16",
+        "text": "extra careful. And so here are the"
+      },
+      {
+        "start": 317.919,
+        "duration": 4.921,
+        "start_formatted": "05:17",
+        "text": "details for this section. So it used"
+      },
+      {
+        "start": 320.04,
+        "duration": 4.6,
+        "start_formatted": "05:20",
+        "text": "over 2 million input tokens and 46K"
+      },
+      {
+        "start": 322.84,
+        "duration": 4.12,
+        "start_formatted": "05:22",
+        "text": "output tokens. All right, next let's see"
+      },
+      {
+        "start": 324.64,
+        "duration": 4.92,
+        "start_formatted": "05:24",
+        "text": "if it can actually automatically help me"
+      },
+      {
+        "start": 326.96,
+        "duration": 4.24,
+        "start_formatted": "05:26",
+        "text": "build stuff in Blender, which if you're"
+      },
+      {
+        "start": 329.56,
+        "duration": 3.56,
+        "start_formatted": "05:29",
+        "text": "not familiar with this, it's like a 3D"
+      },
+      {
+        "start": 331.2,
+        "duration": 4.56,
+        "start_formatted": "05:31",
+        "text": "modeling tool. So first of all, in"
+      },
+      {
+        "start": 333.12,
+        "duration": 5.0,
+        "start_formatted": "05:33",
+        "text": "Blender I already installed and enabled"
+      },
+      {
+        "start": 335.76,
+        "duration": 5.159,
+        "start_formatted": "05:35",
+        "text": "this Blender MCP. So first I'm just"
+      },
+      {
+        "start": 338.12,
+        "duration": 5.16,
+        "start_formatted": "05:38",
+        "text": "going to click on connect to MCP server"
+      },
+      {
+        "start": 340.919,
+        "duration": 4.721,
+        "start_formatted": "05:40",
+        "text": "so that it's running on a local URL,"
+      },
+      {
+        "start": 343.28,
+        "duration": 4.48,
+        "start_formatted": "05:43",
+        "text": "which in my case is 9876."
+      },
+      {
+        "start": 345.64,
+        "duration": 4.36,
+        "start_formatted": "05:45",
+        "text": "And then back in Kimi code, I'm going to"
+      },
+      {
+        "start": 347.76,
+        "duration": 4.44,
+        "start_formatted": "05:47",
+        "text": "write this: Use Blender MCP at this"
+      },
+      {
+        "start": 350.0,
+        "duration": 4.96,
+        "start_formatted": "05:50",
+        "text": "address, localhost:9876,"
+      },
+      {
+        "start": 352.2,
+        "duration": 5.68,
+        "start_formatted": "05:52",
+        "text": "to make me a realistic animated V8"
+      },
+      {
+        "start": 354.96,
+        "duration": 5.08,
+        "start_formatted": "05:54",
+        "text": "engine. Let's press run, and it should"
+      },
+      {
+        "start": 357.88,
+        "duration": 4.92,
+        "start_formatted": "05:57",
+        "text": "automatically pull up Blender and start"
+      },
+      {
+        "start": 360.04,
+        "duration": 4.6,
+        "start_formatted": "06:00",
+        "text": "creating this V8 engine in 3D. All"
+      },
+      {
+        "start": 362.8,
+        "duration": 4.28,
+        "start_formatted": "06:02",
+        "text": "right, so this was a really hard task,"
+      },
+      {
+        "start": 364.64,
+        "duration": 4.84,
+        "start_formatted": "06:04",
+        "text": "so it took it quite a long time, around"
+      },
+      {
+        "start": 367.08,
+        "duration": 4.88,
+        "start_formatted": "06:07",
+        "text": "40 minutes, but it managed to get the"
+      },
+      {
+        "start": 369.48,
+        "duration": 4.28,
+        "start_formatted": "06:09",
+        "text": "job done. So, it indeed pulled up"
+      },
+      {
+        "start": 371.96,
+        "duration": 3.72,
+        "start_formatted": "06:11",
+        "text": "Blender, and it started just making"
+      },
+      {
+        "start": 373.76,
+        "duration": 3.2,
+        "start_formatted": "06:13",
+        "text": "stuff in my Blender interface, building"
+      },
+      {
+        "start": 375.68,
+        "duration": 3.08,
+        "start_formatted": "06:15",
+        "text": "the different components of the V8"
+      },
+      {
+        "start": 376.96,
+        "duration": 4.36,
+        "start_formatted": "06:16",
+        "text": "engine, and then planning the cutaway,"
+      },
+      {
+        "start": 378.76,
+        "duration": 4.56,
+        "start_formatted": "06:18",
+        "text": "lighting, camera, etc., etc. And then,"
+      },
+      {
+        "start": 381.32,
+        "duration": 4.08,
+        "start_formatted": "06:21",
+        "text": "after a ton of thinking and building,"
+      },
+      {
+        "start": 383.32,
+        "duration": 5.2,
+        "start_formatted": "06:23",
+        "text": "here's what we got. Indeed, it was able"
+      },
+      {
+        "start": 385.4,
+        "duration": 5.48,
+        "start_formatted": "06:25",
+        "text": "to make a fully animated V8 engine in"
+      },
+      {
+        "start": 388.52,
+        "duration": 4.44,
+        "start_formatted": "06:28",
+        "text": "Blender. In fact, let me play this, so"
+      },
+      {
+        "start": 390.88,
+        "duration": 4.72,
+        "start_formatted": "06:30",
+        "text": "you can see this V8 engine in action."
+      },
+      {
+        "start": 392.96,
+        "duration": 4.56,
+        "start_formatted": "06:32",
+        "text": "How crazy is that? Like, it was actually"
+      },
+      {
+        "start": 395.6,
+        "duration": 3.92,
+        "start_formatted": "06:35",
+        "text": "able to animate everything, including"
+      },
+      {
+        "start": 397.52,
+        "duration": 4.48,
+        "start_formatted": "06:37",
+        "text": "the pistons, and everything just looks"
+      },
+      {
+        "start": 399.52,
+        "duration": 4.76,
+        "start_formatted": "06:39",
+        "text": "beautiful. And I mean, if you expand"
+      },
+      {
+        "start": 402.0,
+        "duration": 4.12,
+        "start_formatted": "06:42",
+        "text": "what it did, it built a ton of different"
+      },
+      {
+        "start": 404.28,
+        "duration": 4.24,
+        "start_formatted": "06:44",
+        "text": "components, as you can see from this"
+      },
+      {
+        "start": 406.12,
+        "duration": 4.6,
+        "start_formatted": "06:46",
+        "text": "list. This was incredibly complicated,"
+      },
+      {
+        "start": 408.52,
+        "duration": 5.0,
+        "start_formatted": "06:48",
+        "text": "but it was able to build all of this in"
+      },
+      {
+        "start": 410.72,
+        "duration": 3.96,
+        "start_formatted": "06:50",
+        "text": "just one prompt. How ridiculous is that?"
+      },
+      {
+        "start": 413.52,
+        "duration": 2.36,
+        "start_formatted": "06:53",
+        "text": "Like, if I click on each of these"
+      },
+      {
+        "start": 414.68,
+        "duration": 3.04,
+        "start_formatted": "06:54",
+        "text": "things, these are all separate"
+      },
+      {
+        "start": 415.88,
+        "duration": 4.72,
+        "start_formatted": "06:55",
+        "text": "components. The amount of details that"
+      },
+      {
+        "start": 417.72,
+        "duration": 4.28,
+        "start_formatted": "06:57",
+        "text": "it coded up is just absolutely insane."
+      },
+      {
+        "start": 420.6,
+        "duration": 3.319,
+        "start_formatted": "07:00",
+        "text": "And then, for your reference, here is"
+      },
+      {
+        "start": 422.0,
+        "duration": 3.32,
+        "start_formatted": "07:02",
+        "text": "the final render. Now, this took a lot"
+      },
+      {
+        "start": 423.919,
+        "duration": 3.481,
+        "start_formatted": "07:03",
+        "text": "of time and work, like I said, it took"
+      },
+      {
+        "start": 425.32,
+        "duration": 5.24,
+        "start_formatted": "07:05",
+        "text": "around 40 minutes, and as you can see"
+      },
+      {
+        "start": 427.4,
+        "duration": 6.2,
+        "start_formatted": "07:07",
+        "text": "here, it took around 17 million input"
+      },
+      {
+        "start": 430.56,
+        "duration": 5.48,
+        "start_formatted": "07:10",
+        "text": "tokens and 152K output tokens. It's"
+      },
+      {
+        "start": 433.6,
+        "duration": 4.68,
+        "start_formatted": "07:13",
+        "text": "definitely slow. and plans for a long"
+      },
+      {
+        "start": 436.04,
+        "duration": 3.76,
+        "start_formatted": "07:16",
+        "text": "time, but it gets the job done. So, very"
+      },
+      {
+        "start": 438.28,
+        "duration": 4.32,
+        "start_formatted": "07:18",
+        "text": "similar to the vibes that I got from"
+      },
+      {
+        "start": 439.8,
+        "duration": 5.6,
+        "start_formatted": "07:19",
+        "text": "Claude Fable and GPT 5.6 Soul. All"
+      },
+      {
+        "start": 442.6,
+        "duration": 4.96,
+        "start_formatted": "07:22",
+        "text": "right, now, Kimi K3 is incredibly good"
+      },
+      {
+        "start": 445.4,
+        "duration": 4.64,
+        "start_formatted": "07:25",
+        "text": "at using multiple tools and platforms,"
+      },
+      {
+        "start": 447.56,
+        "duration": 4.28,
+        "start_formatted": "07:27",
+        "text": "and doing really long agentic workflows."
+      },
+      {
+        "start": 450.04,
+        "duration": 3.56,
+        "start_formatted": "07:30",
+        "text": "So, here's a really complicated prompt"
+      },
+      {
+        "start": 451.84,
+        "duration": 4.079,
+        "start_formatted": "07:31",
+        "text": "to test this out. From the most recent"
+      },
+      {
+        "start": 453.6,
+        "duration": 3.56,
+        "start_formatted": "07:33",
+        "text": "Nvidia quarter financial report, I"
+      },
+      {
+        "start": 455.919,
+        "duration": 3.0,
+        "start_formatted": "07:35",
+        "text": "didn't even give it the link to"
+      },
+      {
+        "start": 457.16,
+        "duration": 3.6,
+        "start_formatted": "07:37",
+        "text": "anything, it needs to search and find"
+      },
+      {
+        "start": 458.919,
+        "duration": 3.801,
+        "start_formatted": "07:38",
+        "text": "the report itself. Create a video"
+      },
+      {
+        "start": 460.76,
+        "duration": 4.24,
+        "start_formatted": "07:40",
+        "text": "summarizing its financials and future"
+      },
+      {
+        "start": 462.72,
+        "duration": 4.96,
+        "start_formatted": "07:42",
+        "text": "outlook. Include a voiceover using"
+      },
+      {
+        "start": 465.0,
+        "duration": 4.56,
+        "start_formatted": "07:45",
+        "text": "Gemini TTS. Use HyperFrames to create"
+      },
+      {
+        "start": 467.68,
+        "duration": 3.28,
+        "start_formatted": "07:47",
+        "text": "the animation. I linked it to the GitHub"
+      },
+      {
+        "start": 469.56,
+        "duration": 3.24,
+        "start_formatted": "07:49",
+        "text": "repo, and if you're not familiar,"
+      },
+      {
+        "start": 470.96,
+        "duration": 3.64,
+        "start_formatted": "07:50",
+        "text": "HyperFrames is basically an open-source"
+      },
+      {
+        "start": 472.8,
+        "duration": 4.16,
+        "start_formatted": "07:52",
+        "text": "tool for you to code and create"
+      },
+      {
+        "start": 474.6,
+        "duration": 4.44,
+        "start_formatted": "07:54",
+        "text": "animations. It should be 16:9, around a"
+      },
+      {
+        "start": 476.96,
+        "duration": 4.44,
+        "start_formatted": "07:56",
+        "text": "minute long. Include charts, graphs, and"
+      },
+      {
+        "start": 479.04,
+        "duration": 3.96,
+        "start_formatted": "07:59",
+        "text": "other visuals. Use this MP3 as the"
+      },
+      {
+        "start": 481.4,
+        "duration": 3.28,
+        "start_formatted": "08:01",
+        "text": "background audio, and then reduce the"
+      },
+      {
+        "start": 483.0,
+        "duration": 3.4,
+        "start_formatted": "08:03",
+        "text": "volume so the voiceover can be heard"
+      },
+      {
+        "start": 484.68,
+        "duration": 4.08,
+        "start_formatted": "08:04",
+        "text": "clearly. And then afterwards, I also"
+      },
+      {
+        "start": 486.4,
+        "duration": 5.2,
+        "start_formatted": "08:06",
+        "text": "pasted in some documentation on how to"
+      },
+      {
+        "start": 488.76,
+        "duration": 4.84,
+        "start_formatted": "08:08",
+        "text": "actually use Gemini TTS. And afterwards,"
+      },
+      {
+        "start": 491.6,
+        "duration": 4.0,
+        "start_formatted": "08:11",
+        "text": "I also gave it my API key so it can"
+      },
+      {
+        "start": 493.6,
+        "duration": 3.8,
+        "start_formatted": "08:13",
+        "text": "actually generate the voice. And that's"
+      },
+      {
+        "start": 495.6,
+        "duration": 3.8,
+        "start_formatted": "08:15",
+        "text": "pretty much it. All right. So, it"
+      },
+      {
+        "start": 497.4,
+        "duration": 4.48,
+        "start_formatted": "08:17",
+        "text": "thought for a really long time. It had"
+      },
+      {
+        "start": 499.4,
+        "duration": 4.24,
+        "start_formatted": "08:19",
+        "text": "to download the latest NVIDIA earnings"
+      },
+      {
+        "start": 501.88,
+        "duration": 3.8,
+        "start_formatted": "08:21",
+        "text": "release, plus also look at how to"
+      },
+      {
+        "start": 503.64,
+        "duration": 3.6,
+        "start_formatted": "08:23",
+        "text": "download HyperFrames. It also had to"
+      },
+      {
+        "start": 505.68,
+        "duration": 4.239,
+        "start_formatted": "08:25",
+        "text": "plan out everything and then generate"
+      },
+      {
+        "start": 507.24,
+        "duration": 4.919,
+        "start_formatted": "08:27",
+        "text": "the voiceover using Gemini TTS. But"
+      },
+      {
+        "start": 509.919,
+        "duration": 4.68,
+        "start_formatted": "08:29",
+        "text": "afterwards, in just one prompt, it"
+      },
+      {
+        "start": 512.159,
+        "duration": 3.721,
+        "start_formatted": "08:32",
+        "text": "finished and gave me this result. So,"
+      },
+      {
+        "start": 514.599,
+        "duration": 3.681,
+        "start_formatted": "08:34",
+        "text": "let's open this up."
+      },
+      {
+        "start": 515.88,
+        "duration": 6.32,
+        "start_formatted": "08:35",
+        "text": ">> NVIDIA just posted a record quarter,"
+      },
+      {
+        "start": 518.28,
+        "duration": 6.04,
+        "start_formatted": "08:38",
+        "text": "$81.6 billion in revenue, up 85% from a"
+      },
+      {
+        "start": 522.2,
+        "duration": 4.08,
+        "start_formatted": "08:42",
+        "text": "year ago. Revenue has climbed eight"
+      },
+      {
+        "start": 524.32,
+        "duration": 4.08,
+        "start_formatted": "08:44",
+        "text": "straight quarters from 44 billion to"
+      },
+      {
+        "start": 526.28,
+        "duration": 4.72,
+        "start_formatted": "08:46",
+        "text": "nearly 82, and the growth rate is"
+      },
+      {
+        "start": 528.4,
+        "duration": 6.08,
+        "start_formatted": "08:48",
+        "text": "re-accelerating, not slowing. The engine"
+      },
+      {
+        "start": 531.0,
+        "duration": 5.24,
+        "start_formatted": "08:51",
+        "text": "is the data center, $75.2 billion,"
+      },
+      {
+        "start": 534.48,
+        "duration": 3.281,
+        "start_formatted": "08:54",
+        "text": "up 92%."
+      },
+      {
+        "start": 536.24,
+        "duration": 1.56,
+        "start_formatted": "08:56",
+        "text": "Within it, networking revenue"
+      },
+      {
+        "start": 537.761,
+        "duration": 2.799,
+        "start_formatted": "08:57",
+        "text": ">> [music]"
+      },
+      {
+        "start": 537.8,
+        "duration": 4.76,
+        "start_formatted": "08:57",
+        "text": ">> nearly tripled. Beyond the data center,"
+      },
+      {
+        "start": 540.56,
+        "duration": 4.279,
+        "start_formatted": "09:00",
+        "text": "edge computing, gaming, robotics,"
+      },
+      {
+        "start": 542.56,
+        "duration": 4.04,
+        "start_formatted": "09:02",
+        "text": "automotive added $6.4 billion, [music]"
+      },
+      {
+        "start": 544.839,
+        "duration": 4.201,
+        "start_formatted": "09:04",
+        "text": "up 29%."
+      },
+      {
+        "start": 546.6,
+        "duration": 4.56,
+        "start_formatted": "09:06",
+        "text": "Profitability is just as striking. Gross"
+      },
+      {
+        "start": 549.04,
+        "duration": 4.48,
+        "start_formatted": "09:09",
+        "text": "margin recovered to 75% [music]"
+      },
+      {
+        "start": 551.16,
+        "duration": 4.4,
+        "start_formatted": "09:11",
+        "text": "and adjusted earnings per share of $1.87"
+      },
+      {
+        "start": 553.52,
+        "duration": 4.96,
+        "start_formatted": "09:13",
+        "text": "are up 140%. [music]"
+      },
+      {
+        "start": 555.56,
+        "duration": 5.4,
+        "start_formatted": "09:15",
+        "text": "The cash machine is real, nearly 49"
+      },
+      {
+        "start": 558.48,
+        "duration": 4.24,
+        "start_formatted": "09:18",
+        "text": "billion in free cash flow. 20 billion"
+      },
+      {
+        "start": 560.96,
+        "duration": 4.28,
+        "start_formatted": "09:20",
+        "text": "went back to shareholders, with 80"
+      },
+      {
+        "start": 562.72,
+        "duration": 3.206,
+        "start_formatted": "09:22",
+        "text": "billion more in buybacks authorized. And"
+      },
+      {
+        "start": 565.24,
+        "duration": 0.8,
+        "start_formatted": "09:25",
+        "text": "the outlook?"
+      },
+      {
+        "start": 565.926,
+        "duration": 2.674,
+        "start_formatted": "09:25",
+        "text": ">> [music]"
+      },
+      {
+        "start": 566.04,
+        "duration": 4.471,
+        "start_formatted": "09:26",
+        "text": ">> Next quarter's guidance is 91 billion"
+      },
+      {
+        "start": 568.6,
+        "duration": 4.28,
+        "start_formatted": "09:28",
+        "text": "dollars, above Wall Street expectations,"
+      },
+      {
+        "start": 570.511,
+        "duration": 5.129,
+        "start_formatted": "09:30",
+        "text": "[music] and it assumes zero data center"
+      },
+      {
+        "start": 572.88,
+        "duration": 4.68,
+        "start_formatted": "09:32",
+        "text": "compute sales to China. The takeaway? A"
+      },
+      {
+        "start": 575.64,
+        "duration": 2.84,
+        "start_formatted": "09:35",
+        "text": "record quarter, demand still"
+      },
+      {
+        "start": 577.56,
+        "duration": 3.28,
+        "start_formatted": "09:37",
+        "text": "accelerating, [music]"
+      },
+      {
+        "start": 578.48,
+        "duration": 3.44,
+        "start_formatted": "09:38",
+        "text": "and Nvidia says the AI build-out is just"
+      },
+      {
+        "start": 580.84,
+        "duration": 3.68,
+        "start_formatted": "09:40",
+        "text": "getting started."
+      },
+      {
+        "start": 581.92,
+        "duration": 4.48,
+        "start_formatted": "09:41",
+        "text": ">> This is pretty much perfect. Absolutely"
+      },
+      {
+        "start": 584.52,
+        "duration": 4.92,
+        "start_formatted": "09:44",
+        "text": "beautiful. So, you can plug in any"
+      },
+      {
+        "start": 586.4,
+        "duration": 5.04,
+        "start_formatted": "09:46",
+        "text": "document and get Kimi K3 to not only"
+      },
+      {
+        "start": 589.44,
+        "duration": 4.92,
+        "start_formatted": "09:49",
+        "text": "just generate some presentation slides,"
+      },
+      {
+        "start": 591.44,
+        "duration": 5.32,
+        "start_formatted": "09:51",
+        "text": "but even a full presentation video with"
+      },
+      {
+        "start": 594.36,
+        "duration": 5.12,
+        "start_formatted": "09:54",
+        "text": "voice-over and animated graphs and other"
+      },
+      {
+        "start": 596.76,
+        "duration": 5.2,
+        "start_formatted": "09:56",
+        "text": "visuals. Very, very impressive. And if I"
+      },
+      {
+        "start": 599.48,
+        "duration": 4.8,
+        "start_formatted": "09:59",
+        "text": "click on this section, note that this"
+      },
+      {
+        "start": 601.96,
+        "duration": 5.6,
+        "start_formatted": "10:01",
+        "text": "took a really long time. It did burn a"
+      },
+      {
+        "start": 604.28,
+        "duration": 6.56,
+        "start_formatted": "10:04",
+        "text": "ton of tokens. So, 16 million input"
+      },
+      {
+        "start": 607.56,
+        "duration": 5.24,
+        "start_formatted": "10:07",
+        "text": "tokens and 256k output tokens. All"
+      },
+      {
+        "start": 610.84,
+        "duration": 4.56,
+        "start_formatted": "10:10",
+        "text": "right, next let's test its ability to"
+      },
+      {
+        "start": 612.8,
+        "duration": 4.64,
+        "start_formatted": "10:12",
+        "text": "generate 3D models and animations. So,"
+      },
+      {
+        "start": 615.4,
+        "duration": 4.36,
+        "start_formatted": "10:15",
+        "text": "I'm going to write this. Create a"
+      },
+      {
+        "start": 617.44,
+        "duration": 5.08,
+        "start_formatted": "10:17",
+        "text": "beautiful 3D animated model of a grand"
+      },
+      {
+        "start": 619.76,
+        "duration": 5.16,
+        "start_formatted": "10:19",
+        "text": "piano, include a slider to show a smooth"
+      },
+      {
+        "start": 622.52,
+        "duration": 4.76,
+        "start_formatted": "10:22",
+        "text": "transition from a fully assembled piano"
+      },
+      {
+        "start": 624.92,
+        "duration": 4.2,
+        "start_formatted": "10:24",
+        "text": "into an exploded view, which shows the"
+      },
+      {
+        "start": 627.28,
+        "duration": 4.6,
+        "start_formatted": "10:27",
+        "text": "inner workings such as the strings,"
+      },
+      {
+        "start": 629.12,
+        "duration": 4.92,
+        "start_formatted": "10:29",
+        "text": "hammers, dampers, etc., etc. Allow"
+      },
+      {
+        "start": 631.88,
+        "duration": 4.6,
+        "start_formatted": "10:31",
+        "text": "pressing keys on the piano to actually"
+      },
+      {
+        "start": 634.04,
+        "duration": 5.04,
+        "start_formatted": "10:34",
+        "text": "play the correct notes. Use a single"
+      },
+      {
+        "start": 636.48,
+        "duration": 5.08,
+        "start_formatted": "10:36",
+        "text": "HTML file. Let's press run. All right,"
+      },
+      {
+        "start": 639.08,
+        "duration": 4.88,
+        "start_formatted": "10:39",
+        "text": "here's what we got. So, it again thought"
+      },
+      {
+        "start": 641.56,
+        "duration": 5.6,
+        "start_formatted": "10:41",
+        "text": "for a long time, but eventually it did"
+      },
+      {
+        "start": 643.96,
+        "duration": 6.12,
+        "start_formatted": "10:43",
+        "text": "give me a fully functional 3D render of"
+      },
+      {
+        "start": 647.16,
+        "duration": 4.92,
+        "start_formatted": "10:47",
+        "text": "a grand piano with the full 88 keys. And"
+      },
+      {
+        "start": 650.08,
+        "duration": 4.24,
+        "start_formatted": "10:50",
+        "text": "everything worked. The exploded view"
+      },
+      {
+        "start": 652.08,
+        "duration": 4.52,
+        "start_formatted": "10:52",
+        "text": "works. I could also click the notes to"
+      },
+      {
+        "start": 654.32,
+        "duration": 3.88,
+        "start_formatted": "10:54",
+        "text": "play it, and glissando also works. So,"
+      },
+      {
+        "start": 656.6,
+        "duration": 3.64,
+        "start_formatted": "10:56",
+        "text": "like just clicking and dragging across"
+      },
+      {
+        "start": 658.2,
+        "duration": 3.68,
+        "start_formatted": "10:58",
+        "text": "the keys as I'll show you in a second."
+      },
+      {
+        "start": 660.24,
+        "duration": 3.72,
+        "start_formatted": "11:00",
+        "text": "And the really cool thing is it even"
+      },
+      {
+        "start": 661.88,
+        "duration": 4.12,
+        "start_formatted": "11:01",
+        "text": "added a demo button that could play the"
+      },
+      {
+        "start": 663.96,
+        "duration": 3.92,
+        "start_formatted": "11:03",
+        "text": "Für Elise. Now, it did give me one"
+      },
+      {
+        "start": 666.0,
+        "duration": 3.52,
+        "start_formatted": "11:06",
+        "text": "error, which is that the lid was not in"
+      },
+      {
+        "start": 667.88,
+        "duration": 3.04,
+        "start_formatted": "11:07",
+        "text": "the right place. It was just flopping on"
+      },
+      {
+        "start": 669.52,
+        "duration": 3.76,
+        "start_formatted": "11:09",
+        "text": "the ground instead of being propped up"
+      },
+      {
+        "start": 670.92,
+        "duration": 4.44,
+        "start_formatted": "11:10",
+        "text": "by the stick. So, that's what I put. And"
+      },
+      {
+        "start": 673.28,
+        "duration": 4.24,
+        "start_formatted": "11:13",
+        "text": "after just one more follow-up prompt, it"
+      },
+      {
+        "start": 675.36,
+        "duration": 4.12,
+        "start_formatted": "11:15",
+        "text": "fixed the issue. So, here's what the"
+      },
+      {
+        "start": 677.52,
+        "duration": 4.2,
+        "start_formatted": "11:17",
+        "text": "final render looks like. Would you look"
+      },
+      {
+        "start": 679.48,
+        "duration": 6.56,
+        "start_formatted": "11:19",
+        "text": "at that? This is absolutely beautiful,"
+      },
+      {
+        "start": 681.72,
+        "duration": 6.92,
+        "start_formatted": "11:21",
+        "text": "and let me just slide across the keys."
+      },
+      {
+        "start": 686.04,
+        "duration": 4.799,
+        "start_formatted": "11:26",
+        "text": "The keys work very well. And if I zoom"
+      },
+      {
+        "start": 688.64,
+        "duration": 5.64,
+        "start_formatted": "11:28",
+        "text": "in on, you know, the inner workings of"
+      },
+      {
+        "start": 690.839,
+        "duration": 3.441,
+        "start_formatted": "11:30",
+        "text": "this and then play the piano."
+      },
+      {
+        "start": 695.92,
+        "duration": 3.24,
+        "start_formatted": "11:35",
+        "text": "Notice that everything is animated"
+      },
+      {
+        "start": 697.4,
+        "duration": 3.32,
+        "start_formatted": "11:37",
+        "text": "properly, including the hammers, the"
+      },
+      {
+        "start": 699.16,
+        "duration": 2.8,
+        "start_formatted": "11:39",
+        "text": "dampers, and the strings. Now, the"
+      },
+      {
+        "start": 700.72,
+        "duration": 3.04,
+        "start_formatted": "11:40",
+        "text": "really cool thing is, like I said,"
+      },
+      {
+        "start": 701.96,
+        "duration": 4.24,
+        "start_formatted": "11:41",
+        "text": "there's a demo button for me to play the"
+      },
+      {
+        "start": 703.76,
+        "duration": 5.6,
+        "start_formatted": "11:43",
+        "text": "Für Elise. So, let's click on this demo"
+      },
+      {
+        "start": 706.2,
+        "duration": 3.16,
+        "start_formatted": "11:46",
+        "text": "and hear what it sounds like."
+      },
+      {
+        "start": 709.373,
+        "duration": 3.907,
+        "start_formatted": "11:49",
+        "text": ">> [music]"
+      },
+      {
+        "start": 710.64,
+        "duration": 4.96,
+        "start_formatted": "11:50",
+        "text": ">> How cool is that? And then, finally,"
+      },
+      {
+        "start": 713.28,
+        "duration": 4.8,
+        "start_formatted": "11:53",
+        "text": "let's also explode this. So, if I press"
+      },
+      {
+        "start": 715.6,
+        "duration": 4.6,
+        "start_formatted": "11:55",
+        "text": "on explode, it does explode the piano"
+      },
+      {
+        "start": 718.08,
+        "duration": 4.64,
+        "start_formatted": "11:58",
+        "text": "into these separate sections. In fact, I"
+      },
+      {
+        "start": 720.2,
+        "duration": 4.64,
+        "start_formatted": "12:00",
+        "text": "can even drag the slider so you can see"
+      },
+      {
+        "start": 722.72,
+        "duration": 3.92,
+        "start_formatted": "12:02",
+        "text": "what this looks like. Very cool. So, in"
+      },
+      {
+        "start": 724.84,
+        "duration": 4.32,
+        "start_formatted": "12:04",
+        "text": "just two prompts, it was able to"
+      },
+      {
+        "start": 726.64,
+        "duration": 4.2,
+        "start_formatted": "12:06",
+        "text": "generate a fully working grand piano"
+      },
+      {
+        "start": 729.16,
+        "duration": 4.448,
+        "start_formatted": "12:09",
+        "text": "that can be played, and it even"
+      },
+      {
+        "start": 730.84,
+        "duration": 4.36,
+        "start_formatted": "12:10",
+        "text": "generated a Für Elise demo."
+      },
+      {
+        "start": 733.608,
+        "duration": 3.432,
+        "start_formatted": "12:13",
+        "text": ">> [music]"
+      },
+      {
+        "start": 735.2,
+        "duration": 3.88,
+        "start_formatted": "12:15",
+        "text": ">> Really impressive. Now, let me open this"
+      },
+      {
+        "start": 737.04,
+        "duration": 4.68,
+        "start_formatted": "12:17",
+        "text": "session for you. So, this was actually"
+      },
+      {
+        "start": 739.08,
+        "duration": 5.4,
+        "start_formatted": "12:19",
+        "text": "pretty light. It only used around 400"
+      },
+      {
+        "start": 741.72,
+        "duration": 4.2,
+        "start_formatted": "12:21",
+        "text": "input tokens and 5,000 output tokens. If"
+      },
+      {
+        "start": 744.48,
+        "duration": 3.72,
+        "start_formatted": "12:24",
+        "text": "you're constantly doing the same"
+      },
+      {
+        "start": 745.92,
+        "duration": 4.88,
+        "start_formatted": "12:25",
+        "text": "creative workflows over and over again,"
+      },
+      {
+        "start": 748.2,
+        "duration": 5.04,
+        "start_formatted": "12:28",
+        "text": "definitely check out Luma Agents by Luma"
+      },
+      {
+        "start": 750.8,
+        "duration": 4.2,
+        "start_formatted": "12:30",
+        "text": "AI, the sponsor of this video. It's"
+      },
+      {
+        "start": 753.24,
+        "duration": 4.0,
+        "start_formatted": "12:33",
+        "text": "going to save you so much time and make"
+      },
+      {
+        "start": 755.0,
+        "duration": 4.56,
+        "start_formatted": "12:35",
+        "text": "you way more productive. Think of Luma"
+      },
+      {
+        "start": 757.24,
+        "duration": 4.36,
+        "start_formatted": "12:37",
+        "text": "Agents as a team of AIs working together"
+      },
+      {
+        "start": 759.56,
+        "duration": 3.88,
+        "start_formatted": "12:39",
+        "text": "to autonomously carry out a creative"
+      },
+      {
+        "start": 761.6,
+        "duration": 3.68,
+        "start_formatted": "12:41",
+        "text": "process. You can simply upload"
+      },
+      {
+        "start": 763.44,
+        "duration": 3.76,
+        "start_formatted": "12:43",
+        "text": "references and prompt it with natural"
+      },
+      {
+        "start": 765.28,
+        "duration": 4.08,
+        "start_formatted": "12:45",
+        "text": "language to do whatever you want. For"
+      },
+      {
+        "start": 767.2,
+        "duration": 4.12,
+        "start_formatted": "12:47",
+        "text": "example, I can upload this image and get"
+      },
+      {
+        "start": 769.36,
+        "duration": 4.28,
+        "start_formatted": "12:49",
+        "text": "it to create an entire brand kit and"
+      },
+      {
+        "start": 771.32,
+        "duration": 4.04,
+        "start_formatted": "12:51",
+        "text": "color palette in a matter of minutes."
+      },
+      {
+        "start": 773.64,
+        "duration": 3.88,
+        "start_formatted": "12:53",
+        "text": "The coolest part is their latest feature"
+      },
+      {
+        "start": 775.36,
+        "duration": 3.92,
+        "start_formatted": "12:55",
+        "text": "called Luma Skills. Think of it as a way"
+      },
+      {
+        "start": 777.52,
+        "duration": 4.319,
+        "start_formatted": "12:57",
+        "text": "to turn your best creative workflows"
+      },
+      {
+        "start": 779.28,
+        "duration": 4.32,
+        "start_formatted": "12:59",
+        "text": "into reusable AI tools that you can run"
+      },
+      {
+        "start": 781.839,
+        "duration": 3.521,
+        "start_formatted": "13:01",
+        "text": "repeatedly. I can simply prompt the"
+      },
+      {
+        "start": 783.6,
+        "duration": 3.64,
+        "start_formatted": "13:03",
+        "text": "agent to turn this workflow into a"
+      },
+      {
+        "start": 785.36,
+        "duration": 4.16,
+        "start_formatted": "13:05",
+        "text": "skill. For example, let's name this"
+      },
+      {
+        "start": 787.24,
+        "duration": 4.24,
+        "start_formatted": "13:07",
+        "text": "brand kit, and in the future, I can"
+      },
+      {
+        "start": 789.52,
+        "duration": 4.16,
+        "start_formatted": "13:09",
+        "text": "upload another image and use that skill"
+      },
+      {
+        "start": 791.48,
+        "duration": 4.48,
+        "start_formatted": "13:11",
+        "text": "to apply the exact same workflow as"
+      },
+      {
+        "start": 793.68,
+        "duration": 4.6,
+        "start_formatted": "13:13",
+        "text": "before to recreate the exact same"
+      },
+      {
+        "start": 795.96,
+        "duration": 4.12,
+        "start_formatted": "13:15",
+        "text": "result. Or, here's another example. I"
+      },
+      {
+        "start": 798.28,
+        "duration": 4.2,
+        "start_formatted": "13:18",
+        "text": "can upload this photo of a woman in a"
+      },
+      {
+        "start": 800.08,
+        "duration": 4.48,
+        "start_formatted": "13:20",
+        "text": "dress and get Luma Agent to create a"
+      },
+      {
+        "start": 802.48,
+        "duration": 3.92,
+        "start_formatted": "13:22",
+        "text": "video of this person wearing this dress"
+      },
+      {
+        "start": 804.56,
+        "duration": 4.32,
+        "start_formatted": "13:24",
+        "text": "and walking down a runway in a fashion"
+      },
+      {
+        "start": 806.4,
+        "duration": 4.72,
+        "start_formatted": "13:26",
+        "text": "show. And if I want to reuse this exact"
+      },
+      {
+        "start": 808.88,
+        "duration": 4.4,
+        "start_formatted": "13:28",
+        "text": "same workflow as before, I can just"
+      },
+      {
+        "start": 811.12,
+        "duration": 4.72,
+        "start_formatted": "13:31",
+        "text": "prompt it to save this as a skill. For"
+      },
+      {
+        "start": 813.28,
+        "duration": 4.4,
+        "start_formatted": "13:33",
+        "text": "example, let's name this fashion show."
+      },
+      {
+        "start": 815.84,
+        "duration": 3.88,
+        "start_formatted": "13:35",
+        "text": "And afterwards, I can upload another"
+      },
+      {
+        "start": 817.68,
+        "duration": 4.2,
+        "start_formatted": "13:37",
+        "text": "model or another piece of clothing, and"
+      },
+      {
+        "start": 819.72,
+        "duration": 4.44,
+        "start_formatted": "13:39",
+        "text": "then use that skill to generate another"
+      },
+      {
+        "start": 821.88,
+        "duration": 4.08,
+        "start_formatted": "13:41",
+        "text": "fashion show video easily. What's really"
+      },
+      {
+        "start": 824.16,
+        "duration": 3.56,
+        "start_formatted": "13:44",
+        "text": "cool is you don't even have to build"
+      },
+      {
+        "start": 825.96,
+        "duration": 4.08,
+        "start_formatted": "13:45",
+        "text": "these skills yourself. You can just"
+      },
+      {
+        "start": 827.72,
+        "duration": 4.32,
+        "start_formatted": "13:47",
+        "text": "simply tell the agent what you want, and"
+      },
+      {
+        "start": 830.04,
+        "duration": 4.28,
+        "start_formatted": "13:50",
+        "text": "it'll generate the entire skill for you"
+      },
+      {
+        "start": 832.04,
+        "duration": 4.16,
+        "start_formatted": "13:52",
+        "text": "automatically. I'm especially impressed"
+      },
+      {
+        "start": 834.32,
+        "duration": 3.52,
+        "start_formatted": "13:54",
+        "text": "by the sharing capability."
+      },
+      {
+        "start": 836.2,
+        "duration": 3.72,
+        "start_formatted": "13:56",
+        "text": "Once you've created a workflow that"
+      },
+      {
+        "start": 837.84,
+        "duration": 4.28,
+        "start_formatted": "13:57",
+        "text": "works well, you can instantly share it"
+      },
+      {
+        "start": 839.92,
+        "duration": 4.32,
+        "start_formatted": "13:59",
+        "text": "with teammates using a simple link."
+      },
+      {
+        "start": 842.12,
+        "duration": 4.04,
+        "start_formatted": "14:02",
+        "text": "Entire teams can install the skill and"
+      },
+      {
+        "start": 844.24,
+        "duration": 3.44,
+        "start_formatted": "14:04",
+        "text": "get the exact same results without"
+      },
+      {
+        "start": 846.16,
+        "duration": 4.0,
+        "start_formatted": "14:06",
+        "text": "having to recreate the workflow"
+      },
+      {
+        "start": 847.68,
+        "duration": 4.48,
+        "start_formatted": "14:07",
+        "text": "themselves. You can even bundle multiple"
+      },
+      {
+        "start": 850.16,
+        "duration": 4.04,
+        "start_formatted": "14:10",
+        "text": "skills together into a package and"
+      },
+      {
+        "start": 852.16,
+        "duration": 3.84,
+        "start_formatted": "14:12",
+        "text": "distribute an entire creative toolkit"
+      },
+      {
+        "start": 854.2,
+        "duration": 3.84,
+        "start_formatted": "14:14",
+        "text": "with a single click. Whether you're"
+      },
+      {
+        "start": 856.0,
+        "duration": 4.48,
+        "start_formatted": "14:16",
+        "text": "creating marketing campaigns, editing"
+      },
+      {
+        "start": 858.04,
+        "duration": 4.48,
+        "start_formatted": "14:18",
+        "text": "videos, generating images, or building"
+      },
+      {
+        "start": 860.48,
+        "duration": 4.52,
+        "start_formatted": "14:20",
+        "text": "repeatable creative workflows, Luma"
+      },
+      {
+        "start": 862.52,
+        "duration": 4.76,
+        "start_formatted": "14:22",
+        "text": "skills and Luma agents is an absolute"
+      },
+      {
+        "start": 865.0,
+        "duration": 4.0,
+        "start_formatted": "14:25",
+        "text": "game changer. Try today using this QR"
+      },
+      {
+        "start": 867.28,
+        "duration": 3.559,
+        "start_formatted": "14:27",
+        "text": "code or the link in the description"
+      },
+      {
+        "start": 869.0,
+        "duration": 4.16,
+        "start_formatted": "14:29",
+        "text": "below. All right, next let's see how"
+      },
+      {
+        "start": 870.839,
+        "duration": 4.641,
+        "start_formatted": "14:30",
+        "text": "good it is at coding up a shooter game."
+      },
+      {
+        "start": 873.16,
+        "duration": 3.92,
+        "start_formatted": "14:33",
+        "text": "Create a 3D game using 3.js. It should"
+      },
+      {
+        "start": 875.48,
+        "duration": 3.359,
+        "start_formatted": "14:35",
+        "text": "be a futuristic battlefield where I"
+      },
+      {
+        "start": 877.08,
+        "duration": 4.12,
+        "start_formatted": "14:37",
+        "text": "control a mecha warrior and shoot down"
+      },
+      {
+        "start": 878.839,
+        "duration": 4.681,
+        "start_formatted": "14:38",
+        "text": "waves of alien creatures attacking from"
+      },
+      {
+        "start": 881.2,
+        "duration": 4.84,
+        "start_formatted": "14:41",
+        "text": "the sky and ground. Third-person shooter"
+      },
+      {
+        "start": 883.52,
+        "duration": 5.12,
+        "start_formatted": "14:43",
+        "text": "perspective, use publicly available 3D"
+      },
+      {
+        "start": 886.04,
+        "duration": 4.48,
+        "start_formatted": "14:46",
+        "text": "assets. This is the part that trips up"
+      },
+      {
+        "start": 888.64,
+        "duration": 4.0,
+        "start_formatted": "14:48",
+        "text": "most other frontier AI models. They're"
+      },
+      {
+        "start": 890.52,
+        "duration": 4.0,
+        "start_formatted": "14:50",
+        "text": "not actually able to import 3D assets"
+      },
+      {
+        "start": 892.64,
+        "duration": 5.199,
+        "start_formatted": "14:52",
+        "text": "into my game for some reason. Make it"
+      },
+      {
+        "start": 894.52,
+        "duration": 5.319,
+        "start_formatted": "14:54",
+        "text": "look amazing like a pro AAA video game."
+      },
+      {
+        "start": 897.839,
+        "duration": 3.681,
+        "start_formatted": "14:57",
+        "text": "All right, so it first enters plan mode,"
+      },
+      {
+        "start": 899.839,
+        "duration": 3.481,
+        "start_formatted": "14:59",
+        "text": "and then it plans out how to code up"
+      },
+      {
+        "start": 901.52,
+        "duration": 4.04,
+        "start_formatted": "15:01",
+        "text": "this game. And then afterwards, after a"
+      },
+      {
+        "start": 903.32,
+        "duration": 4.12,
+        "start_formatted": "15:03",
+        "text": "ton of thinking and coding, it finishes"
+      },
+      {
+        "start": 905.56,
+        "duration": 3.76,
+        "start_formatted": "15:05",
+        "text": "the game. And the nice thing is it also"
+      },
+      {
+        "start": 907.44,
+        "duration": 3.36,
+        "start_formatted": "15:07",
+        "text": "pulls up the browser to take screenshots"
+      },
+      {
+        "start": 909.32,
+        "duration": 3.64,
+        "start_formatted": "15:09",
+        "text": "to check that everything works. For"
+      },
+      {
+        "start": 910.8,
+        "duration": 4.28,
+        "start_formatted": "15:10",
+        "text": "example, here it's actually inspecting"
+      },
+      {
+        "start": 912.96,
+        "duration": 4.24,
+        "start_formatted": "15:12",
+        "text": "the frame and verifying that everything"
+      },
+      {
+        "start": 915.08,
+        "duration": 4.24,
+        "start_formatted": "15:15",
+        "text": "works. And then here it's also verifying"
+      },
+      {
+        "start": 917.2,
+        "duration": 5.08,
+        "start_formatted": "15:17",
+        "text": "that the mecha runs and the jet glows,"
+      },
+      {
+        "start": 919.32,
+        "duration": 5.2,
+        "start_formatted": "15:19",
+        "text": "the muzzle flashes, combat looks right."
+      },
+      {
+        "start": 922.28,
+        "duration": 4.52,
+        "start_formatted": "15:22",
+        "text": "And then finally, it is done. So, let me"
+      },
+      {
+        "start": 924.52,
+        "duration": 4.28,
+        "start_formatted": "15:24",
+        "text": "spin up the game. All right, so it says"
+      },
+      {
+        "start": 926.8,
+        "duration": 4.96,
+        "start_formatted": "15:26",
+        "text": "I use these keys to move, I use my mouse"
+      },
+      {
+        "start": 928.8,
+        "duration": 5.6,
+        "start_formatted": "15:28",
+        "text": "to aim, I can use this for fire plasma"
+      },
+      {
+        "start": 931.76,
+        "duration": 5.28,
+        "start_formatted": "15:31",
+        "text": "cannon, space for jump jets, shift for"
+      },
+      {
+        "start": 934.4,
+        "duration": 5.36,
+        "start_formatted": "15:34",
+        "text": "dash. Let's press deploy. All right,"
+      },
+      {
+        "start": 937.04,
+        "duration": 4.52,
+        "start_formatted": "15:37",
+        "text": "here we go and I already see some"
+      },
+      {
+        "start": 939.76,
+        "duration": 3.68,
+        "start_formatted": "15:39",
+        "text": "enemies in the sky and you know, this"
+      },
+      {
+        "start": 941.56,
+        "duration": 3.88,
+        "start_formatted": "15:41",
+        "text": "actually looks like a Mecha Warrior."
+      },
+      {
+        "start": 943.44,
+        "duration": 4.72,
+        "start_formatted": "15:43",
+        "text": "This looks way better than what I got"
+      },
+      {
+        "start": 945.44,
+        "duration": 5.28,
+        "start_formatted": "15:45",
+        "text": "from Claude Fable or the open-source JLM"
+      },
+      {
+        "start": 948.16,
+        "duration": 4.68,
+        "start_formatted": "15:48",
+        "text": "5.2. And it was able to code all of this"
+      },
+      {
+        "start": 950.72,
+        "duration": 3.44,
+        "start_formatted": "15:50",
+        "text": "in just one prompt. I could probably add"
+      },
+      {
+        "start": 952.84,
+        "duration": 3.56,
+        "start_formatted": "15:52",
+        "text": "further follow-up prompts to make it"
+      },
+      {
+        "start": 954.16,
+        "duration": 3.92,
+        "start_formatted": "15:54",
+        "text": "look even better or add more options or"
+      },
+      {
+        "start": 956.4,
+        "duration": 3.0,
+        "start_formatted": "15:56",
+        "text": "features. Now again, this took quite a"
+      },
+      {
+        "start": 958.08,
+        "duration": 3.48,
+        "start_formatted": "15:58",
+        "text": "long time to actually code up"
+      },
+      {
+        "start": 959.4,
+        "duration": 4.4,
+        "start_formatted": "15:59",
+        "text": "everything. It needed to search for"
+      },
+      {
+        "start": 961.56,
+        "duration": 4.44,
+        "start_formatted": "16:01",
+        "text": "existing 3D models to use. It needed to"
+      },
+      {
+        "start": 963.8,
+        "duration": 5.52,
+        "start_formatted": "16:03",
+        "text": "plan out all the game dynamics and this"
+      },
+      {
+        "start": 966.0,
+        "duration": 6.28,
+        "start_formatted": "16:06",
+        "text": "took roughly 12 million input tokens and"
+      },
+      {
+        "start": 969.32,
+        "duration": 5.0,
+        "start_formatted": "16:09",
+        "text": "135k output tokens. All right, next"
+      },
+      {
+        "start": 972.28,
+        "duration": 4.0,
+        "start_formatted": "16:12",
+        "text": "let's see how good Kimmy is at making"
+      },
+      {
+        "start": 974.32,
+        "duration": 3.68,
+        "start_formatted": "16:14",
+        "text": "music. I have high expectations for this"
+      },
+      {
+        "start": 976.28,
+        "duration": 3.76,
+        "start_formatted": "16:16",
+        "text": "because the team is quite musically"
+      },
+      {
+        "start": 978.0,
+        "duration": 3.88,
+        "start_formatted": "16:18",
+        "text": "inclined. In fact, throughout their"
+      },
+      {
+        "start": 980.04,
+        "duration": 3.32,
+        "start_formatted": "16:20",
+        "text": "designs and you know, even the names of"
+      },
+      {
+        "start": 981.88,
+        "duration": 3.6,
+        "start_formatted": "16:21",
+        "text": "their paid plans, there's a lot of"
+      },
+      {
+        "start": 983.36,
+        "duration": 4.12,
+        "start_formatted": "16:23",
+        "text": "musical influence. So, hopefully this"
+      },
+      {
+        "start": 985.48,
+        "duration": 3.44,
+        "start_formatted": "16:25",
+        "text": "Kimmy K3 is also good at making music."
+      },
+      {
+        "start": 987.48,
+        "duration": 3.64,
+        "start_formatted": "16:27",
+        "text": "So, for my prompt, I'm going to get it"
+      },
+      {
+        "start": 988.92,
+        "duration": 3.919,
+        "start_formatted": "16:28",
+        "text": "to make a DAW interface with these"
+      },
+      {
+        "start": 991.12,
+        "duration": 3.68,
+        "start_formatted": "16:31",
+        "text": "instruments: piano, synth pluck,"
+      },
+      {
+        "start": 992.839,
+        "duration": 3.561,
+        "start_formatted": "16:32",
+        "text": "strings, drums, and bass. For each"
+      },
+      {
+        "start": 994.8,
+        "duration": 2.92,
+        "start_formatted": "16:34",
+        "text": "instrument, there should be a piano roll"
+      },
+      {
+        "start": 996.4,
+        "duration": 3.8,
+        "start_formatted": "16:36",
+        "text": "where I can drag and draw notes on the"
+      },
+      {
+        "start": 997.72,
+        "duration": 4.76,
+        "start_formatted": "16:37",
+        "text": "timeline. By default, show a powerful"
+      },
+      {
+        "start": 1000.2,
+        "duration": 4.48,
+        "start_formatted": "16:40",
+        "text": "expressive 32-bar song rich in"
+      },
+      {
+        "start": 1002.48,
+        "duration": 4.44,
+        "start_formatted": "16:42",
+        "text": "complexity that would win a Grammy."
+      },
+      {
+        "start": 1004.68,
+        "duration": 4.64,
+        "start_formatted": "16:44",
+        "text": "Include effects automation, panning, and"
+      },
+      {
+        "start": 1006.92,
+        "duration": 4.44,
+        "start_formatted": "16:46",
+        "text": "make sure everything is mastered well."
+      },
+      {
+        "start": 1009.32,
+        "duration": 4.12,
+        "start_formatted": "16:49",
+        "text": "All right, here's what I got and in just"
+      },
+      {
+        "start": 1011.36,
+        "duration": 4.0,
+        "start_formatted": "16:51",
+        "text": "one prompt, it was able to code up a"
+      },
+      {
+        "start": 1013.44,
+        "duration": 4.84,
+        "start_formatted": "16:53",
+        "text": "nice song already, but it's kind of"
+      },
+      {
+        "start": 1015.36,
+        "duration": 5.08,
+        "start_formatted": "16:55",
+        "text": "lacking in detail and complexity. So, I"
+      },
+      {
+        "start": 1018.28,
+        "duration": 3.44,
+        "start_formatted": "16:58",
+        "text": "wrote add more variation and creativity."
+      },
+      {
+        "start": 1020.44,
+        "duration": 3.84,
+        "start_formatted": "17:00",
+        "text": "You can add more instruments if"
+      },
+      {
+        "start": 1021.72,
+        "duration": 4.16,
+        "start_formatted": "17:01",
+        "text": "necessary. Add risers and drops. Add"
+      },
+      {
+        "start": 1024.28,
+        "duration": 3.88,
+        "start_formatted": "17:04",
+        "text": "volume and effects automation for the"
+      },
+      {
+        "start": 1025.88,
+        "duration": 5.04,
+        "start_formatted": "17:05",
+        "text": "tracks. Add more width. Make it sound"
+      },
+      {
+        "start": 1028.16,
+        "duration": 7.039,
+        "start_formatted": "17:08",
+        "text": "amazing. So, afterwards, it worked for a"
+      },
+      {
+        "start": 1030.92,
+        "duration": 4.279,
+        "start_formatted": "17:10",
+        "text": "few more minutes and here's our result."
+      },
+      {
+        "start": 1039.92,
+        "duration": 2.08,
+        "start_formatted": "17:19",
+        "text": "Mhm."
+      },
+      {
+        "start": 1057.837,
+        "duration": 2.02,
+        "start_formatted": "17:37",
+        "text": ">> [music]"
+      },
+      {
+        "start": 1062.422,
+        "duration": 2.02,
+        "start_formatted": "17:42",
+        "text": "[music]"
+      },
+      {
+        "start": 1068.972,
+        "duration": 2.02,
+        "start_formatted": "17:48",
+        "text": "[music]"
+      },
+      {
+        "start": 1078.797,
+        "duration": 2.02,
+        "start_formatted": "17:58",
+        "text": "[music]"
+      },
+      {
+        "start": 1092.552,
+        "duration": 2.02,
+        "start_formatted": "18:12",
+        "text": "[music]"
+      },
+      {
+        "start": 1104.342,
+        "duration": 2.02,
+        "start_formatted": "18:24",
+        "text": "[music]"
+      },
+      {
+        "start": 1113.56,
+        "duration": 3.72,
+        "start_formatted": "18:33",
+        "text": ">> It's not like a professional song. It"
+      },
+      {
+        "start": 1115.64,
+        "duration": 3.92,
+        "start_formatted": "18:35",
+        "text": "wouldn't win a Grammy, but it's pretty"
+      },
+      {
+        "start": 1117.28,
+        "duration": 4.28,
+        "start_formatted": "18:37",
+        "text": "good for an AI that just coded this up"
+      },
+      {
+        "start": 1119.56,
+        "duration": 3.44,
+        "start_formatted": "18:39",
+        "text": "from scratch. It didn't even use any"
+      },
+      {
+        "start": 1121.56,
+        "duration": 3.44,
+        "start_formatted": "18:41",
+        "text": "virtual instruments or anything like"
+      },
+      {
+        "start": 1123.0,
+        "duration": 3.72,
+        "start_formatted": "18:43",
+        "text": "that. Notice that it includes all the"
+      },
+      {
+        "start": 1125.0,
+        "duration": 4.08,
+        "start_formatted": "18:45",
+        "text": "settings that I specified, including"
+      },
+      {
+        "start": 1126.72,
+        "duration": 4.56,
+        "start_formatted": "18:46",
+        "text": "reverb and delay. It even added track"
+      },
+      {
+        "start": 1129.08,
+        "duration": 4.48,
+        "start_formatted": "18:49",
+        "text": "automation down here. It even added"
+      },
+      {
+        "start": 1131.28,
+        "duration": 4.56,
+        "start_formatted": "18:51",
+        "text": "effects like risers and crashes. Pretty"
+      },
+      {
+        "start": 1133.56,
+        "duration": 4.52,
+        "start_formatted": "18:53",
+        "text": "good for just two prompts. Now, let me"
+      },
+      {
+        "start": 1135.84,
+        "duration": 7.0,
+        "start_formatted": "18:55",
+        "text": "also expand the session here, so you can"
+      },
+      {
+        "start": 1138.08,
+        "duration": 4.76,
+        "start_formatted": "18:58",
+        "text": "see how many tokens it like 1.5"
+      },
+      {
+        "start": 1143.04,
+        "duration": 4.32,
+        "start_formatted": "19:03",
+        "text": "million input tokens and 35K output"
+      },
+      {
+        "start": 1145.8,
+        "duration": 4.92,
+        "start_formatted": "19:05",
+        "text": "tokens. All right. Now, those were some"
+      },
+      {
+        "start": 1147.36,
+        "duration": 4.92,
+        "start_formatted": "19:07",
+        "text": "examples of using Kimiko."
+      },
+      {
+        "start": 1150.72,
+        "duration": 3.56,
+        "start_formatted": "19:10",
+        "text": "So, you can take advantage of its"
+      },
+      {
+        "start": 1152.28,
+        "duration": 3.92,
+        "start_formatted": "19:12",
+        "text": "agentic capabilities. But, of course,"
+      },
+      {
+        "start": 1154.28,
+        "duration": 3.76,
+        "start_formatted": "19:14",
+        "text": "you can also just use it on their native"
+      },
+      {
+        "start": 1156.2,
+        "duration": 3.28,
+        "start_formatted": "19:16",
+        "text": "online chat platform. So, I'm going to"
+      },
+      {
+        "start": 1158.04,
+        "duration": 3.32,
+        "start_formatted": "19:18",
+        "text": "show you some examples of it here."
+      },
+      {
+        "start": 1159.48,
+        "duration": 3.6,
+        "start_formatted": "19:19",
+        "text": "Simply go to kimmi.com, which I'll link"
+      },
+      {
+        "start": 1161.36,
+        "duration": 3.16,
+        "start_formatted": "19:21",
+        "text": "to in the description below, and here's"
+      },
+      {
+        "start": 1163.08,
+        "duration": 3.28,
+        "start_formatted": "19:23",
+        "text": "where you can chat with it. And it's a"
+      },
+      {
+        "start": 1164.52,
+        "duration": 3.84,
+        "start_formatted": "19:24",
+        "text": "pretty simple chat interface, just like"
+      },
+      {
+        "start": 1166.36,
+        "duration": 4.12,
+        "start_formatted": "19:26",
+        "text": "ChatGPT. So, next, let's see if we can"
+      },
+      {
+        "start": 1168.36,
+        "duration": 4.4,
+        "start_formatted": "19:28",
+        "text": "get it to identify cancer. I'm going to"
+      },
+      {
+        "start": 1170.48,
+        "duration": 4.56,
+        "start_formatted": "19:30",
+        "text": "upload this image of six different"
+      },
+      {
+        "start": 1172.76,
+        "duration": 4.08,
+        "start_formatted": "19:32",
+        "text": "scans. Each scan actually contains a"
+      },
+      {
+        "start": 1175.04,
+        "duration": 3.84,
+        "start_formatted": "19:35",
+        "text": "type of tumor. I'm going to paste this"
+      },
+      {
+        "start": 1176.84,
+        "duration": 3.84,
+        "start_formatted": "19:36",
+        "text": "into Kimmi, and then ask it, \"Identify"
+      },
+      {
+        "start": 1178.88,
+        "duration": 3.92,
+        "start_formatted": "19:38",
+        "text": "the types of tumors in each of the six"
+      },
+      {
+        "start": 1180.68,
+        "duration": 4.04,
+        "start_formatted": "19:40",
+        "text": "images, if any.\" All right, so it"
+      },
+      {
+        "start": 1182.8,
+        "duration": 4.16,
+        "start_formatted": "19:42",
+        "text": "thought for around 10 minutes. It"
+      },
+      {
+        "start": 1184.72,
+        "duration": 4.64,
+        "start_formatted": "19:44",
+        "text": "autonomously ran some Python codes to"
+      },
+      {
+        "start": 1186.96,
+        "duration": 4.12,
+        "start_formatted": "19:46",
+        "text": "zoom in on each panel individually, and"
+      },
+      {
+        "start": 1189.36,
+        "duration": 3.72,
+        "start_formatted": "19:49",
+        "text": "even within each panel, it zoomed in"
+      },
+      {
+        "start": 1191.08,
+        "duration": 3.64,
+        "start_formatted": "19:51",
+        "text": "even more to really figure out, you"
+      },
+      {
+        "start": 1193.08,
+        "duration": 3.92,
+        "start_formatted": "19:53",
+        "text": "know, which specific areas contain"
+      },
+      {
+        "start": 1194.72,
+        "duration": 5.0,
+        "start_formatted": "19:54",
+        "text": "tumors. And then afterwards, here is its"
+      },
+      {
+        "start": 1197.0,
+        "duration": 5.36,
+        "start_formatted": "19:57",
+        "text": "answer. So, number one, it identified"
+      },
+      {
+        "start": 1199.72,
+        "duration": 4.92,
+        "start_formatted": "19:59",
+        "text": "meningioma, which is actually correct."
+      },
+      {
+        "start": 1202.36,
+        "duration": 4.92,
+        "start_formatted": "20:02",
+        "text": "And then number two, it said possibly"
+      },
+      {
+        "start": 1204.64,
+        "duration": 4.52,
+        "start_formatted": "20:04",
+        "text": "leptomeningeal metastasis, which is"
+      },
+      {
+        "start": 1207.28,
+        "duration": 4.04,
+        "start_formatted": "20:07",
+        "text": "wrong. Number three, it also said"
+      },
+      {
+        "start": 1209.16,
+        "duration": 4.32,
+        "start_formatted": "20:09",
+        "text": "meningioma, which is wrong. Four, no"
+      },
+      {
+        "start": 1211.32,
+        "duration": 4.32,
+        "start_formatted": "20:11",
+        "text": "tumor, which is wrong. Number five,"
+      },
+      {
+        "start": 1213.48,
+        "duration": 4.12,
+        "start_formatted": "20:13",
+        "text": "craniopharyngioma, which is also wrong."
+      },
+      {
+        "start": 1215.64,
+        "duration": 3.6,
+        "start_formatted": "20:15",
+        "text": "And then number six, it said no tumor,"
+      },
+      {
+        "start": 1217.6,
+        "duration": 3.76,
+        "start_formatted": "20:17",
+        "text": "which is also wrong. So, it got one out"
+      },
+      {
+        "start": 1219.24,
+        "duration": 4.92,
+        "start_formatted": "20:19",
+        "text": "of six correct. Still better than the"
+      },
+      {
+        "start": 1221.36,
+        "duration": 4.84,
+        "start_formatted": "20:21",
+        "text": "leading model out there, GPT 5.6, which"
+      },
+      {
+        "start": 1224.16,
+        "duration": 3.8,
+        "start_formatted": "20:24",
+        "text": "got none of it correct. It just said"
+      },
+      {
+        "start": 1226.2,
+        "duration": 3.44,
+        "start_formatted": "20:26",
+        "text": "there were no tumors. And also still"
+      },
+      {
+        "start": 1227.96,
+        "duration": 4.52,
+        "start_formatted": "20:27",
+        "text": "better than Claude Fable, which just"
+      },
+      {
+        "start": 1229.64,
+        "duration": 4.96,
+        "start_formatted": "20:29",
+        "text": "simply refuses to answer any biology or"
+      },
+      {
+        "start": 1232.48,
+        "duration": 3.88,
+        "start_formatted": "20:32",
+        "text": "medical questions. So, it's not perfect."
+      },
+      {
+        "start": 1234.6,
+        "duration": 4.2,
+        "start_formatted": "20:34",
+        "text": "You can't really get it to identify"
+      },
+      {
+        "start": 1236.36,
+        "duration": 3.88,
+        "start_formatted": "20:36",
+        "text": "cancer via scans yet. But, it did give"
+      },
+      {
+        "start": 1238.8,
+        "duration": 3.6,
+        "start_formatted": "20:38",
+        "text": "me the best answer out of all the"
+      },
+      {
+        "start": 1240.24,
+        "duration": 4.28,
+        "start_formatted": "20:40",
+        "text": "frontier models so far. All right, time"
+      },
+      {
+        "start": 1242.4,
+        "duration": 4.48,
+        "start_formatted": "20:42",
+        "text": "for your favorite test, finding the"
+      },
+      {
+        "start": 1244.52,
+        "duration": 4.64,
+        "start_formatted": "20:44",
+        "text": "frog. So, I'm going to upload this"
+      },
+      {
+        "start": 1246.88,
+        "duration": 4.08,
+        "start_formatted": "20:46",
+        "text": "image. There's a frog hidden somewhere"
+      },
+      {
+        "start": 1249.16,
+        "duration": 3.2,
+        "start_formatted": "20:49",
+        "text": "in this image. And I'm not even going to"
+      },
+      {
+        "start": 1250.96,
+        "duration": 2.84,
+        "start_formatted": "20:50",
+        "text": "say there's a frog in this image. I'm"
+      },
+      {
+        "start": 1252.36,
+        "duration": 3.96,
+        "start_formatted": "20:52",
+        "text": "going to ask it, \"Is there any animal or"
+      },
+      {
+        "start": 1253.8,
+        "duration": 4.24,
+        "start_formatted": "20:53",
+        "text": "animals in this image? If so, identify"
+      },
+      {
+        "start": 1256.32,
+        "duration": 4.12,
+        "start_formatted": "20:56",
+        "text": "and circle it.\" So, again, it"
+      },
+      {
+        "start": 1258.04,
+        "duration": 4.32,
+        "start_formatted": "20:58",
+        "text": "autonomously pulled up some Python tools"
+      },
+      {
+        "start": 1260.44,
+        "duration": 4.16,
+        "start_formatted": "21:00",
+        "text": "to zoom in on particular sections of the"
+      },
+      {
+        "start": 1262.36,
+        "duration": 3.96,
+        "start_formatted": "21:02",
+        "text": "image, and then it's zooming in further"
+      },
+      {
+        "start": 1264.6,
+        "duration": 3.76,
+        "start_formatted": "21:04",
+        "text": "and further. It's taking all these"
+      },
+      {
+        "start": 1266.32,
+        "duration": 4.32,
+        "start_formatted": "21:06",
+        "text": "snapshots of different parts of the"
+      },
+      {
+        "start": 1268.36,
+        "duration": 4.0,
+        "start_formatted": "21:08",
+        "text": "image, and then it's thinking really"
+      },
+      {
+        "start": 1270.64,
+        "duration": 3.8,
+        "start_formatted": "21:10",
+        "text": "hard. It's looking through a ton of"
+      },
+      {
+        "start": 1272.36,
+        "duration": 4.08,
+        "start_formatted": "21:12",
+        "text": "different places. It's even using some"
+      },
+      {
+        "start": 1274.44,
+        "duration": 4.32,
+        "start_formatted": "21:14",
+        "text": "enhancement techniques. For example,"
+      },
+      {
+        "start": 1276.44,
+        "duration": 4.08,
+        "start_formatted": "21:16",
+        "text": "it's using some sharpness and contrast"
+      },
+      {
+        "start": 1278.76,
+        "duration": 3.32,
+        "start_formatted": "21:18",
+        "text": "to emphasize the edges a bit more, and"
+      },
+      {
+        "start": 1280.52,
+        "duration": 3.76,
+        "start_formatted": "21:20",
+        "text": "then it keeps looking at different"
+      },
+      {
+        "start": 1282.08,
+        "duration": 3.88,
+        "start_formatted": "21:22",
+        "text": "sections, and now it's even doing some"
+      },
+      {
+        "start": 1284.28,
+        "duration": 4.12,
+        "start_formatted": "21:24",
+        "text": "really complex stuff like the spectral"
+      },
+      {
+        "start": 1285.96,
+        "duration": 4.44,
+        "start_formatted": "21:25",
+        "text": "residual saliency, whatever that is. And"
+      },
+      {
+        "start": 1288.4,
+        "duration": 3.92,
+        "start_formatted": "21:28",
+        "text": "finally, after all this analysis, it"
+      },
+      {
+        "start": 1290.4,
+        "duration": 3.64,
+        "start_formatted": "21:30",
+        "text": "said, \"I can't find any animal in this"
+      },
+      {
+        "start": 1292.32,
+        "duration": 4.16,
+        "start_formatted": "21:32",
+        "text": "image. As far as I can tell, it only"
+      },
+      {
+        "start": 1294.04,
+        "duration": 4.88,
+        "start_formatted": "21:34",
+        "text": "contains dead leaves, etc., etc.\" Which"
+      },
+      {
+        "start": 1296.48,
+        "duration": 4.24,
+        "start_formatted": "21:36",
+        "text": "is not correct. So, it could not pass"
+      },
+      {
+        "start": 1298.92,
+        "duration": 3.84,
+        "start_formatted": "21:38",
+        "text": "the frog test. All right, next, let's"
+      },
+      {
+        "start": 1300.72,
+        "duration": 4.56,
+        "start_formatted": "21:40",
+        "text": "test its ability to do deep research. In"
+      },
+      {
+        "start": 1302.76,
+        "duration": 4.72,
+        "start_formatted": "21:42",
+        "text": "fact, on this online web interface, you"
+      },
+      {
+        "start": 1305.28,
+        "duration": 4.92,
+        "start_formatted": "21:45",
+        "text": "can select this deep research option"
+      },
+      {
+        "start": 1307.48,
+        "duration": 4.8,
+        "start_formatted": "21:47",
+        "text": "with Chemikaze 3 Max. So, let's try uh"
+      },
+      {
+        "start": 1310.2,
+        "duration": 4.08,
+        "start_formatted": "21:50",
+        "text": "really complicated medical example."
+      },
+      {
+        "start": 1312.28,
+        "duration": 4.12,
+        "start_formatted": "21:52",
+        "text": "Analyze the mechanisms of this"
+      },
+      {
+        "start": 1314.28,
+        "duration": 4.24,
+        "start_formatted": "21:54",
+        "text": "propagation in Alzheimer's disease."
+      },
+      {
+        "start": 1316.4,
+        "duration": 4.44,
+        "start_formatted": "21:56",
+        "text": "Contrast monoclonal antibody therapies"
+      },
+      {
+        "start": 1318.52,
+        "duration": 3.84,
+        "start_formatted": "21:58",
+        "text": "targeting each protein, etc., etc."
+      },
+      {
+        "start": 1320.84,
+        "duration": 3.92,
+        "start_formatted": "22:00",
+        "text": "Include relevant tables and"
+      },
+      {
+        "start": 1322.36,
+        "duration": 4.12,
+        "start_formatted": "22:02",
+        "text": "visualizations. Let's press run. So, it"
+      },
+      {
+        "start": 1324.76,
+        "duration": 3.48,
+        "start_formatted": "22:04",
+        "text": "needs to search really deeply in the"
+      },
+      {
+        "start": 1326.48,
+        "duration": 3.92,
+        "start_formatted": "22:06",
+        "text": "scientific literature and pull and"
+      },
+      {
+        "start": 1328.24,
+        "duration": 4.6,
+        "start_formatted": "22:08",
+        "text": "synthesize relevant information, and"
+      },
+      {
+        "start": 1330.4,
+        "duration": 4.32,
+        "start_formatted": "22:10",
+        "text": "also use tools to, you know, plot out"
+      },
+      {
+        "start": 1332.84,
+        "duration": 4.12,
+        "start_formatted": "22:12",
+        "text": "graphs and charts and tables and give me"
+      },
+      {
+        "start": 1334.72,
+        "duration": 4.16,
+        "start_formatted": "22:14",
+        "text": "a really comprehensive report on this"
+      },
+      {
+        "start": 1336.96,
+        "duration": 3.72,
+        "start_formatted": "22:16",
+        "text": "specific issue. Now, it's not like the"
+      },
+      {
+        "start": 1338.88,
+        "duration": 3.6,
+        "start_formatted": "22:18",
+        "text": "other frontier models can do this. So,"
+      },
+      {
+        "start": 1340.68,
+        "duration": 3.8,
+        "start_formatted": "22:20",
+        "text": "this is more of a test to show you its"
+      },
+      {
+        "start": 1342.48,
+        "duration": 3.72,
+        "start_formatted": "22:22",
+        "text": "writing style, its deep research style,"
+      },
+      {
+        "start": 1344.48,
+        "duration": 4.44,
+        "start_formatted": "22:24",
+        "text": "and, you know, its overall vibe. For"
+      },
+      {
+        "start": 1346.2,
+        "duration": 5.24,
+        "start_formatted": "22:26",
+        "text": "example, GPT 5.6 tends to be very short"
+      },
+      {
+        "start": 1348.92,
+        "duration": 4.2,
+        "start_formatted": "22:28",
+        "text": "and concise, whereas Gemini seems to be"
+      },
+      {
+        "start": 1351.44,
+        "duration": 3.36,
+        "start_formatted": "22:31",
+        "text": "a lot more verbose. All right, so this"
+      },
+      {
+        "start": 1353.12,
+        "duration": 3.68,
+        "start_formatted": "22:33",
+        "text": "took a long time because I did enable"
+      },
+      {
+        "start": 1354.8,
+        "duration": 4.68,
+        "start_formatted": "22:34",
+        "text": "the deep research option. It took around"
+      },
+      {
+        "start": 1356.8,
+        "duration": 4.64,
+        "start_formatted": "22:36",
+        "text": "20 minutes, but here is the full report."
+      },
+      {
+        "start": 1359.48,
+        "duration": 4.12,
+        "start_formatted": "22:39",
+        "text": "So, it gives me first an executive"
+      },
+      {
+        "start": 1361.44,
+        "duration": 4.44,
+        "start_formatted": "22:41",
+        "text": "summary, and then it talks about the"
+      },
+      {
+        "start": 1363.6,
+        "duration": 3.88,
+        "start_formatted": "22:43",
+        "text": "mechanisms of amyloid beta propagation,"
+      },
+      {
+        "start": 1365.88,
+        "duration": 3.4,
+        "start_formatted": "22:45",
+        "text": "which is what I specified in the prompt."
+      },
+      {
+        "start": 1367.48,
+        "duration": 3.68,
+        "start_formatted": "22:47",
+        "text": "It's jam-packed with information. Each"
+      },
+      {
+        "start": 1369.28,
+        "duration": 3.68,
+        "start_formatted": "22:49",
+        "text": "piece of data does have the correct"
+      },
+      {
+        "start": 1371.16,
+        "duration": 3.48,
+        "start_formatted": "22:51",
+        "text": "citation. And then afterwards, it gives"
+      },
+      {
+        "start": 1372.96,
+        "duration": 3.56,
+        "start_formatted": "22:52",
+        "text": "me a nice flowchart showing how"
+      },
+      {
+        "start": 1374.64,
+        "duration": 3.84,
+        "start_formatted": "22:54",
+        "text": "everything works. Afterwards, here are"
+      },
+      {
+        "start": 1376.52,
+        "duration": 4.32,
+        "start_formatted": "22:56",
+        "text": "the mechanisms of tau propagation."
+      },
+      {
+        "start": 1378.48,
+        "duration": 4.64,
+        "start_formatted": "22:58",
+        "text": "Again, super thorough and jam-packed"
+      },
+      {
+        "start": 1380.84,
+        "duration": 4.04,
+        "start_formatted": "23:00",
+        "text": "with information, all with the relevant"
+      },
+      {
+        "start": 1383.12,
+        "duration": 3.88,
+        "start_formatted": "23:03",
+        "text": "citations. And then here is section"
+      },
+      {
+        "start": 1384.88,
+        "duration": 4.04,
+        "start_formatted": "23:04",
+        "text": "three. It gives me a nice concise table"
+      },
+      {
+        "start": 1387.0,
+        "duration": 3.84,
+        "start_formatted": "23:07",
+        "text": "of all these antibodies. And then"
+      },
+      {
+        "start": 1388.92,
+        "duration": 4.0,
+        "start_formatted": "23:08",
+        "text": "afterwards, here's another nice figure"
+      },
+      {
+        "start": 1390.84,
+        "duration": 3.96,
+        "start_formatted": "23:10",
+        "text": "showing the results of all these trials."
+      },
+      {
+        "start": 1392.92,
+        "duration": 4.24,
+        "start_formatted": "23:12",
+        "text": "And then here's another table. I really"
+      },
+      {
+        "start": 1394.8,
+        "duration": 4.6,
+        "start_formatted": "23:14",
+        "text": "like the thoroughness and the amount of"
+      },
+      {
+        "start": 1397.16,
+        "duration": 3.84,
+        "start_formatted": "23:17",
+        "text": "detail that it outputs in this research"
+      },
+      {
+        "start": 1399.4,
+        "duration": 3.8,
+        "start_formatted": "23:19",
+        "text": "report. It's really hard to like"
+      },
+      {
+        "start": 1401.0,
+        "duration": 4.36,
+        "start_formatted": "23:21",
+        "text": "objectively, you know, quantify its"
+      },
+      {
+        "start": 1403.2,
+        "duration": 5.04,
+        "start_formatted": "23:23",
+        "text": "performance, but at least for me, I do"
+      },
+      {
+        "start": 1405.36,
+        "duration": 5.04,
+        "start_formatted": "23:25",
+        "text": "like its output a lot more than GPT-5.6"
+      },
+      {
+        "start": 1408.24,
+        "duration": 4.48,
+        "start_formatted": "23:28",
+        "text": "Soul, and especially Claude Fable, which"
+      },
+      {
+        "start": 1410.4,
+        "duration": 4.0,
+        "start_formatted": "23:30",
+        "text": "won't even allow me to do any biomedical"
+      },
+      {
+        "start": 1412.72,
+        "duration": 3.52,
+        "start_formatted": "23:32",
+        "text": "research. And then here's the next"
+      },
+      {
+        "start": 1414.4,
+        "duration": 4.4,
+        "start_formatted": "23:34",
+        "text": "section, critical appraisal of phase"
+      },
+      {
+        "start": 1416.24,
+        "duration": 4.24,
+        "start_formatted": "23:36",
+        "text": "three evidence, etc., etc. It gives me"
+      },
+      {
+        "start": 1418.8,
+        "duration": 3.68,
+        "start_formatted": "23:38",
+        "text": "some really nice figures plotting"
+      },
+      {
+        "start": 1420.48,
+        "duration": 4.28,
+        "start_formatted": "23:40",
+        "text": "everything out. Finally, it ends with"
+      },
+      {
+        "start": 1422.48,
+        "duration": 4.32,
+        "start_formatted": "23:42",
+        "text": "synthesis and outlook. A super thorough"
+      },
+      {
+        "start": 1424.76,
+        "duration": 3.92,
+        "start_formatted": "23:44",
+        "text": "deep research report with a ton of"
+      },
+      {
+        "start": 1426.8,
+        "duration": 3.92,
+        "start_formatted": "23:46",
+        "text": "information. This would take a human"
+      },
+      {
+        "start": 1428.68,
+        "duration": 4.2,
+        "start_formatted": "23:48",
+        "text": "like several weeks to compile all this"
+      },
+      {
+        "start": 1430.72,
+        "duration": 3.72,
+        "start_formatted": "23:50",
+        "text": "information and plot everything out, but"
+      },
+      {
+        "start": 1432.88,
+        "duration": 3.32,
+        "start_formatted": "23:52",
+        "text": "Kimi Chat 3 was able to do this in a"
+      },
+      {
+        "start": 1434.44,
+        "duration": 4.68,
+        "start_formatted": "23:54",
+        "text": "matter of minutes. All right, so those"
+      },
+      {
+        "start": 1436.2,
+        "duration": 5.88,
+        "start_formatted": "23:56",
+        "text": "were some of my tests on Kimi Chat 3. It"
+      },
+      {
+        "start": 1439.12,
+        "duration": 5.04,
+        "start_formatted": "23:59",
+        "text": "was an absolute pleasure to use, and I"
+      },
+      {
+        "start": 1442.08,
+        "duration": 3.72,
+        "start_formatted": "24:02",
+        "text": "hope you can feel the intelligence and"
+      },
+      {
+        "start": 1444.16,
+        "duration": 4.0,
+        "start_formatted": "24:04",
+        "text": "performance here. Just from the initial"
+      },
+      {
+        "start": 1445.8,
+        "duration": 5.16,
+        "start_formatted": "24:05",
+        "text": "vibe I got, this is definitely as good"
+      },
+      {
+        "start": 1448.16,
+        "duration": 4.4,
+        "start_formatted": "24:08",
+        "text": "as GPT-5.6 or even Claude Fable, and"
+      },
+      {
+        "start": 1450.96,
+        "duration": 4.6,
+        "start_formatted": "24:10",
+        "text": "definitely better than the previous"
+      },
+      {
+        "start": 1452.56,
+        "duration": 4.88,
+        "start_formatted": "24:12",
+        "text": "Claude Opus 4.8. It's just so good at"
+      },
+      {
+        "start": 1455.56,
+        "duration": 4.04,
+        "start_formatted": "24:15",
+        "text": "creating stuff and handling these really"
+      },
+      {
+        "start": 1457.44,
+        "duration": 4.24,
+        "start_formatted": "24:17",
+        "text": "long horizon tasks. It knows how to"
+      },
+      {
+        "start": 1459.6,
+        "duration": 4.24,
+        "start_formatted": "24:19",
+        "text": "check everything and verify with very"
+      },
+      {
+        "start": 1461.68,
+        "duration": 4.08,
+        "start_formatted": "24:21",
+        "text": "few errors. Next, let's go over the"
+      },
+      {
+        "start": 1463.84,
+        "duration": 4.12,
+        "start_formatted": "24:23",
+        "text": "specs and cost and performance. So,"
+      },
+      {
+        "start": 1465.76,
+        "duration": 3.52,
+        "start_formatted": "24:25",
+        "text": "first of all, this will be open source."
+      },
+      {
+        "start": 1467.96,
+        "duration": 3.48,
+        "start_formatted": "24:27",
+        "text": "They're going to release the model"
+      },
+      {
+        "start": 1469.28,
+        "duration": 5.4,
+        "start_formatted": "24:29",
+        "text": "weights later this month. And this is a"
+      },
+      {
+        "start": 1471.44,
+        "duration": 5.8,
+        "start_formatted": "24:31",
+        "text": "massive 2.8 trillion parameter model."
+      },
+      {
+        "start": 1474.68,
+        "duration": 4.64,
+        "start_formatted": "24:34",
+        "text": "It's built on their Kimi Delta Intention"
+      },
+      {
+        "start": 1477.24,
+        "duration": 4.0,
+        "start_formatted": "24:37",
+        "text": "and Attention Residuals, which is"
+      },
+      {
+        "start": 1479.32,
+        "duration": 3.88,
+        "start_formatted": "24:39",
+        "text": "actually a really fascinating concept. I"
+      },
+      {
+        "start": 1481.24,
+        "duration": 3.36,
+        "start_formatted": "24:41",
+        "text": "already covered it in this video, so see"
+      },
+      {
+        "start": 1483.2,
+        "duration": 3.32,
+        "start_formatted": "24:43",
+        "text": "this to learn more about attention"
+      },
+      {
+        "start": 1484.6,
+        "duration": 4.36,
+        "start_formatted": "24:44",
+        "text": "residuals. Anyways, back to here, this"
+      },
+      {
+        "start": 1486.52,
+        "duration": 4.72,
+        "start_formatted": "24:46",
+        "text": "also has native vision capabilities, and"
+      },
+      {
+        "start": 1488.96,
+        "duration": 3.96,
+        "start_formatted": "24:48",
+        "text": "it has a 1 million token context window,"
+      },
+      {
+        "start": 1491.24,
+        "duration": 3.36,
+        "start_formatted": "24:51",
+        "text": "which is similar to, you know, most of"
+      },
+      {
+        "start": 1492.92,
+        "duration": 3.68,
+        "start_formatted": "24:52",
+        "text": "the other frontier models. They also"
+      },
+      {
+        "start": 1494.6,
+        "duration": 3.68,
+        "start_formatted": "24:54",
+        "text": "have a million token context window."
+      },
+      {
+        "start": 1496.6,
+        "duration": 3.16,
+        "start_formatted": "24:56",
+        "text": "This is basically how much information"
+      },
+      {
+        "start": 1498.28,
+        "duration": 4.08,
+        "start_formatted": "24:58",
+        "text": "you can fit into your prompt at once,"
+      },
+      {
+        "start": 1499.76,
+        "duration": 4.44,
+        "start_formatted": "24:59",
+        "text": "and a million tokens is roughly 700,000"
+      },
+      {
+        "start": 1502.36,
+        "duration": 3.44,
+        "start_formatted": "25:02",
+        "text": "words or a small to medium-sized code"
+      },
+      {
+        "start": 1504.2,
+        "duration": 3.44,
+        "start_formatted": "25:04",
+        "text": "base. So, especially if you're working"
+      },
+      {
+        "start": 1505.8,
+        "duration": 3.44,
+        "start_formatted": "25:05",
+        "text": "with a ton of documents with a ton of"
+      },
+      {
+        "start": 1507.64,
+        "duration": 3.16,
+        "start_formatted": "25:07",
+        "text": "text or if you're working with a code"
+      },
+      {
+        "start": 1509.24,
+        "duration": 3.72,
+        "start_formatted": "25:09",
+        "text": "base with a ton of files, then this is"
+      },
+      {
+        "start": 1510.8,
+        "duration": 4.4,
+        "start_formatted": "25:10",
+        "text": "basically able to store a lot of your"
+      },
+      {
+        "start": 1512.96,
+        "duration": 3.96,
+        "start_formatted": "25:12",
+        "text": "information into its memory as context"
+      },
+      {
+        "start": 1515.2,
+        "duration": 3.08,
+        "start_formatted": "25:15",
+        "text": "to process. Now, like all of the"
+      },
+      {
+        "start": 1516.92,
+        "duration": 3.16,
+        "start_formatted": "25:16",
+        "text": "frontier models out there, this is"
+      },
+      {
+        "start": 1518.28,
+        "duration": 3.8,
+        "start_formatted": "25:18",
+        "text": "designed for long horizon coding,"
+      },
+      {
+        "start": 1520.08,
+        "duration": 4.04,
+        "start_formatted": "25:20",
+        "text": "knowledge work, and reasoning tasks. And"
+      },
+      {
+        "start": 1522.08,
+        "duration": 4.12,
+        "start_formatted": "25:22",
+        "text": "check out these benchmarks. This is"
+      },
+      {
+        "start": 1524.12,
+        "duration": 3.76,
+        "start_formatted": "25:24",
+        "text": "absolutely crazy. So, in terms of Deep"
+      },
+      {
+        "start": 1526.2,
+        "duration": 3.8,
+        "start_formatted": "25:26",
+        "text": "Swee, which is like currently the most"
+      },
+      {
+        "start": 1527.88,
+        "duration": 4.76,
+        "start_formatted": "25:27",
+        "text": "accurate measure of how good an AI model"
+      },
+      {
+        "start": 1530.0,
+        "duration": 5.08,
+        "start_formatted": "25:30",
+        "text": "is at software engineering tasks, you"
+      },
+      {
+        "start": 1532.64,
+        "duration": 6.28,
+        "start_formatted": "25:32",
+        "text": "can see that Kim i K 3 is edging really"
+      },
+      {
+        "start": 1535.08,
+        "duration": 5.88,
+        "start_formatted": "25:35",
+        "text": "close to Fable 5 and GPT 5.6. And it's a"
+      },
+      {
+        "start": 1538.92,
+        "duration": 5.04,
+        "start_formatted": "25:38",
+        "text": "massive lead compared with, you know,"
+      },
+      {
+        "start": 1540.96,
+        "duration": 5.96,
+        "start_formatted": "25:40",
+        "text": "the previous Opus 4.8 as well as the"
+      },
+      {
+        "start": 1543.96,
+        "duration": 4.96,
+        "start_formatted": "25:43",
+        "text": "next best open-source model GLM 4.2."
+      },
+      {
+        "start": 1546.92,
+        "duration": 3.76,
+        "start_formatted": "25:46",
+        "text": "This is over a 20-point lead, which is"
+      },
+      {
+        "start": 1548.92,
+        "duration": 3.88,
+        "start_formatted": "25:48",
+        "text": "crazy. And then in terms of Terminal"
+      },
+      {
+        "start": 1550.68,
+        "duration": 4.0,
+        "start_formatted": "25:50",
+        "text": "Bench, Frontier Swee, Program Bench, and"
+      },
+      {
+        "start": 1552.8,
+        "duration": 3.72,
+        "start_formatted": "25:52",
+        "text": "all these other agentic coding and"
+      },
+      {
+        "start": 1554.68,
+        "duration": 4.56,
+        "start_formatted": "25:54",
+        "text": "software engineering benchmarks, again,"
+      },
+      {
+        "start": 1556.52,
+        "duration": 4.84,
+        "start_formatted": "25:56",
+        "text": "you can see that Kim i K 3 in some cases"
+      },
+      {
+        "start": 1559.24,
+        "duration": 5.24,
+        "start_formatted": "25:59",
+        "text": "is even better than the best model out"
+      },
+      {
+        "start": 1561.36,
+        "duration": 5.48,
+        "start_formatted": "26:01",
+        "text": "there, GPT 5.6 Soul, as well as Claude's"
+      },
+      {
+        "start": 1564.48,
+        "duration": 4.64,
+        "start_formatted": "26:04",
+        "text": "best model, Fable 5. Absolutely"
+      },
+      {
+        "start": 1566.84,
+        "duration": 4.04,
+        "start_formatted": "26:06",
+        "text": "ridiculous, especially since this is"
+      },
+      {
+        "start": 1569.12,
+        "duration": 3.96,
+        "start_formatted": "26:09",
+        "text": "from an open-source model. Same with"
+      },
+      {
+        "start": 1570.88,
+        "duration": 3.8,
+        "start_formatted": "26:10",
+        "text": "like general agentic tasks, across the"
+      },
+      {
+        "start": 1573.08,
+        "duration": 4.4,
+        "start_formatted": "26:13",
+        "text": "board, it's pretty much on par with"
+      },
+      {
+        "start": 1574.68,
+        "duration": 5.08,
+        "start_formatted": "26:14",
+        "text": "Fable 5 and GPT 5.6 Soul. Like for some"
+      },
+      {
+        "start": 1577.48,
+        "duration": 5.2,
+        "start_formatted": "26:17",
+        "text": "instances, like this AI briefcase score,"
+      },
+      {
+        "start": 1579.76,
+        "duration": 4.92,
+        "start_formatted": "26:19",
+        "text": "it even beats GPT 5.6. Same with like"
+      },
+      {
+        "start": 1582.68,
+        "duration": 5.08,
+        "start_formatted": "26:22",
+        "text": "Automation Bench, Spreadsheet Bench,"
+      },
+      {
+        "start": 1584.68,
+        "duration": 5.68,
+        "start_formatted": "26:24",
+        "text": "Browse Comp, it even beats GPT 5.6 and"
+      },
+      {
+        "start": 1587.76,
+        "duration": 4.28,
+        "start_formatted": "26:27",
+        "text": "Fable 5. Same with like visual agents,"
+      },
+      {
+        "start": 1590.36,
+        "duration": 3.6,
+        "start_formatted": "26:30",
+        "text": "especially for Chart Archive, which is"
+      },
+      {
+        "start": 1592.04,
+        "duration": 4.04,
+        "start_formatted": "26:32",
+        "text": "like analyzing scientific charts and"
+      },
+      {
+        "start": 1593.96,
+        "duration": 4.08,
+        "start_formatted": "26:33",
+        "text": "figures, again, it's among the best of"
+      },
+      {
+        "start": 1596.08,
+        "duration": 3.64,
+        "start_formatted": "26:36",
+        "text": "the best models out there. And get this,"
+      },
+      {
+        "start": 1598.04,
+        "duration": 4.32,
+        "start_formatted": "26:38",
+        "text": "not only is it among the most"
+      },
+      {
+        "start": 1599.72,
+        "duration": 4.72,
+        "start_formatted": "26:39",
+        "text": "intelligent, but it's also way cheaper."
+      },
+      {
+        "start": 1602.36,
+        "duration": 4.72,
+        "start_formatted": "26:42",
+        "text": "So, here are some charts showing the"
+      },
+      {
+        "start": 1604.44,
+        "duration": 4.64,
+        "start_formatted": "26:44",
+        "text": "cost versus performance. And the x-axis"
+      },
+      {
+        "start": 1607.08,
+        "duration": 4.0,
+        "start_formatted": "26:47",
+        "text": "is the cost per task, the lower the"
+      },
+      {
+        "start": 1609.08,
+        "duration": 4.28,
+        "start_formatted": "26:49",
+        "text": "better. Ideally, you want to be in the"
+      },
+      {
+        "start": 1611.08,
+        "duration": 4.68,
+        "start_formatted": "26:51",
+        "text": "upper left corner, and as you can see,"
+      },
+      {
+        "start": 1613.36,
+        "duration": 3.92,
+        "start_formatted": "26:53",
+        "text": "Kimiko 3 is indeed located in this"
+      },
+      {
+        "start": 1615.76,
+        "duration": 3.92,
+        "start_formatted": "26:55",
+        "text": "corner, making it way more"
+      },
+      {
+        "start": 1617.28,
+        "duration": 6.48,
+        "start_formatted": "26:57",
+        "text": "cost-efficient than even Claude Mythos"
+      },
+      {
+        "start": 1619.68,
+        "duration": 6.56,
+        "start_formatted": "26:59",
+        "text": "or Opus. Kimiko 3 also has incredible 3D"
+      },
+      {
+        "start": 1623.76,
+        "duration": 4.56,
+        "start_formatted": "27:03",
+        "text": "reasoning, as you can see from my piano"
+      },
+      {
+        "start": 1626.24,
+        "duration": 4.0,
+        "start_formatted": "27:06",
+        "text": "and Blender demo. So, here are some"
+      },
+      {
+        "start": 1628.32,
+        "duration": 4.0,
+        "start_formatted": "27:08",
+        "text": "additional examples of games or"
+      },
+      {
+        "start": 1630.24,
+        "duration": 4.08,
+        "start_formatted": "27:10",
+        "text": "interactive experiences that it has"
+      },
+      {
+        "start": 1632.32,
+        "duration": 4.36,
+        "start_formatted": "27:12",
+        "text": "coded up. I got to say, in terms of"
+      },
+      {
+        "start": 1634.32,
+        "duration": 4.24,
+        "start_formatted": "27:14",
+        "text": "video game development, this is the best"
+      },
+      {
+        "start": 1636.68,
+        "duration": 3.56,
+        "start_formatted": "27:16",
+        "text": "model out there, period. I find that its"
+      },
+      {
+        "start": 1638.56,
+        "duration": 4.04,
+        "start_formatted": "27:18",
+        "text": "visual tastes are even better than"
+      },
+      {
+        "start": 1640.24,
+        "duration": 4.04,
+        "start_formatted": "27:20",
+        "text": "Claude or GPT. If you look at this"
+      },
+      {
+        "start": 1642.6,
+        "duration": 4.04,
+        "start_formatted": "27:22",
+        "text": "independent leaderboard by Artificial"
+      },
+      {
+        "start": 1644.28,
+        "duration": 4.96,
+        "start_formatted": "27:24",
+        "text": "Analysis, you can see that Kimiko 3"
+      },
+      {
+        "start": 1646.64,
+        "duration": 4.56,
+        "start_formatted": "27:26",
+        "text": "edges very close to the best GPT and the"
+      },
+      {
+        "start": 1649.24,
+        "duration": 4.16,
+        "start_formatted": "27:29",
+        "text": "best Claude. It's only like two points"
+      },
+      {
+        "start": 1651.2,
+        "duration": 4.28,
+        "start_formatted": "27:31",
+        "text": "behind the best GPT, and this is way"
+      },
+      {
+        "start": 1653.4,
+        "duration": 4.64,
+        "start_formatted": "27:33",
+        "text": "more performant than the previous best"
+      },
+      {
+        "start": 1655.48,
+        "duration": 4.56,
+        "start_formatted": "27:35",
+        "text": "open-source model GLM 5.2. And if you"
+      },
+      {
+        "start": 1658.04,
+        "duration": 4.36,
+        "start_formatted": "27:38",
+        "text": "look at the cost per task, then again,"
+      },
+      {
+        "start": 1660.04,
+        "duration": 5.2,
+        "start_formatted": "27:40",
+        "text": "Kimiko 3 is the most cost-efficient."
+      },
+      {
+        "start": 1662.4,
+        "duration": 5.44,
+        "start_formatted": "27:42",
+        "text": "It's cheaper than GPT 5.6 and way"
+      },
+      {
+        "start": 1665.24,
+        "duration": 4.2,
+        "start_formatted": "27:45",
+        "text": "cheaper than Claude Fable 5. Now, if you"
+      },
+      {
+        "start": 1667.84,
+        "duration": 2.88,
+        "start_formatted": "27:47",
+        "text": "look at this hallucination rate"
+      },
+      {
+        "start": 1669.44,
+        "duration": 4.68,
+        "start_formatted": "27:49",
+        "text": "leaderboard, then you can see that"
+      },
+      {
+        "start": 1670.72,
+        "duration": 5.72,
+        "start_formatted": "27:50",
+        "text": "Kimiko 3 gets a score of 51%. So, it"
+      },
+      {
+        "start": 1674.12,
+        "duration": 5.96,
+        "start_formatted": "27:54",
+        "text": "does hallucinate less than Claude Fable"
+      },
+      {
+        "start": 1676.44,
+        "duration": 6.44,
+        "start_formatted": "27:56",
+        "text": "5, which is 55% and GPT 5.6 Soul, which"
+      },
+      {
+        "start": 1680.08,
+        "duration": 5.52,
+        "start_formatted": "28:00",
+        "text": "is even worse. This hallucinates 89% of"
+      },
+      {
+        "start": 1682.88,
+        "duration": 5.16,
+        "start_formatted": "28:02",
+        "text": "the time from that test. So, compared to"
+      },
+      {
+        "start": 1685.6,
+        "duration": 4.2,
+        "start_formatted": "28:05",
+        "text": "Claude and GPT, Kimiko 3 is less likely"
+      },
+      {
+        "start": 1688.04,
+        "duration": 3.52,
+        "start_formatted": "28:08",
+        "text": "to hallucinate. And if you look at this"
+      },
+      {
+        "start": 1689.8,
+        "duration": 3.52,
+        "start_formatted": "28:09",
+        "text": "leaderboard by Arena, where people can"
+      },
+      {
+        "start": 1691.56,
+        "duration": 4.0,
+        "start_formatted": "28:11",
+        "text": "blind test different AI models, in terms"
+      },
+      {
+        "start": 1693.32,
+        "duration": 4.24,
+        "start_formatted": "28:13",
+        "text": "of this Code Arena, which tests AI"
+      },
+      {
+        "start": 1695.56,
+        "duration": 4.32,
+        "start_formatted": "28:15",
+        "text": "models on front-end web dev, you can see"
+      },
+      {
+        "start": 1697.56,
+        "duration": 5.52,
+        "start_formatted": "28:17",
+        "text": "that Kimiko 3 even beats Claude Fable"
+      },
+      {
+        "start": 1699.88,
+        "duration": 5.12,
+        "start_formatted": "28:19",
+        "text": "and GPT 5.6, and it leads by a huge"
+      },
+      {
+        "start": 1703.08,
+        "duration": 3.76,
+        "start_formatted": "28:23",
+        "text": "margin. Not only that, but again, if you"
+      },
+      {
+        "start": 1705.0,
+        "duration": 4.84,
+        "start_formatted": "28:25",
+        "text": "look at the price, this is way cheaper"
+      },
+      {
+        "start": 1706.84,
+        "duration": 5.28,
+        "start_formatted": "28:26",
+        "text": "than Claude or GPT. Finally, let's also"
+      },
+      {
+        "start": 1709.84,
+        "duration": 4.12,
+        "start_formatted": "28:29",
+        "text": "go over where you can use it. So, you"
+      },
+      {
+        "start": 1712.12,
+        "duration": 4.28,
+        "start_formatted": "28:32",
+        "text": "can use it on their online chat"
+      },
+      {
+        "start": 1713.96,
+        "duration": 4.2,
+        "start_formatted": "28:33",
+        "text": "interface, which is just kemi.com, or"
+      },
+      {
+        "start": 1716.4,
+        "duration": 3.76,
+        "start_formatted": "28:36",
+        "text": "you can also use it via their new"
+      },
+      {
+        "start": 1718.16,
+        "duration": 4.0,
+        "start_formatted": "28:38",
+        "text": "desktop app called Kimiko Work. This"
+      },
+      {
+        "start": 1720.16,
+        "duration": 3.88,
+        "start_formatted": "28:40",
+        "text": "basically lets you use Kimiko to work"
+      },
+      {
+        "start": 1722.16,
+        "duration": 4.4,
+        "start_formatted": "28:42",
+        "text": "with your local files. It's very similar"
+      },
+      {
+        "start": 1724.04,
+        "duration": 4.12,
+        "start_formatted": "28:44",
+        "text": "to the new ChatGPT Work, or you can also"
+      },
+      {
+        "start": 1726.56,
+        "duration": 3.2,
+        "start_formatted": "28:46",
+        "text": "use it via Kimiko"
+      },
+      {
+        "start": 1728.16,
+        "duration": 3.68,
+        "start_formatted": "28:48",
+        "text": "as I've shown you in this tutorial. You"
+      },
+      {
+        "start": 1729.76,
+        "duration": 4.0,
+        "start_formatted": "28:49",
+        "text": "can easily add it as an extension in VS"
+      },
+      {
+        "start": 1731.84,
+        "duration": 4.52,
+        "start_formatted": "28:51",
+        "text": "code. And if you're a developer, this is"
+      },
+      {
+        "start": 1733.76,
+        "duration": 4.56,
+        "start_formatted": "28:53",
+        "text": "already out via their API. And like I"
+      },
+      {
+        "start": 1736.36,
+        "duration": 3.44,
+        "start_formatted": "28:56",
+        "text": "said, this will be open source, so here"
+      },
+      {
+        "start": 1738.32,
+        "duration": 4.32,
+        "start_formatted": "28:58",
+        "text": "it says the full model weights will be"
+      },
+      {
+        "start": 1739.8,
+        "duration": 5.8,
+        "start_formatted": "28:59",
+        "text": "released by July 27th. So, that sums up"
+      },
+      {
+        "start": 1742.64,
+        "duration": 4.72,
+        "start_formatted": "29:02",
+        "text": "my review of Kimi K3. Not only is this"
+      },
+      {
+        "start": 1745.6,
+        "duration": 4.16,
+        "start_formatted": "29:05",
+        "text": "among the best of the best models out"
+      },
+      {
+        "start": 1747.36,
+        "duration": 3.84,
+        "start_formatted": "29:07",
+        "text": "there, but it's also the most cost"
+      },
+      {
+        "start": 1749.76,
+        "duration": 3.16,
+        "start_formatted": "29:09",
+        "text": "efficient, plus they're going to open"
+      },
+      {
+        "start": 1751.2,
+        "duration": 4.32,
+        "start_formatted": "29:11",
+        "text": "source this, which is crazy. You know,"
+      },
+      {
+        "start": 1752.92,
+        "duration": 4.76,
+        "start_formatted": "29:12",
+        "text": "it's kind of hilarious how over the past"
+      },
+      {
+        "start": 1755.52,
+        "duration": 4.36,
+        "start_formatted": "29:15",
+        "text": "the US government kind of suspended"
+      },
+      {
+        "start": 1757.68,
+        "duration": 4.64,
+        "start_formatted": "29:17",
+        "text": "access to the frontier models like GPT"
+      },
+      {
+        "start": 1759.88,
+        "duration": 4.56,
+        "start_formatted": "29:19",
+        "text": "5.6 and Fable over fears that it'll be"
+      },
+      {
+        "start": 1762.32,
+        "duration": 4.52,
+        "start_formatted": "29:22",
+        "text": "too dangerous, but Kimi K3 just"
+      },
+      {
+        "start": 1764.44,
+        "duration": 3.84,
+        "start_formatted": "29:24",
+        "text": "completely undermined everything. They"
+      },
+      {
+        "start": 1766.84,
+        "duration": 3.4,
+        "start_formatted": "29:26",
+        "text": "released a model with the same"
+      },
+      {
+        "start": 1768.28,
+        "duration": 3.92,
+        "start_formatted": "29:28",
+        "text": "intelligence, plus it's going to be open"
+      },
+      {
+        "start": 1770.24,
+        "duration": 3.76,
+        "start_formatted": "29:30",
+        "text": "weights, so everyone can use it. God"
+      },
+      {
+        "start": 1772.2,
+        "duration": 3.76,
+        "start_formatted": "29:32",
+        "text": "bless the Kimi team and the other open"
+      },
+      {
+        "start": 1774.0,
+        "duration": 4.2,
+        "start_formatted": "29:34",
+        "text": "source AI labs. Anyways, if you've had a"
+      },
+      {
+        "start": 1775.96,
+        "duration": 3.44,
+        "start_formatted": "29:35",
+        "text": "chance to play around with Kimi 3, let"
+      },
+      {
+        "start": 1778.2,
+        "duration": 3.52,
+        "start_formatted": "29:38",
+        "text": "me know in the comments what you think"
+      },
+      {
+        "start": 1779.4,
+        "duration": 5.32,
+        "start_formatted": "29:39",
+        "text": "of this. As always, I will be on the"
+      },
+      {
+        "start": 1781.72,
+        "duration": 4.88,
+        "start_formatted": "29:41",
+        "text": "lookout for the top AI news and tools to"
+      },
+      {
+        "start": 1784.72,
+        "duration": 3.56,
+        "start_formatted": "29:44",
+        "text": "share with you. So, if you enjoyed this"
+      },
+      {
+        "start": 1786.6,
+        "duration": 3.84,
+        "start_formatted": "29:46",
+        "text": "video, remember to like, share,"
+      },
+      {
+        "start": 1788.28,
+        "duration": 4.48,
+        "start_formatted": "29:48",
+        "text": "subscribe, and stay tuned for more"
+      },
+      {
+        "start": 1790.44,
+        "duration": 4.16,
+        "start_formatted": "29:50",
+        "text": "content. Also, there's just so much"
+      },
+      {
+        "start": 1792.76,
+        "duration": 4.24,
+        "start_formatted": "29:52",
+        "text": "happening in the world of AI every week,"
+      },
+      {
+        "start": 1794.6,
+        "duration": 4.76,
+        "start_formatted": "29:54",
+        "text": "I can't possibly cover everything on my"
+      },
+      {
+        "start": 1797.0,
+        "duration": 5.12,
+        "start_formatted": "29:57",
+        "text": "YouTube channel. So, to really stay up"
+      },
+      {
+        "start": 1799.36,
+        "duration": 5.32,
+        "start_formatted": "29:59",
+        "text": "to date with all that's going on in AI,"
+      },
+      {
+        "start": 1802.12,
+        "duration": 4.36,
+        "start_formatted": "30:02",
+        "text": "be sure to subscribe to my free weekly"
+      },
+      {
+        "start": 1804.68,
+        "duration": 3.48,
+        "start_formatted": "30:04",
+        "text": "newsletter. The link to that will be in"
+      },
+      {
+        "start": 1806.48,
+        "duration": 3.72,
+        "start_formatted": "30:06",
+        "text": "the description below. Thanks for"
+      },
+      {
+        "start": 1808.16,
+        "duration": 4.36,
+        "start_formatted": "30:08",
+        "text": "watching, and I'll see you in the next"
+      },
+      {
+        "start": 1810.2,
+        "duration": 2.32,
+        "start_formatted": "30:10",
+        "text": "one."
+      }
+    ],
+    "full_text": "Guys, this is pretty crazy. Open-source AI is no longer a few months behind the closed frontier models. Today, we have a new open-source model which is just as good. So, Moonshot AI just released their latest model, Kimmy K3. It's a massive open-source model and get this, it's right up there among the best closed models out there including GPT 5.6 and Claude Fable. Like, this is ridiculously intelligent and performant. In this video, we're going to go over all the impressive things it can do and of course I'm going to show you where and how to use it. Plus, we're going to go over its cost, specs, benchmarks, and performance against other AI models. Let's jump right in. First of all, it's important to note that all the top AI models can already do simple stuff like helping you summarize things, take notes, reply to emails, writing essays, etc. So, instead, what we're going to test are some much harder prompts that require like multiple skills, workflows, tools. I'm going to test the hell out of it on much trickier prompts. Now, there are various places you can use Kimmy K3. For example, you can just use it directly on their online chat interface. But, if you use it this way, you're not really unlocking its full potential. That's because this is designed for multi-step long horizon agentic workflows. So, basically, tasks where it can autonomously use tools and keep doing stuff for multiple steps until it achieves your goal. So, actually, a better way to use Kimmy K3 and all the frontier models is to use it through an agentic harness. Now, you could link this to Claude Code or Codex or what I like to use is their native harness called Kimmy Code. And with this, you can basically use Kimmy as an agent to work on multiple projects at once. And each project can contain multiple files and folders as you can see here, which persist locally. And with this way, you can basically have an army of agents working on different projects at the same time. Now, currently, you can use Kimmy Code using the terminal, which looks like this, which I don't really like. So, what I like to do is use it through an IDE like VS Code. So, it's super easy to install. All you need to do is go to VS Code and then click on extensions and then at the top here type in Kimiko and you should see Kimiko. So, simply click on this and then click install over here. So, afterwards you should see this Kimiko button. So, once you click on that you can open any folder and then down here is where you can chat with Kimiko. If this is too squashed for you, you can also expand the chat like this or click on this button to expand it to full width. Now, down here is where you can select K3 model and then here is where you can select the thinking mode. And then you can also click on this button to enter plan mode. So, this will just plan out its strategy and not execute anything. So, that's basically how Kimiko works. Let's start off with a really tricky prompt already. Let's get it to simulate liquid splashes with adjustable gravity and light settings. And to make this even more complicated, allow me to control movements using hand tracking via webcam. Put everything in a standalone HTML file and the most important part is do not use 3.js or any external libraries. I want to test its physics understanding. Can it code up splash physics completely from scratch? Let's press run. Now, as one of the frontier models, this is quite slow. It worked for 30 minutes. It first planned out how to carry out this task, then it's rendering this liquid splash playground. It knows to check whether that thing works, for example, by pulling up my Chrome browser and taking screenshots of the interface. And if it doesn't work, then it proceeds to troubleshoot and fix the issue until you get a fully working app. So, it did identify some issues and it proceeded to fix it and then it found a dramatic improvement. Then it's proceeding to verify the app one more time with a full test. And then afterwards, it gives me this final splash.html file. So, that's pretty much it. Let's see what it built in just one prompt. All right, so first you can see indeed we have this liquid splash simulator built completely from scratch. Let me decrease the gravity and here's what we get if we decrease the gravity. It's now floating upwards cuz gravity is a negative value. Let's increase this to like a bit closer to zero and then we can also play with viscosity. So here is really high viscosity and then here is goo and cohesion. So if I increase it, it looks like this. Very nice. Here is surface detail. So it looks like this. I can even add rain here. So let's click on rain and wow, that's pretty cool. Now I should be able to control this with my hand using webcam. So let's click on this hand button to turn on my webcam. And indeed now I can use my hand to create these liquid splashes. And while I do that, let me also try to adjust the light angle. So it looks like this if I adjust the light angle. And then here is light intensity, which looks like this. Very nice. And then also glow. It's very subtle effect. And then tint hue. So we can also change the color of the water. So anyways, there you go. Here is a fully functional liquid splash simulator with adjustable liquid settings like viscosity and cohesion and also adjustable light settings and everything just works. I can even control this with my hand movements and I coded this up all from scratch without any external libraries. This is pretty crazy for an open source model. Now as a frontier model, Kimi Cat 3 is really slow. It seems to think for a long time and be extra careful. And so here are the details for this section. So it used over 2 million input tokens and 46K output tokens. All right, next let's see if it can actually automatically help me build stuff in Blender, which if you're not familiar with this, it's like a 3D modeling tool. So first of all, in Blender I already installed and enabled this Blender MCP. So first I'm just going to click on connect to MCP server so that it's running on a local URL, which in my case is 9876. And then back in Kimi code, I'm going to write this: Use Blender MCP at this address, localhost:9876, to make me a realistic animated V8 engine. Let's press run, and it should automatically pull up Blender and start creating this V8 engine in 3D. All right, so this was a really hard task, so it took it quite a long time, around 40 minutes, but it managed to get the job done. So, it indeed pulled up Blender, and it started just making stuff in my Blender interface, building the different components of the V8 engine, and then planning the cutaway, lighting, camera, etc., etc. And then, after a ton of thinking and building, here's what we got. Indeed, it was able to make a fully animated V8 engine in Blender. In fact, let me play this, so you can see this V8 engine in action. How crazy is that? Like, it was actually able to animate everything, including the pistons, and everything just looks beautiful. And I mean, if you expand what it did, it built a ton of different components, as you can see from this list. This was incredibly complicated, but it was able to build all of this in just one prompt. How ridiculous is that? Like, if I click on each of these things, these are all separate components. The amount of details that it coded up is just absolutely insane. And then, for your reference, here is the final render. Now, this took a lot of time and work, like I said, it took around 40 minutes, and as you can see here, it took around 17 million input tokens and 152K output tokens. It's definitely slow. and plans for a long time, but it gets the job done. So, very similar to the vibes that I got from Claude Fable and GPT 5.6 Soul. All right, now, Kimi K3 is incredibly good at using multiple tools and platforms, and doing really long agentic workflows. So, here's a really complicated prompt to test this out. From the most recent Nvidia quarter financial report, I didn't even give it the link to anything, it needs to search and find the report itself. Create a video summarizing its financials and future outlook. Include a voiceover using Gemini TTS. Use HyperFrames to create the animation. I linked it to the GitHub repo, and if you're not familiar, HyperFrames is basically an open-source tool for you to code and create animations. It should be 16:9, around a minute long. Include charts, graphs, and other visuals. Use this MP3 as the background audio, and then reduce the volume so the voiceover can be heard clearly. And then afterwards, I also pasted in some documentation on how to actually use Gemini TTS. And afterwards, I also gave it my API key so it can actually generate the voice. And that's pretty much it. All right. So, it thought for a really long time. It had to download the latest NVIDIA earnings release, plus also look at how to download HyperFrames. It also had to plan out everything and then generate the voiceover using Gemini TTS. But afterwards, in just one prompt, it finished and gave me this result. So, let's open this up. >> NVIDIA just posted a record quarter, $81.6 billion in revenue, up 85% from a year ago. Revenue has climbed eight straight quarters from 44 billion to nearly 82, and the growth rate is re-accelerating, not slowing. The engine is the data center, $75.2 billion, up 92%. Within it, networking revenue >> [music] >> nearly tripled. Beyond the data center, edge computing, gaming, robotics, automotive added $6.4 billion, [music] up 29%. Profitability is just as striking. Gross margin recovered to 75% [music] and adjusted earnings per share of $1.87 are up 140%. [music] The cash machine is real, nearly 49 billion in free cash flow. 20 billion went back to shareholders, with 80 billion more in buybacks authorized. And the outlook? >> [music] >> Next quarter's guidance is 91 billion dollars, above Wall Street expectations, [music] and it assumes zero data center compute sales to China. The takeaway? A record quarter, demand still accelerating, [music] and Nvidia says the AI build-out is just getting started. >> This is pretty much perfect. Absolutely beautiful. So, you can plug in any document and get Kimi K3 to not only just generate some presentation slides, but even a full presentation video with voice-over and animated graphs and other visuals. Very, very impressive. And if I click on this section, note that this took a really long time. It did burn a ton of tokens. So, 16 million input tokens and 256k output tokens. All right, next let's test its ability to generate 3D models and animations. So, I'm going to write this. Create a beautiful 3D animated model of a grand piano, include a slider to show a smooth transition from a fully assembled piano into an exploded view, which shows the inner workings such as the strings, hammers, dampers, etc., etc. Allow pressing keys on the piano to actually play the correct notes. Use a single HTML file. Let's press run. All right, here's what we got. So, it again thought for a long time, but eventually it did give me a fully functional 3D render of a grand piano with the full 88 keys. And everything worked. The exploded view works. I could also click the notes to play it, and glissando also works. So, like just clicking and dragging across the keys as I'll show you in a second. And the really cool thing is it even added a demo button that could play the Für Elise. Now, it did give me one error, which is that the lid was not in the right place. It was just flopping on the ground instead of being propped up by the stick. So, that's what I put. And after just one more follow-up prompt, it fixed the issue. So, here's what the final render looks like. Would you look at that? This is absolutely beautiful, and let me just slide across the keys. The keys work very well. And if I zoom in on, you know, the inner workings of this and then play the piano. Notice that everything is animated properly, including the hammers, the dampers, and the strings. Now, the really cool thing is, like I said, there's a demo button for me to play the Für Elise. So, let's click on this demo and hear what it sounds like. >> [music] >> How cool is that? And then, finally, let's also explode this. So, if I press on explode, it does explode the piano into these separate sections. In fact, I can even drag the slider so you can see what this looks like. Very cool. So, in just two prompts, it was able to generate a fully working grand piano that can be played, and it even generated a Für Elise demo. >> [music] >> Really impressive. Now, let me open this session for you. So, this was actually pretty light. It only used around 400 input tokens and 5,000 output tokens. If you're constantly doing the same creative workflows over and over again, definitely check out Luma Agents by Luma AI, the sponsor of this video. It's going to save you so much time and make you way more productive. Think of Luma Agents as a team of AIs working together to autonomously carry out a creative process. You can simply upload references and prompt it with natural language to do whatever you want. For example, I can upload this image and get it to create an entire brand kit and color palette in a matter of minutes. The coolest part is their latest feature called Luma Skills. Think of it as a way to turn your best creative workflows into reusable AI tools that you can run repeatedly. I can simply prompt the agent to turn this workflow into a skill. For example, let's name this brand kit, and in the future, I can upload another image and use that skill to apply the exact same workflow as before to recreate the exact same result. Or, here's another example. I can upload this photo of a woman in a dress and get Luma Agent to create a video of this person wearing this dress and walking down a runway in a fashion show. And if I want to reuse this exact same workflow as before, I can just prompt it to save this as a skill. For example, let's name this fashion show. And afterwards, I can upload another model or another piece of clothing, and then use that skill to generate another fashion show video easily. What's really cool is you don't even have to build these skills yourself. You can just simply tell the agent what you want, and it'll generate the entire skill for you automatically. I'm especially impressed by the sharing capability. Once you've created a workflow that works well, you can instantly share it with teammates using a simple link. Entire teams can install the skill and get the exact same results without having to recreate the workflow themselves. You can even bundle multiple skills together into a package and distribute an entire creative toolkit with a single click. Whether you're creating marketing campaigns, editing videos, generating images, or building repeatable creative workflows, Luma skills and Luma agents is an absolute game changer. Try today using this QR code or the link in the description below. All right, next let's see how good it is at coding up a shooter game. Create a 3D game using 3.js. It should be a futuristic battlefield where I control a mecha warrior and shoot down waves of alien creatures attacking from the sky and ground. Third-person shooter perspective, use publicly available 3D assets. This is the part that trips up most other frontier AI models. They're not actually able to import 3D assets into my game for some reason. Make it look amazing like a pro AAA video game. All right, so it first enters plan mode, and then it plans out how to code up this game. And then afterwards, after a ton of thinking and coding, it finishes the game. And the nice thing is it also pulls up the browser to take screenshots to check that everything works. For example, here it's actually inspecting the frame and verifying that everything works. And then here it's also verifying that the mecha runs and the jet glows, the muzzle flashes, combat looks right. And then finally, it is done. So, let me spin up the game. All right, so it says I use these keys to move, I use my mouse to aim, I can use this for fire plasma cannon, space for jump jets, shift for dash. Let's press deploy. All right, here we go and I already see some enemies in the sky and you know, this actually looks like a Mecha Warrior. This looks way better than what I got from Claude Fable or the open-source JLM 5.2. And it was able to code all of this in just one prompt. I could probably add further follow-up prompts to make it look even better or add more options or features. Now again, this took quite a long time to actually code up everything. It needed to search for existing 3D models to use. It needed to plan out all the game dynamics and this took roughly 12 million input tokens and 135k output tokens. All right, next let's see how good Kimmy is at making music. I have high expectations for this because the team is quite musically inclined. In fact, throughout their designs and you know, even the names of their paid plans, there's a lot of musical influence. So, hopefully this Kimmy K3 is also good at making music. So, for my prompt, I'm going to get it to make a DAW interface with these instruments: piano, synth pluck, strings, drums, and bass. For each instrument, there should be a piano roll where I can drag and draw notes on the timeline. By default, show a powerful expressive 32-bar song rich in complexity that would win a Grammy. Include effects automation, panning, and make sure everything is mastered well. All right, here's what I got and in just one prompt, it was able to code up a nice song already, but it's kind of lacking in detail and complexity. So, I wrote add more variation and creativity. You can add more instruments if necessary. Add risers and drops. Add volume and effects automation for the tracks. Add more width. Make it sound amazing. So, afterwards, it worked for a few more minutes and here's our result. Mhm. >> [music] [music] [music] [music] [music] [music] >> It's not like a professional song. It wouldn't win a Grammy, but it's pretty good for an AI that just coded this up from scratch. It didn't even use any virtual instruments or anything like that. Notice that it includes all the settings that I specified, including reverb and delay. It even added track automation down here. It even added effects like risers and crashes. Pretty good for just two prompts. Now, let me also expand the session here, so you can see how many tokens it like 1.5 million input tokens and 35K output tokens. All right. Now, those were some examples of using Kimiko. So, you can take advantage of its agentic capabilities. But, of course, you can also just use it on their native online chat platform. So, I'm going to show you some examples of it here. Simply go to kimmi.com, which I'll link to in the description below, and here's where you can chat with it. And it's a pretty simple chat interface, just like ChatGPT. So, next, let's see if we can get it to identify cancer. I'm going to upload this image of six different scans. Each scan actually contains a type of tumor. I'm going to paste this into Kimmi, and then ask it, \"Identify the types of tumors in each of the six images, if any.\" All right, so it thought for around 10 minutes. It autonomously ran some Python codes to zoom in on each panel individually, and even within each panel, it zoomed in even more to really figure out, you know, which specific areas contain tumors. And then afterwards, here is its answer. So, number one, it identified meningioma, which is actually correct. And then number two, it said possibly leptomeningeal metastasis, which is wrong. Number three, it also said meningioma, which is wrong. Four, no tumor, which is wrong. Number five, craniopharyngioma, which is also wrong. And then number six, it said no tumor, which is also wrong. So, it got one out of six correct. Still better than the leading model out there, GPT 5.6, which got none of it correct. It just said there were no tumors. And also still better than Claude Fable, which just simply refuses to answer any biology or medical questions. So, it's not perfect. You can't really get it to identify cancer via scans yet. But, it did give me the best answer out of all the frontier models so far. All right, time for your favorite test, finding the frog. So, I'm going to upload this image. There's a frog hidden somewhere in this image. And I'm not even going to say there's a frog in this image. I'm going to ask it, \"Is there any animal or animals in this image? If so, identify and circle it.\" So, again, it autonomously pulled up some Python tools to zoom in on particular sections of the image, and then it's zooming in further and further. It's taking all these snapshots of different parts of the image, and then it's thinking really hard. It's looking through a ton of different places. It's even using some enhancement techniques. For example, it's using some sharpness and contrast to emphasize the edges a bit more, and then it keeps looking at different sections, and now it's even doing some really complex stuff like the spectral residual saliency, whatever that is. And finally, after all this analysis, it said, \"I can't find any animal in this image. As far as I can tell, it only contains dead leaves, etc., etc.\" Which is not correct. So, it could not pass the frog test. All right, next, let's test its ability to do deep research. In fact, on this online web interface, you can select this deep research option with Chemikaze 3 Max. So, let's try uh really complicated medical example. Analyze the mechanisms of this propagation in Alzheimer's disease. Contrast monoclonal antibody therapies targeting each protein, etc., etc. Include relevant tables and visualizations. Let's press run. So, it needs to search really deeply in the scientific literature and pull and synthesize relevant information, and also use tools to, you know, plot out graphs and charts and tables and give me a really comprehensive report on this specific issue. Now, it's not like the other frontier models can do this. So, this is more of a test to show you its writing style, its deep research style, and, you know, its overall vibe. For example, GPT 5.6 tends to be very short and concise, whereas Gemini seems to be a lot more verbose. All right, so this took a long time because I did enable the deep research option. It took around 20 minutes, but here is the full report. So, it gives me first an executive summary, and then it talks about the mechanisms of amyloid beta propagation, which is what I specified in the prompt. It's jam-packed with information. Each piece of data does have the correct citation. And then afterwards, it gives me a nice flowchart showing how everything works. Afterwards, here are the mechanisms of tau propagation. Again, super thorough and jam-packed with information, all with the relevant citations. And then here is section three. It gives me a nice concise table of all these antibodies. And then afterwards, here's another nice figure showing the results of all these trials. And then here's another table. I really like the thoroughness and the amount of detail that it outputs in this research report. It's really hard to like objectively, you know, quantify its performance, but at least for me, I do like its output a lot more than GPT-5.6 Soul, and especially Claude Fable, which won't even allow me to do any biomedical research. And then here's the next section, critical appraisal of phase three evidence, etc., etc. It gives me some really nice figures plotting everything out. Finally, it ends with synthesis and outlook. A super thorough deep research report with a ton of information. This would take a human like several weeks to compile all this information and plot everything out, but Kimi Chat 3 was able to do this in a matter of minutes. All right, so those were some of my tests on Kimi Chat 3. It was an absolute pleasure to use, and I hope you can feel the intelligence and performance here. Just from the initial vibe I got, this is definitely as good as GPT-5.6 or even Claude Fable, and definitely better than the previous Claude Opus 4.8. It's just so good at creating stuff and handling these really long horizon tasks. It knows how to check everything and verify with very few errors. Next, let's go over the specs and cost and performance. So, first of all, this will be open source. They're going to release the model weights later this month. And this is a massive 2.8 trillion parameter model. It's built on their Kimi Delta Intention and Attention Residuals, which is actually a really fascinating concept. I already covered it in this video, so see this to learn more about attention residuals. Anyways, back to here, this also has native vision capabilities, and it has a 1 million token context window, which is similar to, you know, most of the other frontier models. They also have a million token context window. This is basically how much information you can fit into your prompt at once, and a million tokens is roughly 700,000 words or a small to medium-sized code base. So, especially if you're working with a ton of documents with a ton of text or if you're working with a code base with a ton of files, then this is basically able to store a lot of your information into its memory as context to process. Now, like all of the frontier models out there, this is designed for long horizon coding, knowledge work, and reasoning tasks. And check out these benchmarks. This is absolutely crazy. So, in terms of Deep Swee, which is like currently the most accurate measure of how good an AI model is at software engineering tasks, you can see that Kim i K 3 is edging really close to Fable 5 and GPT 5.6. And it's a massive lead compared with, you know, the previous Opus 4.8 as well as the next best open-source model GLM 4.2. This is over a 20-point lead, which is crazy. And then in terms of Terminal Bench, Frontier Swee, Program Bench, and all these other agentic coding and software engineering benchmarks, again, you can see that Kim i K 3 in some cases is even better than the best model out there, GPT 5.6 Soul, as well as Claude's best model, Fable 5. Absolutely ridiculous, especially since this is from an open-source model. Same with like general agentic tasks, across the board, it's pretty much on par with Fable 5 and GPT 5.6 Soul. Like for some instances, like this AI briefcase score, it even beats GPT 5.6. Same with like Automation Bench, Spreadsheet Bench, Browse Comp, it even beats GPT 5.6 and Fable 5. Same with like visual agents, especially for Chart Archive, which is like analyzing scientific charts and figures, again, it's among the best of the best models out there. And get this, not only is it among the most intelligent, but it's also way cheaper. So, here are some charts showing the cost versus performance. And the x-axis is the cost per task, the lower the better. Ideally, you want to be in the upper left corner, and as you can see, Kimiko 3 is indeed located in this corner, making it way more cost-efficient than even Claude Mythos or Opus. Kimiko 3 also has incredible 3D reasoning, as you can see from my piano and Blender demo. So, here are some additional examples of games or interactive experiences that it has coded up. I got to say, in terms of video game development, this is the best model out there, period. I find that its visual tastes are even better than Claude or GPT. If you look at this independent leaderboard by Artificial Analysis, you can see that Kimiko 3 edges very close to the best GPT and the best Claude. It's only like two points behind the best GPT, and this is way more performant than the previous best open-source model GLM 5.2. And if you look at the cost per task, then again, Kimiko 3 is the most cost-efficient. It's cheaper than GPT 5.6 and way cheaper than Claude Fable 5. Now, if you look at this hallucination rate leaderboard, then you can see that Kimiko 3 gets a score of 51%. So, it does hallucinate less than Claude Fable 5, which is 55% and GPT 5.6 Soul, which is even worse. This hallucinates 89% of the time from that test. So, compared to Claude and GPT, Kimiko 3 is less likely to hallucinate. And if you look at this leaderboard by Arena, where people can blind test different AI models, in terms of this Code Arena, which tests AI models on front-end web dev, you can see that Kimiko 3 even beats Claude Fable and GPT 5.6, and it leads by a huge margin. Not only that, but again, if you look at the price, this is way cheaper than Claude or GPT. Finally, let's also go over where you can use it. So, you can use it on their online chat interface, which is just kemi.com, or you can also use it via their new desktop app called Kimiko Work. This basically lets you use Kimiko to work with your local files. It's very similar to the new ChatGPT Work, or you can also use it via Kimiko as I've shown you in this tutorial. You can easily add it as an extension in VS code. And if you're a developer, this is already out via their API. And like I said, this will be open source, so here it says the full model weights will be released by July 27th. So, that sums up my review of Kimi K3. Not only is this among the best of the best models out there, but it's also the most cost efficient, plus they're going to open source this, which is crazy. You know, it's kind of hilarious how over the past the US government kind of suspended access to the frontier models like GPT 5.6 and Fable over fears that it'll be too dangerous, but Kimi K3 just completely undermined everything. They released a model with the same intelligence, plus it's going to be open weights, so everyone can use it. God bless the Kimi team and the other open source AI labs. Anyways, if you've had a chance to play around with Kimi 3, let me know in the comments what you think of this. As always, I will be on the lookout for the top AI news and tools to share with you. So, if you enjoyed this video, remember to like, share, subscribe, and stay tuned for more content. Also, there's just so much happening in the world of AI every week, I can't possibly cover everything on my YouTube channel. So, to really stay up to date with all that's going on in AI, be sure to subscribe to my free weekly newsletter. The link to that will be in the description below. Thanks for watching, and I'll see you in the next one.",
+    "word_count": 5537,
     "error": null
   }
 }

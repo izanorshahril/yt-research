@@ -14,10 +14,4121 @@
     "video_id": "J0D7qV3nl7w",
     "has_transcript": true,
     "language": "en",
-    "is_generated": false,
-    "segments": [],
-    "full_text": "DSpark by Deepseek. Huge speed and throughput unlock. #ai #ainews #llm #agi #singularity \nThanks to our sponsor Higgsfield. Try Claude Fable with Higgsfield today: https://higgsfield.ai/s/mcp-theaisearch-pZHmcw\n\ndSpark paper: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf\ndSpark code: https://github.com/deepseek-ai/DeepSpec/\nDeepseek with dSpark: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark\nDeepseek v4 explainer: https://youtu.be/XJUpuOBpT-4\nHow AI models work: https://youtu.be/U2hZFMVNSE0\n\n00:00 dSpark intro\n01:05 Deepseek situation\n02:20 Why AI models are slow\n04:44 Speculative decoding\n7:42 The dilemma\n10:16 The fix\n11:05 Higgsfield with Claude Fable\n12:41 Markov loop\n14:50 Infra challenges\n16:29 Confidence heads\n19:33 Hardware aware algo\n21:20 Results\n23:18 Open sourced\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
-    "word_count": 0,
+    "is_generated": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "duration": 3.72,
+        "start_formatted": "00:00",
+        "text": "If you've been working with AI models,"
+      },
+      {
+        "start": 1.96,
+        "duration": 4.12,
+        "start_formatted": "00:01",
+        "text": "especially with agents that are doing"
+      },
+      {
+        "start": 3.72,
+        "duration": 4.48,
+        "start_formatted": "00:03",
+        "text": "some really challenging or long tasks,"
+      },
+      {
+        "start": 6.08,
+        "duration": 3.92,
+        "start_formatted": "00:06",
+        "text": "they take quite a while to process and"
+      },
+      {
+        "start": 8.2,
+        "duration": 3.8,
+        "start_formatted": "00:08",
+        "text": "generate your answer. It sometimes takes"
+      },
+      {
+        "start": 10.0,
+        "duration": 4.36,
+        "start_formatted": "00:10",
+        "text": "a painfully long time to wait for it to"
+      },
+      {
+        "start": 12.0,
+        "duration": 4.08,
+        "start_formatted": "00:12",
+        "text": "generate a response or finish a task."
+      },
+      {
+        "start": 14.36,
+        "duration": 3.92,
+        "start_formatted": "00:14",
+        "text": "But what if that wait basically"
+      },
+      {
+        "start": 16.08,
+        "duration": 4.12,
+        "start_formatted": "00:16",
+        "text": "disappeared? What if instead of watching"
+      },
+      {
+        "start": 18.28,
+        "duration": 4.16,
+        "start_formatted": "00:18",
+        "text": "a loading spinner, you got your answer"
+      },
+      {
+        "start": 20.2,
+        "duration": 4.32,
+        "start_formatted": "00:20",
+        "text": "back almost instantly? And what if this"
+      },
+      {
+        "start": 22.44,
+        "duration": 4.48,
+        "start_formatted": "00:22",
+        "text": "speed boost didn't cost you anything in"
+      },
+      {
+        "start": 24.52,
+        "duration": 4.52,
+        "start_formatted": "00:24",
+        "text": "quality? No shortcuts or dumbed-down"
+      },
+      {
+        "start": 26.92,
+        "duration": 4.2,
+        "start_formatted": "00:26",
+        "text": "answers. This seems way too good to be"
+      },
+      {
+        "start": 29.04,
+        "duration": 4.76,
+        "start_formatted": "00:29",
+        "text": "true, right? But the genius team at"
+      },
+      {
+        "start": 31.12,
+        "duration": 5.0,
+        "start_formatted": "00:31",
+        "text": "DeepSeek did it again. They found a way"
+      },
+      {
+        "start": 33.8,
+        "duration": 4.76,
+        "start_formatted": "00:33",
+        "text": "to push AI systems to more than six"
+      },
+      {
+        "start": 36.12,
+        "duration": 5.8,
+        "start_formatted": "00:36",
+        "text": "times the output capacity and speed"
+      },
+      {
+        "start": 38.56,
+        "duration": 5.76,
+        "start_formatted": "00:38",
+        "text": "things up by over 80% without any loss"
+      },
+      {
+        "start": 41.92,
+        "duration": 4.0,
+        "start_formatted": "00:41",
+        "text": "in quality. This seems impossible"
+      },
+      {
+        "start": 44.32,
+        "duration": 3.72,
+        "start_formatted": "00:44",
+        "text": "because usually there's a trade-off"
+      },
+      {
+        "start": 45.92,
+        "duration": 4.16,
+        "start_formatted": "00:45",
+        "text": "between speed and quality. You can't"
+      },
+      {
+        "start": 48.04,
+        "duration": 4.4,
+        "start_formatted": "00:48",
+        "text": "really have both at the same time, but"
+      },
+      {
+        "start": 50.08,
+        "duration": 4.12,
+        "start_formatted": "00:50",
+        "text": "surprisingly DeepSeek was able to pull"
+      },
+      {
+        "start": 52.44,
+        "duration": 4.0,
+        "start_formatted": "00:52",
+        "text": "this off. In this video, we're going to"
+      },
+      {
+        "start": 54.2,
+        "duration": 4.32,
+        "start_formatted": "00:54",
+        "text": "go over this breakthrough and the clever"
+      },
+      {
+        "start": 56.44,
+        "duration": 4.52,
+        "start_formatted": "00:56",
+        "text": "engineering behind it. Now, this is"
+      },
+      {
+        "start": 58.52,
+        "duration": 4.12,
+        "start_formatted": "00:58",
+        "text": "quite a technical paper, but as always,"
+      },
+      {
+        "start": 60.96,
+        "duration": 4.16,
+        "start_formatted": "01:00",
+        "text": "I'll break it down and make it easy to"
+      },
+      {
+        "start": 62.64,
+        "duration": 4.72,
+        "start_formatted": "01:02",
+        "text": "understand for everyone. Let's jump"
+      },
+      {
+        "start": 65.12,
+        "duration": 4.36,
+        "start_formatted": "01:05",
+        "text": "right in. First of all, if you haven't"
+      },
+      {
+        "start": 67.36,
+        "duration": 4.28,
+        "start_formatted": "01:07",
+        "text": "heard of DeepSeek, this is a small"
+      },
+      {
+        "start": 69.48,
+        "duration": 4.44,
+        "start_formatted": "01:09",
+        "text": "Chinese lab that's incredibly"
+      },
+      {
+        "start": 71.64,
+        "duration": 5.16,
+        "start_formatted": "01:11",
+        "text": "resource-constrained. They have like 20"
+      },
+      {
+        "start": 73.92,
+        "duration": 4.6,
+        "start_formatted": "01:13",
+        "text": "times fewer employees than OpenAI. Heck,"
+      },
+      {
+        "start": 76.8,
+        "duration": 3.92,
+        "start_formatted": "01:16",
+        "text": "they don't even have access to the top"
+      },
+      {
+        "start": 78.52,
+        "duration": 4.84,
+        "start_formatted": "01:18",
+        "text": "Nvidia GPUs out there. So, they're"
+      },
+      {
+        "start": 80.72,
+        "duration": 4.88,
+        "start_formatted": "01:20",
+        "text": "incredibly limited in terms of compute."
+      },
+      {
+        "start": 83.36,
+        "duration": 3.88,
+        "start_formatted": "01:23",
+        "text": "But the team is simply brilliant and"
+      },
+      {
+        "start": 85.6,
+        "duration": 3.28,
+        "start_formatted": "01:25",
+        "text": "relentless. In fact, they've already"
+      },
+      {
+        "start": 87.24,
+        "duration": 3.88,
+        "start_formatted": "01:27",
+        "text": "built one of the most intelligent and"
+      },
+      {
+        "start": 88.88,
+        "duration": 4.92,
+        "start_formatted": "01:28",
+        "text": "efficient open-source models out there,"
+      },
+      {
+        "start": 91.12,
+        "duration": 4.52,
+        "start_formatted": "01:31",
+        "text": "DeepSeek V4. Not only did they release"
+      },
+      {
+        "start": 93.8,
+        "duration": 4.16,
+        "start_formatted": "01:33",
+        "text": "the model, but they were also generous"
+      },
+      {
+        "start": 95.64,
+        "duration": 4.04,
+        "start_formatted": "01:35",
+        "text": "enough to reveal all the details on how"
+      },
+      {
+        "start": 97.96,
+        "duration": 3.2,
+        "start_formatted": "01:37",
+        "text": "this works. In fact, if you want to"
+      },
+      {
+        "start": 99.68,
+        "duration": 3.6,
+        "start_formatted": "01:39",
+        "text": "learn more about this, I highly"
+      },
+      {
+        "start": 101.16,
+        "duration": 5.16,
+        "start_formatted": "01:41",
+        "text": "recommend this video where I do a deep"
+      },
+      {
+        "start": 103.28,
+        "duration": 4.6,
+        "start_formatted": "01:43",
+        "text": "dive on DeepSeek V4. Anyway, because of"
+      },
+      {
+        "start": 106.32,
+        "duration": 4.04,
+        "start_formatted": "01:46",
+        "text": "their situation, because they are"
+      },
+      {
+        "start": 107.88,
+        "duration": 3.96,
+        "start_formatted": "01:47",
+        "text": "severely limited by resources, they"
+      },
+      {
+        "start": 110.36,
+        "duration": 2.88,
+        "start_formatted": "01:50",
+        "text": "can't just keep building bigger and"
+      },
+      {
+        "start": 111.84,
+        "duration": 3.44,
+        "start_formatted": "01:51",
+        "text": "bigger models. They have to be"
+      },
+      {
+        "start": 113.24,
+        "duration": 4.44,
+        "start_formatted": "01:53",
+        "text": "laser-focused on making them as"
+      },
+      {
+        "start": 115.28,
+        "duration": 4.52,
+        "start_formatted": "01:55",
+        "text": "efficient as possible. And that's why"
+      },
+      {
+        "start": 117.68,
+        "duration": 4.04,
+        "start_formatted": "01:57",
+        "text": "the publications from DeepSeek are so"
+      },
+      {
+        "start": 119.8,
+        "duration": 4.48,
+        "start_formatted": "01:59",
+        "text": "interesting. It's not just about brute"
+      },
+      {
+        "start": 121.72,
+        "duration": 4.88,
+        "start_formatted": "02:01",
+        "text": "force, but about smarter design. And a"
+      },
+      {
+        "start": 124.28,
+        "duration": 4.839,
+        "start_formatted": "02:04",
+        "text": "few days ago, they released a new system"
+      },
+      {
+        "start": 126.6,
+        "duration": 4.76,
+        "start_formatted": "02:06",
+        "text": "called DeepSpark. This claims to speed"
+      },
+      {
+        "start": 129.119,
+        "duration": 5.761,
+        "start_formatted": "02:09",
+        "text": "up AI models and increase their output"
+      },
+      {
+        "start": 131.36,
+        "duration": 5.4,
+        "start_formatted": "02:11",
+        "text": "capacity by over 600% without any cost"
+      },
+      {
+        "start": 134.88,
+        "duration": 3.92,
+        "start_formatted": "02:14",
+        "text": "in quality. That's a pretty crazy"
+      },
+      {
+        "start": 136.76,
+        "duration": 3.68,
+        "start_formatted": "02:16",
+        "text": "result. Now, before we go over this,"
+      },
+      {
+        "start": 138.8,
+        "duration": 4.36,
+        "start_formatted": "02:18",
+        "text": "it's probably helpful to first"
+      },
+      {
+        "start": 140.44,
+        "duration": 4.8,
+        "start_formatted": "02:20",
+        "text": "understand how current AI models work"
+      },
+      {
+        "start": 143.16,
+        "duration": 4.6,
+        "start_formatted": "02:23",
+        "text": "and what the bottleneck is. You see,"
+      },
+      {
+        "start": 145.24,
+        "duration": 4.6,
+        "start_formatted": "02:25",
+        "text": "when you prompt ChatGPT or Gemini or"
+      },
+      {
+        "start": 147.76,
+        "duration": 3.76,
+        "start_formatted": "02:27",
+        "text": "DeepSeek, you probably need to wait at"
+      },
+      {
+        "start": 149.84,
+        "duration": 3.88,
+        "start_formatted": "02:29",
+        "text": "least a few seconds before you get a"
+      },
+      {
+        "start": 151.52,
+        "duration": 4.04,
+        "start_formatted": "02:31",
+        "text": "response. You'll see a loading spinner"
+      },
+      {
+        "start": 153.72,
+        "duration": 4.08,
+        "start_formatted": "02:33",
+        "text": "as you wait. Well, this is because"
+      },
+      {
+        "start": 155.56,
+        "duration": 4.04,
+        "start_formatted": "02:35",
+        "text": "modern AI models generate text through a"
+      },
+      {
+        "start": 157.8,
+        "duration": 4.64,
+        "start_formatted": "02:37",
+        "text": "process called autoregressive"
+      },
+      {
+        "start": 159.6,
+        "duration": 4.76,
+        "start_formatted": "02:39",
+        "text": "generation. Basically, AI writes one"
+      },
+      {
+        "start": 162.44,
+        "duration": 3.68,
+        "start_formatted": "02:42",
+        "text": "word at a time. And to generate each"
+      },
+      {
+        "start": 164.36,
+        "duration": 3.92,
+        "start_formatted": "02:44",
+        "text": "word, it has to look at everything"
+      },
+      {
+        "start": 166.12,
+        "duration": 4.32,
+        "start_formatted": "02:46",
+        "text": "written so far. More technically"
+      },
+      {
+        "start": 168.28,
+        "duration": 5.48,
+        "start_formatted": "02:48",
+        "text": "speaking, each word has to look at how"
+      },
+      {
+        "start": 170.44,
+        "duration": 5.6,
+        "start_formatted": "02:50",
+        "text": "every previous word relates to it. Now,"
+      },
+      {
+        "start": 173.76,
+        "duration": 4.08,
+        "start_formatted": "02:53",
+        "text": "for a short sentence, that's fine. But"
+      },
+      {
+        "start": 176.04,
+        "duration": 3.56,
+        "start_formatted": "02:56",
+        "text": "imagine writing a really long report"
+      },
+      {
+        "start": 177.84,
+        "duration": 3.679,
+        "start_formatted": "02:57",
+        "text": "that's thousands of words or even"
+      },
+      {
+        "start": 179.6,
+        "duration": 4.2,
+        "start_formatted": "02:59",
+        "text": "hundreds of thousands of words. Every"
+      },
+      {
+        "start": 181.519,
+        "duration": 4.761,
+        "start_formatted": "03:01",
+        "text": "word has to look back at every previous"
+      },
+      {
+        "start": 183.8,
+        "duration": 4.12,
+        "start_formatted": "03:03",
+        "text": "word to see how it relates to itself and"
+      },
+      {
+        "start": 186.28,
+        "duration": 4.32,
+        "start_formatted": "03:06",
+        "text": "then run this through the billions of"
+      },
+      {
+        "start": 187.92,
+        "duration": 4.44,
+        "start_formatted": "03:07",
+        "text": "parameters of the AI model to process"
+      },
+      {
+        "start": 190.6,
+        "duration": 3.639,
+        "start_formatted": "03:10",
+        "text": "and generate the next word. The number"
+      },
+      {
+        "start": 192.36,
+        "duration": 4.32,
+        "start_formatted": "03:12",
+        "text": "of computations required is"
+      },
+      {
+        "start": 194.239,
+        "duration": 4.681,
+        "start_formatted": "03:14",
+        "text": "astronomical. Now, modern GPUs are"
+      },
+      {
+        "start": 196.68,
+        "duration": 4.279,
+        "start_formatted": "03:16",
+        "text": "already incredibly powerful. They're"
+      },
+      {
+        "start": 198.92,
+        "duration": 4.0,
+        "start_formatted": "03:18",
+        "text": "designed to do a ton of calculations at"
+      },
+      {
+        "start": 200.959,
+        "duration": 4.201,
+        "start_formatted": "03:20",
+        "text": "once in parallel. So, they can easily"
+      },
+      {
+        "start": 202.92,
+        "duration": 4.8,
+        "start_formatted": "03:22",
+        "text": "handle all this data flowing through"
+      },
+      {
+        "start": 205.16,
+        "duration": 4.72,
+        "start_formatted": "03:25",
+        "text": "billions of parameters of an AI model to"
+      },
+      {
+        "start": 207.72,
+        "duration": 4.44,
+        "start_formatted": "03:27",
+        "text": "generate the next word. This step is"
+      },
+      {
+        "start": 209.88,
+        "duration": 4.4,
+        "start_formatted": "03:29",
+        "text": "actually a piece of cake for the GPU."
+      },
+      {
+        "start": 212.16,
+        "duration": 4.44,
+        "start_formatted": "03:32",
+        "text": "The real slowdown isn't these"
+      },
+      {
+        "start": 214.28,
+        "duration": 4.239,
+        "start_formatted": "03:34",
+        "text": "calculations through a neural network."
+      },
+      {
+        "start": 216.6,
+        "duration": 4.04,
+        "start_formatted": "03:36",
+        "text": "It's that the chip needs to fetch all"
+      },
+      {
+        "start": 218.519,
+        "duration": 4.44,
+        "start_formatted": "03:38",
+        "text": "the saved values for the relationships"
+      },
+      {
+        "start": 220.64,
+        "duration": 4.4,
+        "start_formatted": "03:40",
+        "text": "of every single word and how it relates"
+      },
+      {
+        "start": 222.959,
+        "duration": 3.641,
+        "start_formatted": "03:42",
+        "text": "to every other word. Again, for a short"
+      },
+      {
+        "start": 225.04,
+        "duration": 3.68,
+        "start_formatted": "03:45",
+        "text": "sentence, it's fine. But if you're"
+      },
+      {
+        "start": 226.6,
+        "duration": 3.6,
+        "start_formatted": "03:46",
+        "text": "handling a ton of text and each word has"
+      },
+      {
+        "start": 228.72,
+        "duration": 3.28,
+        "start_formatted": "03:48",
+        "text": "to look back at all the other words"
+      },
+      {
+        "start": 230.2,
+        "duration": 4.04,
+        "start_formatted": "03:50",
+        "text": "before it to figure out the context of"
+      },
+      {
+        "start": 232.0,
+        "duration": 4.44,
+        "start_formatted": "03:52",
+        "text": "everything, well, that's the slow part."
+      },
+      {
+        "start": 234.24,
+        "duration": 4.48,
+        "start_formatted": "03:54",
+        "text": "It's fetching all these values from"
+      },
+      {
+        "start": 236.44,
+        "duration": 4.08,
+        "start_formatted": "03:56",
+        "text": "memory for each word. And after all"
+      },
+      {
+        "start": 238.72,
+        "duration": 4.08,
+        "start_formatted": "03:58",
+        "text": "these values are fetched, then this data"
+      },
+      {
+        "start": 240.52,
+        "duration": 4.4,
+        "start_formatted": "04:00",
+        "text": "can be passed through the neural network"
+      },
+      {
+        "start": 242.8,
+        "duration": 3.88,
+        "start_formatted": "04:02",
+        "text": "to process. And here the GPU can process"
+      },
+      {
+        "start": 244.92,
+        "duration": 3.24,
+        "start_formatted": "04:04",
+        "text": "everything very quickly. It's just like"
+      },
+      {
+        "start": 246.68,
+        "duration": 4.08,
+        "start_formatted": "04:06",
+        "text": "a tiny burst of work to spit out the"
+      },
+      {
+        "start": 248.16,
+        "duration": 4.32,
+        "start_formatted": "04:08",
+        "text": "next word. But then it sits idle again"
+      },
+      {
+        "start": 250.76,
+        "duration": 3.76,
+        "start_formatted": "04:10",
+        "text": "waiting for the next batch of values to"
+      },
+      {
+        "start": 252.48,
+        "duration": 4.4,
+        "start_formatted": "04:12",
+        "text": "be fetched from memory. And because AI"
+      },
+      {
+        "start": 254.52,
+        "duration": 4.6,
+        "start_formatted": "04:14",
+        "text": "models are designed to generate only one"
+      },
+      {
+        "start": 256.88,
+        "duration": 4.079,
+        "start_formatted": "04:16",
+        "text": "word at a time, you can't begin"
+      },
+      {
+        "start": 259.12,
+        "duration": 4.84,
+        "start_formatted": "04:19",
+        "text": "calculating things for the next word"
+      },
+      {
+        "start": 260.959,
+        "duration": 5.281,
+        "start_formatted": "04:20",
+        "text": "until previous word has been generated"
+      },
+      {
+        "start": 263.96,
+        "duration": 4.28,
+        "start_formatted": "04:23",
+        "text": "and confirmed. And this actually creates"
+      },
+      {
+        "start": 266.24,
+        "duration": 3.6,
+        "start_formatted": "04:26",
+        "text": "a direct relationship between the length"
+      },
+      {
+        "start": 268.24,
+        "duration": 3.76,
+        "start_formatted": "04:28",
+        "text": "of the response and the time it takes to"
+      },
+      {
+        "start": 269.84,
+        "duration": 3.96,
+        "start_formatted": "04:29",
+        "text": "generate it. In other words, the longer"
+      },
+      {
+        "start": 272.0,
+        "duration": 3.4,
+        "start_formatted": "04:32",
+        "text": "the answer, the longer it'll take to"
+      },
+      {
+        "start": 273.8,
+        "duration": 3.36,
+        "start_formatted": "04:33",
+        "text": "generate because it needs to generate"
+      },
+      {
+        "start": 275.4,
+        "duration": 3.2,
+        "start_formatted": "04:35",
+        "text": "everything one word at a time and for"
+      },
+      {
+        "start": 277.16,
+        "duration": 3.44,
+        "start_formatted": "04:37",
+        "text": "each word it has to look at all the"
+      },
+      {
+        "start": 278.6,
+        "duration": 4.6,
+        "start_formatted": "04:38",
+        "text": "relationships of every other word before"
+      },
+      {
+        "start": 280.6,
+        "duration": 5.16,
+        "start_formatted": "04:40",
+        "text": "it. Now, of course, the industry is"
+      },
+      {
+        "start": 283.2,
+        "duration": 4.8,
+        "start_formatted": "04:43",
+        "text": "aware of this massive inefficiency and"
+      },
+      {
+        "start": 285.76,
+        "duration": 4.36,
+        "start_formatted": "04:45",
+        "text": "there are workarounds for this. In fact,"
+      },
+      {
+        "start": 288.0,
+        "duration": 3.72,
+        "start_formatted": "04:48",
+        "text": "the current gold standard for speeding"
+      },
+      {
+        "start": 290.12,
+        "duration": 4.0,
+        "start_formatted": "04:50",
+        "text": "up generation is something called"
+      },
+      {
+        "start": 291.72,
+        "duration": 4.4,
+        "start_formatted": "04:51",
+        "text": "speculative decoding. And the idea here"
+      },
+      {
+        "start": 294.12,
+        "duration": 4.16,
+        "start_formatted": "04:54",
+        "text": "is surprisingly simple. Instead of"
+      },
+      {
+        "start": 296.12,
+        "duration": 4.64,
+        "start_formatted": "04:56",
+        "text": "having a large model slowly generate"
+      },
+      {
+        "start": 298.28,
+        "duration": 5.08,
+        "start_formatted": "04:58",
+        "text": "every word one at a time, you use a"
+      },
+      {
+        "start": 300.76,
+        "duration": 5.0,
+        "start_formatted": "05:00",
+        "text": "faster, smaller model to guess several"
+      },
+      {
+        "start": 303.36,
+        "duration": 4.4,
+        "start_formatted": "05:03",
+        "text": "words ahead. Then the big model just"
+      },
+      {
+        "start": 305.76,
+        "duration": 4.0,
+        "start_formatted": "05:05",
+        "text": "checks those guesses. If the guesses are"
+      },
+      {
+        "start": 307.76,
+        "duration": 4.08,
+        "start_formatted": "05:07",
+        "text": "good, the large model can accept"
+      },
+      {
+        "start": 309.76,
+        "duration": 4.159,
+        "start_formatted": "05:09",
+        "text": "multiple words at once instead of"
+      },
+      {
+        "start": 311.84,
+        "duration": 4.48,
+        "start_formatted": "05:11",
+        "text": "producing them one at a time. Here's an"
+      },
+      {
+        "start": 313.919,
+        "duration": 4.881,
+        "start_formatted": "05:13",
+        "text": "easy analogy to understand this. Imagine"
+      },
+      {
+        "start": 316.32,
+        "duration": 4.44,
+        "start_formatted": "05:16",
+        "text": "at work there's a brilliant senior boss."
+      },
+      {
+        "start": 318.8,
+        "duration": 4.08,
+        "start_formatted": "05:18",
+        "text": "This dude's pretty smart and every final"
+      },
+      {
+        "start": 320.76,
+        "duration": 4.48,
+        "start_formatted": "05:20",
+        "text": "decision has to go through him, but"
+      },
+      {
+        "start": 322.88,
+        "duration": 4.92,
+        "start_formatted": "05:22",
+        "text": "there's just one problem. His time is"
+      },
+      {
+        "start": 325.24,
+        "duration": 5.04,
+        "start_formatted": "05:25",
+        "text": "very expensive. He's also really slow."
+      },
+      {
+        "start": 327.8,
+        "duration": 4.56,
+        "start_formatted": "05:27",
+        "text": "He insists on writing every single word"
+      },
+      {
+        "start": 330.28,
+        "duration": 4.44,
+        "start_formatted": "05:30",
+        "text": "one at a time. Well, this senior boss is"
+      },
+      {
+        "start": 332.36,
+        "duration": 4.4,
+        "start_formatted": "05:32",
+        "text": "like the full AI model. It's intelligent"
+      },
+      {
+        "start": 334.72,
+        "duration": 4.12,
+        "start_formatted": "05:34",
+        "text": "and we trust it to produce a good"
+      },
+      {
+        "start": 336.76,
+        "duration": 4.24,
+        "start_formatted": "05:36",
+        "text": "answer, but it's just really slow and"
+      },
+      {
+        "start": 338.84,
+        "duration": 4.36,
+        "start_formatted": "05:38",
+        "text": "expensive to use. So, to speed things"
+      },
+      {
+        "start": 341.0,
+        "duration": 4.4,
+        "start_formatted": "05:41",
+        "text": "up, the company hires an intern. The"
+      },
+      {
+        "start": 343.2,
+        "duration": 4.56,
+        "start_formatted": "05:43",
+        "text": "intern is like a tiny lightweight AI"
+      },
+      {
+        "start": 345.4,
+        "duration": 4.52,
+        "start_formatted": "05:45",
+        "text": "model. He's not as smart as the boss, he"
+      },
+      {
+        "start": 347.76,
+        "duration": 4.52,
+        "start_formatted": "05:47",
+        "text": "misses details and sometimes chooses the"
+      },
+      {
+        "start": 349.92,
+        "duration": 4.4,
+        "start_formatted": "05:49",
+        "text": "wrong words, but he works extremely"
+      },
+      {
+        "start": 352.28,
+        "duration": 4.0,
+        "start_formatted": "05:52",
+        "text": "fast. And here's how speculative"
+      },
+      {
+        "start": 354.32,
+        "duration": 3.48,
+        "start_formatted": "05:54",
+        "text": "decoding works. Instead of asking the"
+      },
+      {
+        "start": 356.28,
+        "duration": 3.84,
+        "start_formatted": "05:56",
+        "text": "boss to write everything, you actually"
+      },
+      {
+        "start": 357.8,
+        "duration": 4.84,
+        "start_formatted": "05:57",
+        "text": "get the intern to quickly draft a chunk"
+      },
+      {
+        "start": 360.12,
+        "duration": 4.72,
+        "start_formatted": "06:00",
+        "text": "of text in advance, maybe five to 10"
+      },
+      {
+        "start": 362.64,
+        "duration": 4.52,
+        "start_formatted": "06:02",
+        "text": "words. The intern hands this draft to"
+      },
+      {
+        "start": 364.84,
+        "duration": 4.28,
+        "start_formatted": "06:04",
+        "text": "the boss, and now the boss doesn't have"
+      },
+      {
+        "start": 367.16,
+        "duration": 4.36,
+        "start_formatted": "06:07",
+        "text": "to check words one by one. He can just"
+      },
+      {
+        "start": 369.12,
+        "duration": 5.16,
+        "start_formatted": "06:09",
+        "text": "verify all the words simultaneously in"
+      },
+      {
+        "start": 371.52,
+        "duration": 5.2,
+        "start_formatted": "06:11",
+        "text": "parallel. In AI terms, the large model"
+      },
+      {
+        "start": 374.28,
+        "duration": 5.16,
+        "start_formatted": "06:14",
+        "text": "can check several guessed words from the"
+      },
+      {
+        "start": 376.72,
+        "duration": 4.84,
+        "start_formatted": "06:16",
+        "text": "smaller model at once because GPUs are"
+      },
+      {
+        "start": 379.44,
+        "duration": 4.32,
+        "start_formatted": "06:19",
+        "text": "built for parallel work. So, instead of"
+      },
+      {
+        "start": 381.56,
+        "duration": 4.04,
+        "start_formatted": "06:21",
+        "text": "using the big model to slowly write one"
+      },
+      {
+        "start": 383.76,
+        "duration": 4.2,
+        "start_formatted": "06:23",
+        "text": "word at a time, we just use the small"
+      },
+      {
+        "start": 385.6,
+        "duration": 4.44,
+        "start_formatted": "06:25",
+        "text": "model to guess several words. And then"
+      },
+      {
+        "start": 387.96,
+        "duration": 5.16,
+        "start_formatted": "06:27",
+        "text": "we use the big model to check its"
+      },
+      {
+        "start": 390.04,
+        "duration": 5.24,
+        "start_formatted": "06:30",
+        "text": "response all at once. But what happens"
+      },
+      {
+        "start": 393.12,
+        "duration": 4.88,
+        "start_formatted": "06:33",
+        "text": "if the intern makes a mistake? Well, the"
+      },
+      {
+        "start": 395.28,
+        "duration": 4.76,
+        "start_formatted": "06:35",
+        "text": "system uses a technique called rejection"
+      },
+      {
+        "start": 398.0,
+        "duration": 4.56,
+        "start_formatted": "06:38",
+        "text": "sampling. The bigger model scans the"
+      },
+      {
+        "start": 400.04,
+        "duration": 4.52,
+        "start_formatted": "06:40",
+        "text": "intern's draft left to right and accepts"
+      },
+      {
+        "start": 402.56,
+        "duration": 4.32,
+        "start_formatted": "06:42",
+        "text": "all the words that align. But if the"
+      },
+      {
+        "start": 404.56,
+        "duration": 4.16,
+        "start_formatted": "06:44",
+        "text": "intern messes up on a certain word, the"
+      },
+      {
+        "start": 406.88,
+        "duration": 4.0,
+        "start_formatted": "06:46",
+        "text": "boss pulls out a red pen and rejects"
+      },
+      {
+        "start": 408.72,
+        "duration": 4.0,
+        "start_formatted": "06:48",
+        "text": "that word and everything after it. Then"
+      },
+      {
+        "start": 410.88,
+        "duration": 3.52,
+        "start_formatted": "06:50",
+        "text": "the intern starts again from there and"
+      },
+      {
+        "start": 412.72,
+        "duration": 3.88,
+        "start_formatted": "06:52",
+        "text": "drafts the next chunk for the boss to"
+      },
+      {
+        "start": 414.4,
+        "duration": 4.4,
+        "start_formatted": "06:54",
+        "text": "review again. This is basically how"
+      },
+      {
+        "start": 416.6,
+        "duration": 4.44,
+        "start_formatted": "06:56",
+        "text": "speculative decoding works. The small"
+      },
+      {
+        "start": 418.8,
+        "duration": 4.08,
+        "start_formatted": "06:58",
+        "text": "model guesses ahead, the large model"
+      },
+      {
+        "start": 421.04,
+        "duration": 4.08,
+        "start_formatted": "07:01",
+        "text": "checks the draft and accepts the correct"
+      },
+      {
+        "start": 422.88,
+        "duration": 4.6,
+        "start_formatted": "07:02",
+        "text": "words. If the word is wrong, everything"
+      },
+      {
+        "start": 425.12,
+        "duration": 4.32,
+        "start_formatted": "07:05",
+        "text": "else after it is rejected and the"
+      },
+      {
+        "start": 427.48,
+        "duration": 4.48,
+        "start_formatted": "07:07",
+        "text": "smaller model starts from there. And the"
+      },
+      {
+        "start": 429.44,
+        "duration": 4.96,
+        "start_formatted": "07:09",
+        "text": "process repeats again and again. The"
+      },
+      {
+        "start": 431.96,
+        "duration": 4.72,
+        "start_formatted": "07:11",
+        "text": "important part is that the big model"
+      },
+      {
+        "start": 434.4,
+        "duration": 4.84,
+        "start_formatted": "07:14",
+        "text": "always has the final say. That's why"
+      },
+      {
+        "start": 436.68,
+        "duration": 4.44,
+        "start_formatted": "07:16",
+        "text": "speculative decoding can be a lossless."
+      },
+      {
+        "start": 439.24,
+        "duration": 3.8,
+        "start_formatted": "07:19",
+        "text": "Having a smaller model doesn't mean its"
+      },
+      {
+        "start": 441.12,
+        "duration": 3.76,
+        "start_formatted": "07:21",
+        "text": "answer is dumber. It doesn't mean we're"
+      },
+      {
+        "start": 443.04,
+        "duration": 4.0,
+        "start_formatted": "07:23",
+        "text": "lowering the quality of the output"
+      },
+      {
+        "start": 444.88,
+        "duration": 4.32,
+        "start_formatted": "07:24",
+        "text": "because ultimately the final answer"
+      },
+      {
+        "start": 447.04,
+        "duration": 4.52,
+        "start_formatted": "07:27",
+        "text": "still comes from the large model's"
+      },
+      {
+        "start": 449.2,
+        "duration": 4.56,
+        "start_formatted": "07:29",
+        "text": "decision. We're just using a small model"
+      },
+      {
+        "start": 451.56,
+        "duration": 4.2,
+        "start_formatted": "07:31",
+        "text": "to help it write faster. But the output"
+      },
+      {
+        "start": 453.76,
+        "duration": 4.44,
+        "start_formatted": "07:33",
+        "text": "quality is the same as if the large"
+      },
+      {
+        "start": 455.76,
+        "duration": 4.68,
+        "start_formatted": "07:35",
+        "text": "model had written everything itself. So,"
+      },
+      {
+        "start": 458.2,
+        "duration": 4.08,
+        "start_formatted": "07:38",
+        "text": "in a nutshell, that is speculative"
+      },
+      {
+        "start": 460.44,
+        "duration": 4.0,
+        "start_formatted": "07:40",
+        "text": "decoding. And while this is one of the"
+      },
+      {
+        "start": 462.28,
+        "duration": 4.68,
+        "start_formatted": "07:42",
+        "text": "standard ways to speed up AI models,"
+      },
+      {
+        "start": 464.44,
+        "duration": 4.6,
+        "start_formatted": "07:44",
+        "text": "there's currently a huge dilemma that"
+      },
+      {
+        "start": 466.96,
+        "duration": 4.28,
+        "start_formatted": "07:46",
+        "text": "this idea faces. You see, the main"
+      },
+      {
+        "start": 469.04,
+        "duration": 4.72,
+        "start_formatted": "07:49",
+        "text": "problem is that these interns, or the"
+      },
+      {
+        "start": 471.24,
+        "duration": 5.12,
+        "start_formatted": "07:51",
+        "text": "smaller models, are deeply flawed, and"
+      },
+      {
+        "start": 473.76,
+        "duration": 4.36,
+        "start_formatted": "07:53",
+        "text": "they fail in completely opposite ways."
+      },
+      {
+        "start": 476.36,
+        "duration": 4.28,
+        "start_formatted": "07:56",
+        "text": "So, let's go over this problem. There"
+      },
+      {
+        "start": 478.12,
+        "duration": 5.08,
+        "start_formatted": "07:58",
+        "text": "are basically two kinds of interns. One"
+      },
+      {
+        "start": 480.64,
+        "duration": 4.88,
+        "start_formatted": "08:00",
+        "text": "is careful and slow, and other is fast,"
+      },
+      {
+        "start": 483.2,
+        "duration": 5.0,
+        "start_formatted": "08:03",
+        "text": "but unreliable. You see, the first type"
+      },
+      {
+        "start": 485.52,
+        "duration": 4.52,
+        "start_formatted": "08:05",
+        "text": "is called an auto-regressive drafter."
+      },
+      {
+        "start": 488.2,
+        "duration": 3.96,
+        "start_formatted": "08:08",
+        "text": "This works almost the same way as the"
+      },
+      {
+        "start": 490.04,
+        "duration": 4.2,
+        "start_formatted": "08:10",
+        "text": "big model. It predicts one word at a"
+      },
+      {
+        "start": 492.16,
+        "duration": 4.32,
+        "start_formatted": "08:12",
+        "text": "time. It generates word one, then word"
+      },
+      {
+        "start": 494.24,
+        "duration": 4.88,
+        "start_formatted": "08:14",
+        "text": "two, then word three, and it keeps going"
+      },
+      {
+        "start": 496.48,
+        "duration": 5.439,
+        "start_formatted": "08:16",
+        "text": "step-by-step. The advantage here is that"
+      },
+      {
+        "start": 499.12,
+        "duration": 5.48,
+        "start_formatted": "08:19",
+        "text": "each new word knows what came before it."
+      },
+      {
+        "start": 501.919,
+        "duration": 5.521,
+        "start_formatted": "08:21",
+        "text": "So, it's less likely to get the draft"
+      },
+      {
+        "start": 504.6,
+        "duration": 4.72,
+        "start_formatted": "08:24",
+        "text": "wrong. The output quality is higher, but"
+      },
+      {
+        "start": 507.44,
+        "duration": 4.32,
+        "start_formatted": "08:27",
+        "text": "because it's generating this one word at"
+      },
+      {
+        "start": 509.32,
+        "duration": 4.36,
+        "start_formatted": "08:29",
+        "text": "a time, it's also slow. The longer the"
+      },
+      {
+        "start": 511.76,
+        "duration": 3.92,
+        "start_formatted": "08:31",
+        "text": "draft, the longer it takes for it to"
+      },
+      {
+        "start": 513.68,
+        "duration": 4.68,
+        "start_formatted": "08:33",
+        "text": "generate. Well, the second type of"
+      },
+      {
+        "start": 515.68,
+        "duration": 5.12,
+        "start_formatted": "08:35",
+        "text": "intern is called a parallel drafter."
+      },
+      {
+        "start": 518.36,
+        "duration": 4.32,
+        "start_formatted": "08:38",
+        "text": "This is a lot more aggressive. Instead"
+      },
+      {
+        "start": 520.8,
+        "duration": 4.0,
+        "start_formatted": "08:40",
+        "text": "of outputting words one at a time, it"
+      },
+      {
+        "start": 522.68,
+        "duration": 4.2,
+        "start_formatted": "08:42",
+        "text": "predicts an entire block of words at"
+      },
+      {
+        "start": 524.8,
+        "duration": 4.4,
+        "start_formatted": "08:44",
+        "text": "once. For example, you can get it to"
+      },
+      {
+        "start": 526.88,
+        "duration": 4.92,
+        "start_formatted": "08:46",
+        "text": "output multiple words in just a single"
+      },
+      {
+        "start": 529.2,
+        "duration": 4.76,
+        "start_formatted": "08:49",
+        "text": "pass, and this makes it way faster. It's"
+      },
+      {
+        "start": 531.8,
+        "duration": 4.44,
+        "start_formatted": "08:51",
+        "text": "guessing the first word at the same time"
+      },
+      {
+        "start": 533.96,
+        "duration": 4.879,
+        "start_formatted": "08:53",
+        "text": "that it guesses the last word. This also"
+      },
+      {
+        "start": 536.24,
+        "duration": 4.84,
+        "start_formatted": "08:56",
+        "text": "works well because, well, GPUs are built"
+      },
+      {
+        "start": 538.839,
+        "duration": 4.121,
+        "start_formatted": "08:58",
+        "text": "for parallel work. So, a parallel"
+      },
+      {
+        "start": 541.08,
+        "duration": 3.96,
+        "start_formatted": "09:01",
+        "text": "drafter can use more of the hardware"
+      },
+      {
+        "start": 542.96,
+        "duration": 4.04,
+        "start_formatted": "09:02",
+        "text": "efficiently. Now, this sounds great,"
+      },
+      {
+        "start": 545.04,
+        "duration": 4.48,
+        "start_formatted": "09:05",
+        "text": "right? But, there's actually a hidden"
+      },
+      {
+        "start": 547.0,
+        "duration": 4.52,
+        "start_formatted": "09:07",
+        "text": "weakness. Because it predicts all these"
+      },
+      {
+        "start": 549.52,
+        "duration": 4.12,
+        "start_formatted": "09:09",
+        "text": "words at the same time, it doesn't get"
+      },
+      {
+        "start": 551.52,
+        "duration": 4.52,
+        "start_formatted": "09:11",
+        "text": "to naturally build the sentence"
+      },
+      {
+        "start": 553.64,
+        "duration": 4.8,
+        "start_formatted": "09:13",
+        "text": "step-by-step. It suffers from something"
+      },
+      {
+        "start": 556.04,
+        "duration": 4.76,
+        "start_formatted": "09:16",
+        "text": "called suffix decay. Here's an example"
+      },
+      {
+        "start": 558.44,
+        "duration": 5.04,
+        "start_formatted": "09:18",
+        "text": "of what this is. Imagine the model is"
+      },
+      {
+        "start": 560.8,
+        "duration": 4.44,
+        "start_formatted": "09:20",
+        "text": "trying to agree with the user. Because"
+      },
+      {
+        "start": 563.48,
+        "duration": 3.44,
+        "start_formatted": "09:23",
+        "text": "there are many ways to express the same"
+      },
+      {
+        "start": 565.24,
+        "duration": 3.84,
+        "start_formatted": "09:25",
+        "text": "thing in natural language, it could"
+      },
+      {
+        "start": 566.92,
+        "duration": 5.04,
+        "start_formatted": "09:26",
+        "text": "output, \"Of course.\" Or, it could also"
+      },
+      {
+        "start": 569.08,
+        "duration": 5.04,
+        "start_formatted": "09:29",
+        "text": "say, \"No problem.\" Both are valid. But,"
+      },
+      {
+        "start": 571.96,
+        "duration": 4.68,
+        "start_formatted": "09:31",
+        "text": "for a parallel model, because it's"
+      },
+      {
+        "start": 574.12,
+        "duration": 4.56,
+        "start_formatted": "09:34",
+        "text": "generating both words at the same time,"
+      },
+      {
+        "start": 576.64,
+        "duration": 4.04,
+        "start_formatted": "09:36",
+        "text": "instead of sequentially, there is a"
+      },
+      {
+        "start": 578.68,
+        "duration": 5.44,
+        "start_formatted": "09:38",
+        "text": "chance that it could output a messed-up"
+      },
+      {
+        "start": 580.68,
+        "duration": 5.36,
+        "start_formatted": "09:40",
+        "text": "answer like of problem or no course. And"
+      },
+      {
+        "start": 584.12,
+        "duration": 4.12,
+        "start_formatted": "09:44",
+        "text": "here, it's just a very simple two-word"
+      },
+      {
+        "start": 586.04,
+        "duration": 4.16,
+        "start_formatted": "09:46",
+        "text": "example, but as the draft gets longer"
+      },
+      {
+        "start": 588.24,
+        "duration": 4.64,
+        "start_formatted": "09:48",
+        "text": "and longer, and there are more words in"
+      },
+      {
+        "start": 590.2,
+        "duration": 4.84,
+        "start_formatted": "09:50",
+        "text": "it, this gets even worse. The first few"
+      },
+      {
+        "start": 592.88,
+        "duration": 5.12,
+        "start_formatted": "09:52",
+        "text": "words might be fine, but later words are"
+      },
+      {
+        "start": 595.04,
+        "duration": 5.76,
+        "start_formatted": "09:55",
+        "text": "often always messed up. So, this is the"
+      },
+      {
+        "start": 598.0,
+        "duration": 4.8,
+        "start_formatted": "09:58",
+        "text": "suffix decay problem. To sum things up,"
+      },
+      {
+        "start": 600.8,
+        "duration": 3.72,
+        "start_formatted": "10:00",
+        "text": "here's the dilemma we're facing. There's"
+      },
+      {
+        "start": 602.8,
+        "duration": 3.92,
+        "start_formatted": "10:02",
+        "text": "currently no good solution for"
+      },
+      {
+        "start": 604.52,
+        "duration": 4.24,
+        "start_formatted": "10:04",
+        "text": "speculative decoding, because one type"
+      },
+      {
+        "start": 606.72,
+        "duration": 4.28,
+        "start_formatted": "10:06",
+        "text": "of drafter is very careful, but very"
+      },
+      {
+        "start": 608.76,
+        "duration": 5.16,
+        "start_formatted": "10:08",
+        "text": "slow. Another type of drafter is very"
+      },
+      {
+        "start": 611.0,
+        "duration": 4.52,
+        "start_formatted": "10:11",
+        "text": "fast, but it has a lot of errors. And we"
+      },
+      {
+        "start": 613.92,
+        "duration": 3.64,
+        "start_formatted": "10:13",
+        "text": "currently don't really have any solution"
+      },
+      {
+        "start": 615.52,
+        "duration": 4.52,
+        "start_formatted": "10:15",
+        "text": "to this. Well, that's exactly what"
+      },
+      {
+        "start": 617.56,
+        "duration": 4.32,
+        "start_formatted": "10:17",
+        "text": "DeepSeek aimed to solve in this paper."
+      },
+      {
+        "start": 620.04,
+        "duration": 4.2,
+        "start_formatted": "10:20",
+        "text": "So, they proposed a system called"
+      },
+      {
+        "start": 621.88,
+        "duration": 4.48,
+        "start_formatted": "10:21",
+        "text": "DeepSpark, and the design is quite"
+      },
+      {
+        "start": 624.24,
+        "duration": 4.96,
+        "start_formatted": "10:24",
+        "text": "genius. Here's how it works. So, they"
+      },
+      {
+        "start": 626.36,
+        "duration": 4.72,
+        "start_formatted": "10:26",
+        "text": "took the parallel intern and built on"
+      },
+      {
+        "start": 629.2,
+        "duration": 3.68,
+        "start_formatted": "10:29",
+        "text": "top of that. Remember, this parallel"
+      },
+      {
+        "start": 631.08,
+        "duration": 4.08,
+        "start_formatted": "10:31",
+        "text": "intern can basically predict multiple"
+      },
+      {
+        "start": 632.88,
+        "duration": 5.56,
+        "start_formatted": "10:32",
+        "text": "words at once, so this is really fast,"
+      },
+      {
+        "start": 635.16,
+        "duration": 5.28,
+        "start_formatted": "10:35",
+        "text": "but it's also extremely prone to error."
+      },
+      {
+        "start": 638.44,
+        "duration": 4.52,
+        "start_formatted": "10:38",
+        "text": "Well, DeepSeek added something on top of"
+      },
+      {
+        "start": 640.44,
+        "duration": 4.92,
+        "start_formatted": "10:40",
+        "text": "that. They introduced a tiny, incredibly"
+      },
+      {
+        "start": 642.96,
+        "duration": 4.68,
+        "start_formatted": "10:42",
+        "text": "lightweight loop that iterates one"
+      },
+      {
+        "start": 645.36,
+        "duration": 4.6,
+        "start_formatted": "10:45",
+        "text": "position at a time. It's like having a"
+      },
+      {
+        "start": 647.64,
+        "duration": 4.64,
+        "start_formatted": "10:47",
+        "text": "hyper-fast editor sitting next to the"
+      },
+      {
+        "start": 649.96,
+        "duration": 4.28,
+        "start_formatted": "10:49",
+        "text": "intern, just lightly nudging them in the"
+      },
+      {
+        "start": 652.28,
+        "duration": 4.0,
+        "start_formatted": "10:52",
+        "text": "right direction. For example, if it"
+      },
+      {
+        "start": 654.24,
+        "duration": 4.92,
+        "start_formatted": "10:54",
+        "text": "typed the word of, then it's going to"
+      },
+      {
+        "start": 656.28,
+        "duration": 5.0,
+        "start_formatted": "10:56",
+        "text": "bias the next word towards course. Or if"
+      },
+      {
+        "start": 659.16,
+        "duration": 4.679,
+        "start_formatted": "10:59",
+        "text": "it typed no, then it's going to bias the"
+      },
+      {
+        "start": 661.28,
+        "duration": 4.96,
+        "start_formatted": "11:01",
+        "text": "next generation towards problem. Claude"
+      },
+      {
+        "start": 663.839,
+        "duration": 4.241,
+        "start_formatted": "11:03",
+        "text": "Fable is back this week. And if you want"
+      },
+      {
+        "start": 666.24,
+        "duration": 3.76,
+        "start_formatted": "11:06",
+        "text": "to use it to turn your ideas into"
+      },
+      {
+        "start": 668.08,
+        "duration": 3.88,
+        "start_formatted": "11:08",
+        "text": "production-ready content, definitely"
+      },
+      {
+        "start": 670.0,
+        "duration": 4.4,
+        "start_formatted": "11:10",
+        "text": "check out Higgsfield, the sponsor of"
+      },
+      {
+        "start": 671.96,
+        "duration": 4.4,
+        "start_formatted": "11:11",
+        "text": "this video. Claude Fable 5 is already"
+      },
+      {
+        "start": 674.4,
+        "duration": 3.96,
+        "start_formatted": "11:14",
+        "text": "one of the smartest models out there. It"
+      },
+      {
+        "start": 676.36,
+        "duration": 3.76,
+        "start_formatted": "11:16",
+        "text": "can understand your idea, reason through"
+      },
+      {
+        "start": 678.36,
+        "duration": 3.64,
+        "start_formatted": "11:18",
+        "text": "it, and come up with really strong"
+      },
+      {
+        "start": 680.12,
+        "duration": 4.2,
+        "start_formatted": "11:20",
+        "text": "creative direction. But normally, it's"
+      },
+      {
+        "start": 682.0,
+        "duration": 3.839,
+        "start_formatted": "11:22",
+        "text": "still stuck inside a chat box. It can"
+      },
+      {
+        "start": 684.32,
+        "duration": 3.519,
+        "start_formatted": "11:24",
+        "text": "tell you what to make, but it can't"
+      },
+      {
+        "start": 685.839,
+        "duration": 3.641,
+        "start_formatted": "11:25",
+        "text": "actually make the content. Well, that's"
+      },
+      {
+        "start": 687.839,
+        "duration": 4.361,
+        "start_formatted": "11:27",
+        "text": "where Higgsfield comes in. With"
+      },
+      {
+        "start": 689.48,
+        "duration": 4.6,
+        "start_formatted": "11:29",
+        "text": "Higgsfield MCP, you can connect Claude"
+      },
+      {
+        "start": 692.2,
+        "duration": 4.0,
+        "start_formatted": "11:32",
+        "text": "to some of the best image and video"
+      },
+      {
+        "start": 694.08,
+        "duration": 4.04,
+        "start_formatted": "11:34",
+        "text": "tools in the world. So, instead of just"
+      },
+      {
+        "start": 696.2,
+        "duration": 4.16,
+        "start_formatted": "11:36",
+        "text": "describing a concept, it can generate"
+      },
+      {
+        "start": 698.12,
+        "duration": 3.88,
+        "start_formatted": "11:38",
+        "text": "the visuals, create the videos, edit the"
+      },
+      {
+        "start": 700.36,
+        "duration": 3.8,
+        "start_formatted": "11:40",
+        "text": "assets, and help build the full"
+      },
+      {
+        "start": 702.0,
+        "duration": 4.32,
+        "start_formatted": "11:42",
+        "text": "campaign. Instead of manually jumping"
+      },
+      {
+        "start": 704.16,
+        "duration": 4.12,
+        "start_formatted": "11:44",
+        "text": "between tools and copying and pasting"
+      },
+      {
+        "start": 706.32,
+        "duration": 4.2,
+        "start_formatted": "11:46",
+        "text": "stuff, you can work directly inside"
+      },
+      {
+        "start": 708.28,
+        "duration": 4.12,
+        "start_formatted": "11:48",
+        "text": "Claude. Claude can plan the concept,"
+      },
+      {
+        "start": 710.52,
+        "duration": 3.88,
+        "start_formatted": "11:50",
+        "text": "write the creative brief, generate the"
+      },
+      {
+        "start": 712.4,
+        "duration": 4.2,
+        "start_formatted": "11:52",
+        "text": "videos or images through Higgs Field,"
+      },
+      {
+        "start": 714.4,
+        "duration": 4.4,
+        "start_formatted": "11:54",
+        "text": "and even place the final assets into"
+      },
+      {
+        "start": 716.6,
+        "duration": 4.16,
+        "start_formatted": "11:56",
+        "text": "your folder. No switching tabs, no"
+      },
+      {
+        "start": 718.8,
+        "duration": 4.0,
+        "start_formatted": "11:58",
+        "text": "copying prompts back and forth, no"
+      },
+      {
+        "start": 720.76,
+        "duration": 4.08,
+        "start_formatted": "12:00",
+        "text": "separate creative handoff. And because"
+      },
+      {
+        "start": 722.8,
+        "duration": 4.72,
+        "start_formatted": "12:02",
+        "text": "Fable 5 remembers the context, your"
+      },
+      {
+        "start": 724.84,
+        "duration": 2.68,
+        "start_formatted": "12:04",
+        "text": "characters,"
+      },
+      {
+        "start": 728.64,
+        "duration": 3.92,
+        "start_formatted": "12:08",
+        "text": "across the whole project. And if you"
+      },
+      {
+        "start": 730.56,
+        "duration": 4.0,
+        "start_formatted": "12:10",
+        "text": "want to go even bigger, there's also"
+      },
+      {
+        "start": 732.56,
+        "duration": 4.4,
+        "start_formatted": "12:12",
+        "text": "Higgs Field's supercomputer. This is"
+      },
+      {
+        "start": 734.56,
+        "duration": 5.08,
+        "start_formatted": "12:14",
+        "text": "basically Higgs Field's full AI creative"
+      },
+      {
+        "start": 736.96,
+        "duration": 4.96,
+        "start_formatted": "12:16",
+        "text": "team in one chat. You can choose Fable 5"
+      },
+      {
+        "start": 739.64,
+        "duration": 4.96,
+        "start_formatted": "12:19",
+        "text": "as the brain, then build everything from"
+      },
+      {
+        "start": 741.92,
+        "duration": 4.32,
+        "start_formatted": "12:21",
+        "text": "the first idea to the final deliverable."
+      },
+      {
+        "start": 744.6,
+        "duration": 3.72,
+        "start_formatted": "12:24",
+        "text": "Instead of micromanaging every tiny"
+      },
+      {
+        "start": 746.24,
+        "duration": 4.0,
+        "start_formatted": "12:26",
+        "text": "step, you give it the goal and let it"
+      },
+      {
+        "start": 748.32,
+        "duration": 3.44,
+        "start_formatted": "12:28",
+        "text": "act more like a creative director."
+      },
+      {
+        "start": 750.24,
+        "duration": 3.24,
+        "start_formatted": "12:30",
+        "text": "Whether you're making ads, launch"
+      },
+      {
+        "start": 751.76,
+        "duration": 3.88,
+        "start_formatted": "12:31",
+        "text": "videos, social media videos, or any"
+      },
+      {
+        "start": 753.48,
+        "duration": 3.68,
+        "start_formatted": "12:33",
+        "text": "other content, Higgs Field is a game"
+      },
+      {
+        "start": 755.64,
+        "duration": 3.8,
+        "start_formatted": "12:35",
+        "text": "changer that will supercharge your"
+      },
+      {
+        "start": 757.16,
+        "duration": 4.4,
+        "start_formatted": "12:37",
+        "text": "production workflow. Try it today using"
+      },
+      {
+        "start": 759.44,
+        "duration": 4.16,
+        "start_formatted": "12:39",
+        "text": "the link in the description below. Now,"
+      },
+      {
+        "start": 761.56,
+        "duration": 4.6,
+        "start_formatted": "12:41",
+        "text": "if we dive deeper, here's how it works"
+      },
+      {
+        "start": 763.6,
+        "duration": 4.72,
+        "start_formatted": "12:43",
+        "text": "in technical terms. They used something"
+      },
+      {
+        "start": 766.16,
+        "duration": 4.48,
+        "start_formatted": "12:46",
+        "text": "called a Markov head. In probability"
+      },
+      {
+        "start": 768.32,
+        "duration": 4.44,
+        "start_formatted": "12:48",
+        "text": "theory, a Markov process assumes that"
+      },
+      {
+        "start": 770.64,
+        "duration": 4.08,
+        "start_formatted": "12:50",
+        "text": "the probability of the next state"
+      },
+      {
+        "start": 772.76,
+        "duration": 4.48,
+        "start_formatted": "12:52",
+        "text": "depends exclusively on the current"
+      },
+      {
+        "start": 774.72,
+        "duration": 5.16,
+        "start_formatted": "12:54",
+        "text": "state, completely ignoring any states"
+      },
+      {
+        "start": 777.24,
+        "duration": 4.76,
+        "start_formatted": "12:57",
+        "text": "that occurred before. This phenomenon is"
+      },
+      {
+        "start": 779.88,
+        "duration": 4.0,
+        "start_formatted": "12:59",
+        "text": "actually found everywhere in life. For"
+      },
+      {
+        "start": 782.0,
+        "duration": 4.44,
+        "start_formatted": "13:02",
+        "text": "example, when you're walking, your"
+      },
+      {
+        "start": 783.88,
+        "duration": 4.6,
+        "start_formatted": "13:03",
+        "text": "future position depends entirely on your"
+      },
+      {
+        "start": 786.44,
+        "duration": 4.44,
+        "start_formatted": "13:06",
+        "text": "current position plus which direction"
+      },
+      {
+        "start": 788.48,
+        "duration": 4.76,
+        "start_formatted": "13:08",
+        "text": "you step next. Everything else before"
+      },
+      {
+        "start": 790.88,
+        "duration": 5.48,
+        "start_formatted": "13:10",
+        "text": "that point didn't really matter. So, the"
+      },
+      {
+        "start": 793.24,
+        "duration": 5.72,
+        "start_formatted": "13:13",
+        "text": "Markov head in D-Spark only looks at the"
+      },
+      {
+        "start": 796.36,
+        "duration": 4.6,
+        "start_formatted": "13:16",
+        "text": "immediately preceding word to adjust the"
+      },
+      {
+        "start": 798.96,
+        "duration": 3.68,
+        "start_formatted": "13:18",
+        "text": "probabilities for the next word. In"
+      },
+      {
+        "start": 800.96,
+        "duration": 3.72,
+        "start_formatted": "13:20",
+        "text": "other words, it looks at the previous"
+      },
+      {
+        "start": 802.64,
+        "duration": 4.32,
+        "start_formatted": "13:22",
+        "text": "word to guide what the next word would"
+      },
+      {
+        "start": 804.68,
+        "duration": 4.84,
+        "start_formatted": "13:24",
+        "text": "likely be. And it turns out that adding"
+      },
+      {
+        "start": 806.96,
+        "duration": 5.08,
+        "start_formatted": "13:26",
+        "text": "this Markov mechanism fixes the suffix"
+      },
+      {
+        "start": 809.52,
+        "duration": 4.56,
+        "start_formatted": "13:29",
+        "text": "decay problem we had before. All right,"
+      },
+      {
+        "start": 812.04,
+        "duration": 4.32,
+        "start_formatted": "13:32",
+        "text": "so it seems like a good fix, but you"
+      },
+      {
+        "start": 814.08,
+        "duration": 4.32,
+        "start_formatted": "13:34",
+        "text": "might be wondering if we add this extra"
+      },
+      {
+        "start": 816.36,
+        "duration": 4.6,
+        "start_formatted": "13:36",
+        "text": "component and make it sequential,"
+      },
+      {
+        "start": 818.4,
+        "duration": 4.68,
+        "start_formatted": "13:38",
+        "text": "wouldn't it slow things down by a lot?"
+      },
+      {
+        "start": 820.96,
+        "duration": 3.76,
+        "start_formatted": "13:40",
+        "text": "Well, the cracked team at Deep Seek used"
+      },
+      {
+        "start": 823.08,
+        "duration": 3.76,
+        "start_formatted": "13:43",
+        "text": "a technique called low-rank"
+      },
+      {
+        "start": 824.72,
+        "duration": 4.04,
+        "start_formatted": "13:44",
+        "text": "factorization. It's too technical for"
+      },
+      {
+        "start": 826.84,
+        "duration": 3.88,
+        "start_formatted": "13:46",
+        "text": "this video, but it basically compresses"
+      },
+      {
+        "start": 828.76,
+        "duration": 4.16,
+        "start_formatted": "13:48",
+        "text": "the information down and makes the"
+      },
+      {
+        "start": 830.72,
+        "duration": 4.2,
+        "start_formatted": "13:50",
+        "text": "computations extremely fast and"
+      },
+      {
+        "start": 832.92,
+        "duration": 4.12,
+        "start_formatted": "13:52",
+        "text": "efficient. And it turns out that after"
+      },
+      {
+        "start": 834.92,
+        "duration": 4.48,
+        "start_formatted": "13:54",
+        "text": "applying this Markov head with low-rank"
+      },
+      {
+        "start": 837.04,
+        "duration": 4.56,
+        "start_formatted": "13:57",
+        "text": "factorization, then the compute cost is"
+      },
+      {
+        "start": 839.4,
+        "duration": 4.72,
+        "start_formatted": "13:59",
+        "text": "actually quite negligible. In fact,"
+      },
+      {
+        "start": 841.6,
+        "duration": 5.68,
+        "start_formatted": "14:01",
+        "text": "adding this tiny Markov editor only"
+      },
+      {
+        "start": 844.12,
+        "duration": 6.6,
+        "start_formatted": "14:04",
+        "text": "added an additional latency of 0.2 to"
+      },
+      {
+        "start": 847.28,
+        "duration": 5.72,
+        "start_formatted": "14:07",
+        "text": "1.3% of the total generation speed. But"
+      },
+      {
+        "start": 850.72,
+        "duration": 5.16,
+        "start_formatted": "14:10",
+        "text": "the return on this tiny investment is"
+      },
+      {
+        "start": 853.0,
+        "duration": 4.8,
+        "start_formatted": "14:13",
+        "text": "massive. With this, it's now much less"
+      },
+      {
+        "start": 855.88,
+        "duration": 5.16,
+        "start_formatted": "14:15",
+        "text": "error-prone and you can boost the length"
+      },
+      {
+        "start": 857.8,
+        "duration": 5.32,
+        "start_formatted": "14:17",
+        "text": "of a correct draft by up to 30%, which"
+      },
+      {
+        "start": 861.04,
+        "duration": 4.32,
+        "start_formatted": "14:21",
+        "text": "is incredible. In fact, for this new"
+      },
+      {
+        "start": 863.12,
+        "duration": 4.6,
+        "start_formatted": "14:23",
+        "text": "Deep Spark model, even if we make it a"
+      },
+      {
+        "start": 865.36,
+        "duration": 4.68,
+        "start_formatted": "14:25",
+        "text": "shallow two layers, actually outperforms"
+      },
+      {
+        "start": 867.72,
+        "duration": 5.16,
+        "start_formatted": "14:27",
+        "text": "a massive five-layer pure parallel"
+      },
+      {
+        "start": 870.04,
+        "duration": 5.52,
+        "start_formatted": "14:30",
+        "text": "drafter across all benchmarks. It's"
+      },
+      {
+        "start": 872.88,
+        "duration": 5.0,
+        "start_formatted": "14:32",
+        "text": "vastly superior and more efficient and"
+      },
+      {
+        "start": 875.56,
+        "duration": 4.68,
+        "start_formatted": "14:35",
+        "text": "better quality, pretty much solving this"
+      },
+      {
+        "start": 877.88,
+        "duration": 4.6,
+        "start_formatted": "14:37",
+        "text": "drafting intern dilemma. All right, so"
+      },
+      {
+        "start": 880.24,
+        "duration": 4.599,
+        "start_formatted": "14:40",
+        "text": "up to now, we've kind of solved this at"
+      },
+      {
+        "start": 882.48,
+        "duration": 5.16,
+        "start_formatted": "14:42",
+        "text": "least in theory, at least in code. But"
+      },
+      {
+        "start": 884.839,
+        "duration": 5.241,
+        "start_formatted": "14:44",
+        "text": "once we deploy Deep Spark to a real data"
+      },
+      {
+        "start": 887.64,
+        "duration": 4.64,
+        "start_formatted": "14:47",
+        "text": "server, well, that unleashes a ton of"
+      },
+      {
+        "start": 890.08,
+        "duration": 4.0,
+        "start_formatted": "14:50",
+        "text": "new infrastructure problems. You see,"
+      },
+      {
+        "start": 892.28,
+        "duration": 5.08,
+        "start_formatted": "14:52",
+        "text": "this works completely fine if we have"
+      },
+      {
+        "start": 894.08,
+        "duration": 4.52,
+        "start_formatted": "14:54",
+        "text": "just one GP U serving exactly one user."
+      },
+      {
+        "start": 897.36,
+        "duration": 2.84,
+        "start_formatted": "14:57",
+        "text": "This is fairly simple and"
+      },
+      {
+        "start": 898.6,
+        "duration": 3.28,
+        "start_formatted": "14:58",
+        "text": "straightforward. But in a real"
+      },
+      {
+        "start": 900.2,
+        "duration": 4.4,
+        "start_formatted": "15:00",
+        "text": "production setting, you have a data"
+      },
+      {
+        "start": 901.88,
+        "duration": 5.24,
+        "start_formatted": "15:01",
+        "text": "center with multiple GPUs, plus you'll"
+      },
+      {
+        "start": 904.6,
+        "duration": 4.6,
+        "start_formatted": "15:04",
+        "text": "have like thousands of concurrent users"
+      },
+      {
+        "start": 907.12,
+        "duration": 4.56,
+        "start_formatted": "15:07",
+        "text": "all using the same model at the same"
+      },
+      {
+        "start": 909.2,
+        "duration": 4.2,
+        "start_formatted": "15:09",
+        "text": "time. You see, the full AI model, in"
+      },
+      {
+        "start": 911.68,
+        "duration": 3.96,
+        "start_formatted": "15:11",
+        "text": "other words, the boss model, has a"
+      },
+      {
+        "start": 913.4,
+        "duration": 5.04,
+        "start_formatted": "15:13",
+        "text": "strict physical limitation known as the"
+      },
+      {
+        "start": 915.64,
+        "duration": 5.6,
+        "start_formatted": "15:15",
+        "text": "batch capacity. It can only process a"
+      },
+      {
+        "start": 918.44,
+        "duration": 5.76,
+        "start_formatted": "15:18",
+        "text": "set number of tokens at once across all"
+      },
+      {
+        "start": 921.24,
+        "duration": 5.44,
+        "start_formatted": "15:21",
+        "text": "users simultaneously. So, if user A asks"
+      },
+      {
+        "start": 924.2,
+        "duration": 4.36,
+        "start_formatted": "15:24",
+        "text": "a question, the system sends a draft"
+      },
+      {
+        "start": 926.68,
+        "duration": 4.32,
+        "start_formatted": "15:26",
+        "text": "from the intern model to the boss model"
+      },
+      {
+        "start": 928.56,
+        "duration": 5.04,
+        "start_formatted": "15:28",
+        "text": "to verify. And this draft consumes a"
+      },
+      {
+        "start": 931.0,
+        "duration": 5.2,
+        "start_formatted": "15:31",
+        "text": "percentage of the total compute pie. If"
+      },
+      {
+        "start": 933.6,
+        "duration": 4.88,
+        "start_formatted": "15:33",
+        "text": "the draft for user A was a bad guess and"
+      },
+      {
+        "start": 936.2,
+        "duration": 4.52,
+        "start_formatted": "15:36",
+        "text": "the boss rejects it halfway, well, all"
+      },
+      {
+        "start": 938.48,
+        "duration": 4.12,
+        "start_formatted": "15:38",
+        "text": "of this compute is essentially wasted."
+      },
+      {
+        "start": 940.72,
+        "duration": 3.96,
+        "start_formatted": "15:40",
+        "text": "If the draft is long and contains a ton"
+      },
+      {
+        "start": 942.6,
+        "duration": 4.64,
+        "start_formatted": "15:42",
+        "text": "of errors, not only does this waste the"
+      },
+      {
+        "start": 944.68,
+        "duration": 4.68,
+        "start_formatted": "15:44",
+        "text": "boss model's batch capacity, but it also"
+      },
+      {
+        "start": 947.24,
+        "duration": 4.68,
+        "start_formatted": "15:47",
+        "text": "wastes the intern's compute, plus it"
+      },
+      {
+        "start": 949.36,
+        "duration": 5.08,
+        "start_formatted": "15:49",
+        "text": "also adds latency while the other users'"
+      },
+      {
+        "start": 951.92,
+        "duration": 4.48,
+        "start_formatted": "15:51",
+        "text": "queries are held in queue. So, it goes"
+      },
+      {
+        "start": 954.44,
+        "duration": 4.28,
+        "start_formatted": "15:54",
+        "text": "without saying, sending bad drafts to"
+      },
+      {
+        "start": 956.4,
+        "duration": 4.4,
+        "start_formatted": "15:56",
+        "text": "the boss model wastes compute and hurts"
+      },
+      {
+        "start": 958.72,
+        "duration": 4.56,
+        "start_formatted": "15:58",
+        "text": "everyone else on the server. You want to"
+      },
+      {
+        "start": 960.8,
+        "duration": 4.56,
+        "start_formatted": "16:00",
+        "text": "avoid sending as many bad drafts as"
+      },
+      {
+        "start": 963.28,
+        "duration": 3.84,
+        "start_formatted": "16:03",
+        "text": "possible. Now, to fix this, you might be"
+      },
+      {
+        "start": 965.36,
+        "duration": 3.48,
+        "start_formatted": "16:05",
+        "text": "thinking, maybe we can just make the"
+      },
+      {
+        "start": 967.12,
+        "duration": 3.92,
+        "start_formatted": "16:07",
+        "text": "drafts shorter so that we don't waste"
+      },
+      {
+        "start": 968.84,
+        "duration": 4.72,
+        "start_formatted": "16:08",
+        "text": "capacity, right? And shorter drafts tend"
+      },
+      {
+        "start": 971.04,
+        "duration": 4.64,
+        "start_formatted": "16:11",
+        "text": "to contain fewer errors, especially near"
+      },
+      {
+        "start": 973.56,
+        "duration": 3.96,
+        "start_formatted": "16:13",
+        "text": "the ends. Well, actually, that would be"
+      },
+      {
+        "start": 975.68,
+        "duration": 3.36,
+        "start_formatted": "16:15",
+        "text": "inefficient in the opposite direction."
+      },
+      {
+        "start": 977.52,
+        "duration": 3.64,
+        "start_formatted": "16:17",
+        "text": "You see, the point of making drafts in"
+      },
+      {
+        "start": 979.04,
+        "duration": 4.28,
+        "start_formatted": "16:19",
+        "text": "the first place is for the generation to"
+      },
+      {
+        "start": 981.16,
+        "duration": 4.4,
+        "start_formatted": "16:21",
+        "text": "run faster. And the longer the draft,"
+      },
+      {
+        "start": 983.32,
+        "duration": 4.08,
+        "start_formatted": "16:23",
+        "text": "the faster it can generate the output."
+      },
+      {
+        "start": 985.56,
+        "duration": 4.2,
+        "start_formatted": "16:25",
+        "text": "So, here's the trick that DeepSeek"
+      },
+      {
+        "start": 987.4,
+        "duration": 4.76,
+        "start_formatted": "16:27",
+        "text": "proposed. The length of the draft should"
+      },
+      {
+        "start": 989.76,
+        "duration": 4.44,
+        "start_formatted": "16:29",
+        "text": "actually be based on context. If the"
+      },
+      {
+        "start": 992.16,
+        "duration": 4.08,
+        "start_formatted": "16:32",
+        "text": "context is about content that's very"
+      },
+      {
+        "start": 994.2,
+        "duration": 4.36,
+        "start_formatted": "16:34",
+        "text": "predictable, for example, answering a"
+      },
+      {
+        "start": 996.24,
+        "duration": 4.8,
+        "start_formatted": "16:36",
+        "text": "math or coding problem, the draft length"
+      },
+      {
+        "start": 998.56,
+        "duration": 4.6,
+        "start_formatted": "16:38",
+        "text": "can be longer because the answer is very"
+      },
+      {
+        "start": 1001.04,
+        "duration": 4.2,
+        "start_formatted": "16:41",
+        "text": "deterministic. It's less likely for the"
+      },
+      {
+        "start": 1003.16,
+        "duration": 4.16,
+        "start_formatted": "16:43",
+        "text": "intern model to get the draft wrong."
+      },
+      {
+        "start": 1005.24,
+        "duration": 4.28,
+        "start_formatted": "16:45",
+        "text": "But, if the context is open-ended, for"
+      },
+      {
+        "start": 1007.32,
+        "duration": 4.56,
+        "start_formatted": "16:47",
+        "text": "example, if it was prompted to write a"
+      },
+      {
+        "start": 1009.52,
+        "duration": 4.6,
+        "start_formatted": "16:49",
+        "text": "creative story, then it's really easy"
+      },
+      {
+        "start": 1011.88,
+        "duration": 3.92,
+        "start_formatted": "16:51",
+        "text": "for this draft to contain a ton of wrong"
+      },
+      {
+        "start": 1014.12,
+        "duration": 4.36,
+        "start_formatted": "16:54",
+        "text": "words, or in other words, a ton of words"
+      },
+      {
+        "start": 1015.8,
+        "duration": 4.52,
+        "start_formatted": "16:55",
+        "text": "that the boss model would reject because"
+      },
+      {
+        "start": 1018.48,
+        "duration": 4.24,
+        "start_formatted": "16:58",
+        "text": "there could be so many possibilities of"
+      },
+      {
+        "start": 1020.32,
+        "duration": 4.56,
+        "start_formatted": "17:00",
+        "text": "answering this. So, in this context, the"
+      },
+      {
+        "start": 1022.72,
+        "duration": 4.28,
+        "start_formatted": "17:02",
+        "text": "draft length should be shorter or cut"
+      },
+      {
+        "start": 1024.88,
+        "duration": 4.68,
+        "start_formatted": "17:04",
+        "text": "early. Now, how do we do this? The"
+      },
+      {
+        "start": 1027.0,
+        "duration": 5.079,
+        "start_formatted": "17:07",
+        "text": "system needs a kind of dynamic traffic"
+      },
+      {
+        "start": 1029.56,
+        "duration": 4.6,
+        "start_formatted": "17:09",
+        "text": "cop. It needs to look at the context and"
+      },
+      {
+        "start": 1032.079,
+        "duration": 4.681,
+        "start_formatted": "17:12",
+        "text": "dynamically decide how long the draft"
+      },
+      {
+        "start": 1034.16,
+        "duration": 4.6,
+        "start_formatted": "17:14",
+        "text": "should be or when to end it early. In"
+      },
+      {
+        "start": 1036.76,
+        "duration": 4.24,
+        "start_formatted": "17:16",
+        "text": "fact, we need a mechanism that can cut"
+      },
+      {
+        "start": 1038.76,
+        "duration": 4.439,
+        "start_formatted": "17:18",
+        "text": "the draft writing early if it detects"
+      },
+      {
+        "start": 1041.0,
+        "duration": 4.24,
+        "start_formatted": "17:21",
+        "text": "that it's likely to make a mistake at"
+      },
+      {
+        "start": 1043.199,
+        "duration": 3.921,
+        "start_formatted": "17:23",
+        "text": "that point. That way, it won't waste"
+      },
+      {
+        "start": 1045.24,
+        "duration": 4.32,
+        "start_formatted": "17:25",
+        "text": "compute generating more stuff that the"
+      },
+      {
+        "start": 1047.12,
+        "duration": 5.12,
+        "start_formatted": "17:27",
+        "text": "boss model would likely reject. So, the"
+      },
+      {
+        "start": 1049.56,
+        "duration": 4.92,
+        "start_formatted": "17:29",
+        "text": "DeepSeek team also added a specialized"
+      },
+      {
+        "start": 1052.24,
+        "duration": 5.0,
+        "start_formatted": "17:32",
+        "text": "lightweight module called the confidence"
+      },
+      {
+        "start": 1054.48,
+        "duration": 5.0,
+        "start_formatted": "17:34",
+        "text": "head. This is attached directly to the"
+      },
+      {
+        "start": 1057.24,
+        "duration": 4.32,
+        "start_formatted": "17:37",
+        "text": "drafter or the intern model. For every"
+      },
+      {
+        "start": 1059.48,
+        "duration": 4.04,
+        "start_formatted": "17:39",
+        "text": "word that it generates, the head also"
+      },
+      {
+        "start": 1061.56,
+        "duration": 4.04,
+        "start_formatted": "17:41",
+        "text": "outputs a confidence score ranging from"
+      },
+      {
+        "start": 1063.52,
+        "duration": 4.08,
+        "start_formatted": "17:43",
+        "text": "zero to one. Zero would mean it's"
+      },
+      {
+        "start": 1065.6,
+        "duration": 4.56,
+        "start_formatted": "17:45",
+        "text": "completely guessing and it's not sure if"
+      },
+      {
+        "start": 1067.6,
+        "duration": 4.88,
+        "start_formatted": "17:47",
+        "text": "it's the right word, whereas one would"
+      },
+      {
+        "start": 1070.16,
+        "duration": 4.24,
+        "start_formatted": "17:50",
+        "text": "means it's 100% certain that this is the"
+      },
+      {
+        "start": 1072.48,
+        "duration": 4.16,
+        "start_formatted": "17:52",
+        "text": "right word. This is the word that the"
+      },
+      {
+        "start": 1074.4,
+        "duration": 4.64,
+        "start_formatted": "17:54",
+        "text": "boss model would also write. And to make"
+      },
+      {
+        "start": 1076.64,
+        "duration": 4.56,
+        "start_formatted": "17:56",
+        "text": "this work, they added a simple rule. If"
+      },
+      {
+        "start": 1079.04,
+        "duration": 5.16,
+        "start_formatted": "17:59",
+        "text": "the word is above a threshold, let's say"
+      },
+      {
+        "start": 1081.2,
+        "duration": 5.48,
+        "start_formatted": "18:01",
+        "text": "above a confidence score of 0.6, then"
+      },
+      {
+        "start": 1084.2,
+        "duration": 4.04,
+        "start_formatted": "18:04",
+        "text": "keep going. If any word is below that"
+      },
+      {
+        "start": 1086.68,
+        "duration": 3.64,
+        "start_formatted": "18:06",
+        "text": "threshold, then you end the draft"
+      },
+      {
+        "start": 1088.24,
+        "duration": 4.44,
+        "start_formatted": "18:08",
+        "text": "writing immediately and you stop wasting"
+      },
+      {
+        "start": 1090.32,
+        "duration": 4.84,
+        "start_formatted": "18:10",
+        "text": "compute. You only send that portion of"
+      },
+      {
+        "start": 1092.68,
+        "duration": 4.16,
+        "start_formatted": "18:12",
+        "text": "the draft to the boss model for review."
+      },
+      {
+        "start": 1095.16,
+        "duration": 3.92,
+        "start_formatted": "18:15",
+        "text": "And after implementing this and testing"
+      },
+      {
+        "start": 1096.84,
+        "duration": 4.28,
+        "start_formatted": "18:16",
+        "text": "it out, the results were staggering."
+      },
+      {
+        "start": 1099.08,
+        "duration": 4.4,
+        "start_formatted": "18:19",
+        "text": "After using this confidence threshold,"
+      },
+      {
+        "start": 1101.12,
+        "duration": 5.64,
+        "start_formatted": "18:21",
+        "text": "the acceptance rate from the boss model"
+      },
+      {
+        "start": 1103.48,
+        "duration": 6.16,
+        "start_formatted": "18:23",
+        "text": "jumped up from a dismal 45.7%"
+      },
+      {
+        "start": 1106.76,
+        "duration": 4.84,
+        "start_formatted": "18:26",
+        "text": "to a crazy 96%."
+      },
+      {
+        "start": 1109.64,
+        "duration": 4.28,
+        "start_formatted": "18:29",
+        "text": "In other words, now the drafts are much"
+      },
+      {
+        "start": 1111.6,
+        "duration": 4.92,
+        "start_formatted": "18:31",
+        "text": "more likely to be accepted by the boss"
+      },
+      {
+        "start": 1113.92,
+        "duration": 4.96,
+        "start_formatted": "18:33",
+        "text": "model. Therefore, we're wasting way less"
+      },
+      {
+        "start": 1116.52,
+        "duration": 4.04,
+        "start_formatted": "18:36",
+        "text": "compute. Let's trace the logic of this"
+      },
+      {
+        "start": 1118.88,
+        "duration": 3.72,
+        "start_formatted": "18:38",
+        "text": "improvement. Let's say the AI is"
+      },
+      {
+        "start": 1120.56,
+        "duration": 4.44,
+        "start_formatted": "18:40",
+        "text": "attempting to write a creative story."
+      },
+      {
+        "start": 1122.6,
+        "duration": 3.8,
+        "start_formatted": "18:42",
+        "text": "Because it's so open-ended, the draft it"
+      },
+      {
+        "start": 1125.0,
+        "duration": 3.32,
+        "start_formatted": "18:45",
+        "text": "writes starts to have very low"
+      },
+      {
+        "start": 1126.4,
+        "duration": 4.04,
+        "start_formatted": "18:46",
+        "text": "confidence early on. Let's say by the"
+      },
+      {
+        "start": 1128.32,
+        "duration": 4.16,
+        "start_formatted": "18:48",
+        "text": "fourth or fifth word. At that point,"
+      },
+      {
+        "start": 1130.44,
+        "duration": 4.04,
+        "start_formatted": "18:50",
+        "text": "based on the current mechanism, the"
+      },
+      {
+        "start": 1132.48,
+        "duration": 4.28,
+        "start_formatted": "18:52",
+        "text": "system terminates the draft because its"
+      },
+      {
+        "start": 1134.48,
+        "duration": 3.92,
+        "start_formatted": "18:54",
+        "text": "prediction is weak. The intern is not"
+      },
+      {
+        "start": 1136.76,
+        "duration": 3.64,
+        "start_formatted": "18:56",
+        "text": "really confident if it continues writing"
+      },
+      {
+        "start": 1138.4,
+        "duration": 4.04,
+        "start_formatted": "18:58",
+        "text": "the draft whether the boss model would"
+      },
+      {
+        "start": 1140.4,
+        "duration": 3.76,
+        "start_formatted": "19:00",
+        "text": "actually accept it. And conversely,"
+      },
+      {
+        "start": 1142.44,
+        "duration": 3.92,
+        "start_formatted": "19:02",
+        "text": "let's say the AI is trying to solve a"
+      },
+      {
+        "start": 1144.16,
+        "duration": 4.28,
+        "start_formatted": "19:04",
+        "text": "math or coding problem. In this case,"
+      },
+      {
+        "start": 1146.36,
+        "duration": 3.68,
+        "start_formatted": "19:06",
+        "text": "the answer is much more deterministic."
+      },
+      {
+        "start": 1148.44,
+        "duration": 3.16,
+        "start_formatted": "19:08",
+        "text": "And when it's writing the draft, it's"
+      },
+      {
+        "start": 1150.04,
+        "duration": 3.48,
+        "start_formatted": "19:10",
+        "text": "very confident throughout its"
+      },
+      {
+        "start": 1151.6,
+        "duration": 4.36,
+        "start_formatted": "19:11",
+        "text": "prediction. Its confidence values are"
+      },
+      {
+        "start": 1153.52,
+        "duration": 4.08,
+        "start_formatted": "19:13",
+        "text": "almost always above the threshold. So,"
+      },
+      {
+        "start": 1155.96,
+        "duration": 4.04,
+        "start_formatted": "19:15",
+        "text": "the mechanism doesn't have to cut the"
+      },
+      {
+        "start": 1157.6,
+        "duration": 4.36,
+        "start_formatted": "19:17",
+        "text": "draft early. The draft can be longer in"
+      },
+      {
+        "start": 1160.0,
+        "duration": 4.52,
+        "start_formatted": "19:20",
+        "text": "this case, and therefore, the generation"
+      },
+      {
+        "start": 1161.96,
+        "duration": 4.68,
+        "start_formatted": "19:21",
+        "text": "can be faster. So, this is a mechanism"
+      },
+      {
+        "start": 1164.52,
+        "duration": 3.64,
+        "start_formatted": "19:24",
+        "text": "that can automatically decide how much"
+      },
+      {
+        "start": 1166.64,
+        "duration": 4.16,
+        "start_formatted": "19:26",
+        "text": "to speed up the generation while"
+      },
+      {
+        "start": 1168.16,
+        "duration": 5.04,
+        "start_formatted": "19:28",
+        "text": "maintaining good quality and avoiding"
+      },
+      {
+        "start": 1170.8,
+        "duration": 4.88,
+        "start_formatted": "19:30",
+        "text": "wasting any compute. But, that's not"
+      },
+      {
+        "start": 1173.2,
+        "duration": 5.28,
+        "start_formatted": "19:33",
+        "text": "all. You see, the genius of this design"
+      },
+      {
+        "start": 1175.68,
+        "duration": 5.24,
+        "start_formatted": "19:35",
+        "text": "is that it's also hardware aware. It"
+      },
+      {
+        "start": 1178.48,
+        "duration": 4.4,
+        "start_formatted": "19:38",
+        "text": "looks at all active requests, gathers"
+      },
+      {
+        "start": 1180.92,
+        "duration": 3.4,
+        "start_formatted": "19:40",
+        "text": "the confidence of all these drafts, and"
+      },
+      {
+        "start": 1182.88,
+        "duration": 4.24,
+        "start_formatted": "19:42",
+        "text": "then compares them against something"
+      },
+      {
+        "start": 1184.32,
+        "duration": 5.48,
+        "start_formatted": "19:44",
+        "text": "called an SBS curve. This is basically a"
+      },
+      {
+        "start": 1187.12,
+        "duration": 4.88,
+        "start_formatted": "19:47",
+        "text": "chart showing how GPU speed changes"
+      },
+      {
+        "start": 1189.8,
+        "duration": 4.16,
+        "start_formatted": "19:49",
+        "text": "depending on the batch size. You see,"
+      },
+      {
+        "start": 1192.0,
+        "duration": 4.56,
+        "start_formatted": "19:52",
+        "text": "smaller drafts process quickly and are"
+      },
+      {
+        "start": 1193.96,
+        "duration": 5.12,
+        "start_formatted": "19:53",
+        "text": "easier on the GPU, but larger drafts"
+      },
+      {
+        "start": 1196.56,
+        "duration": 4.56,
+        "start_formatted": "19:56",
+        "text": "slow down the GPU, which could affect"
+      },
+      {
+        "start": 1199.08,
+        "duration": 5.36,
+        "start_formatted": "19:59",
+        "text": "other concurrent users. Well, the"
+      },
+      {
+        "start": 1201.12,
+        "duration": 5.6,
+        "start_formatted": "20:01",
+        "text": "mechanism also monitors current GPU load"
+      },
+      {
+        "start": 1204.44,
+        "duration": 5.0,
+        "start_formatted": "20:04",
+        "text": "and decides in real time the length of"
+      },
+      {
+        "start": 1206.72,
+        "duration": 4.88,
+        "start_formatted": "20:06",
+        "text": "the drafts it accepts. This ensures the"
+      },
+      {
+        "start": 1209.44,
+        "duration": 4.08,
+        "start_formatted": "20:09",
+        "text": "best possible trade-off between speed"
+      },
+      {
+        "start": 1211.6,
+        "duration": 3.92,
+        "start_formatted": "20:11",
+        "text": "and hardware performance. During"
+      },
+      {
+        "start": 1213.52,
+        "duration": 4.36,
+        "start_formatted": "20:13",
+        "text": "off-peak hours, for example, when there"
+      },
+      {
+        "start": 1215.52,
+        "duration": 5.28,
+        "start_formatted": "20:15",
+        "text": "are relatively few users, the system"
+      },
+      {
+        "start": 1217.88,
+        "duration": 4.8,
+        "start_formatted": "20:17",
+        "text": "notices that it has spare GPU capacity,"
+      },
+      {
+        "start": 1220.8,
+        "duration": 4.52,
+        "start_formatted": "20:20",
+        "text": "so it loosens up, letting the draft"
+      },
+      {
+        "start": 1222.68,
+        "duration": 5.0,
+        "start_formatted": "20:22",
+        "text": "model guess more words at once. This"
+      },
+      {
+        "start": 1225.32,
+        "duration": 4.92,
+        "start_formatted": "20:25",
+        "text": "uses the extra available power to make"
+      },
+      {
+        "start": 1227.68,
+        "duration": 5.04,
+        "start_formatted": "20:27",
+        "text": "each response faster for users. But,"
+      },
+      {
+        "start": 1230.24,
+        "duration": 5.72,
+        "start_formatted": "20:30",
+        "text": "during busy hours, it senses the added"
+      },
+      {
+        "start": 1232.72,
+        "duration": 5.04,
+        "start_formatted": "20:32",
+        "text": "strain. GPU capacity becomes low, so it"
+      },
+      {
+        "start": 1235.96,
+        "duration": 4.16,
+        "start_formatted": "20:35",
+        "text": "shortens how many words the draft model"
+      },
+      {
+        "start": 1237.76,
+        "duration": 4.08,
+        "start_formatted": "20:37",
+        "text": "is allowed to guess. Individual"
+      },
+      {
+        "start": 1240.12,
+        "duration": 3.76,
+        "start_formatted": "20:40",
+        "text": "responses do get a bit slower, but this"
+      },
+      {
+        "start": 1241.84,
+        "duration": 4.88,
+        "start_formatted": "20:41",
+        "text": "protects the system as a whole from"
+      },
+      {
+        "start": 1243.88,
+        "duration": 5.16,
+        "start_formatted": "20:43",
+        "text": "slowing down or crashing under load. So,"
+      },
+      {
+        "start": 1246.72,
+        "duration": 5.32,
+        "start_formatted": "20:46",
+        "text": "we have assembled the pieces. We have a"
+      },
+      {
+        "start": 1249.04,
+        "duration": 5.64,
+        "start_formatted": "20:49",
+        "text": "fast hybrid intern generating drafts. We"
+      },
+      {
+        "start": 1252.04,
+        "duration": 4.96,
+        "start_formatted": "20:52",
+        "text": "have a confidence head evaluating the"
+      },
+      {
+        "start": 1254.68,
+        "duration": 4.12,
+        "start_formatted": "20:54",
+        "text": "output of the draft and deciding when it"
+      },
+      {
+        "start": 1257.0,
+        "duration": 4.04,
+        "start_formatted": "20:57",
+        "text": "should be cut off. We also have an"
+      },
+      {
+        "start": 1258.8,
+        "duration": 4.52,
+        "start_formatted": "20:58",
+        "text": "algorithm that looks at the GPU load in"
+      },
+      {
+        "start": 1261.04,
+        "duration": 4.64,
+        "start_formatted": "21:01",
+        "text": "real time to automatically adjust the"
+      },
+      {
+        "start": 1263.32,
+        "duration": 5.16,
+        "start_formatted": "21:03",
+        "text": "drafts that it receives. This is a"
+      },
+      {
+        "start": 1265.68,
+        "duration": 4.92,
+        "start_formatted": "21:05",
+        "text": "completely organic and self-regulating"
+      },
+      {
+        "start": 1268.48,
+        "duration": 4.8,
+        "start_formatted": "21:08",
+        "text": "engine. It's a beautifully designed"
+      },
+      {
+        "start": 1270.6,
+        "duration": 5.28,
+        "start_formatted": "21:10",
+        "text": "optimization for the entire stack, from"
+      },
+      {
+        "start": 1273.28,
+        "duration": 4.48,
+        "start_formatted": "21:13",
+        "text": "software to hardware, as expected from"
+      },
+      {
+        "start": 1275.88,
+        "duration": 3.8,
+        "start_formatted": "21:15",
+        "text": "the Deep Seek team. And if we look at"
+      },
+      {
+        "start": 1277.76,
+        "duration": 4.2,
+        "start_formatted": "21:17",
+        "text": "the results in production, it's"
+      },
+      {
+        "start": 1279.68,
+        "duration": 4.6,
+        "start_formatted": "21:19",
+        "text": "extremely impressive. If you compare"
+      },
+      {
+        "start": 1281.96,
+        "duration": 5.16,
+        "start_formatted": "21:21",
+        "text": "this new D Spark method against Deep"
+      },
+      {
+        "start": 1284.28,
+        "duration": 5.48,
+        "start_formatted": "21:24",
+        "text": "Seek's previous MTP system, which only"
+      },
+      {
+        "start": 1287.12,
+        "duration": 4.48,
+        "start_formatted": "21:27",
+        "text": "predicts one word or token at a time,"
+      },
+      {
+        "start": 1289.76,
+        "duration": 4.92,
+        "start_formatted": "21:29",
+        "text": "you can see that this new D Spark"
+      },
+      {
+        "start": 1291.6,
+        "duration": 5.52,
+        "start_formatted": "21:31",
+        "text": "delivers a 60 to 85% increase in"
+      },
+      {
+        "start": 1294.68,
+        "duration": 4.68,
+        "start_formatted": "21:34",
+        "text": "generation speed without any loss in"
+      },
+      {
+        "start": 1297.12,
+        "duration": 3.92,
+        "start_formatted": "21:37",
+        "text": "quality. That's the key here. We're"
+      },
+      {
+        "start": 1299.36,
+        "duration": 4.2,
+        "start_formatted": "21:39",
+        "text": "essentially getting faster speeds"
+      },
+      {
+        "start": 1301.04,
+        "duration": 4.8,
+        "start_formatted": "21:41",
+        "text": "without any sacrifice in quality. In"
+      },
+      {
+        "start": 1303.56,
+        "duration": 5.0,
+        "start_formatted": "21:43",
+        "text": "fact, get this. If the researchers set a"
+      },
+      {
+        "start": 1305.84,
+        "duration": 6.16,
+        "start_formatted": "21:45",
+        "text": "fixed rule saying that every user must"
+      },
+      {
+        "start": 1308.56,
+        "duration": 6.28,
+        "start_formatted": "21:48",
+        "text": "get at least 120 tokens per second, then"
+      },
+      {
+        "start": 1312.0,
+        "duration": 5.0,
+        "start_formatted": "21:52",
+        "text": "the old MTP system broke down fast. It"
+      },
+      {
+        "start": 1314.84,
+        "duration": 4.28,
+        "start_formatted": "21:54",
+        "text": "could only serve a small number of users"
+      },
+      {
+        "start": 1317.0,
+        "duration": 4.52,
+        "start_formatted": "21:57",
+        "text": "before it crashed because the software"
+      },
+      {
+        "start": 1319.12,
+        "duration": 4.64,
+        "start_formatted": "21:59",
+        "text": "and hardware were just not optimized. On"
+      },
+      {
+        "start": 1321.52,
+        "duration": 4.88,
+        "start_formatted": "22:01",
+        "text": "the other hand, D Spark avoided this"
+      },
+      {
+        "start": 1323.76,
+        "duration": 5.08,
+        "start_formatted": "22:03",
+        "text": "because it's smarter about resource use."
+      },
+      {
+        "start": 1326.4,
+        "duration": 5.16,
+        "start_formatted": "22:06",
+        "text": "It knows when to use longer drafts or"
+      },
+      {
+        "start": 1328.84,
+        "duration": 5.56,
+        "start_formatted": "22:08",
+        "text": "when to end a draft early to save GPU"
+      },
+      {
+        "start": 1331.56,
+        "duration": 4.84,
+        "start_formatted": "22:11",
+        "text": "power. As a result, it could achieve an"
+      },
+      {
+        "start": 1334.4,
+        "duration": 4.56,
+        "start_formatted": "22:14",
+        "text": "almost 700%"
+      },
+      {
+        "start": 1336.4,
+        "duration": 4.88,
+        "start_formatted": "22:16",
+        "text": "higher total system output, which is an"
+      },
+      {
+        "start": 1338.96,
+        "duration": 4.8,
+        "start_formatted": "22:18",
+        "text": "insane improvement. And again, all of"
+      },
+      {
+        "start": 1341.28,
+        "duration": 4.6,
+        "start_formatted": "22:21",
+        "text": "this did not affect output quality. In"
+      },
+      {
+        "start": 1343.76,
+        "duration": 3.76,
+        "start_formatted": "22:23",
+        "text": "fact, because of this dynamic traffic"
+      },
+      {
+        "start": 1345.88,
+        "duration": 3.92,
+        "start_formatted": "22:25",
+        "text": "cop system, remember this is the"
+      },
+      {
+        "start": 1347.52,
+        "duration": 4.6,
+        "start_formatted": "22:27",
+        "text": "mechanism that allows D Spark to adjust"
+      },
+      {
+        "start": 1349.8,
+        "duration": 5.44,
+        "start_formatted": "22:29",
+        "text": "itself automatically, it can now handle"
+      },
+      {
+        "start": 1352.12,
+        "duration": 4.92,
+        "start_formatted": "22:32",
+        "text": "combinations of speed and user capacity"
+      },
+      {
+        "start": 1355.24,
+        "duration": 4.44,
+        "start_formatted": "22:35",
+        "text": "that weren't possible on the same"
+      },
+      {
+        "start": 1357.04,
+        "duration": 5.28,
+        "start_formatted": "22:37",
+        "text": "hardware before. You can see this new D"
+      },
+      {
+        "start": 1359.68,
+        "duration": 5.24,
+        "start_formatted": "22:39",
+        "text": "Spark method is able to process way more"
+      },
+      {
+        "start": 1362.32,
+        "duration": 5.52,
+        "start_formatted": "22:42",
+        "text": "data even as the number of concurrent"
+      },
+      {
+        "start": 1364.92,
+        "duration": 5.52,
+        "start_formatted": "22:44",
+        "text": "requests from users increases. So, in a"
+      },
+      {
+        "start": 1367.84,
+        "duration": 5.08,
+        "start_formatted": "22:47",
+        "text": "nutshell, that is the D Spark system by"
+      },
+      {
+        "start": 1370.44,
+        "duration": 4.68,
+        "start_formatted": "22:50",
+        "text": "Deep Seek. When you don't have unlimited"
+      },
+      {
+        "start": 1372.92,
+        "duration": 4.6,
+        "start_formatted": "22:52",
+        "text": "GPUs, unlimited money, or unlimited"
+      },
+      {
+        "start": 1375.12,
+        "duration": 4.72,
+        "start_formatted": "22:55",
+        "text": "people, you're forced to be clever. And"
+      },
+      {
+        "start": 1377.52,
+        "duration": 4.2,
+        "start_formatted": "22:57",
+        "text": "D Spark is a perfect example of this"
+      },
+      {
+        "start": 1379.84,
+        "duration": 3.72,
+        "start_formatted": "22:59",
+        "text": "clever engineering. They solved a"
+      },
+      {
+        "start": 1381.72,
+        "duration": 3.64,
+        "start_formatted": "23:01",
+        "text": "problem that the industry assumed was"
+      },
+      {
+        "start": 1383.56,
+        "duration": 4.6,
+        "start_formatted": "23:03",
+        "text": "not solvable. And from that, they were"
+      },
+      {
+        "start": 1385.36,
+        "duration": 5.24,
+        "start_formatted": "23:05",
+        "text": "able to significantly increase the speed"
+      },
+      {
+        "start": 1388.16,
+        "duration": 4.52,
+        "start_formatted": "23:08",
+        "text": "and output of AI models without"
+      },
+      {
+        "start": 1390.6,
+        "duration": 4.16,
+        "start_formatted": "23:10",
+        "text": "affecting quality. And that's what makes"
+      },
+      {
+        "start": 1392.68,
+        "duration": 4.72,
+        "start_formatted": "23:12",
+        "text": "these publications from DeepSeek so"
+      },
+      {
+        "start": 1394.76,
+        "duration": 4.96,
+        "start_formatted": "23:14",
+        "text": "fascinating to read. Their ingenuity is"
+      },
+      {
+        "start": 1397.4,
+        "duration": 3.96,
+        "start_formatted": "23:17",
+        "text": "just out of this world. And as always,"
+      },
+      {
+        "start": 1399.72,
+        "duration": 4.12,
+        "start_formatted": "23:19",
+        "text": "they've released the code to this"
+      },
+      {
+        "start": 1401.36,
+        "duration": 4.12,
+        "start_formatted": "23:21",
+        "text": "already. So, I'll link to this GitHub"
+      },
+      {
+        "start": 1403.84,
+        "duration": 4.16,
+        "start_formatted": "23:23",
+        "text": "repo in the description below, which"
+      },
+      {
+        "start": 1405.48,
+        "duration": 5.24,
+        "start_formatted": "23:25",
+        "text": "contains instructions and the code to"
+      },
+      {
+        "start": 1408.0,
+        "duration": 5.44,
+        "start_formatted": "23:28",
+        "text": "run DeepSpark. Plus, this is released"
+      },
+      {
+        "start": 1410.72,
+        "duration": 4.84,
+        "start_formatted": "23:30",
+        "text": "under a very permissive MIT license."
+      },
+      {
+        "start": 1413.44,
+        "duration": 4.44,
+        "start_formatted": "23:33",
+        "text": "It's awesome that the DeepSeek team is"
+      },
+      {
+        "start": 1415.56,
+        "duration": 4.32,
+        "start_formatted": "23:35",
+        "text": "willing to reveal the details to this,"
+      },
+      {
+        "start": 1417.88,
+        "duration": 4.84,
+        "start_formatted": "23:37",
+        "text": "especially all this infrastructure stuff"
+      },
+      {
+        "start": 1419.88,
+        "duration": 5.32,
+        "start_formatted": "23:39",
+        "text": "on how to actually deploy this to a data"
+      },
+      {
+        "start": 1422.72,
+        "duration": 4.8,
+        "start_formatted": "23:42",
+        "text": "center and run it efficiently. This is"
+      },
+      {
+        "start": 1425.2,
+        "duration": 4.36,
+        "start_formatted": "23:45",
+        "text": "incredibly valuable information, and"
+      },
+      {
+        "start": 1427.52,
+        "duration": 3.96,
+        "start_formatted": "23:47",
+        "text": "it's often top secret for the closed"
+      },
+      {
+        "start": 1429.56,
+        "duration": 3.72,
+        "start_formatted": "23:49",
+        "text": "labs out there. These are like industry"
+      },
+      {
+        "start": 1431.48,
+        "duration": 3.4,
+        "start_formatted": "23:51",
+        "text": "secrets, which the closed labs"
+      },
+      {
+        "start": 1433.28,
+        "duration": 3.6,
+        "start_formatted": "23:53",
+        "text": "definitely don't want you or any"
+      },
+      {
+        "start": 1434.88,
+        "duration": 4.16,
+        "start_formatted": "23:54",
+        "text": "competitor to know about. But here,"
+      },
+      {
+        "start": 1436.88,
+        "duration": 4.04,
+        "start_formatted": "23:56",
+        "text": "DeepSeek is revealing all these details."
+      },
+      {
+        "start": 1439.04,
+        "duration": 4.2,
+        "start_formatted": "23:59",
+        "text": "Plus, the awesome thing is this"
+      },
+      {
+        "start": 1440.92,
+        "duration": 4.76,
+        "start_formatted": "24:00",
+        "text": "DeepSpark mechanism has already been"
+      },
+      {
+        "start": 1443.24,
+        "duration": 4.64,
+        "start_formatted": "24:03",
+        "text": "implemented into their latest DeepSeek"
+      },
+      {
+        "start": 1445.68,
+        "duration": 4.16,
+        "start_formatted": "24:05",
+        "text": "V4 model. So, I'll link to this Hugging"
+      },
+      {
+        "start": 1447.88,
+        "duration": 4.0,
+        "start_formatted": "24:07",
+        "text": "Face page in the description below,"
+      },
+      {
+        "start": 1449.84,
+        "duration": 4.36,
+        "start_formatted": "24:09",
+        "text": "where you can download the latest"
+      },
+      {
+        "start": 1451.88,
+        "duration": 4.32,
+        "start_formatted": "24:11",
+        "text": "DeepSeek model with DeepSpark"
+      },
+      {
+        "start": 1454.2,
+        "duration": 4.16,
+        "start_formatted": "24:14",
+        "text": "implemented. And in theory, this should"
+      },
+      {
+        "start": 1456.2,
+        "duration": 4.12,
+        "start_formatted": "24:16",
+        "text": "run even faster and more efficiently"
+      },
+      {
+        "start": 1458.36,
+        "duration": 4.36,
+        "start_formatted": "24:18",
+        "text": "compared to the previous version, which"
+      },
+      {
+        "start": 1460.32,
+        "duration": 4.68,
+        "start_formatted": "24:20",
+        "text": "by the way, is already insanely fast and"
+      },
+      {
+        "start": 1462.72,
+        "duration": 4.92,
+        "start_formatted": "24:22",
+        "text": "cheap. This is the fastest and most"
+      },
+      {
+        "start": 1465.0,
+        "duration": 4.48,
+        "start_formatted": "24:25",
+        "text": "efficient frontier model out there. But"
+      },
+      {
+        "start": 1467.64,
+        "duration": 3.72,
+        "start_formatted": "24:27",
+        "text": "they just made it even faster. Anyway,"
+      },
+      {
+        "start": 1469.48,
+        "duration": 4.08,
+        "start_formatted": "24:29",
+        "text": "this is one of the more technical papers"
+      },
+      {
+        "start": 1471.36,
+        "duration": 4.16,
+        "start_formatted": "24:31",
+        "text": "I reviewed so far on my channel. So,"
+      },
+      {
+        "start": 1473.56,
+        "duration": 4.36,
+        "start_formatted": "24:33",
+        "text": "hopefully I made it easy for you to"
+      },
+      {
+        "start": 1475.52,
+        "duration": 4.12,
+        "start_formatted": "24:35",
+        "text": "digest. In fact, the paper is jam-packed"
+      },
+      {
+        "start": 1477.92,
+        "duration": 3.44,
+        "start_formatted": "24:37",
+        "text": "with a ton of additional technical"
+      },
+      {
+        "start": 1479.64,
+        "duration": 3.44,
+        "start_formatted": "24:39",
+        "text": "details, which I didn't have time to"
+      },
+      {
+        "start": 1481.36,
+        "duration": 3.72,
+        "start_formatted": "24:41",
+        "text": "cover. So, if you're interested in"
+      },
+      {
+        "start": 1483.08,
+        "duration": 4.04,
+        "start_formatted": "24:43",
+        "text": "digging deeper, I'll link to this"
+      },
+      {
+        "start": 1485.08,
+        "duration": 3.8,
+        "start_formatted": "24:45",
+        "text": "original paper in the description below"
+      },
+      {
+        "start": 1487.12,
+        "duration": 3.84,
+        "start_formatted": "24:47",
+        "text": "as well. Let me know in the comments"
+      },
+      {
+        "start": 1488.88,
+        "duration": 4.4,
+        "start_formatted": "24:48",
+        "text": "what you think of this. As always, I"
+      },
+      {
+        "start": 1490.96,
+        "duration": 4.92,
+        "start_formatted": "24:50",
+        "text": "will be on the lookout for the top AI"
+      },
+      {
+        "start": 1493.28,
+        "duration": 4.4,
+        "start_formatted": "24:53",
+        "text": "news and tools to share with you. So, if"
+      },
+      {
+        "start": 1495.88,
+        "duration": 4.0,
+        "start_formatted": "24:55",
+        "text": "you enjoyed this video, remember to"
+      },
+      {
+        "start": 1497.68,
+        "duration": 4.76,
+        "start_formatted": "24:57",
+        "text": "like, share, subscribe, and stay tuned"
+      },
+      {
+        "start": 1499.88,
+        "duration": 4.32,
+        "start_formatted": "24:59",
+        "text": "for more content. Also, there's just so"
+      },
+      {
+        "start": 1502.44,
+        "duration": 4.2,
+        "start_formatted": "25:02",
+        "text": "much happening in the world of AI every"
+      },
+      {
+        "start": 1504.2,
+        "duration": 4.72,
+        "start_formatted": "25:04",
+        "text": "week. I can't possibly cover everything"
+      },
+      {
+        "start": 1506.64,
+        "duration": 4.68,
+        "start_formatted": "25:06",
+        "text": "on my YouTube channel. So, to really"
+      },
+      {
+        "start": 1508.92,
+        "duration": 5.24,
+        "start_formatted": "25:08",
+        "text": "stay up-to-date with all that's going on"
+      },
+      {
+        "start": 1511.32,
+        "duration": 4.8,
+        "start_formatted": "25:11",
+        "text": "in AI, be sure to subscribe to my free"
+      },
+      {
+        "start": 1514.16,
+        "duration": 3.92,
+        "start_formatted": "25:14",
+        "text": "weekly newsletter. The link to that will"
+      },
+      {
+        "start": 1516.12,
+        "duration": 4.0,
+        "start_formatted": "25:16",
+        "text": "be in the description below. Thanks for"
+      },
+      {
+        "start": 1518.08,
+        "duration": 4.36,
+        "start_formatted": "25:18",
+        "text": "watching, and I'll see you in the next"
+      },
+      {
+        "start": 1520.12,
+        "duration": 2.32,
+        "start_formatted": "25:20",
+        "text": "one."
+      }
+    ],
+    "full_text": "If you've been working with AI models, especially with agents that are doing some really challenging or long tasks, they take quite a while to process and generate your answer. It sometimes takes a painfully long time to wait for it to generate a response or finish a task. But what if that wait basically disappeared? What if instead of watching a loading spinner, you got your answer back almost instantly? And what if this speed boost didn't cost you anything in quality? No shortcuts or dumbed-down answers. This seems way too good to be true, right? But the genius team at DeepSeek did it again. They found a way to push AI systems to more than six times the output capacity and speed things up by over 80% without any loss in quality. This seems impossible because usually there's a trade-off between speed and quality. You can't really have both at the same time, but surprisingly DeepSeek was able to pull this off. In this video, we're going to go over this breakthrough and the clever engineering behind it. Now, this is quite a technical paper, but as always, I'll break it down and make it easy to understand for everyone. Let's jump right in. First of all, if you haven't heard of DeepSeek, this is a small Chinese lab that's incredibly resource-constrained. They have like 20 times fewer employees than OpenAI. Heck, they don't even have access to the top Nvidia GPUs out there. So, they're incredibly limited in terms of compute. But the team is simply brilliant and relentless. In fact, they've already built one of the most intelligent and efficient open-source models out there, DeepSeek V4. Not only did they release the model, but they were also generous enough to reveal all the details on how this works. In fact, if you want to learn more about this, I highly recommend this video where I do a deep dive on DeepSeek V4. Anyway, because of their situation, because they are severely limited by resources, they can't just keep building bigger and bigger models. They have to be laser-focused on making them as efficient as possible. And that's why the publications from DeepSeek are so interesting. It's not just about brute force, but about smarter design. And a few days ago, they released a new system called DeepSpark. This claims to speed up AI models and increase their output capacity by over 600% without any cost in quality. That's a pretty crazy result. Now, before we go over this, it's probably helpful to first understand how current AI models work and what the bottleneck is. You see, when you prompt ChatGPT or Gemini or DeepSeek, you probably need to wait at least a few seconds before you get a response. You'll see a loading spinner as you wait. Well, this is because modern AI models generate text through a process called autoregressive generation. Basically, AI writes one word at a time. And to generate each word, it has to look at everything written so far. More technically speaking, each word has to look at how every previous word relates to it. Now, for a short sentence, that's fine. But imagine writing a really long report that's thousands of words or even hundreds of thousands of words. Every word has to look back at every previous word to see how it relates to itself and then run this through the billions of parameters of the AI model to process and generate the next word. The number of computations required is astronomical. Now, modern GPUs are already incredibly powerful. They're designed to do a ton of calculations at once in parallel. So, they can easily handle all this data flowing through billions of parameters of an AI model to generate the next word. This step is actually a piece of cake for the GPU. The real slowdown isn't these calculations through a neural network. It's that the chip needs to fetch all the saved values for the relationships of every single word and how it relates to every other word. Again, for a short sentence, it's fine. But if you're handling a ton of text and each word has to look back at all the other words before it to figure out the context of everything, well, that's the slow part. It's fetching all these values from memory for each word. And after all these values are fetched, then this data can be passed through the neural network to process. And here the GPU can process everything very quickly. It's just like a tiny burst of work to spit out the next word. But then it sits idle again waiting for the next batch of values to be fetched from memory. And because AI models are designed to generate only one word at a time, you can't begin calculating things for the next word until previous word has been generated and confirmed. And this actually creates a direct relationship between the length of the response and the time it takes to generate it. In other words, the longer the answer, the longer it'll take to generate because it needs to generate everything one word at a time and for each word it has to look at all the relationships of every other word before it. Now, of course, the industry is aware of this massive inefficiency and there are workarounds for this. In fact, the current gold standard for speeding up generation is something called speculative decoding. And the idea here is surprisingly simple. Instead of having a large model slowly generate every word one at a time, you use a faster, smaller model to guess several words ahead. Then the big model just checks those guesses. If the guesses are good, the large model can accept multiple words at once instead of producing them one at a time. Here's an easy analogy to understand this. Imagine at work there's a brilliant senior boss. This dude's pretty smart and every final decision has to go through him, but there's just one problem. His time is very expensive. He's also really slow. He insists on writing every single word one at a time. Well, this senior boss is like the full AI model. It's intelligent and we trust it to produce a good answer, but it's just really slow and expensive to use. So, to speed things up, the company hires an intern. The intern is like a tiny lightweight AI model. He's not as smart as the boss, he misses details and sometimes chooses the wrong words, but he works extremely fast. And here's how speculative decoding works. Instead of asking the boss to write everything, you actually get the intern to quickly draft a chunk of text in advance, maybe five to 10 words. The intern hands this draft to the boss, and now the boss doesn't have to check words one by one. He can just verify all the words simultaneously in parallel. In AI terms, the large model can check several guessed words from the smaller model at once because GPUs are built for parallel work. So, instead of using the big model to slowly write one word at a time, we just use the small model to guess several words. And then we use the big model to check its response all at once. But what happens if the intern makes a mistake? Well, the system uses a technique called rejection sampling. The bigger model scans the intern's draft left to right and accepts all the words that align. But if the intern messes up on a certain word, the boss pulls out a red pen and rejects that word and everything after it. Then the intern starts again from there and drafts the next chunk for the boss to review again. This is basically how speculative decoding works. The small model guesses ahead, the large model checks the draft and accepts the correct words. If the word is wrong, everything else after it is rejected and the smaller model starts from there. And the process repeats again and again. The important part is that the big model always has the final say. That's why speculative decoding can be a lossless. Having a smaller model doesn't mean its answer is dumber. It doesn't mean we're lowering the quality of the output because ultimately the final answer still comes from the large model's decision. We're just using a small model to help it write faster. But the output quality is the same as if the large model had written everything itself. So, in a nutshell, that is speculative decoding. And while this is one of the standard ways to speed up AI models, there's currently a huge dilemma that this idea faces. You see, the main problem is that these interns, or the smaller models, are deeply flawed, and they fail in completely opposite ways. So, let's go over this problem. There are basically two kinds of interns. One is careful and slow, and other is fast, but unreliable. You see, the first type is called an auto-regressive drafter. This works almost the same way as the big model. It predicts one word at a time. It generates word one, then word two, then word three, and it keeps going step-by-step. The advantage here is that each new word knows what came before it. So, it's less likely to get the draft wrong. The output quality is higher, but because it's generating this one word at a time, it's also slow. The longer the draft, the longer it takes for it to generate. Well, the second type of intern is called a parallel drafter. This is a lot more aggressive. Instead of outputting words one at a time, it predicts an entire block of words at once. For example, you can get it to output multiple words in just a single pass, and this makes it way faster. It's guessing the first word at the same time that it guesses the last word. This also works well because, well, GPUs are built for parallel work. So, a parallel drafter can use more of the hardware efficiently. Now, this sounds great, right? But, there's actually a hidden weakness. Because it predicts all these words at the same time, it doesn't get to naturally build the sentence step-by-step. It suffers from something called suffix decay. Here's an example of what this is. Imagine the model is trying to agree with the user. Because there are many ways to express the same thing in natural language, it could output, \"Of course.\" Or, it could also say, \"No problem.\" Both are valid. But, for a parallel model, because it's generating both words at the same time, instead of sequentially, there is a chance that it could output a messed-up answer like of problem or no course. And here, it's just a very simple two-word example, but as the draft gets longer and longer, and there are more words in it, this gets even worse. The first few words might be fine, but later words are often always messed up. So, this is the suffix decay problem. To sum things up, here's the dilemma we're facing. There's currently no good solution for speculative decoding, because one type of drafter is very careful, but very slow. Another type of drafter is very fast, but it has a lot of errors. And we currently don't really have any solution to this. Well, that's exactly what DeepSeek aimed to solve in this paper. So, they proposed a system called DeepSpark, and the design is quite genius. Here's how it works. So, they took the parallel intern and built on top of that. Remember, this parallel intern can basically predict multiple words at once, so this is really fast, but it's also extremely prone to error. Well, DeepSeek added something on top of that. They introduced a tiny, incredibly lightweight loop that iterates one position at a time. It's like having a hyper-fast editor sitting next to the intern, just lightly nudging them in the right direction. For example, if it typed the word of, then it's going to bias the next word towards course. Or if it typed no, then it's going to bias the next generation towards problem. Claude Fable is back this week. And if you want to use it to turn your ideas into production-ready content, definitely check out Higgsfield, the sponsor of this video. Claude Fable 5 is already one of the smartest models out there. It can understand your idea, reason through it, and come up with really strong creative direction. But normally, it's still stuck inside a chat box. It can tell you what to make, but it can't actually make the content. Well, that's where Higgsfield comes in. With Higgsfield MCP, you can connect Claude to some of the best image and video tools in the world. So, instead of just describing a concept, it can generate the visuals, create the videos, edit the assets, and help build the full campaign. Instead of manually jumping between tools and copying and pasting stuff, you can work directly inside Claude. Claude can plan the concept, write the creative brief, generate the videos or images through Higgs Field, and even place the final assets into your folder. No switching tabs, no copying prompts back and forth, no separate creative handoff. And because Fable 5 remembers the context, your characters, across the whole project. And if you want to go even bigger, there's also Higgs Field's supercomputer. This is basically Higgs Field's full AI creative team in one chat. You can choose Fable 5 as the brain, then build everything from the first idea to the final deliverable. Instead of micromanaging every tiny step, you give it the goal and let it act more like a creative director. Whether you're making ads, launch videos, social media videos, or any other content, Higgs Field is a game changer that will supercharge your production workflow. Try it today using the link in the description below. Now, if we dive deeper, here's how it works in technical terms. They used something called a Markov head. In probability theory, a Markov process assumes that the probability of the next state depends exclusively on the current state, completely ignoring any states that occurred before. This phenomenon is actually found everywhere in life. For example, when you're walking, your future position depends entirely on your current position plus which direction you step next. Everything else before that point didn't really matter. So, the Markov head in D-Spark only looks at the immediately preceding word to adjust the probabilities for the next word. In other words, it looks at the previous word to guide what the next word would likely be. And it turns out that adding this Markov mechanism fixes the suffix decay problem we had before. All right, so it seems like a good fix, but you might be wondering if we add this extra component and make it sequential, wouldn't it slow things down by a lot? Well, the cracked team at Deep Seek used a technique called low-rank factorization. It's too technical for this video, but it basically compresses the information down and makes the computations extremely fast and efficient. And it turns out that after applying this Markov head with low-rank factorization, then the compute cost is actually quite negligible. In fact, adding this tiny Markov editor only added an additional latency of 0.2 to 1.3% of the total generation speed. But the return on this tiny investment is massive. With this, it's now much less error-prone and you can boost the length of a correct draft by up to 30%, which is incredible. In fact, for this new Deep Spark model, even if we make it a shallow two layers, actually outperforms a massive five-layer pure parallel drafter across all benchmarks. It's vastly superior and more efficient and better quality, pretty much solving this drafting intern dilemma. All right, so up to now, we've kind of solved this at least in theory, at least in code. But once we deploy Deep Spark to a real data server, well, that unleashes a ton of new infrastructure problems. You see, this works completely fine if we have just one GP U serving exactly one user. This is fairly simple and straightforward. But in a real production setting, you have a data center with multiple GPUs, plus you'll have like thousands of concurrent users all using the same model at the same time. You see, the full AI model, in other words, the boss model, has a strict physical limitation known as the batch capacity. It can only process a set number of tokens at once across all users simultaneously. So, if user A asks a question, the system sends a draft from the intern model to the boss model to verify. And this draft consumes a percentage of the total compute pie. If the draft for user A was a bad guess and the boss rejects it halfway, well, all of this compute is essentially wasted. If the draft is long and contains a ton of errors, not only does this waste the boss model's batch capacity, but it also wastes the intern's compute, plus it also adds latency while the other users' queries are held in queue. So, it goes without saying, sending bad drafts to the boss model wastes compute and hurts everyone else on the server. You want to avoid sending as many bad drafts as possible. Now, to fix this, you might be thinking, maybe we can just make the drafts shorter so that we don't waste capacity, right? And shorter drafts tend to contain fewer errors, especially near the ends. Well, actually, that would be inefficient in the opposite direction. You see, the point of making drafts in the first place is for the generation to run faster. And the longer the draft, the faster it can generate the output. So, here's the trick that DeepSeek proposed. The length of the draft should actually be based on context. If the context is about content that's very predictable, for example, answering a math or coding problem, the draft length can be longer because the answer is very deterministic. It's less likely for the intern model to get the draft wrong. But, if the context is open-ended, for example, if it was prompted to write a creative story, then it's really easy for this draft to contain a ton of wrong words, or in other words, a ton of words that the boss model would reject because there could be so many possibilities of answering this. So, in this context, the draft length should be shorter or cut early. Now, how do we do this? The system needs a kind of dynamic traffic cop. It needs to look at the context and dynamically decide how long the draft should be or when to end it early. In fact, we need a mechanism that can cut the draft writing early if it detects that it's likely to make a mistake at that point. That way, it won't waste compute generating more stuff that the boss model would likely reject. So, the DeepSeek team also added a specialized lightweight module called the confidence head. This is attached directly to the drafter or the intern model. For every word that it generates, the head also outputs a confidence score ranging from zero to one. Zero would mean it's completely guessing and it's not sure if it's the right word, whereas one would means it's 100% certain that this is the right word. This is the word that the boss model would also write. And to make this work, they added a simple rule. If the word is above a threshold, let's say above a confidence score of 0.6, then keep going. If any word is below that threshold, then you end the draft writing immediately and you stop wasting compute. You only send that portion of the draft to the boss model for review. And after implementing this and testing it out, the results were staggering. After using this confidence threshold, the acceptance rate from the boss model jumped up from a dismal 45.7% to a crazy 96%. In other words, now the drafts are much more likely to be accepted by the boss model. Therefore, we're wasting way less compute. Let's trace the logic of this improvement. Let's say the AI is attempting to write a creative story. Because it's so open-ended, the draft it writes starts to have very low confidence early on. Let's say by the fourth or fifth word. At that point, based on the current mechanism, the system terminates the draft because its prediction is weak. The intern is not really confident if it continues writing the draft whether the boss model would actually accept it. And conversely, let's say the AI is trying to solve a math or coding problem. In this case, the answer is much more deterministic. And when it's writing the draft, it's very confident throughout its prediction. Its confidence values are almost always above the threshold. So, the mechanism doesn't have to cut the draft early. The draft can be longer in this case, and therefore, the generation can be faster. So, this is a mechanism that can automatically decide how much to speed up the generation while maintaining good quality and avoiding wasting any compute. But, that's not all. You see, the genius of this design is that it's also hardware aware. It looks at all active requests, gathers the confidence of all these drafts, and then compares them against something called an SBS curve. This is basically a chart showing how GPU speed changes depending on the batch size. You see, smaller drafts process quickly and are easier on the GPU, but larger drafts slow down the GPU, which could affect other concurrent users. Well, the mechanism also monitors current GPU load and decides in real time the length of the drafts it accepts. This ensures the best possible trade-off between speed and hardware performance. During off-peak hours, for example, when there are relatively few users, the system notices that it has spare GPU capacity, so it loosens up, letting the draft model guess more words at once. This uses the extra available power to make each response faster for users. But, during busy hours, it senses the added strain. GPU capacity becomes low, so it shortens how many words the draft model is allowed to guess. Individual responses do get a bit slower, but this protects the system as a whole from slowing down or crashing under load. So, we have assembled the pieces. We have a fast hybrid intern generating drafts. We have a confidence head evaluating the output of the draft and deciding when it should be cut off. We also have an algorithm that looks at the GPU load in real time to automatically adjust the drafts that it receives. This is a completely organic and self-regulating engine. It's a beautifully designed optimization for the entire stack, from software to hardware, as expected from the Deep Seek team. And if we look at the results in production, it's extremely impressive. If you compare this new D Spark method against Deep Seek's previous MTP system, which only predicts one word or token at a time, you can see that this new D Spark delivers a 60 to 85% increase in generation speed without any loss in quality. That's the key here. We're essentially getting faster speeds without any sacrifice in quality. In fact, get this. If the researchers set a fixed rule saying that every user must get at least 120 tokens per second, then the old MTP system broke down fast. It could only serve a small number of users before it crashed because the software and hardware were just not optimized. On the other hand, D Spark avoided this because it's smarter about resource use. It knows when to use longer drafts or when to end a draft early to save GPU power. As a result, it could achieve an almost 700% higher total system output, which is an insane improvement. And again, all of this did not affect output quality. In fact, because of this dynamic traffic cop system, remember this is the mechanism that allows D Spark to adjust itself automatically, it can now handle combinations of speed and user capacity that weren't possible on the same hardware before. You can see this new D Spark method is able to process way more data even as the number of concurrent requests from users increases. So, in a nutshell, that is the D Spark system by Deep Seek. When you don't have unlimited GPUs, unlimited money, or unlimited people, you're forced to be clever. And D Spark is a perfect example of this clever engineering. They solved a problem that the industry assumed was not solvable. And from that, they were able to significantly increase the speed and output of AI models without affecting quality. And that's what makes these publications from DeepSeek so fascinating to read. Their ingenuity is just out of this world. And as always, they've released the code to this already. So, I'll link to this GitHub repo in the description below, which contains instructions and the code to run DeepSpark. Plus, this is released under a very permissive MIT license. It's awesome that the DeepSeek team is willing to reveal the details to this, especially all this infrastructure stuff on how to actually deploy this to a data center and run it efficiently. This is incredibly valuable information, and it's often top secret for the closed labs out there. These are like industry secrets, which the closed labs definitely don't want you or any competitor to know about. But here, DeepSeek is revealing all these details. Plus, the awesome thing is this DeepSpark mechanism has already been implemented into their latest DeepSeek V4 model. So, I'll link to this Hugging Face page in the description below, where you can download the latest DeepSeek model with DeepSpark implemented. And in theory, this should run even faster and more efficiently compared to the previous version, which by the way, is already insanely fast and cheap. This is the fastest and most efficient frontier model out there. But they just made it even faster. Anyway, this is one of the more technical papers I reviewed so far on my channel. So, hopefully I made it easy for you to digest. In fact, the paper is jam-packed with a ton of additional technical details, which I didn't have time to cover. So, if you're interested in digging deeper, I'll link to this original paper in the description below as well. Let me know in the comments what you think of this. As always, I will be on the lookout for the top AI news and tools to share with you. So, if you enjoyed this video, remember to like, share, subscribe, and stay tuned for more content. Also, there's just so much happening in the world of AI every week. I can't possibly cover everything on my YouTube channel. So, to really stay up-to-date with all that's going on in AI, be sure to subscribe to my free weekly newsletter. The link to that will be in the description below. Thanks for watching, and I'll see you in the next one.",
+    "word_count": 4596,
     "error": null
   }
 }

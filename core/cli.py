@@ -105,7 +105,8 @@ def run_extraction(
 
 def main():
     parser = argparse.ArgumentParser(description="Headless YouTube Channel Video & Transcript Extractor")
-    parser.add_argument("--channel", "-c", required=True, help="YouTube channel handle or URL (e.g. @theAIsearch)")
+    parser.add_argument("--channel", "-c", help="YouTube channel handle or URL (e.g. @theAIsearch)")
+    parser.add_argument("--url", "-u", help="Fetch transcript for a specific YouTube video URL or ID")
     parser.add_argument("--period", "-p", default="3m", help="Time period window (e.g. 3m, 1m, 30d, 6m, 1y). Default: 3m")
     parser.add_argument("--start-date", help="Optional start date (YYYY-MM-DD)")
     parser.add_argument("--end-date", help="Optional end date (YYYY-MM-DD)")
@@ -113,8 +114,18 @@ def main():
     parser.add_argument("--format", choices=["json", "md", "srt", "txt"], help="Export format")
     parser.add_argument("--output-dir", help="Directory path to write export files")
     parser.add_argument("--no-save", action="store_true", help="Disable saving to default data store")
+    parser.add_argument("--cookies-from-browser", help="Browser to export cookies from (chrome, firefox, edge)")
 
     args = parser.parse_args()
+
+    if args.url:
+        from scripts.redo_transcripts import update_video_transcript
+        print(f"Fetching transcript for URL/ID: {args.url}")
+        success = update_video_transcript(args.url, channel_handle=args.channel, cookies_from_browser=args.cookies_from_browser)
+        sys.exit(0 if success else 1)
+
+    if not args.channel:
+        parser.error("Either --channel or --url is required.")
 
     try:
         res = run_extraction(
@@ -143,3 +154,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

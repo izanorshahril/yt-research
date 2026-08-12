@@ -14,10 +14,3725 @@
     "video_id": "DlvhlQOBHBw",
     "has_transcript": true,
     "language": "en",
-    "is_generated": false,
-    "segments": [],
-    "full_text": "PiD Pixel Diffusion by Nvidia. Best AI image model for high resolution images. Free & open source #ai #aitools #aiart #imagegeneration #agi\n\nThanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/general-theaisearch-axXCBN\n\nWorkflows https://github.com/Comfy-Org/ComfyUI/pull/14103\nGemma 2b https://huggingface.co/Comfy-Org/PixelDiT/tree/main/text_encoders \nPiD models https://huggingface.co/Comfy-Org/PixelDiT/tree/main/diffusion_models\n\nZ-image: https://huggingface.co/Comfy-Org/z_image_turbo/tree/main/split_files/diffusion_models\nQwen3 4b: https://huggingface.co/Comfy-Org/z_image_turbo/tree/main/split_files/text_encoders \nVAE: https://huggingface.co/Comfy-Org/z_image_turbo/tree/main/split_files/vae\n\nZ-image tutorial: https://youtu.be/iNM5z8cCH8w\nComfyUI tutorial https://youtu.be/g74Cq9Ip2ik\n\n\nTimestamps\n0:00 PiD intro\n0:19 Personal demos\n2:00 More demos and how it works\n2:52 PiD vs SeedVR2\n4:14 How to install\n5:49 Workflows\n6:24 PiD upscaler workflow\n11:46 Higgsfield\n13:16 Before after slider\n14:06 Zimage to PiD\n19:55 PiD text to image\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
-    "word_count": 0,
+    "is_generated": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "duration": 4.12,
+        "start_formatted": "00:00",
+        "text": "We have a new state-of-the-art open"
+      },
+      {
+        "start": 1.76,
+        "duration": 4.56,
+        "start_formatted": "00:01",
+        "text": "source model that can create 4K"
+      },
+      {
+        "start": 4.12,
+        "duration": 3.6,
+        "start_formatted": "00:04",
+        "text": "resolution images. Not only is this"
+      },
+      {
+        "start": 6.32,
+        "duration": 3.8,
+        "start_formatted": "00:06",
+        "text": "really detailed, but it's also"
+      },
+      {
+        "start": 7.72,
+        "duration": 4.24,
+        "start_formatted": "00:07",
+        "text": "incredibly fast and lightweight. I can"
+      },
+      {
+        "start": 10.12,
+        "duration": 4.4,
+        "start_formatted": "00:10",
+        "text": "generate an image in less than 5"
+      },
+      {
+        "start": 11.96,
+        "duration": 5.4,
+        "start_formatted": "00:11",
+        "text": "seconds. This is called Pixel Diffusion"
+      },
+      {
+        "start": 14.52,
+        "duration": 4.04,
+        "start_formatted": "00:14",
+        "text": "or PID for short, and this is by Nvidia."
+      },
+      {
+        "start": 17.36,
+        "duration": 3.2,
+        "start_formatted": "00:17",
+        "text": "First of all, here are some of my"
+      },
+      {
+        "start": 18.56,
+        "duration": 3.64,
+        "start_formatted": "00:18",
+        "text": "personal examples. Here's what the"
+      },
+      {
+        "start": 20.56,
+        "duration": 3.08,
+        "start_formatted": "00:20",
+        "text": "workflow looks like, and don't worry, in"
+      },
+      {
+        "start": 22.2,
+        "duration": 3.8,
+        "start_formatted": "00:22",
+        "text": "the latter half of this video, I'm going"
+      },
+      {
+        "start": 23.64,
+        "duration": 4.6,
+        "start_formatted": "00:23",
+        "text": "to show you exactly how to install and"
+      },
+      {
+        "start": 26.0,
+        "duration": 4.2,
+        "start_formatted": "00:26",
+        "text": "run this on your computer for free and"
+      },
+      {
+        "start": 28.24,
+        "duration": 4.199,
+        "start_formatted": "00:28",
+        "text": "unlimited times. But first, here are"
+      },
+      {
+        "start": 30.2,
+        "duration": 4.32,
+        "start_formatted": "00:30",
+        "text": "some quick examples. I'm going to upload"
+      },
+      {
+        "start": 32.439,
+        "duration": 4.321,
+        "start_formatted": "00:32",
+        "text": "this photo of a tiger and then plug it"
+      },
+      {
+        "start": 34.52,
+        "duration": 4.04,
+        "start_formatted": "00:34",
+        "text": "through this upscaler, and just like 3"
+      },
+      {
+        "start": 36.76,
+        "duration": 3.8,
+        "start_formatted": "00:36",
+        "text": "seconds, it's able to generate an"
+      },
+      {
+        "start": 38.56,
+        "duration": 3.76,
+        "start_formatted": "00:38",
+        "text": "upscaled version of this. First of all,"
+      },
+      {
+        "start": 40.56,
+        "duration": 4.84,
+        "start_formatted": "00:40",
+        "text": "here's the before. You can see the"
+      },
+      {
+        "start": 42.32,
+        "duration": 5.2,
+        "start_formatted": "00:42",
+        "text": "details of the fur is quite blurry, but"
+      },
+      {
+        "start": 45.4,
+        "duration": 4.8,
+        "start_formatted": "00:45",
+        "text": "after plugging it through this upscaler,"
+      },
+      {
+        "start": 47.52,
+        "duration": 5.16,
+        "start_formatted": "00:47",
+        "text": "notice how much more detailed it is. Let"
+      },
+      {
+        "start": 50.2,
+        "duration": 4.48,
+        "start_formatted": "00:50",
+        "text": "me zoom in even more so you can clearly"
+      },
+      {
+        "start": 52.68,
+        "duration": 4.92,
+        "start_formatted": "00:52",
+        "text": "see the difference. So, here's the"
+      },
+      {
+        "start": 54.68,
+        "duration": 5.48,
+        "start_formatted": "00:54",
+        "text": "before, and here is the after."
+      },
+      {
+        "start": 57.6,
+        "duration": 4.32,
+        "start_formatted": "00:57",
+        "text": "Incredible details and accuracy. Well,"
+      },
+      {
+        "start": 60.16,
+        "duration": 3.56,
+        "start_formatted": "01:00",
+        "text": "next, I'm going to upload an image of a"
+      },
+      {
+        "start": 61.92,
+        "duration": 4.08,
+        "start_formatted": "01:01",
+        "text": "city, and again, plug it through this"
+      },
+      {
+        "start": 63.72,
+        "duration": 3.92,
+        "start_formatted": "01:03",
+        "text": "upscaler, and here's our result. Here's"
+      },
+      {
+        "start": 66.0,
+        "duration": 3.88,
+        "start_formatted": "01:06",
+        "text": "a before and after slider. So, here's"
+      },
+      {
+        "start": 67.64,
+        "duration": 4.28,
+        "start_formatted": "01:07",
+        "text": "the before. Notice that it's quite low"
+      },
+      {
+        "start": 69.88,
+        "duration": 3.92,
+        "start_formatted": "01:09",
+        "text": "resolution. The outlines of the windows"
+      },
+      {
+        "start": 71.92,
+        "duration": 5.0,
+        "start_formatted": "01:11",
+        "text": "are kind of blurry, but after plugging"
+      },
+      {
+        "start": 73.8,
+        "duration": 5.44,
+        "start_formatted": "01:13",
+        "text": "it through this AI, look how sharp and"
+      },
+      {
+        "start": 76.92,
+        "duration": 4.44,
+        "start_formatted": "01:16",
+        "text": "crisp everything is. Absolutely"
+      },
+      {
+        "start": 79.24,
+        "duration": 4.32,
+        "start_formatted": "01:19",
+        "text": "stunning. In fact, let me zoom in even"
+      },
+      {
+        "start": 81.36,
+        "duration": 5.44,
+        "start_formatted": "01:21",
+        "text": "further so you can see the clear"
+      },
+      {
+        "start": 83.56,
+        "duration": 4.84,
+        "start_formatted": "01:23",
+        "text": "difference in details from this model."
+      },
+      {
+        "start": 86.8,
+        "duration": 3.44,
+        "start_formatted": "01:26",
+        "text": "Or here's an example of a portrait."
+      },
+      {
+        "start": 88.4,
+        "duration": 4.08,
+        "start_formatted": "01:28",
+        "text": "Here's the before. Notice that the faces"
+      },
+      {
+        "start": 90.24,
+        "duration": 4.76,
+        "start_formatted": "01:30",
+        "text": "are quite blurry, but after plugging it"
+      },
+      {
+        "start": 92.48,
+        "duration": 4.96,
+        "start_formatted": "01:32",
+        "text": "through this AI, look how much details"
+      },
+      {
+        "start": 95.0,
+        "duration": 4.44,
+        "start_formatted": "01:35",
+        "text": "it adds to the hair and the face. This"
+      },
+      {
+        "start": 97.44,
+        "duration": 4.48,
+        "start_formatted": "01:37",
+        "text": "is really good for sharpening or"
+      },
+      {
+        "start": 99.44,
+        "duration": 5.68,
+        "start_formatted": "01:39",
+        "text": "upscaling images. Let me zoom in a bit"
+      },
+      {
+        "start": 101.92,
+        "duration": 5.72,
+        "start_formatted": "01:41",
+        "text": "more so you can see the clear difference"
+      },
+      {
+        "start": 105.12,
+        "duration": 4.12,
+        "start_formatted": "01:45",
+        "text": "in definition and detail."
+      },
+      {
+        "start": 107.64,
+        "duration": 4.24,
+        "start_formatted": "01:47",
+        "text": "And then finally, here's a night sky"
+      },
+      {
+        "start": 109.24,
+        "duration": 4.68,
+        "start_formatted": "01:49",
+        "text": "comparison. So, here's the before, and"
+      },
+      {
+        "start": 111.88,
+        "duration": 3.96,
+        "start_formatted": "01:51",
+        "text": "here's the after. Again, just much"
+      },
+      {
+        "start": 113.92,
+        "duration": 4.12,
+        "start_formatted": "01:53",
+        "text": "sharper in detail. And then here are"
+      },
+      {
+        "start": 115.84,
+        "duration": 4.28,
+        "start_formatted": "01:55",
+        "text": "some of their official examples for your"
+      },
+      {
+        "start": 118.04,
+        "duration": 4.08,
+        "start_formatted": "01:58",
+        "text": "reference as well. In fact, how this"
+      },
+      {
+        "start": 120.12,
+        "duration": 4.28,
+        "start_formatted": "02:00",
+        "text": "works is very interesting. It's called"
+      },
+      {
+        "start": 122.12,
+        "duration": 4.6,
+        "start_formatted": "02:02",
+        "text": "pixel diffusion because it works in what"
+      },
+      {
+        "start": 124.4,
+        "duration": 4.8,
+        "start_formatted": "02:04",
+        "text": "is called pixel space. You see how"
+      },
+      {
+        "start": 126.72,
+        "duration": 5.36,
+        "start_formatted": "02:06",
+        "text": "normal image generators work is they use"
+      },
+      {
+        "start": 129.2,
+        "duration": 5.48,
+        "start_formatted": "02:09",
+        "text": "a decoder that turns the image data from"
+      },
+      {
+        "start": 132.08,
+        "duration": 4.84,
+        "start_formatted": "02:12",
+        "text": "a compressed latent space back into"
+      },
+      {
+        "start": 134.68,
+        "duration": 4.68,
+        "start_formatted": "02:14",
+        "text": "pixels that you and I can see. But how"
+      },
+      {
+        "start": 136.92,
+        "duration": 5.6,
+        "start_formatted": "02:16",
+        "text": "this PID works is that it does the"
+      },
+      {
+        "start": 139.36,
+        "duration": 4.92,
+        "start_formatted": "02:19",
+        "text": "decoding in pixel space instead. So, if"
+      },
+      {
+        "start": 142.52,
+        "duration": 4.2,
+        "start_formatted": "02:22",
+        "text": "you're generating an image with one of"
+      },
+      {
+        "start": 144.28,
+        "duration": 4.8,
+        "start_formatted": "02:24",
+        "text": "the top models out there like Flux or Z"
+      },
+      {
+        "start": 146.72,
+        "duration": 4.28,
+        "start_formatted": "02:26",
+        "text": "Image or even Stable Diffusion, that"
+      },
+      {
+        "start": 149.08,
+        "duration": 4.76,
+        "start_formatted": "02:29",
+        "text": "model will first generate the image in"
+      },
+      {
+        "start": 151.0,
+        "duration": 5.32,
+        "start_formatted": "02:31",
+        "text": "pixel space and then PID can take this"
+      },
+      {
+        "start": 153.84,
+        "duration": 5.4,
+        "start_formatted": "02:33",
+        "text": "latent as a guidance, but it directly"
+      },
+      {
+        "start": 156.32,
+        "duration": 4.88,
+        "start_formatted": "02:36",
+        "text": "denoises that image in high resolution"
+      },
+      {
+        "start": 159.24,
+        "duration": 4.719,
+        "start_formatted": "02:39",
+        "text": "pixel space. And this can produce"
+      },
+      {
+        "start": 161.2,
+        "duration": 4.72,
+        "start_formatted": "02:41",
+        "text": "sharper 4K results with fewer artifacts"
+      },
+      {
+        "start": 163.959,
+        "duration": 4.201,
+        "start_formatted": "02:43",
+        "text": "that you often find with traditional"
+      },
+      {
+        "start": 165.92,
+        "duration": 5.12,
+        "start_formatted": "02:45",
+        "text": "upscaler methods. Now, if you compare"
+      },
+      {
+        "start": 168.16,
+        "duration": 4.84,
+        "start_formatted": "02:48",
+        "text": "PID to other upscaling methods,"
+      },
+      {
+        "start": 171.04,
+        "duration": 5.56,
+        "start_formatted": "02:51",
+        "text": "especially to one of the leading ones"
+      },
+      {
+        "start": 173.0,
+        "duration": 6.239,
+        "start_formatted": "02:53",
+        "text": "called SeedVR2, you can see that PID is"
+      },
+      {
+        "start": 176.6,
+        "duration": 5.16,
+        "start_formatted": "02:56",
+        "text": "just a lot more consistent and detailed."
+      },
+      {
+        "start": 179.239,
+        "duration": 4.961,
+        "start_formatted": "02:59",
+        "text": "So, notice that as I zoom in to various"
+      },
+      {
+        "start": 181.76,
+        "duration": 5.4,
+        "start_formatted": "03:01",
+        "text": "parts of the image, the quality and"
+      },
+      {
+        "start": 184.2,
+        "duration": 6.12,
+        "start_formatted": "03:04",
+        "text": "consistency and coherence of PID is just"
+      },
+      {
+        "start": 187.16,
+        "duration": 5.04,
+        "start_formatted": "03:07",
+        "text": "a lot better than SeedVR2. Here's"
+      },
+      {
+        "start": 190.32,
+        "duration": 4.76,
+        "start_formatted": "03:10",
+        "text": "another example for your reference."
+      },
+      {
+        "start": 192.2,
+        "duration": 5.56,
+        "start_formatted": "03:12",
+        "text": "Notice that PID is just a lot sharper"
+      },
+      {
+        "start": 195.08,
+        "duration": 4.72,
+        "start_formatted": "03:15",
+        "text": "and more detailed compared to SeedVR2."
+      },
+      {
+        "start": 197.76,
+        "duration": 4.24,
+        "start_formatted": "03:17",
+        "text": "And it's also more faithful. Like the"
+      },
+      {
+        "start": 199.8,
+        "duration": 4.56,
+        "start_formatted": "03:19",
+        "text": "texture of the plushies look a lot more"
+      },
+      {
+        "start": 202.0,
+        "duration": 3.92,
+        "start_formatted": "03:22",
+        "text": "realistic than what we got from SeedVR2,"
+      },
+      {
+        "start": 204.36,
+        "duration": 3.36,
+        "start_formatted": "03:24",
+        "text": "which looks like it's kind of just"
+      },
+      {
+        "start": 205.92,
+        "duration": 4.16,
+        "start_formatted": "03:25",
+        "text": "making stuff up. Then here's another"
+      },
+      {
+        "start": 207.72,
+        "duration": 4.68,
+        "start_formatted": "03:27",
+        "text": "example. If we look at SeedVR2, notice"
+      },
+      {
+        "start": 210.08,
+        "duration": 4.2,
+        "start_formatted": "03:30",
+        "text": "that if you zoom way in, the edges are"
+      },
+      {
+        "start": 212.4,
+        "duration": 3.2,
+        "start_formatted": "03:32",
+        "text": "super blurry, they're not really defined"
+      },
+      {
+        "start": 214.28,
+        "duration": 3.72,
+        "start_formatted": "03:34",
+        "text": "well, and there's kind of some"
+      },
+      {
+        "start": 215.6,
+        "duration": 4.639,
+        "start_formatted": "03:35",
+        "text": "artifacts. But if you look at PID, it"
+      },
+      {
+        "start": 218.0,
+        "duration": 4.36,
+        "start_formatted": "03:38",
+        "text": "just looks really sharp and good. Now,"
+      },
+      {
+        "start": 220.239,
+        "duration": 4.481,
+        "start_formatted": "03:40",
+        "text": "not only is the quality great, but it's"
+      },
+      {
+        "start": 222.36,
+        "duration": 4.2,
+        "start_formatted": "03:42",
+        "text": "also really lightweight and incredibly"
+      },
+      {
+        "start": 224.72,
+        "duration": 4.48,
+        "start_formatted": "03:44",
+        "text": "fast. So, here's the latency and as you"
+      },
+      {
+        "start": 226.56,
+        "duration": 5.36,
+        "start_formatted": "03:46",
+        "text": "can see, PID can upscale an image in"
+      },
+      {
+        "start": 229.2,
+        "duration": 5.96,
+        "start_formatted": "03:49",
+        "text": "less than a second, up to 5.9 times"
+      },
+      {
+        "start": 231.92,
+        "duration": 5.2,
+        "start_formatted": "03:51",
+        "text": "faster than Seed VR 2, which has indeed"
+      },
+      {
+        "start": 235.16,
+        "duration": 5.0,
+        "start_formatted": "03:55",
+        "text": "been very slow for me. And then on the"
+      },
+      {
+        "start": 237.12,
+        "duration": 5.0,
+        "start_formatted": "03:57",
+        "text": "right is the win rate of PID versus the"
+      },
+      {
+        "start": 240.16,
+        "duration": 3.72,
+        "start_formatted": "04:00",
+        "text": "other image upscaling methods. And as"
+      },
+      {
+        "start": 242.12,
+        "duration": 4.4,
+        "start_formatted": "04:02",
+        "text": "you can see, for the huge majority of"
+      },
+      {
+        "start": 243.88,
+        "duration": 4.56,
+        "start_formatted": "04:03",
+        "text": "the time, PID wins. So, this is"
+      },
+      {
+        "start": 246.52,
+        "duration": 4.28,
+        "start_formatted": "04:06",
+        "text": "definitely one of the best and fastest"
+      },
+      {
+        "start": 248.44,
+        "duration": 4.4,
+        "start_formatted": "04:08",
+        "text": "methods for you to generate 2K or 4K"
+      },
+      {
+        "start": 250.8,
+        "duration": 4.88,
+        "start_formatted": "04:10",
+        "text": "resolution images. All right, well,"
+      },
+      {
+        "start": 252.84,
+        "duration": 4.8,
+        "start_formatted": "04:12",
+        "text": "enough demos. Next, let's go over how to"
+      },
+      {
+        "start": 255.68,
+        "duration": 3.679,
+        "start_formatted": "04:15",
+        "text": "actually install this locally on your"
+      },
+      {
+        "start": 257.64,
+        "duration": 3.879,
+        "start_formatted": "04:17",
+        "text": "computer so you can run it for free and"
+      },
+      {
+        "start": 259.359,
+        "duration": 4.281,
+        "start_formatted": "04:19",
+        "text": "offline for unlimited times. So, I will"
+      },
+      {
+        "start": 261.519,
+        "duration": 4.121,
+        "start_formatted": "04:21",
+        "text": "link to this page in the description"
+      },
+      {
+        "start": 263.64,
+        "duration": 4.12,
+        "start_formatted": "04:23",
+        "text": "below, which contains all the workflows"
+      },
+      {
+        "start": 265.64,
+        "duration": 5.24,
+        "start_formatted": "04:25",
+        "text": "you need to get started. And by the way,"
+      },
+      {
+        "start": 267.76,
+        "duration": 4.72,
+        "start_formatted": "04:27",
+        "text": "we are going to use ComfyUI to run this."
+      },
+      {
+        "start": 270.88,
+        "duration": 3.52,
+        "start_formatted": "04:30",
+        "text": "If you haven't heard of ComfyUI, this is"
+      },
+      {
+        "start": 272.48,
+        "duration": 3.88,
+        "start_formatted": "04:32",
+        "text": "like the most popular platform for"
+      },
+      {
+        "start": 274.4,
+        "duration": 4.08,
+        "start_formatted": "04:34",
+        "text": "running open-source image and video"
+      },
+      {
+        "start": 276.36,
+        "duration": 4.2,
+        "start_formatted": "04:36",
+        "text": "generators offline. In fact, if you"
+      },
+      {
+        "start": 278.48,
+        "duration": 4.88,
+        "start_formatted": "04:38",
+        "text": "don't have ComfyUI, you should see this"
+      },
+      {
+        "start": 280.56,
+        "duration": 4.76,
+        "start_formatted": "04:40",
+        "text": "video for a full installation tutorial."
+      },
+      {
+        "start": 283.36,
+        "duration": 4.04,
+        "start_formatted": "04:43",
+        "text": "It's definitely worth your time to learn"
+      },
+      {
+        "start": 285.32,
+        "duration": 4.36,
+        "start_formatted": "04:45",
+        "text": "it because most of the open-source"
+      },
+      {
+        "start": 287.4,
+        "duration": 4.48,
+        "start_formatted": "04:47",
+        "text": "options can be run using ComfyUI. This"
+      },
+      {
+        "start": 289.68,
+        "duration": 3.36,
+        "start_formatted": "04:49",
+        "text": "is most flexible platform out there. So,"
+      },
+      {
+        "start": 291.88,
+        "duration": 2.68,
+        "start_formatted": "04:51",
+        "text": "anyways, back to here, I'm going to"
+      },
+      {
+        "start": 293.04,
+        "duration": 3.32,
+        "start_formatted": "04:53",
+        "text": "assume you already have ComfyUI"
+      },
+      {
+        "start": 294.56,
+        "duration": 3.44,
+        "start_formatted": "04:54",
+        "text": "installed. Now, I'm going to link to"
+      },
+      {
+        "start": 296.36,
+        "duration": 3.52,
+        "start_formatted": "04:56",
+        "text": "this page in the description below,"
+      },
+      {
+        "start": 298.0,
+        "duration": 4.0,
+        "start_formatted": "04:58",
+        "text": "which contains all the workflows and the"
+      },
+      {
+        "start": 299.88,
+        "duration": 4.24,
+        "start_formatted": "04:59",
+        "text": "models. But before we go over this, it's"
+      },
+      {
+        "start": 302.0,
+        "duration": 3.88,
+        "start_formatted": "05:02",
+        "text": "important to update ComfyUI to the"
+      },
+      {
+        "start": 304.12,
+        "duration": 4.6,
+        "start_formatted": "05:04",
+        "text": "latest version first. Otherwise, the"
+      },
+      {
+        "start": 305.88,
+        "duration": 4.92,
+        "start_formatted": "05:05",
+        "text": "workflow will not work. So, simply go to"
+      },
+      {
+        "start": 308.72,
+        "duration": 4.16,
+        "start_formatted": "05:08",
+        "text": "your ComfyUI folder. Notice that I'm"
+      },
+      {
+        "start": 310.8,
+        "duration": 3.92,
+        "start_formatted": "05:10",
+        "text": "using the portable version. And in this"
+      },
+      {
+        "start": 312.88,
+        "duration": 4.84,
+        "start_formatted": "05:12",
+        "text": "update folder, if you click on update"
+      },
+      {
+        "start": 314.72,
+        "duration": 4.96,
+        "start_formatted": "05:14",
+        "text": "comfyui.bat, this is going to open this"
+      },
+      {
+        "start": 317.72,
+        "duration": 3.76,
+        "start_formatted": "05:17",
+        "text": "window, which automatically updates your"
+      },
+      {
+        "start": 319.68,
+        "duration": 3.68,
+        "start_formatted": "05:19",
+        "text": "Comfy to the latest version. So, let's"
+      },
+      {
+        "start": 321.48,
+        "duration": 3.68,
+        "start_formatted": "05:21",
+        "text": "give it a few seconds for this to"
+      },
+      {
+        "start": 323.36,
+        "duration": 4.16,
+        "start_formatted": "05:23",
+        "text": "complete. All right, afterwards, you"
+      },
+      {
+        "start": 325.16,
+        "duration": 4.4,
+        "start_formatted": "05:25",
+        "text": "should see press any key to continue,"
+      },
+      {
+        "start": 327.52,
+        "duration": 4.32,
+        "start_formatted": "05:27",
+        "text": "which means it has successfully updated."
+      },
+      {
+        "start": 329.56,
+        "duration": 4.72,
+        "start_formatted": "05:29",
+        "text": "So, let's just press any key for it to"
+      },
+      {
+        "start": 331.84,
+        "duration": 4.64,
+        "start_formatted": "05:31",
+        "text": "exit this window. And next, we can start"
+      },
+      {
+        "start": 334.28,
+        "duration": 4.6,
+        "start_formatted": "05:34",
+        "text": "up ComfyUI. So, let me click on run"
+      },
+      {
+        "start": 336.48,
+        "duration": 4.439,
+        "start_formatted": "05:36",
+        "text": "ComfyUI. And while that is loading up,"
+      },
+      {
+        "start": 338.88,
+        "duration": 3.76,
+        "start_formatted": "05:38",
+        "text": "we can proceed to also download the"
+      },
+      {
+        "start": 340.919,
+        "duration": 4.441,
+        "start_formatted": "05:40",
+        "text": "workflow. There are three different"
+      },
+      {
+        "start": 342.64,
+        "duration": 4.36,
+        "start_formatted": "05:42",
+        "text": "workflows. The first 01 workflow is a"
+      },
+      {
+        "start": 345.36,
+        "duration": 3.44,
+        "start_formatted": "05:45",
+        "text": "simple text-to-image, so it actually"
+      },
+      {
+        "start": 347.0,
+        "duration": 4.72,
+        "start_formatted": "05:47",
+        "text": "uses this pixel diffusion model to"
+      },
+      {
+        "start": 348.8,
+        "duration": 4.32,
+        "start_formatted": "05:48",
+        "text": "generate a 1K resolution image. It's not"
+      },
+      {
+        "start": 351.72,
+        "duration": 3.68,
+        "start_formatted": "05:51",
+        "text": "that impressive compared to the"
+      },
+      {
+        "start": 353.12,
+        "duration": 3.92,
+        "start_formatted": "05:53",
+        "text": "state-of-the-art image generators, so"
+      },
+      {
+        "start": 355.4,
+        "duration": 4.68,
+        "start_formatted": "05:55",
+        "text": "I'm going to leave this to last. And"
+      },
+      {
+        "start": 357.04,
+        "duration": 5.36,
+        "start_formatted": "05:57",
+        "text": "then we have this workflow named O2, and"
+      },
+      {
+        "start": 360.08,
+        "duration": 5.44,
+        "start_formatted": "06:00",
+        "text": "this allows you to upload an existing"
+      },
+      {
+        "start": 362.4,
+        "duration": 6.4,
+        "start_formatted": "06:02",
+        "text": "image and upscale it to 2K or 4K. And"
+      },
+      {
+        "start": 365.52,
+        "duration": 5.8,
+        "start_formatted": "06:05",
+        "text": "then finally, we also have this O3"
+      },
+      {
+        "start": 368.8,
+        "duration": 4.88,
+        "start_formatted": "06:08",
+        "text": "workflow, which allows you to use one of"
+      },
+      {
+        "start": 371.32,
+        "duration": 5.44,
+        "start_formatted": "06:11",
+        "text": "the top image models out there like Flux"
+      },
+      {
+        "start": 373.68,
+        "duration": 5.84,
+        "start_formatted": "06:13",
+        "text": "or Z image to generate an image first"
+      },
+      {
+        "start": 376.76,
+        "duration": 4.52,
+        "start_formatted": "06:16",
+        "text": "and then directly plug that into PID to"
+      },
+      {
+        "start": 379.52,
+        "duration": 3.96,
+        "start_formatted": "06:19",
+        "text": "upscale it further into a higher"
+      },
+      {
+        "start": 381.28,
+        "duration": 4.12,
+        "start_formatted": "06:21",
+        "text": "resolution. I'll go over all three of"
+      },
+      {
+        "start": 383.48,
+        "duration": 4.96,
+        "start_formatted": "06:23",
+        "text": "these workflows in this video, but let's"
+      },
+      {
+        "start": 385.4,
+        "duration": 5.2,
+        "start_formatted": "06:25",
+        "text": "first start with this O2 workflow, which"
+      },
+      {
+        "start": 388.44,
+        "duration": 4.2,
+        "start_formatted": "06:28",
+        "text": "allows you to take an existing image and"
+      },
+      {
+        "start": 390.6,
+        "duration": 4.2,
+        "start_formatted": "06:30",
+        "text": "use PID to upscale it because I think"
+      },
+      {
+        "start": 392.64,
+        "duration": 3.96,
+        "start_formatted": "06:32",
+        "text": "this is the most important of the three."
+      },
+      {
+        "start": 394.8,
+        "duration": 3.6,
+        "start_formatted": "06:34",
+        "text": "So, what we're going to do is click on"
+      },
+      {
+        "start": 396.6,
+        "duration": 3.44,
+        "start_formatted": "06:36",
+        "text": "this to download the workflow, and you"
+      },
+      {
+        "start": 398.4,
+        "duration": 3.36,
+        "start_formatted": "06:38",
+        "text": "can download this wherever you want. I'm"
+      },
+      {
+        "start": 400.04,
+        "duration": 3.64,
+        "start_formatted": "06:40",
+        "text": "just going to save it in my root ComfyUI"
+      },
+      {
+        "start": 401.76,
+        "duration": 5.2,
+        "start_formatted": "06:41",
+        "text": "folder. After you've downloaded it,"
+      },
+      {
+        "start": 403.68,
+        "duration": 5.16,
+        "start_formatted": "06:43",
+        "text": "simply drag and drop that JSON file onto"
+      },
+      {
+        "start": 406.96,
+        "duration": 4.36,
+        "start_formatted": "06:46",
+        "text": "your ComfyUI interface. Now, the first"
+      },
+      {
+        "start": 408.84,
+        "duration": 4.8,
+        "start_formatted": "06:48",
+        "text": "time you run this, you'll likely see a"
+      },
+      {
+        "start": 411.32,
+        "duration": 4.64,
+        "start_formatted": "06:51",
+        "text": "few nodes outlined in red because you're"
+      },
+      {
+        "start": 413.64,
+        "duration": 3.84,
+        "start_formatted": "06:53",
+        "text": "missing some models. So, let's go over"
+      },
+      {
+        "start": 415.96,
+        "duration": 4.68,
+        "start_formatted": "06:55",
+        "text": "how to install each of these models"
+      },
+      {
+        "start": 417.48,
+        "duration": 6.2,
+        "start_formatted": "06:57",
+        "text": "first. This first node here requires a"
+      },
+      {
+        "start": 420.64,
+        "duration": 4.64,
+        "start_formatted": "07:00",
+        "text": "text encoder called Gemma 2 2B. So, I"
+      },
+      {
+        "start": 423.68,
+        "duration": 3.68,
+        "start_formatted": "07:03",
+        "text": "will link to this page in the"
+      },
+      {
+        "start": 425.28,
+        "duration": 5.08,
+        "start_formatted": "07:05",
+        "text": "description below where you can download"
+      },
+      {
+        "start": 427.36,
+        "duration": 5.76,
+        "start_formatted": "07:07",
+        "text": "either the full FP16 version or the"
+      },
+      {
+        "start": 430.36,
+        "duration": 6.04,
+        "start_formatted": "07:10",
+        "text": "compressed FP8 version. The full one is"
+      },
+      {
+        "start": 433.12,
+        "duration": 5.24,
+        "start_formatted": "07:13",
+        "text": "5.2 GB. This one is a bit smaller at 2.6"
+      },
+      {
+        "start": 436.4,
+        "duration": 4.16,
+        "start_formatted": "07:16",
+        "text": "GB, so it runs a bit faster at the"
+      },
+      {
+        "start": 438.36,
+        "duration": 4.92,
+        "start_formatted": "07:18",
+        "text": "sacrifice of some quality. For me, I'm"
+      },
+      {
+        "start": 440.56,
+        "duration": 5.44,
+        "start_formatted": "07:20",
+        "text": "going to go with this smaller FP8 one,"
+      },
+      {
+        "start": 443.28,
+        "duration": 5.76,
+        "start_formatted": "07:23",
+        "text": "so let's click download. And this goes"
+      },
+      {
+        "start": 446.0,
+        "duration": 5.52,
+        "start_formatted": "07:26",
+        "text": "in ComfyUI in models and then in text"
+      },
+      {
+        "start": 449.04,
+        "duration": 4.4,
+        "start_formatted": "07:29",
+        "text": "encoders. Let's click save. Now, after"
+      },
+      {
+        "start": 451.52,
+        "duration": 4.16,
+        "start_formatted": "07:31",
+        "text": "you've downloaded this, simply press R"
+      },
+      {
+        "start": 453.44,
+        "duration": 3.92,
+        "start_formatted": "07:33",
+        "text": "to refresh your model list, and then in"
+      },
+      {
+        "start": 455.68,
+        "duration": 4.68,
+        "start_formatted": "07:35",
+        "text": "the drop-down here, you should be able"
+      },
+      {
+        "start": 457.36,
+        "duration": 5.52,
+        "start_formatted": "07:37",
+        "text": "to see your Gemma 2 LM model. So, let's"
+      },
+      {
+        "start": 460.36,
+        "duration": 5.44,
+        "start_formatted": "07:40",
+        "text": "select this. Next, we need to download"
+      },
+      {
+        "start": 462.88,
+        "duration": 4.6,
+        "start_formatted": "07:42",
+        "text": "the PID upscaler model. So, I will link"
+      },
+      {
+        "start": 465.8,
+        "duration": 3.96,
+        "start_formatted": "07:45",
+        "text": "to this page in the description below,"
+      },
+      {
+        "start": 467.48,
+        "duration": 4.24,
+        "start_formatted": "07:47",
+        "text": "which contains all the PID models. Now,"
+      },
+      {
+        "start": 469.76,
+        "duration": 4.2,
+        "start_formatted": "07:49",
+        "text": "this is super confusing. There's a ton"
+      },
+      {
+        "start": 471.72,
+        "duration": 4.4,
+        "start_formatted": "07:51",
+        "text": "of models to choose from. Let's go over"
+      },
+      {
+        "start": 473.96,
+        "duration": 4.68,
+        "start_formatted": "07:53",
+        "text": "what they all mean. So, first of all,"
+      },
+      {
+        "start": 476.12,
+        "duration": 5.48,
+        "start_formatted": "07:56",
+        "text": "the PID upscaler models are broken down"
+      },
+      {
+        "start": 478.64,
+        "duration": 5.44,
+        "start_formatted": "07:58",
+        "text": "into different latent types based on a"
+      },
+      {
+        "start": 481.6,
+        "duration": 4.52,
+        "start_formatted": "08:01",
+        "text": "base model generator. It's not too"
+      },
+      {
+        "start": 484.08,
+        "duration": 3.44,
+        "start_formatted": "08:04",
+        "text": "important for our current step, but as"
+      },
+      {
+        "start": 486.12,
+        "duration": 3.92,
+        "start_formatted": "08:06",
+        "text": "I'll show you in a second, if you want"
+      },
+      {
+        "start": 487.52,
+        "duration": 5.0,
+        "start_formatted": "08:07",
+        "text": "to use Z image, for example, to generate"
+      },
+      {
+        "start": 490.04,
+        "duration": 5.36,
+        "start_formatted": "08:10",
+        "text": "an image first, and then plug it through"
+      },
+      {
+        "start": 492.52,
+        "duration": 5.8,
+        "start_formatted": "08:12",
+        "text": "this PID upscaler, well, Z image uses"
+      },
+      {
+        "start": 495.4,
+        "duration": 5.6,
+        "start_formatted": "08:15",
+        "text": "Flux 1 as the latent. So, I would go for"
+      },
+      {
+        "start": 498.32,
+        "duration": 4.76,
+        "start_formatted": "08:18",
+        "text": "the Flux 1 1. Or alternatively, if you"
+      },
+      {
+        "start": 501.0,
+        "duration": 3.84,
+        "start_formatted": "08:21",
+        "text": "want to generate an image with Flux 2"
+      },
+      {
+        "start": 503.08,
+        "duration": 4.0,
+        "start_formatted": "08:23",
+        "text": "first, and then plug it through PID,"
+      },
+      {
+        "start": 504.84,
+        "duration": 3.48,
+        "start_formatted": "08:24",
+        "text": "then I would use one of these four. Or"
+      },
+      {
+        "start": 507.08,
+        "duration": 3.48,
+        "start_formatted": "08:27",
+        "text": "if for whatever reason you want to"
+      },
+      {
+        "start": 508.32,
+        "duration": 4.32,
+        "start_formatted": "08:28",
+        "text": "generate an image using Stable Diffusion"
+      },
+      {
+        "start": 510.56,
+        "duration": 4.96,
+        "start_formatted": "08:30",
+        "text": "3 first, then I would use one of these"
+      },
+      {
+        "start": 512.64,
+        "duration": 5.56,
+        "start_formatted": "08:32",
+        "text": "two. Anyways, for me, let's choose Flux"
+      },
+      {
+        "start": 515.52,
+        "duration": 4.56,
+        "start_formatted": "08:35",
+        "text": "1, because that is what Z image uses."
+      },
+      {
+        "start": 518.2,
+        "duration": 3.08,
+        "start_formatted": "08:38",
+        "text": "Again, it's not too important right now"
+      },
+      {
+        "start": 520.08,
+        "duration": 3.24,
+        "start_formatted": "08:40",
+        "text": "for this step, where we're just"
+      },
+      {
+        "start": 521.28,
+        "duration": 5.04,
+        "start_formatted": "08:41",
+        "text": "uploading an image to upscale. But"
+      },
+      {
+        "start": 523.32,
+        "duration": 5.32,
+        "start_formatted": "08:43",
+        "text": "anyways, within these four, there are"
+      },
+      {
+        "start": 526.32,
+        "duration": 4.96,
+        "start_formatted": "08:46",
+        "text": "two different options. One is to upscale"
+      },
+      {
+        "start": 528.64,
+        "duration": 6.24,
+        "start_formatted": "08:48",
+        "text": "a 1K image to 4K, and another one is to"
+      },
+      {
+        "start": 531.28,
+        "duration": 5.92,
+        "start_formatted": "08:51",
+        "text": "upscale a 512 image into 2K. For me, I'm"
+      },
+      {
+        "start": 534.88,
+        "duration": 4.08,
+        "start_formatted": "08:54",
+        "text": "going to go with the 1K to 4K version."
+      },
+      {
+        "start": 537.2,
+        "duration": 4.36,
+        "start_formatted": "08:57",
+        "text": "And then within that, there are also two"
+      },
+      {
+        "start": 538.96,
+        "duration": 4.76,
+        "start_formatted": "08:58",
+        "text": "different variants. One is BF16, which"
+      },
+      {
+        "start": 541.56,
+        "duration": 5.56,
+        "start_formatted": "09:01",
+        "text": "is the full model, and this is actually"
+      },
+      {
+        "start": 543.72,
+        "duration": 5.68,
+        "start_formatted": "09:03",
+        "text": "quite tiny at only 2.7 GB, and that's"
+      },
+      {
+        "start": 547.12,
+        "duration": 4.92,
+        "start_formatted": "09:07",
+        "text": "why it runs so fast. And then we have"
+      },
+      {
+        "start": 549.4,
+        "duration": 5.84,
+        "start_formatted": "09:09",
+        "text": "this MXFP8 version, which is a lot"
+      },
+      {
+        "start": 552.04,
+        "duration": 6.56,
+        "start_formatted": "09:12",
+        "text": "tinier at 1.5 GB. So, this is a lot more"
+      },
+      {
+        "start": 555.24,
+        "duration": 6.599,
+        "start_formatted": "09:15",
+        "text": "compressed, but note that this MXFP8, I"
+      },
+      {
+        "start": 558.6,
+        "duration": 5.8,
+        "start_formatted": "09:18",
+        "text": "think only works with more recent Nvidia"
+      },
+      {
+        "start": 561.839,
+        "duration": 4.641,
+        "start_formatted": "09:21",
+        "text": "50 series GPUs, or GPUs with like the"
+      },
+      {
+        "start": 564.4,
+        "duration": 4.88,
+        "start_formatted": "09:24",
+        "text": "Blackwell architecture. So, if you have"
+      },
+      {
+        "start": 566.48,
+        "duration": 4.64,
+        "start_formatted": "09:26",
+        "text": "an older 3090, then this might not work."
+      },
+      {
+        "start": 569.28,
+        "duration": 5.88,
+        "start_formatted": "09:29",
+        "text": "So, for me, I'm going to go with this"
+      },
+      {
+        "start": 571.12,
+        "duration": 7.0,
+        "start_formatted": "09:31",
+        "text": "one, Flux 1 1K to 2K FP16. So, let's"
+      },
+      {
+        "start": 575.16,
+        "duration": 5.96,
+        "start_formatted": "09:35",
+        "text": "click download, and this goes in comfyui"
+      },
+      {
+        "start": 578.12,
+        "duration": 5.24,
+        "start_formatted": "09:38",
+        "text": "in models and then in diffusion models."
+      },
+      {
+        "start": 581.12,
+        "duration": 4.12,
+        "start_formatted": "09:41",
+        "text": "Let's click save. All right, afterwards"
+      },
+      {
+        "start": 583.36,
+        "duration": 4.24,
+        "start_formatted": "09:43",
+        "text": "back to our workflow simply press R"
+      },
+      {
+        "start": 585.24,
+        "duration": 4.04,
+        "start_formatted": "09:45",
+        "text": "again to refresh our model list and then"
+      },
+      {
+        "start": 587.6,
+        "duration": 4.4,
+        "start_formatted": "09:47",
+        "text": "in the drop down you should be able to"
+      },
+      {
+        "start": 589.28,
+        "duration": 4.44,
+        "start_formatted": "09:49",
+        "text": "see your newly downloaded PID model. All"
+      },
+      {
+        "start": 592.0,
+        "duration": 4.52,
+        "start_formatted": "09:52",
+        "text": "right, and then here is where we would"
+      },
+      {
+        "start": 593.72,
+        "duration": 5.44,
+        "start_formatted": "09:53",
+        "text": "upload an image. So let me upload this"
+      },
+      {
+        "start": 596.52,
+        "duration": 5.0,
+        "start_formatted": "09:56",
+        "text": "landscape photo. Now because here I'm"
+      },
+      {
+        "start": 599.16,
+        "duration": 5.28,
+        "start_formatted": "09:59",
+        "text": "using this model which converts a 1024"
+      },
+      {
+        "start": 601.52,
+        "duration": 5.52,
+        "start_formatted": "10:01",
+        "text": "image into 4K, ideally I would need to"
+      },
+      {
+        "start": 604.44,
+        "duration": 4.76,
+        "start_formatted": "10:04",
+        "text": "upload an image that's 1024 at the"
+      },
+      {
+        "start": 607.04,
+        "duration": 4.28,
+        "start_formatted": "10:07",
+        "text": "longest side. So here are the dimensions"
+      },
+      {
+        "start": 609.2,
+        "duration": 4.56,
+        "start_formatted": "10:09",
+        "text": "of my original image. And then we also"
+      },
+      {
+        "start": 611.32,
+        "duration": 5.2,
+        "start_formatted": "10:11",
+        "text": "need to load a VAE for this. Now I'm"
+      },
+      {
+        "start": 613.76,
+        "duration": 5.16,
+        "start_formatted": "10:13",
+        "text": "going to use this AE.safetensors file"
+      },
+      {
+        "start": 616.52,
+        "duration": 5.28,
+        "start_formatted": "10:16",
+        "text": "which is the VAE that is used by Z"
+      },
+      {
+        "start": 618.92,
+        "duration": 4.76,
+        "start_formatted": "10:18",
+        "text": "image. And this is 335 megabytes in"
+      },
+      {
+        "start": 621.8,
+        "duration": 3.76,
+        "start_formatted": "10:21",
+        "text": "size. I'll link to this page in the"
+      },
+      {
+        "start": 623.68,
+        "duration": 4.68,
+        "start_formatted": "10:23",
+        "text": "description below. Simply click on"
+      },
+      {
+        "start": 625.56,
+        "duration": 5.72,
+        "start_formatted": "10:25",
+        "text": "download and this goes in comfyui in"
+      },
+      {
+        "start": 628.36,
+        "duration": 5.32,
+        "start_formatted": "10:28",
+        "text": "models and then in VAE. Let's click"
+      },
+      {
+        "start": 631.28,
+        "duration": 4.2,
+        "start_formatted": "10:31",
+        "text": "save. All right, afterwards press R to"
+      },
+      {
+        "start": 633.68,
+        "duration": 3.72,
+        "start_formatted": "10:33",
+        "text": "refresh your model list again and then"
+      },
+      {
+        "start": 635.48,
+        "duration": 3.44,
+        "start_formatted": "10:35",
+        "text": "in the drop down simply select"
+      },
+      {
+        "start": 637.4,
+        "duration": 3.28,
+        "start_formatted": "10:37",
+        "text": "AE.safetensors."
+      },
+      {
+        "start": 638.92,
+        "duration": 4.68,
+        "start_formatted": "10:38",
+        "text": "And that's pretty much it. After those"
+      },
+      {
+        "start": 640.68,
+        "duration": 5.56,
+        "start_formatted": "10:40",
+        "text": "steps you should have no red outlines"
+      },
+      {
+        "start": 643.6,
+        "duration": 4.16,
+        "start_formatted": "10:43",
+        "text": "around any nodes. If you do, chances are"
+      },
+      {
+        "start": 646.24,
+        "duration": 3.52,
+        "start_formatted": "10:46",
+        "text": "you haven't updated to the latest"
+      },
+      {
+        "start": 647.76,
+        "duration": 4.2,
+        "start_formatted": "10:47",
+        "text": "version of comfyui yet. So make sure you"
+      },
+      {
+        "start": 649.76,
+        "duration": 5.48,
+        "start_formatted": "10:49",
+        "text": "do that first. Now here because we have"
+      },
+      {
+        "start": 651.96,
+        "duration": 6.16,
+        "start_formatted": "10:51",
+        "text": "selected 1K to 4K, let's make sure the"
+      },
+      {
+        "start": 655.24,
+        "duration": 5.96,
+        "start_formatted": "10:55",
+        "text": "dimensions here are also reflected. So"
+      },
+      {
+        "start": 658.12,
+        "duration": 5.12,
+        "start_formatted": "10:58",
+        "text": "the width 4K it should be 4096 and then"
+      },
+      {
+        "start": 661.2,
+        "duration": 4.76,
+        "start_formatted": "11:01",
+        "text": "for the height let's preserve the same"
+      },
+      {
+        "start": 663.24,
+        "duration": 5.24,
+        "start_formatted": "11:03",
+        "text": "aspect ratio here. So we also need to"
+      },
+      {
+        "start": 665.96,
+        "duration": 5.08,
+        "start_formatted": "11:05",
+        "text": "times this number by four which would be"
+      },
+      {
+        "start": 668.48,
+        "duration": 3.96,
+        "start_formatted": "11:08",
+        "text": "2732. And those are all the settings"
+      },
+      {
+        "start": 671.04,
+        "duration": 4.64,
+        "start_formatted": "11:11",
+        "text": "that you need to change. And then"
+      },
+      {
+        "start": 672.44,
+        "duration": 5.96,
+        "start_formatted": "11:12",
+        "text": "finally for here, we should also change"
+      },
+      {
+        "start": 675.68,
+        "duration": 4.72,
+        "start_formatted": "11:15",
+        "text": "the text prompt to match our image. So"
+      },
+      {
+        "start": 678.4,
+        "duration": 4.36,
+        "start_formatted": "11:18",
+        "text": "let me put something like a scenic"
+      },
+      {
+        "start": 680.4,
+        "duration": 5.16,
+        "start_formatted": "11:20",
+        "text": "lakeside town etc. And that's pretty"
+      },
+      {
+        "start": 682.76,
+        "duration": 5.04,
+        "start_formatted": "11:22",
+        "text": "much it. Let's press run. Now when I run"
+      },
+      {
+        "start": 685.56,
+        "duration": 3.96,
+        "start_formatted": "11:25",
+        "text": "this it looks like it's missing a model."
+      },
+      {
+        "start": 687.8,
+        "duration": 3.92,
+        "start_formatted": "11:27",
+        "text": "I think it's just an error from the"
+      },
+      {
+        "start": 689.52,
+        "duration": 4.84,
+        "start_formatted": "11:29",
+        "text": "original workflow. So let's also connect"
+      },
+      {
+        "start": 691.72,
+        "duration": 4.8,
+        "start_formatted": "11:31",
+        "text": "this diffusion model over to here and"
+      },
+      {
+        "start": 694.36,
+        "duration": 4.52,
+        "start_formatted": "11:34",
+        "text": "then press run. This should be super"
+      },
+      {
+        "start": 696.52,
+        "duration": 5.0,
+        "start_formatted": "11:36",
+        "text": "quick. It should be able to upscale this"
+      },
+      {
+        "start": 698.88,
+        "duration": 4.16,
+        "start_formatted": "11:38",
+        "text": "image in less than 10 seconds. And"
+      },
+      {
+        "start": 701.52,
+        "duration": 3.88,
+        "start_formatted": "11:41",
+        "text": "here's what I got. You can see how"
+      },
+      {
+        "start": 703.04,
+        "duration": 4.32,
+        "start_formatted": "11:43",
+        "text": "detailed everything is. If you want to"
+      },
+      {
+        "start": 705.4,
+        "duration": 3.76,
+        "start_formatted": "11:45",
+        "text": "supercharge your content, definitely"
+      },
+      {
+        "start": 707.36,
+        "duration": 4.08,
+        "start_formatted": "11:47",
+        "text": "check out Higgsfield, the sponsor of"
+      },
+      {
+        "start": 709.16,
+        "duration": 4.76,
+        "start_formatted": "11:49",
+        "text": "this video. Think of it as an all-in-one"
+      },
+      {
+        "start": 711.44,
+        "duration": 5.12,
+        "start_formatted": "11:51",
+        "text": "AI creation platform built specifically"
+      },
+      {
+        "start": 713.92,
+        "duration": 5.08,
+        "start_formatted": "11:53",
+        "text": "for creators. Instead of using one tool"
+      },
+      {
+        "start": 716.56,
+        "duration": 4.36,
+        "start_formatted": "11:56",
+        "text": "for images, another for videos, another"
+      },
+      {
+        "start": 719.0,
+        "duration": 4.12,
+        "start_formatted": "11:59",
+        "text": "for editing, Higgsfield brings"
+      },
+      {
+        "start": 720.92,
+        "duration": 4.52,
+        "start_formatted": "12:00",
+        "text": "everything together in one workflow."
+      },
+      {
+        "start": 723.12,
+        "duration": 5.44,
+        "start_formatted": "12:03",
+        "text": "Higgsfield has the best video model,"
+      },
+      {
+        "start": 725.44,
+        "duration": 5.32,
+        "start_formatted": "12:05",
+        "text": "Seedance 2.0, which can create 1080p AI"
+      },
+      {
+        "start": 728.56,
+        "duration": 5.12,
+        "start_formatted": "12:08",
+        "text": "videos with native audio that syncs to"
+      },
+      {
+        "start": 730.76,
+        "duration": 5.44,
+        "start_formatted": "12:10",
+        "text": "visuals. For images, it has GPT image 2,"
+      },
+      {
+        "start": 733.68,
+        "duration": 4.68,
+        "start_formatted": "12:13",
+        "text": "which has incredible accuracy and prompt"
+      },
+      {
+        "start": 736.2,
+        "duration": 4.16,
+        "start_formatted": "12:16",
+        "text": "fidelity. But the real advantage is the"
+      },
+      {
+        "start": 738.36,
+        "duration": 3.28,
+        "start_formatted": "12:18",
+        "text": "full workflows from Higgsfield. For"
+      },
+      {
+        "start": 740.36,
+        "duration": 3.2,
+        "start_formatted": "12:20",
+        "text": "example, there's Higgsfield"
+      },
+      {
+        "start": 741.64,
+        "duration": 3.84,
+        "start_formatted": "12:21",
+        "text": "supercomputer, which is like an AI agent"
+      },
+      {
+        "start": 743.56,
+        "duration": 3.64,
+        "start_formatted": "12:23",
+        "text": "for content creation. You can give it a"
+      },
+      {
+        "start": 745.48,
+        "duration": 4.12,
+        "start_formatted": "12:25",
+        "text": "prompt and it can help generate the"
+      },
+      {
+        "start": 747.2,
+        "duration": 4.16,
+        "start_formatted": "12:27",
+        "text": "idea, shape the product concept, write"
+      },
+      {
+        "start": 749.6,
+        "duration": 3.88,
+        "start_formatted": "12:29",
+        "text": "the brand direction, create the visuals,"
+      },
+      {
+        "start": 751.36,
+        "duration": 4.44,
+        "start_formatted": "12:31",
+        "text": "cut the launch video, and even help with"
+      },
+      {
+        "start": 753.48,
+        "duration": 4.2,
+        "start_formatted": "12:33",
+        "text": "distribution. They also have Marketing"
+      },
+      {
+        "start": 755.8,
+        "duration": 4.24,
+        "start_formatted": "12:35",
+        "text": "Studio, which is great for turning one"
+      },
+      {
+        "start": 757.68,
+        "duration": 4.52,
+        "start_formatted": "12:37",
+        "text": "product into a full campaign. Just paste"
+      },
+      {
+        "start": 760.04,
+        "duration": 4.44,
+        "start_formatted": "12:40",
+        "text": "a product link or upload an image, and"
+      },
+      {
+        "start": 762.2,
+        "duration": 4.48,
+        "start_formatted": "12:42",
+        "text": "it can generate UGC videos, tutorials,"
+      },
+      {
+        "start": 764.48,
+        "duration": 4.4,
+        "start_formatted": "12:44",
+        "text": "unboxings, product reviews, and other ad"
+      },
+      {
+        "start": 766.68,
+        "duration": 5.2,
+        "start_formatted": "12:46",
+        "text": "formats in one workflow. And for more"
+      },
+      {
+        "start": 768.88,
+        "duration": 5.32,
+        "start_formatted": "12:48",
+        "text": "cinematic projects, Cinema Studio 3.5 is"
+      },
+      {
+        "start": 771.88,
+        "duration": 4.959,
+        "start_formatted": "12:51",
+        "text": "built around shot-level filmmaking. You"
+      },
+      {
+        "start": 774.2,
+        "duration": 5.2,
+        "start_formatted": "12:54",
+        "text": "can plan scenes, control cameras, set"
+      },
+      {
+        "start": 776.839,
+        "duration": 4.401,
+        "start_formatted": "12:56",
+        "text": "the mood, add characters, reuse props"
+      },
+      {
+        "start": 779.4,
+        "duration": 4.0,
+        "start_formatted": "12:59",
+        "text": "and locations, and keep everything"
+      },
+      {
+        "start": 781.24,
+        "duration": 4.04,
+        "start_formatted": "13:01",
+        "text": "consistent across the project. Whether"
+      },
+      {
+        "start": 783.4,
+        "duration": 3.8,
+        "start_formatted": "13:03",
+        "text": "you're making ads, social videos,"
+      },
+      {
+        "start": 785.28,
+        "duration": 3.76,
+        "start_formatted": "13:05",
+        "text": "product launches, cinematic clips, or"
+      },
+      {
+        "start": 787.2,
+        "duration": 4.28,
+        "start_formatted": "13:07",
+        "text": "full marketing campaigns, this is one of"
+      },
+      {
+        "start": 789.04,
+        "duration": 4.96,
+        "start_formatted": "13:09",
+        "text": "the easiest platforms to start creating"
+      },
+      {
+        "start": 791.48,
+        "duration": 4.44,
+        "start_formatted": "13:11",
+        "text": "with AI. Try Higgsfield today using the"
+      },
+      {
+        "start": 794.0,
+        "duration": 3.6,
+        "start_formatted": "13:14",
+        "text": "link in the description below. Now, the"
+      },
+      {
+        "start": 795.92,
+        "duration": 3.8,
+        "start_formatted": "13:15",
+        "text": "next step is optional, but just to show"
+      },
+      {
+        "start": 797.6,
+        "duration": 3.36,
+        "start_formatted": "13:17",
+        "text": "you a nice before and after comparison,"
+      },
+      {
+        "start": 799.72,
+        "duration": 3.52,
+        "start_formatted": "13:19",
+        "text": "what I'm going to do is double-click"
+      },
+      {
+        "start": 800.96,
+        "duration": 4.28,
+        "start_formatted": "13:20",
+        "text": "anywhere on the canvas and then type in"
+      },
+      {
+        "start": 803.24,
+        "duration": 4.72,
+        "start_formatted": "13:23",
+        "text": "compare, and I'm going to use this image"
+      },
+      {
+        "start": 805.24,
+        "duration": 4.96,
+        "start_formatted": "13:25",
+        "text": "comparer node by RJ3. So, let me drag"
+      },
+      {
+        "start": 807.96,
+        "duration": 4.36,
+        "start_formatted": "13:27",
+        "text": "this anywhere here and I'm going to"
+      },
+      {
+        "start": 810.2,
+        "duration": 4.0,
+        "start_formatted": "13:30",
+        "text": "connect both the input image and the"
+      },
+      {
+        "start": 812.32,
+        "duration": 3.84,
+        "start_formatted": "13:32",
+        "text": "output image into here for you to"
+      },
+      {
+        "start": 814.2,
+        "duration": 3.84,
+        "start_formatted": "13:34",
+        "text": "preview side by side. So, let me do that"
+      },
+      {
+        "start": 816.16,
+        "duration": 4.2,
+        "start_formatted": "13:36",
+        "text": "really quickly. Right, so here's the"
+      },
+      {
+        "start": 818.04,
+        "duration": 3.96,
+        "start_formatted": "13:38",
+        "text": "before. You can see it's quite blurry if"
+      },
+      {
+        "start": 820.36,
+        "duration": 3.68,
+        "start_formatted": "13:40",
+        "text": "you zoom in, but after plugging it"
+      },
+      {
+        "start": 822.0,
+        "duration": 5.52,
+        "start_formatted": "13:42",
+        "text": "through this upscaler, look at the"
+      },
+      {
+        "start": 824.04,
+        "duration": 5.96,
+        "start_formatted": "13:44",
+        "text": "details of this. Absolutely incredible"
+      },
+      {
+        "start": 827.52,
+        "duration": 4.88,
+        "start_formatted": "13:47",
+        "text": "details. If I zoom like way in, you can"
+      },
+      {
+        "start": 830.0,
+        "duration": 4.32,
+        "start_formatted": "13:50",
+        "text": "even see the details of the buildings,"
+      },
+      {
+        "start": 832.4,
+        "duration": 3.84,
+        "start_formatted": "13:52",
+        "text": "the trees, and even everything in the"
+      },
+      {
+        "start": 834.32,
+        "duration": 3.72,
+        "start_formatted": "13:54",
+        "text": "background. This is very, very"
+      },
+      {
+        "start": 836.24,
+        "duration": 3.92,
+        "start_formatted": "13:56",
+        "text": "impressive. All right, so this is the"
+      },
+      {
+        "start": 838.04,
+        "duration": 3.64,
+        "start_formatted": "13:58",
+        "text": "workflow to use if you have an existing"
+      },
+      {
+        "start": 840.16,
+        "duration": 4.48,
+        "start_formatted": "14:00",
+        "text": "image and you just want to plug it"
+      },
+      {
+        "start": 841.68,
+        "duration": 5.16,
+        "start_formatted": "14:01",
+        "text": "through this PID model to upscale it to"
+      },
+      {
+        "start": 844.64,
+        "duration": 3.96,
+        "start_formatted": "14:04",
+        "text": "a higher resolution. Now, if you don't"
+      },
+      {
+        "start": 846.84,
+        "duration": 3.72,
+        "start_formatted": "14:06",
+        "text": "have an existing image, next let me show"
+      },
+      {
+        "start": 848.6,
+        "duration": 3.44,
+        "start_formatted": "14:08",
+        "text": "you this workflow where you can create"
+      },
+      {
+        "start": 850.56,
+        "duration": 3.76,
+        "start_formatted": "14:10",
+        "text": "an existing image first with a"
+      },
+      {
+        "start": 852.04,
+        "duration": 4.6,
+        "start_formatted": "14:12",
+        "text": "state-of-the-art image model like Z"
+      },
+      {
+        "start": 854.32,
+        "duration": 5.08,
+        "start_formatted": "14:14",
+        "text": "image or Flux 2 and then plug it"
+      },
+      {
+        "start": 856.64,
+        "duration": 4.88,
+        "start_formatted": "14:16",
+        "text": "directly into PID to upscale it further."
+      },
+      {
+        "start": 859.4,
+        "duration": 4.28,
+        "start_formatted": "14:19",
+        "text": "So, simply click on this link to"
+      },
+      {
+        "start": 861.52,
+        "duration": 3.56,
+        "start_formatted": "14:21",
+        "text": "download this workflow and again, you"
+      },
+      {
+        "start": 863.68,
+        "duration": 3.0,
+        "start_formatted": "14:23",
+        "text": "can save this wherever you want. I'm"
+      },
+      {
+        "start": 865.08,
+        "duration": 4.2,
+        "start_formatted": "14:25",
+        "text": "just going to save it in my root ComfyUI"
+      },
+      {
+        "start": 866.68,
+        "duration": 5.28,
+        "start_formatted": "14:26",
+        "text": "folder. Afterwards, back to ComfyUI,"
+      },
+      {
+        "start": 869.28,
+        "duration": 4.52,
+        "start_formatted": "14:29",
+        "text": "simply drag and drop the workflow file"
+      },
+      {
+        "start": 871.96,
+        "duration": 4.04,
+        "start_formatted": "14:31",
+        "text": "onto your interface and you should see"
+      },
+      {
+        "start": 873.8,
+        "duration": 3.68,
+        "start_formatted": "14:33",
+        "text": "this. And here's how it works. First of"
+      },
+      {
+        "start": 876.0,
+        "duration": 3.839,
+        "start_formatted": "14:36",
+        "text": "all, this is broken down into two"
+      },
+      {
+        "start": 877.48,
+        "duration": 4.72,
+        "start_formatted": "14:37",
+        "text": "sections. The upper section is just the"
+      },
+      {
+        "start": 879.839,
+        "duration": 4.321,
+        "start_formatted": "14:39",
+        "text": "standard Z image workflow and then the"
+      },
+      {
+        "start": 882.2,
+        "duration": 3.8,
+        "start_formatted": "14:42",
+        "text": "bottom section is going to take that"
+      },
+      {
+        "start": 884.16,
+        "duration": 4.36,
+        "start_formatted": "14:44",
+        "text": "output image and upscale it to your"
+      },
+      {
+        "start": 886.0,
+        "duration": 4.68,
+        "start_formatted": "14:46",
+        "text": "desired resolution. So, at the top here,"
+      },
+      {
+        "start": 888.52,
+        "duration": 4.52,
+        "start_formatted": "14:48",
+        "text": "we first need to load the models for Z"
+      },
+      {
+        "start": 890.68,
+        "duration": 3.8,
+        "start_formatted": "14:50",
+        "text": "image turbo as well as the clip. Now, if"
+      },
+      {
+        "start": 893.04,
+        "duration": 3.52,
+        "start_formatted": "14:53",
+        "text": "you've been watching my tutorials"
+      },
+      {
+        "start": 894.48,
+        "duration": 4.12,
+        "start_formatted": "14:54",
+        "text": "before, especially if you've watched my"
+      },
+      {
+        "start": 896.56,
+        "duration": 4.48,
+        "start_formatted": "14:56",
+        "text": "tutorial on Z image a few months ago,"
+      },
+      {
+        "start": 898.6,
+        "duration": 4.52,
+        "start_formatted": "14:58",
+        "text": "you should already have this Z image"
+      },
+      {
+        "start": 901.04,
+        "duration": 4.2,
+        "start_formatted": "15:01",
+        "text": "turbo model on your computer. But, if"
+      },
+      {
+        "start": 903.12,
+        "duration": 3.44,
+        "start_formatted": "15:03",
+        "text": "you don't, here's how to install it. So,"
+      },
+      {
+        "start": 905.24,
+        "duration": 3.36,
+        "start_formatted": "15:05",
+        "text": "I'll link to this page in the"
+      },
+      {
+        "start": 906.56,
+        "duration": 4.4,
+        "start_formatted": "15:06",
+        "text": "description below which contains the Z"
+      },
+      {
+        "start": 908.6,
+        "duration": 4.239,
+        "start_formatted": "15:08",
+        "text": "image turbo models for ComfyUI. Now,"
+      },
+      {
+        "start": 910.96,
+        "duration": 5.68,
+        "start_formatted": "15:10",
+        "text": "there are two different variants. One is"
+      },
+      {
+        "start": 912.839,
+        "duration": 5.521,
+        "start_formatted": "15:12",
+        "text": "the BF16 one which is 12 GB in size and"
+      },
+      {
+        "start": 916.64,
+        "duration": 3.8,
+        "start_formatted": "15:16",
+        "text": "then there's also an FP4 one which is a"
+      },
+      {
+        "start": 918.36,
+        "duration": 4.72,
+        "start_formatted": "15:18",
+        "text": "lot more efficient and compressed and"
+      },
+      {
+        "start": 920.44,
+        "duration": 5.0,
+        "start_formatted": "15:20",
+        "text": "this runs for newer versions of CUDA"
+      },
+      {
+        "start": 923.08,
+        "duration": 4.56,
+        "start_formatted": "15:23",
+        "text": "GPUs. So, let's say you want to download"
+      },
+      {
+        "start": 925.44,
+        "duration": 5.2,
+        "start_formatted": "15:25",
+        "text": "this one. Let's click on download and"
+      },
+      {
+        "start": 927.64,
+        "duration": 5.56,
+        "start_formatted": "15:27",
+        "text": "this goes in ComfyUI in models and then"
+      },
+      {
+        "start": 930.64,
+        "duration": 4.76,
+        "start_formatted": "15:30",
+        "text": "in diffusion models. Let's click save."
+      },
+      {
+        "start": 933.2,
+        "duration": 4.52,
+        "start_formatted": "15:33",
+        "text": "All right, afterwards, simply press R to"
+      },
+      {
+        "start": 935.4,
+        "duration": 4.0,
+        "start_formatted": "15:35",
+        "text": "refresh your model list and then if you"
+      },
+      {
+        "start": 937.72,
+        "duration": 4.4,
+        "start_formatted": "15:37",
+        "text": "click on this drop down, you should be"
+      },
+      {
+        "start": 939.4,
+        "duration": 4.76,
+        "start_formatted": "15:39",
+        "text": "able to see Z image Turbo over here. So,"
+      },
+      {
+        "start": 942.12,
+        "duration": 4.32,
+        "start_formatted": "15:42",
+        "text": "let's select this and then for the clip,"
+      },
+      {
+        "start": 944.16,
+        "duration": 4.8,
+        "start_formatted": "15:44",
+        "text": "you can see it has already auto detected"
+      },
+      {
+        "start": 946.44,
+        "duration": 4.28,
+        "start_formatted": "15:46",
+        "text": "that I have Qwen 3 4B, but in case you"
+      },
+      {
+        "start": 948.96,
+        "duration": 3.32,
+        "start_formatted": "15:48",
+        "text": "don't have this installed yet, again, I"
+      },
+      {
+        "start": 950.72,
+        "duration": 3.68,
+        "start_formatted": "15:50",
+        "text": "will link to this page in the"
+      },
+      {
+        "start": 952.28,
+        "duration": 4.36,
+        "start_formatted": "15:52",
+        "text": "description below and here's where you"
+      },
+      {
+        "start": 954.4,
+        "duration": 5.08,
+        "start_formatted": "15:54",
+        "text": "can choose to either download the full"
+      },
+      {
+        "start": 956.64,
+        "duration": 5.12,
+        "start_formatted": "15:56",
+        "text": "Qwen 3 4B or an FP4 version, which is"
+      },
+      {
+        "start": 959.48,
+        "duration": 4.32,
+        "start_formatted": "15:59",
+        "text": "the most compressed, or an FP8 version,"
+      },
+      {
+        "start": 961.76,
+        "duration": 4.2,
+        "start_formatted": "16:01",
+        "text": "which is moderately compressed. So, for"
+      },
+      {
+        "start": 963.8,
+        "duration": 4.08,
+        "start_formatted": "16:03",
+        "text": "example, let's go with the full one. I'm"
+      },
+      {
+        "start": 965.96,
+        "duration": 4.72,
+        "start_formatted": "16:05",
+        "text": "going to click download and this goes in"
+      },
+      {
+        "start": 967.88,
+        "duration": 5.16,
+        "start_formatted": "16:07",
+        "text": "ComfyUI in models and then in text"
+      },
+      {
+        "start": 970.68,
+        "duration": 4.48,
+        "start_formatted": "16:10",
+        "text": "encoders. Let's click save. All right,"
+      },
+      {
+        "start": 973.04,
+        "duration": 4.04,
+        "start_formatted": "16:13",
+        "text": "so afterwards, press R again to refresh"
+      },
+      {
+        "start": 975.16,
+        "duration": 3.4,
+        "start_formatted": "16:15",
+        "text": "your model list and then if you click on"
+      },
+      {
+        "start": 977.08,
+        "duration": 4.24,
+        "start_formatted": "16:17",
+        "text": "this drop down, you should be able to"
+      },
+      {
+        "start": 978.56,
+        "duration": 4.44,
+        "start_formatted": "16:18",
+        "text": "see Qwen 3 4B over here in the drop"
+      },
+      {
+        "start": 981.32,
+        "duration": 3.8,
+        "start_formatted": "16:21",
+        "text": "down. So, those are all the models that"
+      },
+      {
+        "start": 983.0,
+        "duration": 5.0,
+        "start_formatted": "16:23",
+        "text": "are required for this first step. All"
+      },
+      {
+        "start": 985.12,
+        "duration": 5.32,
+        "start_formatted": "16:25",
+        "text": "right, now moving on to this section,"
+      },
+      {
+        "start": 988.0,
+        "duration": 4.56,
+        "start_formatted": "16:28",
+        "text": "you should already have both the Gemma"
+      },
+      {
+        "start": 990.44,
+        "duration": 4.0,
+        "start_formatted": "16:30",
+        "text": "text encoder and the diffuser model"
+      },
+      {
+        "start": 992.56,
+        "duration": 5.32,
+        "start_formatted": "16:32",
+        "text": "downloaded from the previous workflow."
+      },
+      {
+        "start": 994.44,
+        "duration": 5.32,
+        "start_formatted": "16:34",
+        "text": "So, simply select Gemma 2 for the text"
+      },
+      {
+        "start": 997.88,
+        "duration": 3.959,
+        "start_formatted": "16:37",
+        "text": "encoder and then if you're using Z"
+      },
+      {
+        "start": 999.76,
+        "duration": 4.52,
+        "start_formatted": "16:39",
+        "text": "image, then you'll need to use this PID"
+      },
+      {
+        "start": 1001.839,
+        "duration": 4.041,
+        "start_formatted": "16:41",
+        "text": "flux one version. Again, if you're not"
+      },
+      {
+        "start": 1004.28,
+        "duration": 3.92,
+        "start_formatted": "16:44",
+        "text": "sure where to download these, see the"
+      },
+      {
+        "start": 1005.88,
+        "duration": 3.72,
+        "start_formatted": "16:45",
+        "text": "previous section of this tutorial. And"
+      },
+      {
+        "start": 1008.2,
+        "duration": 3.04,
+        "start_formatted": "16:48",
+        "text": "that's pretty much it. These are all the"
+      },
+      {
+        "start": 1009.6,
+        "duration": 3.6,
+        "start_formatted": "16:49",
+        "text": "models that you need to download to get"
+      },
+      {
+        "start": 1011.24,
+        "duration": 3.84,
+        "start_formatted": "16:51",
+        "text": "this to work. Next, let's go over the"
+      },
+      {
+        "start": 1013.2,
+        "duration": 4.2,
+        "start_formatted": "16:53",
+        "text": "settings really quickly. First of all,"
+      },
+      {
+        "start": 1015.08,
+        "duration": 3.84,
+        "start_formatted": "16:55",
+        "text": "this green box is where you enter your"
+      },
+      {
+        "start": 1017.4,
+        "duration": 3.6,
+        "start_formatted": "16:57",
+        "text": "prompt. So, let's just go with the"
+      },
+      {
+        "start": 1018.92,
+        "duration": 4.0,
+        "start_formatted": "16:58",
+        "text": "default, a red panda stands on its hind"
+      },
+      {
+        "start": 1021.0,
+        "duration": 4.199,
+        "start_formatted": "17:01",
+        "text": "legs in a misty forest surrounded by"
+      },
+      {
+        "start": 1022.92,
+        "duration": 4.48,
+        "start_formatted": "17:02",
+        "text": "tall trees, etc., etc. There's a"
+      },
+      {
+        "start": 1025.199,
+        "duration": 4.841,
+        "start_formatted": "17:05",
+        "text": "waterfall behind it and a black bird on"
+      },
+      {
+        "start": 1027.4,
+        "duration": 5.08,
+        "start_formatted": "17:07",
+        "text": "its head. Here is where you can choose"
+      },
+      {
+        "start": 1030.04,
+        "duration": 4.64,
+        "start_formatted": "17:10",
+        "text": "the resolution of your original image"
+      },
+      {
+        "start": 1032.48,
+        "duration": 5.08,
+        "start_formatted": "17:12",
+        "text": "before it gets plugged into the upscaler"
+      },
+      {
+        "start": 1034.68,
+        "duration": 6.44,
+        "start_formatted": "17:14",
+        "text": "because we are using this PID model,"
+      },
+      {
+        "start": 1037.56,
+        "duration": 6.6,
+        "start_formatted": "17:17",
+        "text": "which turns 1024 images to 4K. Ideally,"
+      },
+      {
+        "start": 1041.12,
+        "duration": 4.52,
+        "start_formatted": "17:21",
+        "text": "the longest side should be kept at 1024."
+      },
+      {
+        "start": 1044.16,
+        "duration": 3.48,
+        "start_formatted": "17:24",
+        "text": "And then the batch size is just how many"
+      },
+      {
+        "start": 1045.64,
+        "duration": 4.0,
+        "start_formatted": "17:25",
+        "text": "images you want to generate at once. And"
+      },
+      {
+        "start": 1047.64,
+        "duration": 3.84,
+        "start_formatted": "17:27",
+        "text": "then moving on, this is your standard K"
+      },
+      {
+        "start": 1049.64,
+        "duration": 4.4,
+        "start_formatted": "17:29",
+        "text": "sampler. If you're new to this, here's"
+      },
+      {
+        "start": 1051.48,
+        "duration": 4.2,
+        "start_formatted": "17:31",
+        "text": "what these settings mean. So, seed is"
+      },
+      {
+        "start": 1054.04,
+        "duration": 3.44,
+        "start_formatted": "17:34",
+        "text": "like the starting point of your"
+      },
+      {
+        "start": 1055.68,
+        "duration": 3.32,
+        "start_formatted": "17:35",
+        "text": "generation. If you use all the same"
+      },
+      {
+        "start": 1057.48,
+        "duration": 2.92,
+        "start_formatted": "17:37",
+        "text": "settings and the same prompt, but you"
+      },
+      {
+        "start": 1059.0,
+        "duration": 3.48,
+        "start_formatted": "17:39",
+        "text": "use a different seed, you're going to"
+      },
+      {
+        "start": 1060.4,
+        "duration": 3.4,
+        "start_formatted": "17:40",
+        "text": "get a slightly different image. And then"
+      },
+      {
+        "start": 1062.48,
+        "duration": 3.2,
+        "start_formatted": "17:42",
+        "text": "the number of steps is how many well,"
+      },
+      {
+        "start": 1063.8,
+        "duration": 4.8,
+        "start_formatted": "17:43",
+        "text": "steps it takes for it to generate the"
+      },
+      {
+        "start": 1065.68,
+        "duration": 5.28,
+        "start_formatted": "17:45",
+        "text": "image. For Z image turbo, 7 to 9 steps"
+      },
+      {
+        "start": 1068.6,
+        "duration": 4.44,
+        "start_formatted": "17:48",
+        "text": "is like the sweet spot. For CFG, this is"
+      },
+      {
+        "start": 1070.96,
+        "duration": 4.2,
+        "start_formatted": "17:50",
+        "text": "like how literally you want the AI to"
+      },
+      {
+        "start": 1073.04,
+        "duration": 3.72,
+        "start_formatted": "17:53",
+        "text": "follow your prompt. For Z image, I just"
+      },
+      {
+        "start": 1075.16,
+        "duration": 3.28,
+        "start_formatted": "17:55",
+        "text": "tend to keep it at one. And then the"
+      },
+      {
+        "start": 1076.76,
+        "duration": 4.2,
+        "start_formatted": "17:56",
+        "text": "sampler and the scheduler is like the"
+      },
+      {
+        "start": 1078.44,
+        "duration": 4.32,
+        "start_formatted": "17:58",
+        "text": "algorithm used to generate the image."
+      },
+      {
+        "start": 1080.96,
+        "duration": 3.68,
+        "start_formatted": "18:00",
+        "text": "So, after generating the image, you're"
+      },
+      {
+        "start": 1082.76,
+        "duration": 4.0,
+        "start_formatted": "18:02",
+        "text": "going to see a preview of the image over"
+      },
+      {
+        "start": 1084.64,
+        "duration": 4.84,
+        "start_formatted": "18:04",
+        "text": "here, but then that is also going to get"
+      },
+      {
+        "start": 1086.76,
+        "duration": 5.04,
+        "start_formatted": "18:06",
+        "text": "plugged into this upscaler step, which"
+      },
+      {
+        "start": 1089.48,
+        "duration": 4.12,
+        "start_formatted": "18:09",
+        "text": "is going to use our new PID model. So,"
+      },
+      {
+        "start": 1091.8,
+        "duration": 3.92,
+        "start_formatted": "18:11",
+        "text": "here you can see that it's going to"
+      },
+      {
+        "start": 1093.6,
+        "duration": 3.84,
+        "start_formatted": "18:13",
+        "text": "convert this into 4K. Now, there are"
+      },
+      {
+        "start": 1095.72,
+        "duration": 3.0,
+        "start_formatted": "18:15",
+        "text": "some additional micro settings here,"
+      },
+      {
+        "start": 1097.44,
+        "duration": 4.32,
+        "start_formatted": "18:17",
+        "text": "which I just tend to leave at the"
+      },
+      {
+        "start": 1098.72,
+        "duration": 5.6,
+        "start_formatted": "18:18",
+        "text": "default. Next, let's proceed to generate"
+      },
+      {
+        "start": 1101.76,
+        "duration": 4.72,
+        "start_formatted": "18:21",
+        "text": "an image. So, let's press run and see"
+      },
+      {
+        "start": 1104.32,
+        "duration": 4.64,
+        "start_formatted": "18:24",
+        "text": "what happens. All right, here is our"
+      },
+      {
+        "start": 1106.48,
+        "duration": 5.68,
+        "start_formatted": "18:26",
+        "text": "final upscaled image. And if I zoom in,"
+      },
+      {
+        "start": 1108.96,
+        "duration": 5.24,
+        "start_formatted": "18:28",
+        "text": "notice how detailed the fur of this red"
+      },
+      {
+        "start": 1112.16,
+        "duration": 4.68,
+        "start_formatted": "18:32",
+        "text": "panda is. This is very sharp and high"
+      },
+      {
+        "start": 1114.2,
+        "duration": 5.4,
+        "start_formatted": "18:34",
+        "text": "resolution. Now, what I forgot to do is"
+      },
+      {
+        "start": 1116.84,
+        "duration": 5.08,
+        "start_formatted": "18:36",
+        "text": "also enable these nodes, so you can see"
+      },
+      {
+        "start": 1119.6,
+        "duration": 4.4,
+        "start_formatted": "18:39",
+        "text": "the original image first before it got"
+      },
+      {
+        "start": 1121.92,
+        "duration": 4.28,
+        "start_formatted": "18:41",
+        "text": "upscaled. So, what I'm going to do is"
+      },
+      {
+        "start": 1124.0,
+        "duration": 5.16,
+        "start_formatted": "18:44",
+        "text": "hold down control and select these ones,"
+      },
+      {
+        "start": 1126.2,
+        "duration": 5.52,
+        "start_formatted": "18:46",
+        "text": "and then press this button to un-bypass"
+      },
+      {
+        "start": 1129.16,
+        "duration": 4.4,
+        "start_formatted": "18:49",
+        "text": "or reactivate these nodes. Now, here it"
+      },
+      {
+        "start": 1131.72,
+        "duration": 5.08,
+        "start_formatted": "18:51",
+        "text": "says I'm missing a VAE. In this model"
+      },
+      {
+        "start": 1133.56,
+        "duration": 4.76,
+        "start_formatted": "18:53",
+        "text": "drop down, simply select AE.safetensors."
+      },
+      {
+        "start": 1136.8,
+        "duration": 3.32,
+        "start_formatted": "18:56",
+        "text": "Now, what I'm showing you here is an"
+      },
+      {
+        "start": 1138.32,
+        "duration": 3.72,
+        "start_formatted": "18:58",
+        "text": "optional step, but this is if you want"
+      },
+      {
+        "start": 1140.12,
+        "duration": 4.36,
+        "start_formatted": "19:00",
+        "text": "to preview the image first. So, let's"
+      },
+      {
+        "start": 1142.04,
+        "duration": 4.52,
+        "start_formatted": "19:02",
+        "text": "press run, and as you can see, here is"
+      },
+      {
+        "start": 1144.48,
+        "duration": 4.84,
+        "start_formatted": "19:04",
+        "text": "the original image. It's only at 1K"
+      },
+      {
+        "start": 1146.56,
+        "duration": 5.24,
+        "start_formatted": "19:06",
+        "text": "resolution image. In fact, I'm going to"
+      },
+      {
+        "start": 1149.32,
+        "duration": 4.08,
+        "start_formatted": "19:09",
+        "text": "take both of these images and put it"
+      },
+      {
+        "start": 1151.8,
+        "duration": 4.12,
+        "start_formatted": "19:11",
+        "text": "through a comparer, so you can see the"
+      },
+      {
+        "start": 1153.4,
+        "duration": 4.84,
+        "start_formatted": "19:13",
+        "text": "before and after. Here's the original 1K"
+      },
+      {
+        "start": 1155.92,
+        "duration": 4.4,
+        "start_formatted": "19:15",
+        "text": "image. You can see it's pretty blurry if"
+      },
+      {
+        "start": 1158.24,
+        "duration": 4.84,
+        "start_formatted": "19:18",
+        "text": "you zoom in, but after plugging it"
+      },
+      {
+        "start": 1160.32,
+        "duration": 5.16,
+        "start_formatted": "19:20",
+        "text": "through PID, look at how sharp and"
+      },
+      {
+        "start": 1163.08,
+        "duration": 4.6,
+        "start_formatted": "19:23",
+        "text": "detailed it is. Very impressive. So,"
+      },
+      {
+        "start": 1165.48,
+        "duration": 4.8,
+        "start_formatted": "19:25",
+        "text": "that's how you can run this standard"
+      },
+      {
+        "start": 1167.68,
+        "duration": 4.16,
+        "start_formatted": "19:27",
+        "text": "workflow using Z image first to generate"
+      },
+      {
+        "start": 1170.28,
+        "duration": 4.0,
+        "start_formatted": "19:30",
+        "text": "an image and then plugging it through"
+      },
+      {
+        "start": 1171.84,
+        "duration": 4.08,
+        "start_formatted": "19:31",
+        "text": "PID to upscale the image. And by the"
+      },
+      {
+        "start": 1174.28,
+        "duration": 3.36,
+        "start_formatted": "19:34",
+        "text": "way, this is super fast. It only took"
+      },
+      {
+        "start": 1175.92,
+        "duration": 3.84,
+        "start_formatted": "19:35",
+        "text": "less than 10 seconds to generate an"
+      },
+      {
+        "start": 1177.64,
+        "duration": 4.04,
+        "start_formatted": "19:37",
+        "text": "image using Z image and then for the"
+      },
+      {
+        "start": 1179.76,
+        "duration": 3.72,
+        "start_formatted": "19:39",
+        "text": "upscaler, it's even faster. This only"
+      },
+      {
+        "start": 1181.68,
+        "duration": 3.76,
+        "start_formatted": "19:41",
+        "text": "took like 3 seconds. Now, this doesn't"
+      },
+      {
+        "start": 1183.48,
+        "duration": 4.28,
+        "start_formatted": "19:43",
+        "text": "have to be Z image. You can also replace"
+      },
+      {
+        "start": 1185.44,
+        "duration": 4.48,
+        "start_formatted": "19:45",
+        "text": "this with like Flux 2 or Flux Klein,"
+      },
+      {
+        "start": 1187.76,
+        "duration": 4.64,
+        "start_formatted": "19:47",
+        "text": "which is based off of Flux 2, or also"
+      },
+      {
+        "start": 1189.92,
+        "duration": 4.12,
+        "start_formatted": "19:49",
+        "text": "Stable Diffusion 3. Now, going back,"
+      },
+      {
+        "start": 1192.4,
+        "duration": 3.36,
+        "start_formatted": "19:52",
+        "text": "there's one more workflow that we"
+      },
+      {
+        "start": 1194.04,
+        "duration": 4.52,
+        "start_formatted": "19:54",
+        "text": "haven't covered, which is just using"
+      },
+      {
+        "start": 1195.76,
+        "duration": 5.04,
+        "start_formatted": "19:55",
+        "text": "this DIT model to generate an image from"
+      },
+      {
+        "start": 1198.56,
+        "duration": 4.72,
+        "start_formatted": "19:58",
+        "text": "scratch. It's not too impressive. This"
+      },
+      {
+        "start": 1200.8,
+        "duration": 4.72,
+        "start_formatted": "20:00",
+        "text": "can only generate 1K resolution images,"
+      },
+      {
+        "start": 1203.28,
+        "duration": 4.12,
+        "start_formatted": "20:03",
+        "text": "but if you are interested, here's a"
+      },
+      {
+        "start": 1205.52,
+        "duration": 3.44,
+        "start_formatted": "20:05",
+        "text": "really quick demo on how this works. So,"
+      },
+      {
+        "start": 1207.4,
+        "duration": 3.44,
+        "start_formatted": "20:07",
+        "text": "I'm going to click on this link to"
+      },
+      {
+        "start": 1208.96,
+        "duration": 3.28,
+        "start_formatted": "20:08",
+        "text": "download the workflow. And again, you"
+      },
+      {
+        "start": 1210.84,
+        "duration": 3.76,
+        "start_formatted": "20:10",
+        "text": "can download this wherever you want. I'm"
+      },
+      {
+        "start": 1212.24,
+        "duration": 4.16,
+        "start_formatted": "20:12",
+        "text": "just going to download it in my root"
+      },
+      {
+        "start": 1214.6,
+        "duration": 3.92,
+        "start_formatted": "20:14",
+        "text": "ComfyUI folder, and then I'm going to"
+      },
+      {
+        "start": 1216.4,
+        "duration": 4.68,
+        "start_formatted": "20:16",
+        "text": "drag and drop the file onto my"
+      },
+      {
+        "start": 1218.52,
+        "duration": 4.2,
+        "start_formatted": "20:18",
+        "text": "interface, and here's what we get. Now,"
+      },
+      {
+        "start": 1221.08,
+        "duration": 3.32,
+        "start_formatted": "20:21",
+        "text": "the first time you run this, it's going"
+      },
+      {
+        "start": 1222.72,
+        "duration": 3.92,
+        "start_formatted": "20:22",
+        "text": "to say that you're missing this model."
+      },
+      {
+        "start": 1224.4,
+        "duration": 4.72,
+        "start_formatted": "20:24",
+        "text": "So, what you need to do is click on this"
+      },
+      {
+        "start": 1226.64,
+        "duration": 4.36,
+        "start_formatted": "20:26",
+        "text": "link, and then in files and versions and"
+      },
+      {
+        "start": 1229.12,
+        "duration": 3.76,
+        "start_formatted": "20:29",
+        "text": "diffusion models, if you scroll way"
+      },
+      {
+        "start": 1231.0,
+        "duration": 5.12,
+        "start_formatted": "20:31",
+        "text": "down, here's the text-to-image model."
+      },
+      {
+        "start": 1232.88,
+        "duration": 4.04,
+        "start_formatted": "20:32",
+        "text": "Note that this is super tiny at only 2.6"
+      },
+      {
+        "start": 1236.12,
+        "duration": 3.84,
+        "start_formatted": "20:36",
+        "text": "GB,"
+      },
+      {
+        "start": 1236.92,
+        "duration": 4.64,
+        "start_formatted": "20:36",
+        "text": "so a lot more efficient than Z image or"
+      },
+      {
+        "start": 1239.96,
+        "duration": 2.8,
+        "start_formatted": "20:39",
+        "text": "Flux 2. Now, again, there's two"
+      },
+      {
+        "start": 1241.56,
+        "duration": 4.44,
+        "start_formatted": "20:41",
+        "text": "different variants of this. There's a"
+      },
+      {
+        "start": 1242.76,
+        "duration": 6.2,
+        "start_formatted": "20:42",
+        "text": "BF16 one and a smaller, more efficient"
+      },
+      {
+        "start": 1246.0,
+        "duration": 6.12,
+        "start_formatted": "20:46",
+        "text": "MXFPH1 if you have a Blackwell"
+      },
+      {
+        "start": 1248.96,
+        "duration": 4.48,
+        "start_formatted": "20:48",
+        "text": "architecture or a 50 series Nvidia GPU."
+      },
+      {
+        "start": 1252.12,
+        "duration": 4.36,
+        "start_formatted": "20:52",
+        "text": "So, for me, I'm going to download this"
+      },
+      {
+        "start": 1253.44,
+        "duration": 5.32,
+        "start_formatted": "20:53",
+        "text": "BF16 one, and this goes in ComfyUI in"
+      },
+      {
+        "start": 1256.48,
+        "duration": 4.08,
+        "start_formatted": "20:56",
+        "text": "models and then in diffusion models."
+      },
+      {
+        "start": 1258.76,
+        "duration": 4.2,
+        "start_formatted": "20:58",
+        "text": "Let's press save. All right, afterwards,"
+      },
+      {
+        "start": 1260.56,
+        "duration": 3.96,
+        "start_formatted": "21:00",
+        "text": "press R to refresh your model list, and"
+      },
+      {
+        "start": 1262.96,
+        "duration": 4.24,
+        "start_formatted": "21:02",
+        "text": "then in this drop down, you should be"
+      },
+      {
+        "start": 1264.52,
+        "duration": 4.84,
+        "start_formatted": "21:04",
+        "text": "able to see your model over here. And"
+      },
+      {
+        "start": 1267.2,
+        "duration": 3.76,
+        "start_formatted": "21:07",
+        "text": "then for the clip encoder, we should"
+      },
+      {
+        "start": 1269.36,
+        "duration": 4.28,
+        "start_formatted": "21:09",
+        "text": "already have downloaded this from the"
+      },
+      {
+        "start": 1270.96,
+        "duration": 5.08,
+        "start_formatted": "21:10",
+        "text": "previous workflow, so simply select the"
+      },
+      {
+        "start": 1273.64,
+        "duration": 3.64,
+        "start_formatted": "21:13",
+        "text": "Gemma 2 2B model over here. And that's"
+      },
+      {
+        "start": 1276.04,
+        "duration": 3.64,
+        "start_formatted": "21:16",
+        "text": "pretty much it. So, this is just a"
+      },
+      {
+        "start": 1277.28,
+        "duration": 4.28,
+        "start_formatted": "21:17",
+        "text": "simple text to image. Let's try the"
+      },
+      {
+        "start": 1279.68,
+        "duration": 3.88,
+        "start_formatted": "21:19",
+        "text": "default prompt of a leopard hiding in"
+      },
+      {
+        "start": 1281.56,
+        "duration": 4.16,
+        "start_formatted": "21:21",
+        "text": "the jungle. And here is where we can set"
+      },
+      {
+        "start": 1283.56,
+        "duration": 3.72,
+        "start_formatted": "21:23",
+        "text": "the width and height. And batch size is"
+      },
+      {
+        "start": 1285.72,
+        "duration": 4.56,
+        "start_formatted": "21:25",
+        "text": "how many images you want to generate at"
+      },
+      {
+        "start": 1287.28,
+        "duration": 5.2,
+        "start_formatted": "21:27",
+        "text": "once. So, let's press run and notice"
+      },
+      {
+        "start": 1290.28,
+        "duration": 4.76,
+        "start_formatted": "21:30",
+        "text": "that this is blazing fast. So, it should"
+      },
+      {
+        "start": 1292.48,
+        "duration": 4.96,
+        "start_formatted": "21:32",
+        "text": "be able to generate an image in like"
+      },
+      {
+        "start": 1295.04,
+        "duration": 3.96,
+        "start_formatted": "21:35",
+        "text": "less than 10 seconds as I talk. I'm not"
+      },
+      {
+        "start": 1297.44,
+        "duration": 4.32,
+        "start_formatted": "21:37",
+        "text": "even going to fast forward this so you"
+      },
+      {
+        "start": 1299.0,
+        "duration": 4.88,
+        "start_formatted": "21:39",
+        "text": "can see how fast this is. And here's our"
+      },
+      {
+        "start": 1301.76,
+        "duration": 4.44,
+        "start_formatted": "21:41",
+        "text": "result. Now, again, this is not a very"
+      },
+      {
+        "start": 1303.88,
+        "duration": 5.2,
+        "start_formatted": "21:43",
+        "text": "impressive image generator. I still"
+      },
+      {
+        "start": 1306.2,
+        "duration": 5.2,
+        "start_formatted": "21:46",
+        "text": "prefer Z Image or Ernie Image or Flux"
+      },
+      {
+        "start": 1309.08,
+        "duration": 5.48,
+        "start_formatted": "21:49",
+        "text": "Klein. It does tend to output some"
+      },
+      {
+        "start": 1311.4,
+        "duration": 5.52,
+        "start_formatted": "21:51",
+        "text": "plasticky details and it can only do up"
+      },
+      {
+        "start": 1314.56,
+        "duration": 4.56,
+        "start_formatted": "21:54",
+        "text": "to 1K. So, at least for me, I don't"
+      },
+      {
+        "start": 1316.92,
+        "duration": 4.36,
+        "start_formatted": "21:56",
+        "text": "really find this text to image workflow"
+      },
+      {
+        "start": 1319.12,
+        "duration": 5.08,
+        "start_formatted": "21:59",
+        "text": "to be particularly useful. What I tend"
+      },
+      {
+        "start": 1321.28,
+        "duration": 5.88,
+        "start_formatted": "22:01",
+        "text": "to do is use this workflow to upload an"
+      },
+      {
+        "start": 1324.2,
+        "duration": 5.0,
+        "start_formatted": "22:04",
+        "text": "existing image to upscale it to 4K or I"
+      },
+      {
+        "start": 1327.16,
+        "duration": 5.52,
+        "start_formatted": "22:07",
+        "text": "would use this workflow to generate an"
+      },
+      {
+        "start": 1329.2,
+        "duration": 5.64,
+        "start_formatted": "22:09",
+        "text": "image using Z Image first while I bypass"
+      },
+      {
+        "start": 1332.68,
+        "duration": 5.24,
+        "start_formatted": "22:12",
+        "text": "these nodes. And once I generate an"
+      },
+      {
+        "start": 1334.84,
+        "duration": 5.76,
+        "start_formatted": "22:14",
+        "text": "image I like, then I can un-bypass this"
+      },
+      {
+        "start": 1337.92,
+        "duration": 6.08,
+        "start_formatted": "22:17",
+        "text": "upscaler component to upscale the image."
+      },
+      {
+        "start": 1340.6,
+        "duration": 6.16,
+        "start_formatted": "22:20",
+        "text": "Now, that sums up my tutorial on PID"
+      },
+      {
+        "start": 1344.0,
+        "duration": 5.48,
+        "start_formatted": "22:24",
+        "text": "from Nvidia. This is probably the best"
+      },
+      {
+        "start": 1346.76,
+        "duration": 5.08,
+        "start_formatted": "22:26",
+        "text": "and fastest and most efficient upscaler"
+      },
+      {
+        "start": 1349.48,
+        "duration": 4.92,
+        "start_formatted": "22:29",
+        "text": "you can use right now. It's way faster"
+      },
+      {
+        "start": 1351.84,
+        "duration": 4.88,
+        "start_formatted": "22:31",
+        "text": "and way lighter, but just as performing"
+      },
+      {
+        "start": 1354.4,
+        "duration": 4.64,
+        "start_formatted": "22:34",
+        "text": "or even better than the previous leader,"
+      },
+      {
+        "start": 1356.72,
+        "duration": 4.6,
+        "start_formatted": "22:36",
+        "text": "Seed VR2. So, if you want to create"
+      },
+      {
+        "start": 1359.04,
+        "duration": 4.64,
+        "start_formatted": "22:39",
+        "text": "high-resolution images, definitely give"
+      },
+      {
+        "start": 1361.32,
+        "duration": 4.92,
+        "start_formatted": "22:41",
+        "text": "this a shot. As always, I will be on the"
+      },
+      {
+        "start": 1363.68,
+        "duration": 4.08,
+        "start_formatted": "22:43",
+        "text": "lookout for the top AI news and tools to"
+      },
+      {
+        "start": 1366.24,
+        "duration": 2.96,
+        "start_formatted": "22:46",
+        "text": "share with you. So, if you enjoyed this"
+      },
+      {
+        "start": 1367.76,
+        "duration": 3.2,
+        "start_formatted": "22:47",
+        "text": "video, remember to like, share,"
+      },
+      {
+        "start": 1369.2,
+        "duration": 3.72,
+        "start_formatted": "22:49",
+        "text": "subscribe, and stay tuned for more"
+      },
+      {
+        "start": 1370.96,
+        "duration": 3.48,
+        "start_formatted": "22:50",
+        "text": "content. Also, there's just so much"
+      },
+      {
+        "start": 1372.92,
+        "duration": 3.52,
+        "start_formatted": "22:52",
+        "text": "happening in the world of AI every week."
+      },
+      {
+        "start": 1374.44,
+        "duration": 3.84,
+        "start_formatted": "22:54",
+        "text": "I can't possibly cover everything on my"
+      },
+      {
+        "start": 1376.44,
+        "duration": 3.8,
+        "start_formatted": "22:56",
+        "text": "YouTube channel. So, to really stay"
+      },
+      {
+        "start": 1378.28,
+        "duration": 4.24,
+        "start_formatted": "22:58",
+        "text": "up-to-date with all that's going on in"
+      },
+      {
+        "start": 1380.24,
+        "duration": 3.88,
+        "start_formatted": "23:00",
+        "text": "AI, be sure to subscribe to my free"
+      },
+      {
+        "start": 1382.52,
+        "duration": 3.28,
+        "start_formatted": "23:02",
+        "text": "weekly newsletter. The link to that will"
+      },
+      {
+        "start": 1384.12,
+        "duration": 3.36,
+        "start_formatted": "23:04",
+        "text": "be in the description below. Thanks for"
+      },
+      {
+        "start": 1385.8,
+        "duration": 3.96,
+        "start_formatted": "23:05",
+        "text": "watching and I'll see you in the next"
+      },
+      {
+        "start": 1387.48,
+        "duration": 2.28,
+        "start_formatted": "23:07",
+        "text": "one."
+      }
+    ],
+    "full_text": "We have a new state-of-the-art open source model that can create 4K resolution images. Not only is this really detailed, but it's also incredibly fast and lightweight. I can generate an image in less than 5 seconds. This is called Pixel Diffusion or PID for short, and this is by Nvidia. First of all, here are some of my personal examples. Here's what the workflow looks like, and don't worry, in the latter half of this video, I'm going to show you exactly how to install and run this on your computer for free and unlimited times. But first, here are some quick examples. I'm going to upload this photo of a tiger and then plug it through this upscaler, and just like 3 seconds, it's able to generate an upscaled version of this. First of all, here's the before. You can see the details of the fur is quite blurry, but after plugging it through this upscaler, notice how much more detailed it is. Let me zoom in even more so you can clearly see the difference. So, here's the before, and here is the after. Incredible details and accuracy. Well, next, I'm going to upload an image of a city, and again, plug it through this upscaler, and here's our result. Here's a before and after slider. So, here's the before. Notice that it's quite low resolution. The outlines of the windows are kind of blurry, but after plugging it through this AI, look how sharp and crisp everything is. Absolutely stunning. In fact, let me zoom in even further so you can see the clear difference in details from this model. Or here's an example of a portrait. Here's the before. Notice that the faces are quite blurry, but after plugging it through this AI, look how much details it adds to the hair and the face. This is really good for sharpening or upscaling images. Let me zoom in a bit more so you can see the clear difference in definition and detail. And then finally, here's a night sky comparison. So, here's the before, and here's the after. Again, just much sharper in detail. And then here are some of their official examples for your reference as well. In fact, how this works is very interesting. It's called pixel diffusion because it works in what is called pixel space. You see how normal image generators work is they use a decoder that turns the image data from a compressed latent space back into pixels that you and I can see. But how this PID works is that it does the decoding in pixel space instead. So, if you're generating an image with one of the top models out there like Flux or Z Image or even Stable Diffusion, that model will first generate the image in pixel space and then PID can take this latent as a guidance, but it directly denoises that image in high resolution pixel space. And this can produce sharper 4K results with fewer artifacts that you often find with traditional upscaler methods. Now, if you compare PID to other upscaling methods, especially to one of the leading ones called SeedVR2, you can see that PID is just a lot more consistent and detailed. So, notice that as I zoom in to various parts of the image, the quality and consistency and coherence of PID is just a lot better than SeedVR2. Here's another example for your reference. Notice that PID is just a lot sharper and more detailed compared to SeedVR2. And it's also more faithful. Like the texture of the plushies look a lot more realistic than what we got from SeedVR2, which looks like it's kind of just making stuff up. Then here's another example. If we look at SeedVR2, notice that if you zoom way in, the edges are super blurry, they're not really defined well, and there's kind of some artifacts. But if you look at PID, it just looks really sharp and good. Now, not only is the quality great, but it's also really lightweight and incredibly fast. So, here's the latency and as you can see, PID can upscale an image in less than a second, up to 5.9 times faster than Seed VR 2, which has indeed been very slow for me. And then on the right is the win rate of PID versus the other image upscaling methods. And as you can see, for the huge majority of the time, PID wins. So, this is definitely one of the best and fastest methods for you to generate 2K or 4K resolution images. All right, well, enough demos. Next, let's go over how to actually install this locally on your computer so you can run it for free and offline for unlimited times. So, I will link to this page in the description below, which contains all the workflows you need to get started. And by the way, we are going to use ComfyUI to run this. If you haven't heard of ComfyUI, this is like the most popular platform for running open-source image and video generators offline. In fact, if you don't have ComfyUI, you should see this video for a full installation tutorial. It's definitely worth your time to learn it because most of the open-source options can be run using ComfyUI. This is most flexible platform out there. So, anyways, back to here, I'm going to assume you already have ComfyUI installed. Now, I'm going to link to this page in the description below, which contains all the workflows and the models. But before we go over this, it's important to update ComfyUI to the latest version first. Otherwise, the workflow will not work. So, simply go to your ComfyUI folder. Notice that I'm using the portable version. And in this update folder, if you click on update comfyui.bat, this is going to open this window, which automatically updates your Comfy to the latest version. So, let's give it a few seconds for this to complete. All right, afterwards, you should see press any key to continue, which means it has successfully updated. So, let's just press any key for it to exit this window. And next, we can start up ComfyUI. So, let me click on run ComfyUI. And while that is loading up, we can proceed to also download the workflow. There are three different workflows. The first 01 workflow is a simple text-to-image, so it actually uses this pixel diffusion model to generate a 1K resolution image. It's not that impressive compared to the state-of-the-art image generators, so I'm going to leave this to last. And then we have this workflow named O2, and this allows you to upload an existing image and upscale it to 2K or 4K. And then finally, we also have this O3 workflow, which allows you to use one of the top image models out there like Flux or Z image to generate an image first and then directly plug that into PID to upscale it further into a higher resolution. I'll go over all three of these workflows in this video, but let's first start with this O2 workflow, which allows you to take an existing image and use PID to upscale it because I think this is the most important of the three. So, what we're going to do is click on this to download the workflow, and you can download this wherever you want. I'm just going to save it in my root ComfyUI folder. After you've downloaded it, simply drag and drop that JSON file onto your ComfyUI interface. Now, the first time you run this, you'll likely see a few nodes outlined in red because you're missing some models. So, let's go over how to install each of these models first. This first node here requires a text encoder called Gemma 2 2B. So, I will link to this page in the description below where you can download either the full FP16 version or the compressed FP8 version. The full one is 5.2 GB. This one is a bit smaller at 2.6 GB, so it runs a bit faster at the sacrifice of some quality. For me, I'm going to go with this smaller FP8 one, so let's click download. And this goes in ComfyUI in models and then in text encoders. Let's click save. Now, after you've downloaded this, simply press R to refresh your model list, and then in the drop-down here, you should be able to see your Gemma 2 LM model. So, let's select this. Next, we need to download the PID upscaler model. So, I will link to this page in the description below, which contains all the PID models. Now, this is super confusing. There's a ton of models to choose from. Let's go over what they all mean. So, first of all, the PID upscaler models are broken down into different latent types based on a base model generator. It's not too important for our current step, but as I'll show you in a second, if you want to use Z image, for example, to generate an image first, and then plug it through this PID upscaler, well, Z image uses Flux 1 as the latent. So, I would go for the Flux 1 1. Or alternatively, if you want to generate an image with Flux 2 first, and then plug it through PID, then I would use one of these four. Or if for whatever reason you want to generate an image using Stable Diffusion 3 first, then I would use one of these two. Anyways, for me, let's choose Flux 1, because that is what Z image uses. Again, it's not too important right now for this step, where we're just uploading an image to upscale. But anyways, within these four, there are two different options. One is to upscale a 1K image to 4K, and another one is to upscale a 512 image into 2K. For me, I'm going to go with the 1K to 4K version. And then within that, there are also two different variants. One is BF16, which is the full model, and this is actually quite tiny at only 2.7 GB, and that's why it runs so fast. And then we have this MXFP8 version, which is a lot tinier at 1.5 GB. So, this is a lot more compressed, but note that this MXFP8, I think only works with more recent Nvidia 50 series GPUs, or GPUs with like the Blackwell architecture. So, if you have an older 3090, then this might not work. So, for me, I'm going to go with this one, Flux 1 1K to 2K FP16. So, let's click download, and this goes in comfyui in models and then in diffusion models. Let's click save. All right, afterwards back to our workflow simply press R again to refresh our model list and then in the drop down you should be able to see your newly downloaded PID model. All right, and then here is where we would upload an image. So let me upload this landscape photo. Now because here I'm using this model which converts a 1024 image into 4K, ideally I would need to upload an image that's 1024 at the longest side. So here are the dimensions of my original image. And then we also need to load a VAE for this. Now I'm going to use this AE.safetensors file which is the VAE that is used by Z image. And this is 335 megabytes in size. I'll link to this page in the description below. Simply click on download and this goes in comfyui in models and then in VAE. Let's click save. All right, afterwards press R to refresh your model list again and then in the drop down simply select AE.safetensors. And that's pretty much it. After those steps you should have no red outlines around any nodes. If you do, chances are you haven't updated to the latest version of comfyui yet. So make sure you do that first. Now here because we have selected 1K to 4K, let's make sure the dimensions here are also reflected. So the width 4K it should be 4096 and then for the height let's preserve the same aspect ratio here. So we also need to times this number by four which would be 2732. And those are all the settings that you need to change. And then finally for here, we should also change the text prompt to match our image. So let me put something like a scenic lakeside town etc. And that's pretty much it. Let's press run. Now when I run this it looks like it's missing a model. I think it's just an error from the original workflow. So let's also connect this diffusion model over to here and then press run. This should be super quick. It should be able to upscale this image in less than 10 seconds. And here's what I got. You can see how detailed everything is. If you want to supercharge your content, definitely check out Higgsfield, the sponsor of this video. Think of it as an all-in-one AI creation platform built specifically for creators. Instead of using one tool for images, another for videos, another for editing, Higgsfield brings everything together in one workflow. Higgsfield has the best video model, Seedance 2.0, which can create 1080p AI videos with native audio that syncs to visuals. For images, it has GPT image 2, which has incredible accuracy and prompt fidelity. But the real advantage is the full workflows from Higgsfield. For example, there's Higgsfield supercomputer, which is like an AI agent for content creation. You can give it a prompt and it can help generate the idea, shape the product concept, write the brand direction, create the visuals, cut the launch video, and even help with distribution. They also have Marketing Studio, which is great for turning one product into a full campaign. Just paste a product link or upload an image, and it can generate UGC videos, tutorials, unboxings, product reviews, and other ad formats in one workflow. And for more cinematic projects, Cinema Studio 3.5 is built around shot-level filmmaking. You can plan scenes, control cameras, set the mood, add characters, reuse props and locations, and keep everything consistent across the project. Whether you're making ads, social videos, product launches, cinematic clips, or full marketing campaigns, this is one of the easiest platforms to start creating with AI. Try Higgsfield today using the link in the description below. Now, the next step is optional, but just to show you a nice before and after comparison, what I'm going to do is double-click anywhere on the canvas and then type in compare, and I'm going to use this image comparer node by RJ3. So, let me drag this anywhere here and I'm going to connect both the input image and the output image into here for you to preview side by side. So, let me do that really quickly. Right, so here's the before. You can see it's quite blurry if you zoom in, but after plugging it through this upscaler, look at the details of this. Absolutely incredible details. If I zoom like way in, you can even see the details of the buildings, the trees, and even everything in the background. This is very, very impressive. All right, so this is the workflow to use if you have an existing image and you just want to plug it through this PID model to upscale it to a higher resolution. Now, if you don't have an existing image, next let me show you this workflow where you can create an existing image first with a state-of-the-art image model like Z image or Flux 2 and then plug it directly into PID to upscale it further. So, simply click on this link to download this workflow and again, you can save this wherever you want. I'm just going to save it in my root ComfyUI folder. Afterwards, back to ComfyUI, simply drag and drop the workflow file onto your interface and you should see this. And here's how it works. First of all, this is broken down into two sections. The upper section is just the standard Z image workflow and then the bottom section is going to take that output image and upscale it to your desired resolution. So, at the top here, we first need to load the models for Z image turbo as well as the clip. Now, if you've been watching my tutorials before, especially if you've watched my tutorial on Z image a few months ago, you should already have this Z image turbo model on your computer. But, if you don't, here's how to install it. So, I'll link to this page in the description below which contains the Z image turbo models for ComfyUI. Now, there are two different variants. One is the BF16 one which is 12 GB in size and then there's also an FP4 one which is a lot more efficient and compressed and this runs for newer versions of CUDA GPUs. So, let's say you want to download this one. Let's click on download and this goes in ComfyUI in models and then in diffusion models. Let's click save. All right, afterwards, simply press R to refresh your model list and then if you click on this drop down, you should be able to see Z image Turbo over here. So, let's select this and then for the clip, you can see it has already auto detected that I have Qwen 3 4B, but in case you don't have this installed yet, again, I will link to this page in the description below and here's where you can choose to either download the full Qwen 3 4B or an FP4 version, which is the most compressed, or an FP8 version, which is moderately compressed. So, for example, let's go with the full one. I'm going to click download and this goes in ComfyUI in models and then in text encoders. Let's click save. All right, so afterwards, press R again to refresh your model list and then if you click on this drop down, you should be able to see Qwen 3 4B over here in the drop down. So, those are all the models that are required for this first step. All right, now moving on to this section, you should already have both the Gemma text encoder and the diffuser model downloaded from the previous workflow. So, simply select Gemma 2 for the text encoder and then if you're using Z image, then you'll need to use this PID flux one version. Again, if you're not sure where to download these, see the previous section of this tutorial. And that's pretty much it. These are all the models that you need to download to get this to work. Next, let's go over the settings really quickly. First of all, this green box is where you enter your prompt. So, let's just go with the default, a red panda stands on its hind legs in a misty forest surrounded by tall trees, etc., etc. There's a waterfall behind it and a black bird on its head. Here is where you can choose the resolution of your original image before it gets plugged into the upscaler because we are using this PID model, which turns 1024 images to 4K. Ideally, the longest side should be kept at 1024. And then the batch size is just how many images you want to generate at once. And then moving on, this is your standard K sampler. If you're new to this, here's what these settings mean. So, seed is like the starting point of your generation. If you use all the same settings and the same prompt, but you use a different seed, you're going to get a slightly different image. And then the number of steps is how many well, steps it takes for it to generate the image. For Z image turbo, 7 to 9 steps is like the sweet spot. For CFG, this is like how literally you want the AI to follow your prompt. For Z image, I just tend to keep it at one. And then the sampler and the scheduler is like the algorithm used to generate the image. So, after generating the image, you're going to see a preview of the image over here, but then that is also going to get plugged into this upscaler step, which is going to use our new PID model. So, here you can see that it's going to convert this into 4K. Now, there are some additional micro settings here, which I just tend to leave at the default. Next, let's proceed to generate an image. So, let's press run and see what happens. All right, here is our final upscaled image. And if I zoom in, notice how detailed the fur of this red panda is. This is very sharp and high resolution. Now, what I forgot to do is also enable these nodes, so you can see the original image first before it got upscaled. So, what I'm going to do is hold down control and select these ones, and then press this button to un-bypass or reactivate these nodes. Now, here it says I'm missing a VAE. In this model drop down, simply select AE.safetensors. Now, what I'm showing you here is an optional step, but this is if you want to preview the image first. So, let's press run, and as you can see, here is the original image. It's only at 1K resolution image. In fact, I'm going to take both of these images and put it through a comparer, so you can see the before and after. Here's the original 1K image. You can see it's pretty blurry if you zoom in, but after plugging it through PID, look at how sharp and detailed it is. Very impressive. So, that's how you can run this standard workflow using Z image first to generate an image and then plugging it through PID to upscale the image. And by the way, this is super fast. It only took less than 10 seconds to generate an image using Z image and then for the upscaler, it's even faster. This only took like 3 seconds. Now, this doesn't have to be Z image. You can also replace this with like Flux 2 or Flux Klein, which is based off of Flux 2, or also Stable Diffusion 3. Now, going back, there's one more workflow that we haven't covered, which is just using this DIT model to generate an image from scratch. It's not too impressive. This can only generate 1K resolution images, but if you are interested, here's a really quick demo on how this works. So, I'm going to click on this link to download the workflow. And again, you can download this wherever you want. I'm just going to download it in my root ComfyUI folder, and then I'm going to drag and drop the file onto my interface, and here's what we get. Now, the first time you run this, it's going to say that you're missing this model. So, what you need to do is click on this link, and then in files and versions and diffusion models, if you scroll way down, here's the text-to-image model. Note that this is super tiny at only 2.6 GB, so a lot more efficient than Z image or Flux 2. Now, again, there's two different variants of this. There's a BF16 one and a smaller, more efficient MXFPH1 if you have a Blackwell architecture or a 50 series Nvidia GPU. So, for me, I'm going to download this BF16 one, and this goes in ComfyUI in models and then in diffusion models. Let's press save. All right, afterwards, press R to refresh your model list, and then in this drop down, you should be able to see your model over here. And then for the clip encoder, we should already have downloaded this from the previous workflow, so simply select the Gemma 2 2B model over here. And that's pretty much it. So, this is just a simple text to image. Let's try the default prompt of a leopard hiding in the jungle. And here is where we can set the width and height. And batch size is how many images you want to generate at once. So, let's press run and notice that this is blazing fast. So, it should be able to generate an image in like less than 10 seconds as I talk. I'm not even going to fast forward this so you can see how fast this is. And here's our result. Now, again, this is not a very impressive image generator. I still prefer Z Image or Ernie Image or Flux Klein. It does tend to output some plasticky details and it can only do up to 1K. So, at least for me, I don't really find this text to image workflow to be particularly useful. What I tend to do is use this workflow to upload an existing image to upscale it to 4K or I would use this workflow to generate an image using Z Image first while I bypass these nodes. And once I generate an image I like, then I can un-bypass this upscaler component to upscale the image. Now, that sums up my tutorial on PID from Nvidia. This is probably the best and fastest and most efficient upscaler you can use right now. It's way faster and way lighter, but just as performing or even better than the previous leader, Seed VR2. So, if you want to create high-resolution images, definitely give this a shot. As always, I will be on the lookout for the top AI news and tools to share with you. So, if you enjoyed this video, remember to like, share, subscribe, and stay tuned for more content. Also, there's just so much happening in the world of AI every week. I can't possibly cover everything on my YouTube channel. So, to really stay up-to-date with all that's going on in AI, be sure to subscribe to my free weekly newsletter. The link to that will be in the description below. Thanks for watching and I'll see you in the next one.",
+    "word_count": 4420,
     "error": null
   }
 }

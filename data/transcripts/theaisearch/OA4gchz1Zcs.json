@@ -14,10 +14,4931 @@
     "video_id": "OA4gchz1Zcs",
     "has_transcript": true,
     "language": "en",
-    "is_generated": false,
-    "segments": [],
-    "full_text": "Ideogram 4 tutorial. Best open-source AI image generator. Free & unlimited #ai #aitools #aiart #imagegeneration\n\nThanks to our sponsor Higgsfield. Try Higgsfield MCP today https://higgsfield.ai/s/mcp-theaisearch-dxCxlV\n\n0:00 Ideogram 4 intro\n0:43 World knowledge\n1:16 Text rendering\n1:33 Prompt adherence \n2:42 Bounding box feature\n4:38 Incredible control\n6:32 Comics and manga\n8:13 Ideogram with ComfyUI\n10:00 Higgsfield\n11:37 Installing Comfy manager\n13:24 Installing KJ nodes\n14:55 Installing Ideogram models\n17:51 How to use Ideogram workflow\n19:45 Safety filter\n22:05 Adding text and other settings\n28:32 Benchmarks and license\n\nWorkflow: https://drive.google.com/file/d/1rIotssI6EiA7buHzU0fmTZ2rQQnelaoz/view?usp=sharing\nComfy manager: https://docs.comfy.org/manager/install\nKJ nodes https://github.com/kijai/ComfyUI-KJNodes\nIdeogram models: https://huggingface.co/Comfy-Org/Ideogram-4\n\nMore tutorials:\nComfyUI tutorial https://youtu.be/g74Cq9Ip2ik\nZ-image tutorial: https://youtu.be/iNM5z8cCH8w\nErnie image tutorial: https://youtu.be/A_nAU8h9YOY\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
-    "word_count": 0,
+    "is_generated": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "duration": 4.52,
+        "start_formatted": "00:00",
+        "text": "This is now the best open-source image"
+      },
+      {
+        "start": 2.48,
+        "duration": 4.64,
+        "start_formatted": "00:02",
+        "text": "generator you can use. It's called"
+      },
+      {
+        "start": 4.52,
+        "duration": 4.68,
+        "start_formatted": "00:04",
+        "text": "Ideogram 4, and this has incredible"
+      },
+      {
+        "start": 7.12,
+        "duration": 3.92,
+        "start_formatted": "00:07",
+        "text": "quality and prompt adherence and world"
+      },
+      {
+        "start": 9.2,
+        "duration": 3.76,
+        "start_formatted": "00:09",
+        "text": "understanding. But, it works really"
+      },
+      {
+        "start": 11.04,
+        "duration": 3.68,
+        "start_formatted": "00:11",
+        "text": "differently from the other top models"
+      },
+      {
+        "start": 12.96,
+        "duration": 3.68,
+        "start_formatted": "00:12",
+        "text": "you may be familiar with. In fact, the"
+      },
+      {
+        "start": 14.72,
+        "duration": 3.96,
+        "start_formatted": "00:14",
+        "text": "funny thing is, I almost gave up on this"
+      },
+      {
+        "start": 16.64,
+        "duration": 3.68,
+        "start_formatted": "00:16",
+        "text": "the first time I tried it. But, I gave"
+      },
+      {
+        "start": 18.68,
+        "duration": 3.52,
+        "start_formatted": "00:18",
+        "text": "it a second chance, and after doing a"
+      },
+      {
+        "start": 20.32,
+        "duration": 4.52,
+        "start_formatted": "00:20",
+        "text": "few tweaks, after playing around with it"
+      },
+      {
+        "start": 22.2,
+        "duration": 5.48,
+        "start_formatted": "00:22",
+        "text": "a bit more, I found that it's incredibly"
+      },
+      {
+        "start": 24.84,
+        "duration": 4.6,
+        "start_formatted": "00:24",
+        "text": "powerful and extremely underrated. So,"
+      },
+      {
+        "start": 27.68,
+        "duration": 3.88,
+        "start_formatted": "00:27",
+        "text": "in this video, I'm going to go over all"
+      },
+      {
+        "start": 29.44,
+        "duration": 4.32,
+        "start_formatted": "00:29",
+        "text": "the incredible things you can do with it"
+      },
+      {
+        "start": 31.56,
+        "duration": 4.04,
+        "start_formatted": "00:31",
+        "text": "and how to use it properly. Plus, I'm"
+      },
+      {
+        "start": 33.76,
+        "duration": 4.2,
+        "start_formatted": "00:33",
+        "text": "going to show you how to install this on"
+      },
+      {
+        "start": 35.6,
+        "duration": 5.0,
+        "start_formatted": "00:35",
+        "text": "your computer so you can run it for free"
+      },
+      {
+        "start": 37.96,
+        "duration": 4.44,
+        "start_formatted": "00:37",
+        "text": "and unlimited times offline. Let's jump"
+      },
+      {
+        "start": 40.6,
+        "duration": 3.8,
+        "start_formatted": "00:40",
+        "text": "right in with all the amazing things it"
+      },
+      {
+        "start": 42.4,
+        "duration": 4.0,
+        "start_formatted": "00:42",
+        "text": "can do. First of all, this has so much"
+      },
+      {
+        "start": 44.4,
+        "duration": 4.16,
+        "start_formatted": "00:44",
+        "text": "knowledge jam-packed into it. For"
+      },
+      {
+        "start": 46.4,
+        "duration": 4.92,
+        "start_formatted": "00:46",
+        "text": "example, I can prompt it to generate all"
+      },
+      {
+        "start": 48.56,
+        "duration": 5.12,
+        "start_formatted": "00:48",
+        "text": "these video game characters like Mario,"
+      },
+      {
+        "start": 51.32,
+        "duration": 4.16,
+        "start_formatted": "00:51",
+        "text": "Link, Zelda, Donkey Kong, Pikachu, all"
+      },
+      {
+        "start": 53.68,
+        "duration": 3.08,
+        "start_formatted": "00:53",
+        "text": "the way to like Sephiroth and Chun-Li."
+      },
+      {
+        "start": 55.48,
+        "duration": 3.6,
+        "start_formatted": "00:55",
+        "text": "And as you can see, it's able to"
+      },
+      {
+        "start": 56.76,
+        "duration": 3.88,
+        "start_formatted": "00:56",
+        "text": "generate all these characters very well."
+      },
+      {
+        "start": 59.08,
+        "duration": 2.96,
+        "start_formatted": "00:59",
+        "text": "Note that this is just text-to-image,"
+      },
+      {
+        "start": 60.64,
+        "duration": 3.04,
+        "start_formatted": "01:00",
+        "text": "but it just has an inherent"
+      },
+      {
+        "start": 62.04,
+        "duration": 3.4,
+        "start_formatted": "01:02",
+        "text": "understanding of what all these"
+      },
+      {
+        "start": 63.68,
+        "duration": 3.52,
+        "start_formatted": "01:03",
+        "text": "characters look like. Or here's another"
+      },
+      {
+        "start": 65.44,
+        "duration": 3.92,
+        "start_formatted": "01:05",
+        "text": "example where we can generate a group"
+      },
+      {
+        "start": 67.2,
+        "duration": 4.08,
+        "start_formatted": "01:07",
+        "text": "photo of all these characters. And"
+      },
+      {
+        "start": 69.36,
+        "duration": 3.96,
+        "start_formatted": "01:09",
+        "text": "indeed, most of them do look correct,"
+      },
+      {
+        "start": 71.28,
+        "duration": 4.0,
+        "start_formatted": "01:11",
+        "text": "including Stitch and Doctor Strange,"
+      },
+      {
+        "start": 73.32,
+        "duration": 4.64,
+        "start_formatted": "01:13",
+        "text": "even the Black Panther, although it did"
+      },
+      {
+        "start": 75.28,
+        "duration": 4.64,
+        "start_formatted": "01:15",
+        "text": "turn Mulan into a man. It's also great"
+      },
+      {
+        "start": 77.96,
+        "duration": 3.68,
+        "start_formatted": "01:17",
+        "text": "at text rendering. So, here's one of my"
+      },
+      {
+        "start": 79.92,
+        "duration": 3.8,
+        "start_formatted": "01:19",
+        "text": "classic prompts, and as you can see,"
+      },
+      {
+        "start": 81.64,
+        "duration": 4.2,
+        "start_formatted": "01:21",
+        "text": "Ideogram was able to get all the text"
+      },
+      {
+        "start": 83.72,
+        "duration": 4.6,
+        "start_formatted": "01:23",
+        "text": "correct. In fact, it understands a ton"
+      },
+      {
+        "start": 85.84,
+        "duration": 4.32,
+        "start_formatted": "01:25",
+        "text": "of different typography and font styles."
+      },
+      {
+        "start": 88.32,
+        "duration": 3.96,
+        "start_formatted": "01:28",
+        "text": "And you can precisely control all of"
+      },
+      {
+        "start": 90.16,
+        "duration": 4.2,
+        "start_formatted": "01:30",
+        "text": "this in your prompt. It's also great"
+      },
+      {
+        "start": 92.28,
+        "duration": 4.08,
+        "start_formatted": "01:32",
+        "text": "with prompt adherence. So, here's my"
+      },
+      {
+        "start": 94.36,
+        "duration": 3.92,
+        "start_formatted": "01:34",
+        "text": "classic prompt with a ballerina dancing"
+      },
+      {
+        "start": 96.36,
+        "duration": 3.4,
+        "start_formatted": "01:36",
+        "text": "in a sunlit studio with mirrored walls"
+      },
+      {
+        "start": 98.28,
+        "duration": 3.68,
+        "start_formatted": "01:38",
+        "text": "scattered with pointe shoes and sheet"
+      },
+      {
+        "start": 99.76,
+        "duration": 4.56,
+        "start_formatted": "01:39",
+        "text": "music. A rabbit watches atop a grand"
+      },
+      {
+        "start": 101.96,
+        "duration": 4.92,
+        "start_formatted": "01:41",
+        "text": "piano. Outside, there's an elephant that"
+      },
+      {
+        "start": 104.32,
+        "duration": 4.68,
+        "start_formatted": "01:44",
+        "text": "balances on a circus ball, and Ideogram"
+      },
+      {
+        "start": 106.88,
+        "duration": 3.8,
+        "start_formatted": "01:46",
+        "text": "is able to generate this perfectly. Now,"
+      },
+      {
+        "start": 109.0,
+        "duration": 3.6,
+        "start_formatted": "01:49",
+        "text": "there's a trick on how to generate this,"
+      },
+      {
+        "start": 110.68,
+        "duration": 3.28,
+        "start_formatted": "01:50",
+        "text": "which we'll talk about in a second. Here"
+      },
+      {
+        "start": 112.6,
+        "duration": 3.36,
+        "start_formatted": "01:52",
+        "text": "are some additional examples where it"
+      },
+      {
+        "start": 113.96,
+        "duration": 4.0,
+        "start_formatted": "01:53",
+        "text": "just generates much better photos while"
+      },
+      {
+        "start": 115.96,
+        "duration": 3.64,
+        "start_formatted": "01:55",
+        "text": "also understanding all the elements in"
+      },
+      {
+        "start": 117.96,
+        "duration": 3.52,
+        "start_formatted": "01:57",
+        "text": "my prompt. Here are some additional"
+      },
+      {
+        "start": 119.6,
+        "duration": 4.0,
+        "start_formatted": "01:59",
+        "text": "tricky examples for your reference. So,"
+      },
+      {
+        "start": 121.48,
+        "duration": 3.68,
+        "start_formatted": "02:01",
+        "text": "here we have a middle-aged artist using"
+      },
+      {
+        "start": 123.6,
+        "duration": 3.28,
+        "start_formatted": "02:03",
+        "text": "their hands to copy an image from a"
+      },
+      {
+        "start": 125.16,
+        "duration": 3.56,
+        "start_formatted": "02:05",
+        "text": "computer screen, but the whole thing is"
+      },
+      {
+        "start": 126.88,
+        "duration": 3.48,
+        "start_formatted": "02:06",
+        "text": "recursive. Or here's another example"
+      },
+      {
+        "start": 128.72,
+        "duration": 3.6,
+        "start_formatted": "02:08",
+        "text": "where we have a man looking into the"
+      },
+      {
+        "start": 130.36,
+        "duration": 4.12,
+        "start_formatted": "02:10",
+        "text": "mirror, but his reflection is a smeary"
+      },
+      {
+        "start": 132.32,
+        "duration": 4.04,
+        "start_formatted": "02:12",
+        "text": "data mash mess of colors and pixels"
+      },
+      {
+        "start": 134.48,
+        "duration": 4.04,
+        "start_formatted": "02:14",
+        "text": "while everything else remains clear and"
+      },
+      {
+        "start": 136.36,
+        "duration": 4.32,
+        "start_formatted": "02:16",
+        "text": "sharp. Ideogram is able to understand"
+      },
+      {
+        "start": 138.52,
+        "duration": 4.48,
+        "start_formatted": "02:18",
+        "text": "this very well. Or here's an example of"
+      },
+      {
+        "start": 140.68,
+        "duration": 4.76,
+        "start_formatted": "02:20",
+        "text": "generating Among Us. So, here I"
+      },
+      {
+        "start": 143.0,
+        "duration": 4.48,
+        "start_formatted": "02:23",
+        "text": "specified what should be in each panel"
+      },
+      {
+        "start": 145.44,
+        "duration": 4.28,
+        "start_formatted": "02:25",
+        "text": "of the manga page including the"
+      },
+      {
+        "start": 147.48,
+        "duration": 4.16,
+        "start_formatted": "02:27",
+        "text": "dialogue. And as you can see, Ideogram"
+      },
+      {
+        "start": 149.72,
+        "duration": 3.28,
+        "start_formatted": "02:29",
+        "text": "is able to handle this very well. Notice"
+      },
+      {
+        "start": 151.64,
+        "duration": 3.24,
+        "start_formatted": "02:31",
+        "text": "that this is just text to image, but"
+      },
+      {
+        "start": 153.0,
+        "duration": 3.76,
+        "start_formatted": "02:33",
+        "text": "it's able to understand all these anime"
+      },
+      {
+        "start": 154.88,
+        "duration": 3.96,
+        "start_formatted": "02:34",
+        "text": "characters. Note that we're not really"
+      },
+      {
+        "start": 156.76,
+        "duration": 4.12,
+        "start_formatted": "02:36",
+        "text": "comparing apples to apples here because"
+      },
+      {
+        "start": 158.84,
+        "duration": 3.56,
+        "start_formatted": "02:38",
+        "text": "what I think is the coolest feature and"
+      },
+      {
+        "start": 160.88,
+        "duration": 3.64,
+        "start_formatted": "02:40",
+        "text": "what makes this different from all the"
+      },
+      {
+        "start": 162.4,
+        "duration": 4.2,
+        "start_formatted": "02:42",
+        "text": "previous image models like Z image or"
+      },
+      {
+        "start": 164.52,
+        "duration": 4.56,
+        "start_formatted": "02:44",
+        "text": "Ernie is that you can drag bounding"
+      },
+      {
+        "start": 166.6,
+        "duration": 4.8,
+        "start_formatted": "02:46",
+        "text": "boxes across the canvas to determine"
+      },
+      {
+        "start": 169.08,
+        "duration": 4.68,
+        "start_formatted": "02:49",
+        "text": "where everything is in the image. I'll"
+      },
+      {
+        "start": 171.4,
+        "duration": 4.6,
+        "start_formatted": "02:51",
+        "text": "go over how to install this workflow"
+      },
+      {
+        "start": 173.76,
+        "duration": 4.28,
+        "start_formatted": "02:53",
+        "text": "later in the video so you can run it for"
+      },
+      {
+        "start": 176.0,
+        "duration": 3.72,
+        "start_formatted": "02:56",
+        "text": "free offline on your computer. But"
+      },
+      {
+        "start": 178.04,
+        "duration": 3.44,
+        "start_formatted": "02:58",
+        "text": "first, let me just show you a few cool"
+      },
+      {
+        "start": 179.72,
+        "duration": 3.72,
+        "start_formatted": "02:59",
+        "text": "examples. Let's say I want to create a"
+      },
+      {
+        "start": 181.48,
+        "duration": 3.52,
+        "start_formatted": "03:01",
+        "text": "poster for a music festival. Well,"
+      },
+      {
+        "start": 183.44,
+        "duration": 3.76,
+        "start_formatted": "03:03",
+        "text": "instead of just randomly pressing"
+      },
+      {
+        "start": 185.0,
+        "duration": 4.0,
+        "start_formatted": "03:05",
+        "text": "generate and hoping it turns out well,"
+      },
+      {
+        "start": 187.2,
+        "duration": 3.88,
+        "start_formatted": "03:07",
+        "text": "you can actually control how things are"
+      },
+      {
+        "start": 189.0,
+        "duration": 4.0,
+        "start_formatted": "03:09",
+        "text": "laid out on the poster. For example, we"
+      },
+      {
+        "start": 191.08,
+        "duration": 3.76,
+        "start_formatted": "03:11",
+        "text": "can set the title over here and then"
+      },
+      {
+        "start": 193.0,
+        "duration": 3.76,
+        "start_formatted": "03:13",
+        "text": "down here we can even determine the text"
+      },
+      {
+        "start": 194.84,
+        "duration": 4.84,
+        "start_formatted": "03:14",
+        "text": "and the look of this. So, for example,"
+      },
+      {
+        "start": 196.76,
+        "duration": 5.12,
+        "start_formatted": "03:16",
+        "text": "let's set it to midsummer music fest and"
+      },
+      {
+        "start": 199.68,
+        "duration": 4.2,
+        "start_formatted": "03:19",
+        "text": "let's set this to cursive, bold, and"
+      },
+      {
+        "start": 201.88,
+        "duration": 3.96,
+        "start_formatted": "03:21",
+        "text": "grunge. And then we can even select the"
+      },
+      {
+        "start": 203.88,
+        "duration": 4.48,
+        "start_formatted": "03:23",
+        "text": "colors. So, let's set this to something"
+      },
+      {
+        "start": 205.84,
+        "duration": 5.28,
+        "start_formatted": "03:25",
+        "text": "like bright orange like this. Next, I'm"
+      },
+      {
+        "start": 208.36,
+        "duration": 5.84,
+        "start_formatted": "03:28",
+        "text": "going to set a tagline here and it's"
+      },
+      {
+        "start": 211.12,
+        "duration": 5.16,
+        "start_formatted": "03:31",
+        "text": "going to be folk funk forest and let's"
+      },
+      {
+        "start": 214.2,
+        "duration": 4.319,
+        "start_formatted": "03:34",
+        "text": "make this italics in smaller font. And"
+      },
+      {
+        "start": 216.28,
+        "duration": 4.72,
+        "start_formatted": "03:36",
+        "text": "then next, I'm going to drag a cat girl"
+      },
+      {
+        "start": 218.519,
+        "duration": 4.321,
+        "start_formatted": "03:38",
+        "text": "cosplayer playing electric guitar and"
+      },
+      {
+        "start": 221.0,
+        "duration": 3.44,
+        "start_formatted": "03:41",
+        "text": "it's going to be a mid shot of her. Then"
+      },
+      {
+        "start": 222.84,
+        "duration": 3.36,
+        "start_formatted": "03:42",
+        "text": "afterwards, let me paste in some"
+      },
+      {
+        "start": 224.44,
+        "duration": 3.72,
+        "start_formatted": "03:44",
+        "text": "additional text here. It's going to be"
+      },
+      {
+        "start": 226.2,
+        "duration": 3.72,
+        "start_formatted": "03:46",
+        "text": "June 20th at this location and it's"
+      },
+      {
+        "start": 228.16,
+        "duration": 4.079,
+        "start_formatted": "03:48",
+        "text": "going to be a long strip with a black"
+      },
+      {
+        "start": 229.92,
+        "duration": 4.28,
+        "start_formatted": "03:49",
+        "text": "background, white text. And then let me"
+      },
+      {
+        "start": 232.239,
+        "duration": 3.761,
+        "start_formatted": "03:52",
+        "text": "add some additional text here. I'm also"
+      },
+      {
+        "start": 234.2,
+        "duration": 4.2,
+        "start_formatted": "03:54",
+        "text": "going to add a button down here. And"
+      },
+      {
+        "start": 236.0,
+        "duration": 5.4,
+        "start_formatted": "03:56",
+        "text": "then, for this one, let's set the color"
+      },
+      {
+        "start": 238.4,
+        "duration": 6.28,
+        "start_formatted": "03:58",
+        "text": "to dark red like this. And then,"
+      },
+      {
+        "start": 241.4,
+        "duration": 5.24,
+        "start_formatted": "04:01",
+        "text": "finally, I'm also going to drag another"
+      },
+      {
+        "start": 244.68,
+        "duration": 3.32,
+        "start_formatted": "04:04",
+        "text": "huge box behind everything. And this is"
+      },
+      {
+        "start": 246.64,
+        "duration": 3.0,
+        "start_formatted": "04:06",
+        "text": "going to be the background. And let's"
+      },
+      {
+        "start": 248.0,
+        "duration": 3.76,
+        "start_formatted": "04:08",
+        "text": "set this to something like a silhouette"
+      },
+      {
+        "start": 249.64,
+        "duration": 4.68,
+        "start_formatted": "04:09",
+        "text": "of forest trees layered. All right."
+      },
+      {
+        "start": 251.76,
+        "duration": 5.72,
+        "start_formatted": "04:11",
+        "text": "Afterwards, let's also set the art style"
+      },
+      {
+        "start": 254.32,
+        "duration": 5.68,
+        "start_formatted": "04:14",
+        "text": "to something like watercolor. And then,"
+      },
+      {
+        "start": 257.48,
+        "duration": 4.64,
+        "start_formatted": "04:17",
+        "text": "let's set this to kind of anime"
+      },
+      {
+        "start": 260.0,
+        "duration": 4.24,
+        "start_formatted": "04:20",
+        "text": "painting. And let's press run and see"
+      },
+      {
+        "start": 262.12,
+        "duration": 4.12,
+        "start_formatted": "04:22",
+        "text": "what we get. All right. So, here's our"
+      },
+      {
+        "start": 264.24,
+        "duration": 4.0,
+        "start_formatted": "04:24",
+        "text": "result. Notice that it follows"
+      },
+      {
+        "start": 266.24,
+        "duration": 4.36,
+        "start_formatted": "04:26",
+        "text": "everything that is specified in the"
+      },
+      {
+        "start": 268.24,
+        "duration": 4.96,
+        "start_formatted": "04:28",
+        "text": "layout, including, you know, the font"
+      },
+      {
+        "start": 270.6,
+        "duration": 4.36,
+        "start_formatted": "04:30",
+        "text": "and the text color, this anime girl, and"
+      },
+      {
+        "start": 273.2,
+        "duration": 4.24,
+        "start_formatted": "04:33",
+        "text": "the background of forest trees in"
+      },
+      {
+        "start": 274.96,
+        "duration": 3.88,
+        "start_formatted": "04:34",
+        "text": "watercolor style, plus all the text."
+      },
+      {
+        "start": 277.44,
+        "duration": 2.96,
+        "start_formatted": "04:37",
+        "text": "Next, here's another really cool example"
+      },
+      {
+        "start": 278.84,
+        "duration": 3.44,
+        "start_formatted": "04:38",
+        "text": "of how much control you can have for"
+      },
+      {
+        "start": 280.4,
+        "duration": 3.64,
+        "start_formatted": "04:40",
+        "text": "your image. So, for example, let's have"
+      },
+      {
+        "start": 282.28,
+        "duration": 3.36,
+        "start_formatted": "04:42",
+        "text": "a photo of a woman in the living room."
+      },
+      {
+        "start": 284.04,
+        "duration": 3.4,
+        "start_formatted": "04:44",
+        "text": "For the style, let's set it to photo."
+      },
+      {
+        "start": 285.64,
+        "duration": 3.76,
+        "start_formatted": "04:45",
+        "text": "I'm going to set this to realistic"
+      },
+      {
+        "start": 287.44,
+        "duration": 4.4,
+        "start_formatted": "04:47",
+        "text": "amateur casual. I'm going to get rid of"
+      },
+      {
+        "start": 289.4,
+        "duration": 3.88,
+        "start_formatted": "04:49",
+        "text": "all these settings. And then, again,"
+      },
+      {
+        "start": 291.84,
+        "duration": 3.32,
+        "start_formatted": "04:51",
+        "text": "let's draw where everything should be on"
+      },
+      {
+        "start": 293.28,
+        "duration": 4.08,
+        "start_formatted": "04:53",
+        "text": "the canvas. So, I'm going to draw a"
+      },
+      {
+        "start": 295.16,
+        "duration": 4.24,
+        "start_formatted": "04:55",
+        "text": "woman over here. And it's going to be a"
+      },
+      {
+        "start": 297.36,
+        "duration": 3.88,
+        "start_formatted": "04:57",
+        "text": "beautiful woman wearing a white bikini"
+      },
+      {
+        "start": 299.4,
+        "duration": 3.68,
+        "start_formatted": "04:59",
+        "text": "sitting on the sofa. Now, here's where"
+      },
+      {
+        "start": 301.24,
+        "duration": 5.2,
+        "start_formatted": "05:01",
+        "text": "we can control this even further. For"
+      },
+      {
+        "start": 303.08,
+        "duration": 5.88,
+        "start_formatted": "05:03",
+        "text": "example, let me drag a box over here."
+      },
+      {
+        "start": 306.44,
+        "duration": 4.44,
+        "start_formatted": "05:06",
+        "text": "And I can write her hand holding a can"
+      },
+      {
+        "start": 308.96,
+        "duration": 4.72,
+        "start_formatted": "05:08",
+        "text": "of Coke. And then, I can drag another"
+      },
+      {
+        "start": 310.88,
+        "duration": 4.92,
+        "start_formatted": "05:10",
+        "text": "box, let's say, over here. And then,"
+      },
+      {
+        "start": 313.68,
+        "duration": 4.2,
+        "start_formatted": "05:13",
+        "text": "have her hand doing a peace sign. Next,"
+      },
+      {
+        "start": 315.8,
+        "duration": 4.72,
+        "start_formatted": "05:15",
+        "text": "I can even drag another box here and"
+      },
+      {
+        "start": 317.88,
+        "duration": 4.6,
+        "start_formatted": "05:17",
+        "text": "have her right foot lifted up. And let's"
+      },
+      {
+        "start": 320.52,
+        "duration": 3.68,
+        "start_formatted": "05:20",
+        "text": "put this somewhere over here. And then,"
+      },
+      {
+        "start": 322.48,
+        "duration": 4.36,
+        "start_formatted": "05:22",
+        "text": "let's get her to sit on a sofa. So, I'm"
+      },
+      {
+        "start": 324.2,
+        "duration": 5.0,
+        "start_formatted": "05:24",
+        "text": "going to drag this huge box across here."
+      },
+      {
+        "start": 326.84,
+        "duration": 4.04,
+        "start_formatted": "05:26",
+        "text": "And then, let's write gray sofa."
+      },
+      {
+        "start": 329.2,
+        "duration": 3.96,
+        "start_formatted": "05:29",
+        "text": "Actually, let's set this a bit higher"
+      },
+      {
+        "start": 330.88,
+        "duration": 4.72,
+        "start_formatted": "05:30",
+        "text": "and then over here. And then, since we"
+      },
+      {
+        "start": 333.16,
+        "duration": 5.28,
+        "start_formatted": "05:33",
+        "text": "have some room, let's also add a coffee"
+      },
+      {
+        "start": 335.6,
+        "duration": 5.08,
+        "start_formatted": "05:35",
+        "text": "table over here with some houseplants on"
+      },
+      {
+        "start": 338.44,
+        "duration": 5.04,
+        "start_formatted": "05:38",
+        "text": "the top. And then, I'm also going to"
+      },
+      {
+        "start": 340.68,
+        "duration": 4.44,
+        "start_formatted": "05:40",
+        "text": "drag a box over here and write a cat"
+      },
+      {
+        "start": 343.48,
+        "duration": 3.56,
+        "start_formatted": "05:43",
+        "text": "sleeps underneath the table. Now,"
+      },
+      {
+        "start": 345.12,
+        "duration": 4.44,
+        "start_formatted": "05:45",
+        "text": "there's some room over here. So, let's"
+      },
+      {
+        "start": 347.04,
+        "duration": 4.68,
+        "start_formatted": "05:47",
+        "text": "add a window with a man riding a T-Rex"
+      },
+      {
+        "start": 349.56,
+        "duration": 4.76,
+        "start_formatted": "05:49",
+        "text": "outside. Then finally, there's also some"
+      },
+      {
+        "start": 351.72,
+        "duration": 5.36,
+        "start_formatted": "05:51",
+        "text": "room over here, so let me add a final"
+      },
+      {
+        "start": 354.32,
+        "duration": 4.68,
+        "start_formatted": "05:54",
+        "text": "element, and let's add a poster of a"
+      },
+      {
+        "start": 357.08,
+        "duration": 3.64,
+        "start_formatted": "05:57",
+        "text": "Naruto movie on the wall. Let's press"
+      },
+      {
+        "start": 359.0,
+        "duration": 4.16,
+        "start_formatted": "05:59",
+        "text": "run and see what that gives us. All"
+      },
+      {
+        "start": 360.72,
+        "duration": 4.92,
+        "start_formatted": "06:00",
+        "text": "right, here's our result. How awesome is"
+      },
+      {
+        "start": 363.16,
+        "duration": 4.72,
+        "start_formatted": "06:03",
+        "text": "that? As you can see, this matches what"
+      },
+      {
+        "start": 365.64,
+        "duration": 4.0,
+        "start_formatted": "06:05",
+        "text": "I specified in the canvas perfectly."
+      },
+      {
+        "start": 367.88,
+        "duration": 4.32,
+        "start_formatted": "06:07",
+        "text": "This is not censored at all. In fact,"
+      },
+      {
+        "start": 369.64,
+        "duration": 4.92,
+        "start_formatted": "06:09",
+        "text": "what I can do is overlay that image back"
+      },
+      {
+        "start": 372.2,
+        "duration": 4.24,
+        "start_formatted": "06:12",
+        "text": "onto the canvas, so you can see all"
+      },
+      {
+        "start": 374.56,
+        "duration": 3.84,
+        "start_formatted": "06:14",
+        "text": "these different elements. So indeed, we"
+      },
+      {
+        "start": 376.44,
+        "duration": 3.68,
+        "start_formatted": "06:16",
+        "text": "have a Naruto poster, we have a woman"
+      },
+      {
+        "start": 378.4,
+        "duration": 3.56,
+        "start_formatted": "06:18",
+        "text": "wearing a bikini with her hand holding"
+      },
+      {
+        "start": 380.12,
+        "duration": 4.52,
+        "start_formatted": "06:20",
+        "text": "Coke here, her hand doing a peace sign"
+      },
+      {
+        "start": 381.96,
+        "duration": 4.6,
+        "start_formatted": "06:21",
+        "text": "here, her right foot lifted over here,"
+      },
+      {
+        "start": 384.64,
+        "duration": 4.24,
+        "start_formatted": "06:24",
+        "text": "plus a gray sofa, coffee table with a"
+      },
+      {
+        "start": 386.56,
+        "duration": 4.72,
+        "start_formatted": "06:26",
+        "text": "cat sleeping underneath it, plus a dude"
+      },
+      {
+        "start": 388.88,
+        "duration": 4.48,
+        "start_formatted": "06:28",
+        "text": "riding a T-Rex outside. This gives you"
+      },
+      {
+        "start": 391.28,
+        "duration": 3.6,
+        "start_formatted": "06:31",
+        "text": "phenomenal control. Or here's another"
+      },
+      {
+        "start": 393.36,
+        "duration": 3.68,
+        "start_formatted": "06:33",
+        "text": "example. Let's say you want to create a"
+      },
+      {
+        "start": 394.88,
+        "duration": 4.52,
+        "start_formatted": "06:34",
+        "text": "manga from this. Well, I just need to"
+      },
+      {
+        "start": 397.04,
+        "duration": 4.879,
+        "start_formatted": "06:37",
+        "text": "change all these settings to a black and"
+      },
+      {
+        "start": 399.4,
+        "duration": 4.64,
+        "start_formatted": "06:39",
+        "text": "white manga page, and let's set this to"
+      },
+      {
+        "start": 401.919,
+        "duration": 4.321,
+        "start_formatted": "06:41",
+        "text": "be a high tension confrontation between"
+      },
+      {
+        "start": 404.04,
+        "duration": 4.04,
+        "start_formatted": "06:44",
+        "text": "two characters. I set the composition of"
+      },
+      {
+        "start": 406.24,
+        "duration": 4.32,
+        "start_formatted": "06:46",
+        "text": "each panel, so the first panel should be"
+      },
+      {
+        "start": 408.08,
+        "duration": 5.12,
+        "start_formatted": "06:48",
+        "text": "a wide dramatic bird's-eye view of a"
+      },
+      {
+        "start": 410.56,
+        "duration": 5.76,
+        "start_formatted": "06:50",
+        "text": "rain-drenched rooftop at night with the"
+      },
+      {
+        "start": 413.2,
+        "duration": 5.4,
+        "start_formatted": "06:53",
+        "text": "two figures standing a few paces apart."
+      },
+      {
+        "start": 416.32,
+        "duration": 4.92,
+        "start_formatted": "06:56",
+        "text": "And then I also added some onomatopoeia"
+      },
+      {
+        "start": 418.6,
+        "duration": 4.36,
+        "start_formatted": "06:58",
+        "text": "sound effects like this, plus a speech"
+      },
+      {
+        "start": 421.24,
+        "duration": 4.4,
+        "start_formatted": "07:01",
+        "text": "bubble over here. And then for the"
+      },
+      {
+        "start": 422.96,
+        "duration": 4.52,
+        "start_formatted": "07:02",
+        "text": "second panel, I told it to focus on one"
+      },
+      {
+        "start": 425.64,
+        "duration": 4.2,
+        "start_formatted": "07:05",
+        "text": "character called Kenji from the waist"
+      },
+      {
+        "start": 427.48,
+        "duration": 4.4,
+        "start_formatted": "07:07",
+        "text": "up, and then it should show a speech"
+      },
+      {
+        "start": 429.84,
+        "duration": 3.72,
+        "start_formatted": "07:09",
+        "text": "bubble with him saying this. And then"
+      },
+      {
+        "start": 431.88,
+        "duration": 3.44,
+        "start_formatted": "07:11",
+        "text": "for the third panel, it's going to be a"
+      },
+      {
+        "start": 433.56,
+        "duration": 4.04,
+        "start_formatted": "07:13",
+        "text": "sharp close-up of the other character's"
+      },
+      {
+        "start": 435.32,
+        "duration": 4.32,
+        "start_formatted": "07:15",
+        "text": "face, and he's going to have this speech"
+      },
+      {
+        "start": 437.6,
+        "duration": 3.52,
+        "start_formatted": "07:17",
+        "text": "bubble. And then finally, at the bottom"
+      },
+      {
+        "start": 439.64,
+        "duration": 3.6,
+        "start_formatted": "07:19",
+        "text": "it's going to be a close-up of these two"
+      },
+      {
+        "start": 441.12,
+        "duration": 3.88,
+        "start_formatted": "07:21",
+        "text": "characters clashing blades intense"
+      },
+      {
+        "start": 443.24,
+        "duration": 4.16,
+        "start_formatted": "07:23",
+        "text": "fight, and it's going to have this ching"
+      },
+      {
+        "start": 445.0,
+        "duration": 4.4,
+        "start_formatted": "07:25",
+        "text": "SFX. So let's press run and see what"
+      },
+      {
+        "start": 447.4,
+        "duration": 4.6,
+        "start_formatted": "07:27",
+        "text": "that gives us. All right, here's what we"
+      },
+      {
+        "start": 449.4,
+        "duration": 4.76,
+        "start_formatted": "07:29",
+        "text": "get. So indeed, it follows everything I"
+      },
+      {
+        "start": 452.0,
+        "duration": 4.36,
+        "start_formatted": "07:32",
+        "text": "specified correctly, including the sound"
+      },
+      {
+        "start": 454.16,
+        "duration": 4.88,
+        "start_formatted": "07:34",
+        "text": "effects, plus the speech bubbles. This"
+      },
+      {
+        "start": 456.36,
+        "duration": 4.52,
+        "start_formatted": "07:36",
+        "text": "is really good. And again, if I just"
+      },
+      {
+        "start": 459.04,
+        "duration": 4.2,
+        "start_formatted": "07:39",
+        "text": "overlay the background on top of this,"
+      },
+      {
+        "start": 460.88,
+        "duration": 4.72,
+        "start_formatted": "07:40",
+        "text": "then everything matches where I placed"
+      },
+      {
+        "start": 463.24,
+        "duration": 3.92,
+        "start_formatted": "07:43",
+        "text": "my bounding boxes. So, those are just a"
+      },
+      {
+        "start": 465.6,
+        "duration": 3.32,
+        "start_formatted": "07:45",
+        "text": "few really cool examples of what you can"
+      },
+      {
+        "start": 467.16,
+        "duration": 4.08,
+        "start_formatted": "07:47",
+        "text": "do with this. As you can see, this is"
+      },
+      {
+        "start": 468.92,
+        "duration": 4.0,
+        "start_formatted": "07:48",
+        "text": "very different from other image models."
+      },
+      {
+        "start": 471.24,
+        "duration": 3.88,
+        "start_formatted": "07:51",
+        "text": "With this canvas and bounding box"
+      },
+      {
+        "start": 472.92,
+        "duration": 4.36,
+        "start_formatted": "07:52",
+        "text": "feature, this gives you ultimate control"
+      },
+      {
+        "start": 475.12,
+        "duration": 4.44,
+        "start_formatted": "07:55",
+        "text": "over how you want things to be in the"
+      },
+      {
+        "start": 477.28,
+        "duration": 4.56,
+        "start_formatted": "07:57",
+        "text": "image, including micro features like"
+      },
+      {
+        "start": 479.56,
+        "duration": 4.36,
+        "start_formatted": "07:59",
+        "text": "hands and feet, faces, and poses. And"
+      },
+      {
+        "start": 481.84,
+        "duration": 4.68,
+        "start_formatted": "08:01",
+        "text": "the quality and prompt adherence of this"
+      },
+      {
+        "start": 483.92,
+        "duration": 4.36,
+        "start_formatted": "08:03",
+        "text": "is just absolutely wild. After playing"
+      },
+      {
+        "start": 486.52,
+        "duration": 3.72,
+        "start_formatted": "08:06",
+        "text": "around with this for a bit, I can"
+      },
+      {
+        "start": 488.28,
+        "duration": 3.92,
+        "start_formatted": "08:08",
+        "text": "confidently say the quality is better"
+      },
+      {
+        "start": 490.24,
+        "duration": 4.16,
+        "start_formatted": "08:10",
+        "text": "than Flux Klein or Z image. All right,"
+      },
+      {
+        "start": 492.2,
+        "duration": 5.0,
+        "start_formatted": "08:12",
+        "text": "next let's go over how to install this."
+      },
+      {
+        "start": 494.4,
+        "duration": 5.72,
+        "start_formatted": "08:14",
+        "text": "So, we are going to use this platform"
+      },
+      {
+        "start": 497.2,
+        "duration": 4.84,
+        "start_formatted": "08:17",
+        "text": "called ComfyUI to run Ideogram. If"
+      },
+      {
+        "start": 500.12,
+        "duration": 3.68,
+        "start_formatted": "08:20",
+        "text": "you're not familiar with ComfyUI, this"
+      },
+      {
+        "start": 502.04,
+        "duration": 3.72,
+        "start_formatted": "08:22",
+        "text": "is the most popular platform for running"
+      },
+      {
+        "start": 503.8,
+        "duration": 3.92,
+        "start_formatted": "08:23",
+        "text": "open-source image and video generators"
+      },
+      {
+        "start": 505.76,
+        "duration": 4.159,
+        "start_formatted": "08:25",
+        "text": "offline. In fact, if you're not familiar"
+      },
+      {
+        "start": 507.72,
+        "duration": 4.28,
+        "start_formatted": "08:27",
+        "text": "with ComfyUI, definitely see this video"
+      },
+      {
+        "start": 509.919,
+        "duration": 4.161,
+        "start_formatted": "08:29",
+        "text": "first where I do a full installation"
+      },
+      {
+        "start": 512.0,
+        "duration": 4.8,
+        "start_formatted": "08:32",
+        "text": "tutorial of it. The nice thing about"
+      },
+      {
+        "start": 514.08,
+        "duration": 5.16,
+        "start_formatted": "08:34",
+        "text": "ComfyUI and why we use it is because it"
+      },
+      {
+        "start": 516.8,
+        "duration": 5.52,
+        "start_formatted": "08:36",
+        "text": "has automatic CPU offloading. So, even"
+      },
+      {
+        "start": 519.24,
+        "duration": 4.72,
+        "start_formatted": "08:39",
+        "text": "if you don't VRAM on your GPU to load"
+      },
+      {
+        "start": 522.32,
+        "duration": 4.12,
+        "start_formatted": "08:42",
+        "text": "all the models, this can just"
+      },
+      {
+        "start": 523.96,
+        "duration": 4.64,
+        "start_formatted": "08:43",
+        "text": "automatically offload it to any existing"
+      },
+      {
+        "start": 526.44,
+        "duration": 4.32,
+        "start_formatted": "08:46",
+        "text": "RAM you might have. So, this allows you"
+      },
+      {
+        "start": 528.6,
+        "duration": 4.32,
+        "start_formatted": "08:48",
+        "text": "to run much larger models than would"
+      },
+      {
+        "start": 530.76,
+        "duration": 5.44,
+        "start_formatted": "08:50",
+        "text": "normally fit. So, even though Ideogram"
+      },
+      {
+        "start": 532.92,
+        "duration": 5.76,
+        "start_formatted": "08:52",
+        "text": "is quite large at 9 GB in size per"
+      },
+      {
+        "start": 536.2,
+        "duration": 4.6,
+        "start_formatted": "08:56",
+        "text": "model, people were able to successfully"
+      },
+      {
+        "start": 538.68,
+        "duration": 4.44,
+        "start_formatted": "08:58",
+        "text": "run this with as low as just 6 GB of"
+      },
+      {
+        "start": 540.8,
+        "duration": 3.56,
+        "start_formatted": "09:00",
+        "text": "VRAM. So, this is very accessible. Now,"
+      },
+      {
+        "start": 543.12,
+        "duration": 4.4,
+        "start_formatted": "09:03",
+        "text": "there are many different ways you can"
+      },
+      {
+        "start": 544.36,
+        "duration": 5.24,
+        "start_formatted": "09:04",
+        "text": "run Ideogram on ComfyUI. One way is if"
+      },
+      {
+        "start": 547.52,
+        "duration": 5.319,
+        "start_formatted": "09:07",
+        "text": "you click on templates and you search"
+      },
+      {
+        "start": 549.6,
+        "duration": 5.04,
+        "start_formatted": "09:09",
+        "text": "for Ideogram, you should see this V4"
+      },
+      {
+        "start": 552.839,
+        "duration": 3.441,
+        "start_formatted": "09:12",
+        "text": "text-to-image workflow. So, if you click"
+      },
+      {
+        "start": 554.64,
+        "duration": 4.0,
+        "start_formatted": "09:14",
+        "text": "on it, it looks like this. Now, you"
+      },
+      {
+        "start": 556.28,
+        "duration": 4.36,
+        "start_formatted": "09:16",
+        "text": "could run it through this way, but it's"
+      },
+      {
+        "start": 558.64,
+        "duration": 4.08,
+        "start_formatted": "09:18",
+        "text": "very error-prone. You'll need to format"
+      },
+      {
+        "start": 560.64,
+        "duration": 3.76,
+        "start_formatted": "09:20",
+        "text": "the prompt in this JSON format like"
+      },
+      {
+        "start": 562.72,
+        "duration": 3.2,
+        "start_formatted": "09:22",
+        "text": "this, and if you make any subtle"
+      },
+      {
+        "start": 564.4,
+        "duration": 3.64,
+        "start_formatted": "09:24",
+        "text": "mistake, it's going to mess up your"
+      },
+      {
+        "start": 565.92,
+        "duration": 4.4,
+        "start_formatted": "09:25",
+        "text": "generation. So, instead, I'm going to"
+      },
+      {
+        "start": 568.04,
+        "duration": 4.56,
+        "start_formatted": "09:28",
+        "text": "show you this workflow instead, which I"
+      },
+      {
+        "start": 570.32,
+        "duration": 5.04,
+        "start_formatted": "09:30",
+        "text": "highly recommend over the original"
+      },
+      {
+        "start": 572.6,
+        "duration": 5.12,
+        "start_formatted": "09:32",
+        "text": "workflow. Here, it includes this KJ"
+      },
+      {
+        "start": 575.36,
+        "duration": 4.8,
+        "start_formatted": "09:35",
+        "text": "Prompt Builder node, which allows you to"
+      },
+      {
+        "start": 577.72,
+        "duration": 4.08,
+        "start_formatted": "09:37",
+        "text": "drag these bounding boxes across your"
+      },
+      {
+        "start": 580.16,
+        "duration": 3.36,
+        "start_formatted": "09:40",
+        "text": "canvas, which gives you a lot more"
+      },
+      {
+        "start": 581.8,
+        "duration": 3.76,
+        "start_formatted": "09:41",
+        "text": "control and you don't have to work with"
+      },
+      {
+        "start": 583.52,
+        "duration": 3.56,
+        "start_formatted": "09:43",
+        "text": "such awful JSON code. So, I'm going to"
+      },
+      {
+        "start": 585.56,
+        "duration": 3.8,
+        "start_formatted": "09:45",
+        "text": "link to this workflow file in the"
+      },
+      {
+        "start": 587.08,
+        "duration": 3.84,
+        "start_formatted": "09:47",
+        "text": "description below. Simply click on file"
+      },
+      {
+        "start": 589.36,
+        "duration": 3.08,
+        "start_formatted": "09:49",
+        "text": "and then click download, and you can"
+      },
+      {
+        "start": 590.92,
+        "duration": 2.96,
+        "start_formatted": "09:50",
+        "text": "save this wherever you want. I'm just"
+      },
+      {
+        "start": 592.44,
+        "duration": 3.76,
+        "start_formatted": "09:52",
+        "text": "going to save it in my root ComfyUI"
+      },
+      {
+        "start": 593.88,
+        "duration": 4.44,
+        "start_formatted": "09:53",
+        "text": "folder. Afterwards, simply drag and drop"
+      },
+      {
+        "start": 596.2,
+        "duration": 4.04,
+        "start_formatted": "09:56",
+        "text": "your workflow onto your interface and"
+      },
+      {
+        "start": 598.32,
+        "duration": 3.72,
+        "start_formatted": "09:58",
+        "text": "you should see something like this. If"
+      },
+      {
+        "start": 600.24,
+        "duration": 4.2,
+        "start_formatted": "10:00",
+        "text": "you want to turn your AI agent into a"
+      },
+      {
+        "start": 602.04,
+        "duration": 4.16,
+        "start_formatted": "10:02",
+        "text": "full-on creative production machine,"
+      },
+      {
+        "start": 604.44,
+        "duration": 3.72,
+        "start_formatted": "10:04",
+        "text": "definitely check out Higgsfield, the"
+      },
+      {
+        "start": 606.2,
+        "duration": 4.36,
+        "start_formatted": "10:06",
+        "text": "sponsor of this video. They just"
+      },
+      {
+        "start": 608.16,
+        "duration": 4.28,
+        "start_formatted": "10:08",
+        "text": "launched Higgsfield MCP. Think of this"
+      },
+      {
+        "start": 610.56,
+        "duration": 4.28,
+        "start_formatted": "10:10",
+        "text": "as like the missing link between AI"
+      },
+      {
+        "start": 612.44,
+        "duration": 4.32,
+        "start_formatted": "10:12",
+        "text": "agents and actual media creation. With"
+      },
+      {
+        "start": 614.84,
+        "duration": 4.24,
+        "start_formatted": "10:14",
+        "text": "this, your agent, like Claude or Open"
+      },
+      {
+        "start": 616.76,
+        "duration": 4.16,
+        "start_formatted": "10:16",
+        "text": "Claw, can now generate, edit, and ship"
+      },
+      {
+        "start": 619.08,
+        "duration": 3.92,
+        "start_formatted": "10:19",
+        "text": "real creative assets like videos,"
+      },
+      {
+        "start": 620.92,
+        "duration": 4.28,
+        "start_formatted": "10:20",
+        "text": "images, and ads directly from one"
+      },
+      {
+        "start": 623.0,
+        "duration": 4.36,
+        "start_formatted": "10:23",
+        "text": "prompt. So, instead of asking Claude to"
+      },
+      {
+        "start": 625.2,
+        "duration": 4.48,
+        "start_formatted": "10:25",
+        "text": "plan a campaign, then manually jumping"
+      },
+      {
+        "start": 627.36,
+        "duration": 5.12,
+        "start_formatted": "10:27",
+        "text": "to a separate video tool, image tool,"
+      },
+      {
+        "start": 629.68,
+        "duration": 5.36,
+        "start_formatted": "10:29",
+        "text": "and website builder, Higgsfield MCP lets"
+      },
+      {
+        "start": 632.48,
+        "duration": 4.64,
+        "start_formatted": "10:32",
+        "text": "Claude, Open Claw, or Hermes agent run"
+      },
+      {
+        "start": 635.04,
+        "duration": 4.12,
+        "start_formatted": "10:35",
+        "text": "the whole pipeline end-to-end. For"
+      },
+      {
+        "start": 637.12,
+        "duration": 3.96,
+        "start_formatted": "10:37",
+        "text": "example, you can describe a product and"
+      },
+      {
+        "start": 639.16,
+        "duration": 3.679,
+        "start_formatted": "10:39",
+        "text": "your agent can research the audience,"
+      },
+      {
+        "start": 641.08,
+        "duration": 3.68,
+        "start_formatted": "10:41",
+        "text": "write the marketing angles, and then use"
+      },
+      {
+        "start": 642.839,
+        "duration": 3.481,
+        "start_formatted": "10:42",
+        "text": "Higgsfield to create images or videos"
+      },
+      {
+        "start": 644.76,
+        "duration": 3.8,
+        "start_formatted": "10:44",
+        "text": "using the best models out there,"
+      },
+      {
+        "start": 646.32,
+        "duration": 5.04,
+        "start_formatted": "10:46",
+        "text": "including GPT Image 2 and Seed Dance"
+      },
+      {
+        "start": 648.56,
+        "duration": 4.44,
+        "start_formatted": "10:48",
+        "text": "2.0. One prompt sets the entire system"
+      },
+      {
+        "start": 651.36,
+        "duration": 4.4,
+        "start_formatted": "10:51",
+        "text": "in motion. And for anyone running"
+      },
+      {
+        "start": 653.0,
+        "duration": 4.12,
+        "start_formatted": "10:53",
+        "text": "faceless channels or short-form content,"
+      },
+      {
+        "start": 655.76,
+        "duration": 3.44,
+        "start_formatted": "10:55",
+        "text": "this is where things get really"
+      },
+      {
+        "start": 657.12,
+        "duration": 4.16,
+        "start_formatted": "10:57",
+        "text": "interesting. Your agent can monitor"
+      },
+      {
+        "start": 659.2,
+        "duration": 4.24,
+        "start_formatted": "10:59",
+        "text": "what's trending, map those formats to"
+      },
+      {
+        "start": 661.28,
+        "duration": 4.2,
+        "start_formatted": "11:01",
+        "text": "your niche, and then use Higgsfield MCP"
+      },
+      {
+        "start": 663.44,
+        "duration": 5.0,
+        "start_formatted": "11:03",
+        "text": "to generate production-ready videos at"
+      },
+      {
+        "start": 665.48,
+        "duration": 4.84,
+        "start_formatted": "11:05",
+        "text": "scale. Setup is also super simple. For"
+      },
+      {
+        "start": 668.44,
+        "duration": 3.84,
+        "start_formatted": "11:08",
+        "text": "Claude, you just go to settings and then"
+      },
+      {
+        "start": 670.32,
+        "duration": 3.96,
+        "start_formatted": "11:10",
+        "text": "connectors, and then paste in this"
+      },
+      {
+        "start": 672.28,
+        "duration": 3.96,
+        "start_formatted": "11:12",
+        "text": "Higgsfield custom connector. For Open"
+      },
+      {
+        "start": 674.28,
+        "duration": 4.24,
+        "start_formatted": "11:14",
+        "text": "Claw or Hermes, you just point your"
+      },
+      {
+        "start": 676.24,
+        "duration": 4.04,
+        "start_formatted": "11:16",
+        "text": "agent config to the same endpoint. One"
+      },
+      {
+        "start": 678.52,
+        "duration": 3.96,
+        "start_formatted": "11:18",
+        "text": "connector and suddenly your agent has"
+      },
+      {
+        "start": 680.28,
+        "duration": 4.28,
+        "start_formatted": "11:20",
+        "text": "access to an entire creative production"
+      },
+      {
+        "start": 682.48,
+        "duration": 3.88,
+        "start_formatted": "11:22",
+        "text": "stack. So, whether you're making ads,"
+      },
+      {
+        "start": 684.56,
+        "duration": 3.44,
+        "start_formatted": "11:24",
+        "text": "faceless videos, product launches,"
+      },
+      {
+        "start": 686.36,
+        "duration": 4.08,
+        "start_formatted": "11:26",
+        "text": "influencer content, or marketing"
+      },
+      {
+        "start": 688.0,
+        "duration": 4.92,
+        "start_formatted": "11:28",
+        "text": "campaigns, Higgsfield MCP basically"
+      },
+      {
+        "start": 690.44,
+        "duration": 4.92,
+        "start_formatted": "11:30",
+        "text": "turns your AI agent into a full content"
+      },
+      {
+        "start": 692.92,
+        "duration": 4.68,
+        "start_formatted": "11:32",
+        "text": "engine end-to-end. Try it today using"
+      },
+      {
+        "start": 695.36,
+        "duration": 3.88,
+        "start_formatted": "11:35",
+        "text": "the link in the description below. First"
+      },
+      {
+        "start": 697.6,
+        "duration": 3.92,
+        "start_formatted": "11:37",
+        "text": "of all, you're going to see some missing"
+      },
+      {
+        "start": 699.24,
+        "duration": 4.32,
+        "start_formatted": "11:39",
+        "text": "models on this left side, which will"
+      },
+      {
+        "start": 701.52,
+        "duration": 4.0,
+        "start_formatted": "11:41",
+        "text": "proceed to install in a second. Plus,"
+      },
+      {
+        "start": 703.56,
+        "duration": 4.16,
+        "start_formatted": "11:43",
+        "text": "you'll also see some missing nodes like"
+      },
+      {
+        "start": 705.52,
+        "duration": 4.28,
+        "start_formatted": "11:45",
+        "text": "this Ideogram Prompt Builder. Now, to"
+      },
+      {
+        "start": 707.72,
+        "duration": 5.4,
+        "start_formatted": "11:47",
+        "text": "install these missing nodes, you need to"
+      },
+      {
+        "start": 709.8,
+        "duration": 5.8,
+        "start_formatted": "11:49",
+        "text": "install this ComfyUI Manager, which will"
+      },
+      {
+        "start": 713.12,
+        "duration": 4.84,
+        "start_formatted": "11:53",
+        "text": "help you detect and install missing"
+      },
+      {
+        "start": 715.6,
+        "duration": 4.68,
+        "start_formatted": "11:55",
+        "text": "nodes. Now, in case you don't have this"
+      },
+      {
+        "start": 717.96,
+        "duration": 4.16,
+        "start_formatted": "11:57",
+        "text": "ComfyUI Manager installed, here's a"
+      },
+      {
+        "start": 720.28,
+        "duration": 3.8,
+        "start_formatted": "12:00",
+        "text": "refresher on how you can install the"
+      },
+      {
+        "start": 722.12,
+        "duration": 4.0,
+        "start_formatted": "12:02",
+        "text": "latest version. So, I'll link to this"
+      },
+      {
+        "start": 724.08,
+        "duration": 3.76,
+        "start_formatted": "12:04",
+        "text": "page in the description below. Notice"
+      },
+      {
+        "start": 726.12,
+        "duration": 3.36,
+        "start_formatted": "12:06",
+        "text": "that I'm using the Windows portable"
+      },
+      {
+        "start": 727.84,
+        "duration": 3.72,
+        "start_formatted": "12:07",
+        "text": "version, which is the recommended"
+      },
+      {
+        "start": 729.48,
+        "duration": 4.12,
+        "start_formatted": "12:09",
+        "text": "version. So, within my root folder, what"
+      },
+      {
+        "start": 731.56,
+        "duration": 5.32,
+        "start_formatted": "12:11",
+        "text": "I need to do is click at the top and"
+      },
+      {
+        "start": 733.6,
+        "duration": 5.4,
+        "start_formatted": "12:13",
+        "text": "then type in CMD to open this folder up"
+      },
+      {
+        "start": 736.88,
+        "duration": 4.52,
+        "start_formatted": "12:16",
+        "text": "in command prompt. And then afterwards,"
+      },
+      {
+        "start": 739.0,
+        "duration": 4.76,
+        "start_formatted": "12:19",
+        "text": "I just need to paste in this line. So,"
+      },
+      {
+        "start": 741.4,
+        "duration": 4.8,
+        "start_formatted": "12:21",
+        "text": "let me copy this and paste it in here."
+      },
+      {
+        "start": 743.76,
+        "duration": 5.36,
+        "start_formatted": "12:23",
+        "text": "So, this is going to proceed to install"
+      },
+      {
+        "start": 746.2,
+        "duration": 4.32,
+        "start_formatted": "12:26",
+        "text": "ComfyUI Manager, as you can see here."
+      },
+      {
+        "start": 749.12,
+        "duration": 4.12,
+        "start_formatted": "12:29",
+        "text": "And then afterwards, we also need to"
+      },
+      {
+        "start": 750.52,
+        "duration": 5.56,
+        "start_formatted": "12:30",
+        "text": "paste in this tag to actually enable the"
+      },
+      {
+        "start": 753.24,
+        "duration": 5.599,
+        "start_formatted": "12:33",
+        "text": "manager when we launch ComfyUI. So, back"
+      },
+      {
+        "start": 756.08,
+        "duration": 5.88,
+        "start_formatted": "12:36",
+        "text": "to my run.bat file, let me just open"
+      },
+      {
+        "start": 758.839,
+        "duration": 4.881,
+        "start_formatted": "12:38",
+        "text": "this in any text editor like Notepad."
+      },
+      {
+        "start": 761.96,
+        "duration": 2.92,
+        "start_formatted": "12:41",
+        "text": "And then in this line here, we're going"
+      },
+      {
+        "start": 763.72,
+        "duration": 3.64,
+        "start_formatted": "12:43",
+        "text": "to make sure that you have"
+      },
+      {
+        "start": 764.88,
+        "duration": 4.76,
+        "start_formatted": "12:44",
+        "text": "--enable-manager"
+      },
+      {
+        "start": 767.36,
+        "duration": 4.08,
+        "start_formatted": "12:47",
+        "text": "so that it'll actually load up ComfyUI"
+      },
+      {
+        "start": 769.64,
+        "duration": 4.04,
+        "start_formatted": "12:49",
+        "text": "Manager when you start it. So,"
+      },
+      {
+        "start": 771.44,
+        "duration": 4.68,
+        "start_formatted": "12:51",
+        "text": "afterwards, let's press Ctrl S to save"
+      },
+      {
+        "start": 773.68,
+        "duration": 4.12,
+        "start_formatted": "12:53",
+        "text": "this and then let's run ComfyUI again."
+      },
+      {
+        "start": 776.12,
+        "duration": 4.12,
+        "start_formatted": "12:56",
+        "text": "After you start up ComfyUI, you should"
+      },
+      {
+        "start": 777.8,
+        "duration": 5.0,
+        "start_formatted": "12:57",
+        "text": "see this button over here, which is the"
+      },
+      {
+        "start": 780.24,
+        "duration": 5.08,
+        "start_formatted": "13:00",
+        "text": "manager. Let's click on this. And then"
+      },
+      {
+        "start": 782.8,
+        "duration": 4.48,
+        "start_formatted": "13:02",
+        "text": "on this left sidebar down here in"
+      },
+      {
+        "start": 785.32,
+        "duration": 4.56,
+        "start_formatted": "13:05",
+        "text": "missing nodes, if you click on this, you"
+      },
+      {
+        "start": 787.28,
+        "duration": 4.6,
+        "start_formatted": "13:07",
+        "text": "should see several missing nodes, which"
+      },
+      {
+        "start": 789.88,
+        "duration": 4.16,
+        "start_formatted": "13:09",
+        "text": "you need to install. So, let's click"
+      },
+      {
+        "start": 791.88,
+        "duration": 4.24,
+        "start_formatted": "13:11",
+        "text": "install for all of these. All right, and"
+      },
+      {
+        "start": 794.04,
+        "duration": 4.2,
+        "start_formatted": "13:14",
+        "text": "then afterwards, it should say to apply"
+      },
+      {
+        "start": 796.12,
+        "duration": 4.8,
+        "start_formatted": "13:16",
+        "text": "these changes, please restart ComfyUI."
+      },
+      {
+        "start": 798.24,
+        "duration": 4.72,
+        "start_formatted": "13:18",
+        "text": "So, let's press apply changes and wait"
+      },
+      {
+        "start": 800.92,
+        "duration": 4.36,
+        "start_formatted": "13:20",
+        "text": "for this to restart. Now, after"
+      },
+      {
+        "start": 802.96,
+        "duration": 4.08,
+        "start_formatted": "13:22",
+        "text": "restarting and installing those missing"
+      },
+      {
+        "start": 805.28,
+        "duration": 3.72,
+        "start_formatted": "13:25",
+        "text": "nodes, you should see that most of the"
+      },
+      {
+        "start": 807.04,
+        "duration": 4.8,
+        "start_formatted": "13:27",
+        "text": "nodes are now available. But, if you"
+      },
+      {
+        "start": 809.0,
+        "duration": 4.76,
+        "start_formatted": "13:29",
+        "text": "still see that this prompt builder KJ"
+      },
+      {
+        "start": 811.84,
+        "duration": 4.28,
+        "start_formatted": "13:31",
+        "text": "node is missing, then you'll need to"
+      },
+      {
+        "start": 813.76,
+        "duration": 4.16,
+        "start_formatted": "13:33",
+        "text": "manually install this node. And, here's"
+      },
+      {
+        "start": 816.12,
+        "duration": 4.12,
+        "start_formatted": "13:36",
+        "text": "how to do so. So, I'll link to this"
+      },
+      {
+        "start": 817.92,
+        "duration": 4.04,
+        "start_formatted": "13:37",
+        "text": "GitHub repo in the description below."
+      },
+      {
+        "start": 820.24,
+        "duration": 3.8,
+        "start_formatted": "13:40",
+        "text": "Here, it contains the installation"
+      },
+      {
+        "start": 821.96,
+        "duration": 4.8,
+        "start_formatted": "13:41",
+        "text": "instructions. So, first of all, you do"
+      },
+      {
+        "start": 824.04,
+        "duration": 4.52,
+        "start_formatted": "13:44",
+        "text": "need to use Git to clone this repo into"
+      },
+      {
+        "start": 826.76,
+        "duration": 4.0,
+        "start_formatted": "13:46",
+        "text": "your custom nodes folder. So, what I'm"
+      },
+      {
+        "start": 828.56,
+        "duration": 4.48,
+        "start_formatted": "13:48",
+        "text": "going to do is click into ComfyUI, and"
+      },
+      {
+        "start": 830.76,
+        "duration": 4.8,
+        "start_formatted": "13:50",
+        "text": "then custom nodes, and then afterwards,"
+      },
+      {
+        "start": 833.04,
+        "duration": 4.56,
+        "start_formatted": "13:53",
+        "text": "at the top, I'm going to type CMD to"
+      },
+      {
+        "start": 835.56,
+        "duration": 4.28,
+        "start_formatted": "13:55",
+        "text": "open this up in command prompt. And"
+      },
+      {
+        "start": 837.6,
+        "duration": 4.8,
+        "start_formatted": "13:57",
+        "text": "here, I just need to get clone this"
+      },
+      {
+        "start": 839.84,
+        "duration": 5.12,
+        "start_formatted": "13:59",
+        "text": "repository. So, I can click on this"
+      },
+      {
+        "start": 842.4,
+        "duration": 4.52,
+        "start_formatted": "14:02",
+        "text": "green button, and then click copy here,"
+      },
+      {
+        "start": 844.96,
+        "duration": 4.16,
+        "start_formatted": "14:04",
+        "text": "and then paste the link back in here."
+      },
+      {
+        "start": 846.92,
+        "duration": 4.88,
+        "start_formatted": "14:06",
+        "text": "So, now it'll proceed to clone this repo"
+      },
+      {
+        "start": 849.12,
+        "duration": 5.12,
+        "start_formatted": "14:09",
+        "text": "into my custom nodes folder. Afterwards,"
+      },
+      {
+        "start": 851.8,
+        "duration": 4.56,
+        "start_formatted": "14:11",
+        "text": "you should see this message, which means"
+      },
+      {
+        "start": 854.24,
+        "duration": 3.52,
+        "start_formatted": "14:14",
+        "text": "it has successfully cloned this repo."
+      },
+      {
+        "start": 856.36,
+        "duration": 4.8,
+        "start_formatted": "14:16",
+        "text": "And by the way, if you've already"
+      },
+      {
+        "start": 857.76,
+        "duration": 5.04,
+        "start_formatted": "14:17",
+        "text": "installed this KJ nodes previously, then"
+      },
+      {
+        "start": 861.16,
+        "duration": 3.84,
+        "start_formatted": "14:21",
+        "text": "to update it, what you need to do is"
+      },
+      {
+        "start": 862.8,
+        "duration": 4.84,
+        "start_formatted": "14:22",
+        "text": "double-click into your KJ nodes folder,"
+      },
+      {
+        "start": 865.0,
+        "duration": 4.64,
+        "start_formatted": "14:25",
+        "text": "and then at the top here, type in CMD."
+      },
+      {
+        "start": 867.64,
+        "duration": 4.36,
+        "start_formatted": "14:27",
+        "text": "Make sure you're within this KJ nodes"
+      },
+      {
+        "start": 869.64,
+        "duration": 5.0,
+        "start_formatted": "14:29",
+        "text": "folder. And then to update it, simply"
+      },
+      {
+        "start": 872.0,
+        "duration": 5.08,
+        "start_formatted": "14:32",
+        "text": "type get pull, and it should update to"
+      },
+      {
+        "start": 874.64,
+        "duration": 4.92,
+        "start_formatted": "14:34",
+        "text": "the latest version. Afterwards, let's"
+      },
+      {
+        "start": 877.08,
+        "duration": 5.16,
+        "start_formatted": "14:37",
+        "text": "exit out of this, and let me restart"
+      },
+      {
+        "start": 879.56,
+        "duration": 4.92,
+        "start_formatted": "14:39",
+        "text": "ComfyUI from scratch. All right, after"
+      },
+      {
+        "start": 882.24,
+        "duration": 4.92,
+        "start_formatted": "14:42",
+        "text": "restarting ComfyUI, you should see the"
+      },
+      {
+        "start": 884.48,
+        "duration": 4.6,
+        "start_formatted": "14:44",
+        "text": "missing error from this KJ node go away."
+      },
+      {
+        "start": 887.16,
+        "duration": 4.64,
+        "start_formatted": "14:47",
+        "text": "And to make sure you do have this KJ"
+      },
+      {
+        "start": 889.08,
+        "duration": 4.52,
+        "start_formatted": "14:49",
+        "text": "node, you should see a canvas like this"
+      },
+      {
+        "start": 891.8,
+        "duration": 3.76,
+        "start_formatted": "14:51",
+        "text": "at the bottom, where you can drag and"
+      },
+      {
+        "start": 893.6,
+        "duration": 4.08,
+        "start_formatted": "14:53",
+        "text": "drop different bounding boxes. So, the"
+      },
+      {
+        "start": 895.56,
+        "duration": 4.24,
+        "start_formatted": "14:55",
+        "text": "next step is we need to install all"
+      },
+      {
+        "start": 897.68,
+        "duration": 3.96,
+        "start_formatted": "14:57",
+        "text": "these missing models. So, I'm going to"
+      },
+      {
+        "start": 899.8,
+        "duration": 3.96,
+        "start_formatted": "14:59",
+        "text": "link to this page in the description"
+      },
+      {
+        "start": 901.64,
+        "duration": 4.88,
+        "start_formatted": "15:01",
+        "text": "below. Simply click on files and"
+      },
+      {
+        "start": 903.76,
+        "duration": 4.6,
+        "start_formatted": "15:03",
+        "text": "versions, and then in diffusion models."
+      },
+      {
+        "start": 906.52,
+        "duration": 3.44,
+        "start_formatted": "15:06",
+        "text": "Note that there are two different models"
+      },
+      {
+        "start": 908.36,
+        "duration": 3.92,
+        "start_formatted": "15:08",
+        "text": "that you need to download. You need to"
+      },
+      {
+        "start": 909.96,
+        "duration": 4.08,
+        "start_formatted": "15:09",
+        "text": "download one of the main Ideogram four"
+      },
+      {
+        "start": 912.28,
+        "duration": 3.52,
+        "start_formatted": "15:12",
+        "text": "models, and then you also need to"
+      },
+      {
+        "start": 914.04,
+        "duration": 3.799,
+        "start_formatted": "15:14",
+        "text": "download one of the unconditional"
+      },
+      {
+        "start": 915.8,
+        "duration": 4.8,
+        "start_formatted": "15:15",
+        "text": "models. Now, for each of these, they"
+      },
+      {
+        "start": 917.839,
+        "duration": 4.881,
+        "start_formatted": "15:17",
+        "text": "have an FP8 version, or if If GPU"
+      },
+      {
+        "start": 920.6,
+        "duration": 5.0,
+        "start_formatted": "15:20",
+        "text": "supports it, you can also go for a more"
+      },
+      {
+        "start": 922.72,
+        "duration": 5.68,
+        "start_formatted": "15:22",
+        "text": "compressed NVFP4 version. Note that you"
+      },
+      {
+        "start": 925.6,
+        "duration": 4.32,
+        "start_formatted": "15:25",
+        "text": "do need to have both the main model and"
+      },
+      {
+        "start": 928.4,
+        "duration": 3.04,
+        "start_formatted": "15:28",
+        "text": "the unconditional model for this to"
+      },
+      {
+        "start": 929.92,
+        "duration": 3.56,
+        "start_formatted": "15:29",
+        "text": "work. For me, I'm going to go with the"
+      },
+      {
+        "start": 931.44,
+        "duration": 3.96,
+        "start_formatted": "15:31",
+        "text": "FP8 version. So, I'm going to click on"
+      },
+      {
+        "start": 933.48,
+        "duration": 3.48,
+        "start_formatted": "15:33",
+        "text": "this first one. Over here, I'm going to"
+      },
+      {
+        "start": 935.4,
+        "duration": 4.16,
+        "start_formatted": "15:35",
+        "text": "click download, and this goes in"
+      },
+      {
+        "start": 936.96,
+        "duration": 5.28,
+        "start_formatted": "15:36",
+        "text": "ComfyUI, in models, and then in"
+      },
+      {
+        "start": 939.56,
+        "duration": 6.08,
+        "start_formatted": "15:39",
+        "text": "diffusion models. Let's click save. Note"
+      },
+      {
+        "start": 942.24,
+        "duration": 5.08,
+        "start_formatted": "15:42",
+        "text": "that this is 9.28 GB in size, but again,"
+      },
+      {
+        "start": 945.64,
+        "duration": 3.76,
+        "start_formatted": "15:45",
+        "text": "because ComfyUI is really good at"
+      },
+      {
+        "start": 947.32,
+        "duration": 4.4,
+        "start_formatted": "15:47",
+        "text": "offloading stuff, as long as you have"
+      },
+      {
+        "start": 949.4,
+        "duration": 4.36,
+        "start_formatted": "15:49",
+        "text": "enough RAM, not VRAM, you could"
+      },
+      {
+        "start": 951.72,
+        "duration": 5.24,
+        "start_formatted": "15:51",
+        "text": "potentially run the entire workflow with"
+      },
+      {
+        "start": 953.76,
+        "duration": 4.68,
+        "start_formatted": "15:53",
+        "text": "as low as just 6 GB of VRAM. Now, after"
+      },
+      {
+        "start": 956.96,
+        "duration": 3.4,
+        "start_formatted": "15:56",
+        "text": "downloading that, I'm also going to"
+      },
+      {
+        "start": 958.44,
+        "duration": 4.08,
+        "start_formatted": "15:58",
+        "text": "download this unconditional one, so"
+      },
+      {
+        "start": 960.36,
+        "duration": 4.52,
+        "start_formatted": "16:00",
+        "text": "let's click on this, and this also goes"
+      },
+      {
+        "start": 962.52,
+        "duration": 4.92,
+        "start_formatted": "16:02",
+        "text": "in ComfyUI, in models, and then"
+      },
+      {
+        "start": 964.88,
+        "duration": 4.68,
+        "start_formatted": "16:04",
+        "text": "diffusion models. Let's click save. All"
+      },
+      {
+        "start": 967.44,
+        "duration": 5.04,
+        "start_formatted": "16:07",
+        "text": "right, afterwards, back to our workflow,"
+      },
+      {
+        "start": 969.56,
+        "duration": 4.96,
+        "start_formatted": "16:09",
+        "text": "simply press the key R to refresh your"
+      },
+      {
+        "start": 972.48,
+        "duration": 4.48,
+        "start_formatted": "16:12",
+        "text": "model list, and then at the drop-down"
+      },
+      {
+        "start": 974.52,
+        "duration": 4.16,
+        "start_formatted": "16:14",
+        "text": "for the first one, let's select this"
+      },
+      {
+        "start": 976.96,
+        "duration": 4.0,
+        "start_formatted": "16:16",
+        "text": "unconditional model, which I just"
+      },
+      {
+        "start": 978.68,
+        "duration": 4.44,
+        "start_formatted": "16:18",
+        "text": "downloaded, and then for the second one,"
+      },
+      {
+        "start": 980.96,
+        "duration": 4.2,
+        "start_formatted": "16:20",
+        "text": "let's select the main model, which I"
+      },
+      {
+        "start": 983.12,
+        "duration": 4.24,
+        "start_formatted": "16:23",
+        "text": "just downloaded, and you should see the"
+      },
+      {
+        "start": 985.16,
+        "duration": 3.84,
+        "start_formatted": "16:25",
+        "text": "red outlines go away. All right,"
+      },
+      {
+        "start": 987.36,
+        "duration": 5.4,
+        "start_formatted": "16:27",
+        "text": "afterwards, we need to download this"
+      },
+      {
+        "start": 989.0,
+        "duration": 5.52,
+        "start_formatted": "16:29",
+        "text": "clip text encoder called Quin 3 VLHB."
+      },
+      {
+        "start": 992.76,
+        "duration": 3.2,
+        "start_formatted": "16:32",
+        "text": "So, again, going back to this page,"
+      },
+      {
+        "start": 994.52,
+        "duration": 4.0,
+        "start_formatted": "16:34",
+        "text": "which I'll link to in the description"
+      },
+      {
+        "start": 995.96,
+        "duration": 4.64,
+        "start_formatted": "16:35",
+        "text": "below, click on files and versions, and"
+      },
+      {
+        "start": 998.52,
+        "duration": 3.88,
+        "start_formatted": "16:38",
+        "text": "then in text encoders. And again,"
+      },
+      {
+        "start": 1000.6,
+        "duration": 4.8,
+        "start_formatted": "16:40",
+        "text": "there's going to be an FP8 version,"
+      },
+      {
+        "start": 1002.4,
+        "duration": 6.36,
+        "start_formatted": "16:42",
+        "text": "which is 10.6 GB in size, or a more"
+      },
+      {
+        "start": 1005.4,
+        "duration": 6.08,
+        "start_formatted": "16:45",
+        "text": "compressed NVFP4 version, which is 6.3."
+      },
+      {
+        "start": 1008.76,
+        "duration": 4.48,
+        "start_formatted": "16:48",
+        "text": "So, depending on which GPU you have, you"
+      },
+      {
+        "start": 1011.48,
+        "duration": 3.72,
+        "start_formatted": "16:51",
+        "text": "can download either one of these. I'm"
+      },
+      {
+        "start": 1013.24,
+        "duration": 3.599,
+        "start_formatted": "16:53",
+        "text": "going to choose this FP8 one, so let's"
+      },
+      {
+        "start": 1015.2,
+        "duration": 4.56,
+        "start_formatted": "16:55",
+        "text": "press download, and this goes in"
+      },
+      {
+        "start": 1016.839,
+        "duration": 5.401,
+        "start_formatted": "16:56",
+        "text": "ComfyUI, in models, and then in text"
+      },
+      {
+        "start": 1019.76,
+        "duration": 4.36,
+        "start_formatted": "16:59",
+        "text": "encoders. Let's click save. All right,"
+      },
+      {
+        "start": 1022.24,
+        "duration": 3.4,
+        "start_formatted": "17:02",
+        "text": "afterwards, press R to refresh your"
+      },
+      {
+        "start": 1024.12,
+        "duration": 3.92,
+        "start_formatted": "17:04",
+        "text": "model list again, and then in this"
+      },
+      {
+        "start": 1025.64,
+        "duration": 5.28,
+        "start_formatted": "17:05",
+        "text": "drop-down, I'm going to select this Quin"
+      },
+      {
+        "start": 1028.04,
+        "duration": 4.399,
+        "start_formatted": "17:08",
+        "text": "3 VLHB, which I just downloaded. And"
+      },
+      {
+        "start": 1030.92,
+        "duration": 4.279,
+        "start_formatted": "17:10",
+        "text": "then, the final model that we need to"
+      },
+      {
+        "start": 1032.439,
+        "duration": 5.52,
+        "start_formatted": "17:12",
+        "text": "load is the Flux 2 VAE. So, again, going"
+      },
+      {
+        "start": 1035.199,
+        "duration": 5.24,
+        "start_formatted": "17:15",
+        "text": "back to this page, in files and versions"
+      },
+      {
+        "start": 1037.959,
+        "duration": 5.721,
+        "start_formatted": "17:17",
+        "text": "in VAE, you just need to download this"
+      },
+      {
+        "start": 1040.439,
+        "duration": 6.0,
+        "start_formatted": "17:20",
+        "text": "flux to VAE, which is 336 megabytes in"
+      },
+      {
+        "start": 1043.68,
+        "duration": 7.08,
+        "start_formatted": "17:23",
+        "text": "size. Let's press download and this goes"
+      },
+      {
+        "start": 1046.439,
+        "duration": 6.761,
+        "start_formatted": "17:26",
+        "text": "in comfy UI in models and then in VAE."
+      },
+      {
+        "start": 1050.76,
+        "duration": 4.2,
+        "start_formatted": "17:30",
+        "text": "Afterwards, let's press R to refresh the"
+      },
+      {
+        "start": 1053.2,
+        "duration": 5.2,
+        "start_formatted": "17:33",
+        "text": "model list again and then in this drop"
+      },
+      {
+        "start": 1054.96,
+        "duration": 5.68,
+        "start_formatted": "17:34",
+        "text": "down, we can select this flux to VAE. So"
+      },
+      {
+        "start": 1058.4,
+        "duration": 4.36,
+        "start_formatted": "17:38",
+        "text": "finally, after doing all those steps,"
+      },
+      {
+        "start": 1060.64,
+        "duration": 4.16,
+        "start_formatted": "17:40",
+        "text": "you should have no more errors. We have"
+      },
+      {
+        "start": 1062.76,
+        "duration": 4.6,
+        "start_formatted": "17:42",
+        "text": "all the models plus all the nodes"
+      },
+      {
+        "start": 1064.8,
+        "duration": 5.0,
+        "start_formatted": "17:44",
+        "text": "required to run this. We can now proceed"
+      },
+      {
+        "start": 1067.36,
+        "duration": 4.76,
+        "start_formatted": "17:47",
+        "text": "to start generating images. So let's go"
+      },
+      {
+        "start": 1069.8,
+        "duration": 4.4,
+        "start_formatted": "17:49",
+        "text": "over this workflow. Let's start here. So"
+      },
+      {
+        "start": 1072.12,
+        "duration": 4.0,
+        "start_formatted": "17:52",
+        "text": "this node is where you set the aspect"
+      },
+      {
+        "start": 1074.2,
+        "duration": 3.56,
+        "start_formatted": "17:54",
+        "text": "ratio as well as how large you want the"
+      },
+      {
+        "start": 1076.12,
+        "duration": 4.36,
+        "start_formatted": "17:56",
+        "text": "image to be. So here's where you would"
+      },
+      {
+        "start": 1077.76,
+        "duration": 4.6,
+        "start_formatted": "17:57",
+        "text": "select the megapixels and then Ideogram"
+      },
+      {
+        "start": 1080.48,
+        "duration": 4.36,
+        "start_formatted": "18:00",
+        "text": "is able to support all these different"
+      },
+      {
+        "start": 1082.36,
+        "duration": 5.88,
+        "start_formatted": "18:02",
+        "text": "aspect ratios including super vertical"
+      },
+      {
+        "start": 1084.84,
+        "duration": 5.68,
+        "start_formatted": "18:04",
+        "text": "like 9 to 32 and super wide 32 to 9. So"
+      },
+      {
+        "start": 1088.24,
+        "duration": 4.68,
+        "start_formatted": "18:08",
+        "text": "this makes it incredibly versatile. So"
+      },
+      {
+        "start": 1090.52,
+        "duration": 5.64,
+        "start_formatted": "18:10",
+        "text": "for me, let's just go with 3 to 4 and"
+      },
+      {
+        "start": 1092.92,
+        "duration": 5.6,
+        "start_formatted": "18:12",
+        "text": "then next, we will move on to this node,"
+      },
+      {
+        "start": 1096.16,
+        "duration": 4.68,
+        "start_formatted": "18:16",
+        "text": "Ideogram prompt builder to type in what"
+      },
+      {
+        "start": 1098.52,
+        "duration": 4.2,
+        "start_formatted": "18:18",
+        "text": "we want the image to be. So for example,"
+      },
+      {
+        "start": 1100.84,
+        "duration": 4.52,
+        "start_formatted": "18:20",
+        "text": "let's try something like two women in"
+      },
+      {
+        "start": 1102.72,
+        "duration": 4.12,
+        "start_formatted": "18:22",
+        "text": "bikinis riding an ostrich in the desert."
+      },
+      {
+        "start": 1105.36,
+        "duration": 3.36,
+        "start_formatted": "18:25",
+        "text": "And then here's where we can also"
+      },
+      {
+        "start": 1106.84,
+        "duration": 4.6,
+        "start_formatted": "18:26",
+        "text": "specify the background. So we can put"
+      },
+      {
+        "start": 1108.72,
+        "duration": 4.92,
+        "start_formatted": "18:28",
+        "text": "something like desert and then sunset."
+      },
+      {
+        "start": 1111.44,
+        "duration": 4.28,
+        "start_formatted": "18:31",
+        "text": "And then for style, we can choose either"
+      },
+      {
+        "start": 1113.64,
+        "duration": 4.48,
+        "start_formatted": "18:33",
+        "text": "none or photo or art style. And then we"
+      },
+      {
+        "start": 1115.72,
+        "duration": 4.28,
+        "start_formatted": "18:35",
+        "text": "can also specify additional parameters"
+      },
+      {
+        "start": 1118.12,
+        "duration": 4.16,
+        "start_formatted": "18:38",
+        "text": "for all these different categories. So"
+      },
+      {
+        "start": 1120.0,
+        "duration": 5.2,
+        "start_formatted": "18:40",
+        "text": "for example, for photo, we can specify"
+      },
+      {
+        "start": 1122.28,
+        "duration": 5.12,
+        "start_formatted": "18:42",
+        "text": "things like macro or Polaroid, drone or"
+      },
+      {
+        "start": 1125.2,
+        "duration": 4.0,
+        "start_formatted": "18:45",
+        "text": "aerial photo, street photography,"
+      },
+      {
+        "start": 1127.4,
+        "duration": 3.88,
+        "start_formatted": "18:47",
+        "text": "portrait photography, vintage"
+      },
+      {
+        "start": 1129.2,
+        "duration": 4.4,
+        "start_formatted": "18:49",
+        "text": "photography, etc. And then for"
+      },
+      {
+        "start": 1131.28,
+        "duration": 5.16,
+        "start_formatted": "18:51",
+        "text": "aesthetics, we can specify stuff like"
+      },
+      {
+        "start": 1133.6,
+        "duration": 4.88,
+        "start_formatted": "18:53",
+        "text": "minimalist, cyberpunk, cinematic, dark,"
+      },
+      {
+        "start": 1136.44,
+        "duration": 4.12,
+        "start_formatted": "18:56",
+        "text": "etc. It's also okay to just leave these"
+      },
+      {
+        "start": 1138.48,
+        "duration": 4.72,
+        "start_formatted": "18:58",
+        "text": "blank. And then for lighting, well, this"
+      },
+      {
+        "start": 1140.56,
+        "duration": 5.6,
+        "start_formatted": "19:00",
+        "text": "can be like warm or cool, sunrise,"
+      },
+      {
+        "start": 1143.2,
+        "duration": 4.32,
+        "start_formatted": "19:03",
+        "text": "sunset, harsh flash, golden hour, etc."
+      },
+      {
+        "start": 1146.16,
+        "duration": 3.96,
+        "start_formatted": "19:06",
+        "text": "And then for medium, it can be"
+      },
+      {
+        "start": 1147.52,
+        "duration": 5.6,
+        "start_formatted": "19:07",
+        "text": "parameters like oil painting, canvas,"
+      },
+      {
+        "start": 1150.12,
+        "duration": 5.72,
+        "start_formatted": "19:10",
+        "text": "realistic photo, watercolor, collage,"
+      },
+      {
+        "start": 1153.12,
+        "duration": 5.0,
+        "start_formatted": "19:13",
+        "text": "poster, etc. Now, if I click run right"
+      },
+      {
+        "start": 1155.84,
+        "duration": 4.28,
+        "start_formatted": "19:15",
+        "text": "away, it's going to proceed to generate"
+      },
+      {
+        "start": 1158.12,
+        "duration": 3.96,
+        "start_formatted": "19:18",
+        "text": "the image based on what I input over"
+      },
+      {
+        "start": 1160.12,
+        "duration": 4.24,
+        "start_formatted": "19:20",
+        "text": "here, but what you're going to see in a"
+      },
+      {
+        "start": 1162.08,
+        "duration": 3.8,
+        "start_formatted": "19:22",
+        "text": "second is that for most of the time it's"
+      },
+      {
+        "start": 1164.36,
+        "duration": 4.12,
+        "start_formatted": "19:24",
+        "text": "not actually going to generate anything,"
+      },
+      {
+        "start": 1165.88,
+        "duration": 4.64,
+        "start_formatted": "19:25",
+        "text": "but instead it's going to give me this,"
+      },
+      {
+        "start": 1168.48,
+        "duration": 3.88,
+        "start_formatted": "19:28",
+        "text": "image blocked by safety filter. So, this"
+      },
+      {
+        "start": 1170.52,
+        "duration": 3.76,
+        "start_formatted": "19:30",
+        "text": "is actually an image that was generated"
+      },
+      {
+        "start": 1172.36,
+        "duration": 4.16,
+        "start_formatted": "19:32",
+        "text": "by Ideogram. So, that's pretty lame and"
+      },
+      {
+        "start": 1174.28,
+        "duration": 4.48,
+        "start_formatted": "19:34",
+        "text": "that's why I initially gave up on this."
+      },
+      {
+        "start": 1176.52,
+        "duration": 4.76,
+        "start_formatted": "19:36",
+        "text": "However, this model is actually not"
+      },
+      {
+        "start": 1178.76,
+        "duration": 4.92,
+        "start_formatted": "19:38",
+        "text": "censored. What you have to do instead of"
+      },
+      {
+        "start": 1181.28,
+        "duration": 5.56,
+        "start_formatted": "19:41",
+        "text": "just inputting prompts here is you also"
+      },
+      {
+        "start": 1183.68,
+        "duration": 5.48,
+        "start_formatted": "19:43",
+        "text": "need to draw bounding boxes over here to"
+      },
+      {
+        "start": 1186.84,
+        "duration": 4.16,
+        "start_formatted": "19:46",
+        "text": "determine where each object should be in"
+      },
+      {
+        "start": 1189.16,
+        "duration": 3.32,
+        "start_formatted": "19:49",
+        "text": "the image. So, let's draw these out"
+      },
+      {
+        "start": 1191.0,
+        "duration": 3.4,
+        "start_formatted": "19:51",
+        "text": "really quickly. I'm going to drag a box"
+      },
+      {
+        "start": 1192.48,
+        "duration": 5.84,
+        "start_formatted": "19:52",
+        "text": "over here and let me type something like"
+      },
+      {
+        "start": 1194.4,
+        "duration": 5.88,
+        "start_formatted": "19:54",
+        "text": "a young beautiful blonde woman wearing a"
+      },
+      {
+        "start": 1198.32,
+        "duration": 4.36,
+        "start_formatted": "19:58",
+        "text": "red bikini. So, let's place her over"
+      },
+      {
+        "start": 1200.28,
+        "duration": 4.96,
+        "start_formatted": "20:00",
+        "text": "here and then let's add another woman."
+      },
+      {
+        "start": 1202.68,
+        "duration": 5.48,
+        "start_formatted": "20:02",
+        "text": "This time it's going to be, let's say, a"
+      },
+      {
+        "start": 1205.24,
+        "duration": 4.64,
+        "start_formatted": "20:05",
+        "text": "beautiful woman with pink hair wearing a"
+      },
+      {
+        "start": 1208.16,
+        "duration": 3.0,
+        "start_formatted": "20:08",
+        "text": "black bikini. And then afterwards we"
+      },
+      {
+        "start": 1209.88,
+        "duration": 3.96,
+        "start_formatted": "20:09",
+        "text": "also need to place the ostrich"
+      },
+      {
+        "start": 1211.16,
+        "duration": 5.88,
+        "start_formatted": "20:11",
+        "text": "somewhere, so let's place it over here"
+      },
+      {
+        "start": 1213.84,
+        "duration": 4.64,
+        "start_formatted": "20:13",
+        "text": "and let's write an ostrich running. And"
+      },
+      {
+        "start": 1217.04,
+        "duration": 3.6,
+        "start_formatted": "20:17",
+        "text": "that's pretty much it. Now, we can add"
+      },
+      {
+        "start": 1218.48,
+        "duration": 4.16,
+        "start_formatted": "20:18",
+        "text": "more elements here if we want, but let's"
+      },
+      {
+        "start": 1220.64,
+        "duration": 4.16,
+        "start_formatted": "20:20",
+        "text": "just keep it simple and add these three"
+      },
+      {
+        "start": 1222.64,
+        "duration": 4.48,
+        "start_formatted": "20:22",
+        "text": "elements which correspond to what we"
+      },
+      {
+        "start": 1224.8,
+        "duration": 4.64,
+        "start_formatted": "20:24",
+        "text": "have in our prompt over here. So, now if"
+      },
+      {
+        "start": 1227.12,
+        "duration": 4.2,
+        "start_formatted": "20:27",
+        "text": "I press run again, it should now be able"
+      },
+      {
+        "start": 1229.44,
+        "duration": 3.88,
+        "start_formatted": "20:29",
+        "text": "to generate the image. So, it has"
+      },
+      {
+        "start": 1231.32,
+        "duration": 3.92,
+        "start_formatted": "20:31",
+        "text": "nothing to do with any safety filter,"
+      },
+      {
+        "start": 1233.32,
+        "duration": 3.72,
+        "start_formatted": "20:33",
+        "text": "it's just because for our first"
+      },
+      {
+        "start": 1235.24,
+        "duration": 4.48,
+        "start_formatted": "20:35",
+        "text": "iteration we haven't drawn any bounding"
+      },
+      {
+        "start": 1237.04,
+        "duration": 4.48,
+        "start_formatted": "20:37",
+        "text": "boxes on this canvas. This is what you"
+      },
+      {
+        "start": 1239.72,
+        "duration": 4.0,
+        "start_formatted": "20:39",
+        "text": "need to get used to is drawing these"
+      },
+      {
+        "start": 1241.52,
+        "duration": 3.6,
+        "start_formatted": "20:41",
+        "text": "bounding boxes to generate the image."
+      },
+      {
+        "start": 1243.72,
+        "duration": 3.88,
+        "start_formatted": "20:43",
+        "text": "But once you get the hang of it, I"
+      },
+      {
+        "start": 1245.12,
+        "duration": 4.6,
+        "start_formatted": "20:45",
+        "text": "assure you Ideogram is a super powerful"
+      },
+      {
+        "start": 1247.6,
+        "duration": 4.72,
+        "start_formatted": "20:47",
+        "text": "image generator that can do a ton of"
+      },
+      {
+        "start": 1249.72,
+        "duration": 4.88,
+        "start_formatted": "20:49",
+        "text": "stuff, including pretty spicy stuff like"
+      },
+      {
+        "start": 1252.32,
+        "duration": 4.8,
+        "start_formatted": "20:52",
+        "text": "melons. So, here's our image. As you can"
+      },
+      {
+        "start": 1254.6,
+        "duration": 4.84,
+        "start_formatted": "20:54",
+        "text": "see, we have these two women riding an"
+      },
+      {
+        "start": 1257.12,
+        "duration": 4.44,
+        "start_formatted": "20:57",
+        "text": "ostrich in the desert at sunset. So,"
+      },
+      {
+        "start": 1259.44,
+        "duration": 4.48,
+        "start_formatted": "20:59",
+        "text": "again, it's super important that you"
+      },
+      {
+        "start": 1261.56,
+        "duration": 4.64,
+        "start_formatted": "21:01",
+        "text": "draw these bounding boxes on this canvas"
+      },
+      {
+        "start": 1263.92,
+        "duration": 3.84,
+        "start_formatted": "21:03",
+        "text": "before you start generating the image."
+      },
+      {
+        "start": 1266.2,
+        "duration": 3.44,
+        "start_formatted": "21:06",
+        "text": "Now, there's more settings here that you"
+      },
+      {
+        "start": 1267.76,
+        "duration": 3.8,
+        "start_formatted": "21:07",
+        "text": "need to be aware of. First of all, let's"
+      },
+      {
+        "start": 1269.64,
+        "duration": 3.64,
+        "start_formatted": "21:09",
+        "text": "say you have a ton of overlapping"
+      },
+      {
+        "start": 1271.56,
+        "duration": 4.28,
+        "start_formatted": "21:11",
+        "text": "elements and let's say if you click on"
+      },
+      {
+        "start": 1273.28,
+        "duration": 4.32,
+        "start_formatted": "21:13",
+        "text": "this, it's first selecting this ostrich"
+      },
+      {
+        "start": 1275.84,
+        "duration": 3.48,
+        "start_formatted": "21:15",
+        "text": "element. What if you want to select the"
+      },
+      {
+        "start": 1277.6,
+        "duration": 4.56,
+        "start_formatted": "21:17",
+        "text": "elements at the back? Well, to do that,"
+      },
+      {
+        "start": 1279.32,
+        "duration": 4.96,
+        "start_formatted": "21:19",
+        "text": "simply hold Alt and then click again and"
+      },
+      {
+        "start": 1282.16,
+        "duration": 3.84,
+        "start_formatted": "21:22",
+        "text": "it should allow you to click on the"
+      },
+      {
+        "start": 1284.28,
+        "duration": 3.84,
+        "start_formatted": "21:24",
+        "text": "underlying element. And if we want to"
+      },
+      {
+        "start": 1286.0,
+        "duration": 3.48,
+        "start_formatted": "21:26",
+        "text": "click this one here, again just hold Alt"
+      },
+      {
+        "start": 1288.12,
+        "duration": 3.72,
+        "start_formatted": "21:28",
+        "text": "and then click again and it should be"
+      },
+      {
+        "start": 1289.48,
+        "duration": 4.68,
+        "start_formatted": "21:29",
+        "text": "able to allow you to select this one at"
+      },
+      {
+        "start": 1291.84,
+        "duration": 4.68,
+        "start_formatted": "21:31",
+        "text": "the back. Another thing you can do is"
+      },
+      {
+        "start": 1294.16,
+        "duration": 5.28,
+        "start_formatted": "21:34",
+        "text": "click on grab background, which would"
+      },
+      {
+        "start": 1296.52,
+        "duration": 4.6,
+        "start_formatted": "21:36",
+        "text": "basically take this image and set it as"
+      },
+      {
+        "start": 1299.44,
+        "duration": 4.44,
+        "start_formatted": "21:39",
+        "text": "the background. And then here's where we"
+      },
+      {
+        "start": 1301.12,
+        "duration": 4.44,
+        "start_formatted": "21:41",
+        "text": "can adjust the opacity of this image."
+      },
+      {
+        "start": 1303.88,
+        "duration": 4.08,
+        "start_formatted": "21:43",
+        "text": "Now, this doesn't mean it's going to"
+      },
+      {
+        "start": 1305.56,
+        "duration": 4.48,
+        "start_formatted": "21:45",
+        "text": "take this generation as an input"
+      },
+      {
+        "start": 1307.96,
+        "duration": 4.4,
+        "start_formatted": "21:47",
+        "text": "reference, all right? Ideogram currently"
+      },
+      {
+        "start": 1310.04,
+        "duration": 4.16,
+        "start_formatted": "21:50",
+        "text": "is only text to image, but this is a"
+      },
+      {
+        "start": 1312.36,
+        "duration": 3.68,
+        "start_formatted": "21:52",
+        "text": "helpful feature if you don't like the"
+      },
+      {
+        "start": 1314.2,
+        "duration": 3.88,
+        "start_formatted": "21:54",
+        "text": "current arrangement of these objects in"
+      },
+      {
+        "start": 1316.04,
+        "duration": 3.84,
+        "start_formatted": "21:56",
+        "text": "the photo and you want to rearrange them"
+      },
+      {
+        "start": 1318.08,
+        "duration": 4.24,
+        "start_formatted": "21:58",
+        "text": "somewhere else. So, you can look at your"
+      },
+      {
+        "start": 1319.88,
+        "duration": 4.68,
+        "start_formatted": "21:59",
+        "text": "output photo as a reference and then"
+      },
+      {
+        "start": 1322.32,
+        "duration": 4.6,
+        "start_formatted": "22:02",
+        "text": "reposition your objects somewhere else."
+      },
+      {
+        "start": 1324.56,
+        "duration": 4.16,
+        "start_formatted": "22:04",
+        "text": "Let's press clear all and also clear"
+      },
+      {
+        "start": 1326.92,
+        "duration": 3.96,
+        "start_formatted": "22:06",
+        "text": "background and let me show you another"
+      },
+      {
+        "start": 1328.72,
+        "duration": 4.76,
+        "start_formatted": "22:08",
+        "text": "example and this time instead of a"
+      },
+      {
+        "start": 1330.88,
+        "duration": 4.68,
+        "start_formatted": "22:10",
+        "text": "photo, let's create a poster for some"
+      },
+      {
+        "start": 1333.48,
+        "duration": 4.72,
+        "start_formatted": "22:13",
+        "text": "matcha drinks. So, for the high-level"
+      },
+      {
+        "start": 1335.56,
+        "duration": 4.64,
+        "start_formatted": "22:15",
+        "text": "description, let's put a poster called"
+      },
+      {
+        "start": 1338.2,
+        "duration": 4.08,
+        "start_formatted": "22:18",
+        "text": "matcha mayhem introducing three new"
+      },
+      {
+        "start": 1340.2,
+        "duration": 4.72,
+        "start_formatted": "22:20",
+        "text": "matcha drinks. For the style, I'm going"
+      },
+      {
+        "start": 1342.28,
+        "duration": 5.04,
+        "start_formatted": "22:22",
+        "text": "to put none. For aesthetics, let's put"
+      },
+      {
+        "start": 1344.92,
+        "duration": 4.96,
+        "start_formatted": "22:24",
+        "text": "minimalist. For lighting, let's put"
+      },
+      {
+        "start": 1347.32,
+        "duration": 4.56,
+        "start_formatted": "22:27",
+        "text": "smooth professional product photo. For"
+      },
+      {
+        "start": 1349.88,
+        "duration": 3.2,
+        "start_formatted": "22:29",
+        "text": "medium, I'm going to put poster. And"
+      },
+      {
+        "start": 1351.88,
+        "duration": 3.56,
+        "start_formatted": "22:31",
+        "text": "then for the background, let's put"
+      },
+      {
+        "start": 1353.08,
+        "duration": 4.6,
+        "start_formatted": "22:33",
+        "text": "something like minimalist cafe setting."
+      },
+      {
+        "start": 1355.44,
+        "duration": 4.36,
+        "start_formatted": "22:35",
+        "text": "Next, let's proceed to draw this out."
+      },
+      {
+        "start": 1357.68,
+        "duration": 4.16,
+        "start_formatted": "22:37",
+        "text": "First, let's draw the title. So, at the"
+      },
+      {
+        "start": 1359.8,
+        "duration": 3.6,
+        "start_formatted": "22:39",
+        "text": "bottom here, I'm going to select text"
+      },
+      {
+        "start": 1361.84,
+        "duration": 3.12,
+        "start_formatted": "22:41",
+        "text": "instead of object. It's going to be"
+      },
+      {
+        "start": 1363.4,
+        "duration": 3.24,
+        "start_formatted": "22:43",
+        "text": "matcha mayhem. And then for the"
+      },
+      {
+        "start": 1364.96,
+        "duration": 3.6,
+        "start_formatted": "22:44",
+        "text": "description, this is usually where I"
+      },
+      {
+        "start": 1366.64,
+        "duration": 3.92,
+        "start_formatted": "22:46",
+        "text": "paste in, you know, the font or"
+      },
+      {
+        "start": 1368.56,
+        "duration": 4.2,
+        "start_formatted": "22:48",
+        "text": "typography of the text as well as the"
+      },
+      {
+        "start": 1370.56,
+        "duration": 5.2,
+        "start_formatted": "22:50",
+        "text": "color. So, for here, I want it to be"
+      },
+      {
+        "start": 1372.76,
+        "duration": 5.0,
+        "start_formatted": "22:52",
+        "text": "large, bold, blocky sans-serif text in"
+      },
+      {
+        "start": 1375.76,
+        "duration": 4.68,
+        "start_formatted": "22:55",
+        "text": "deep green color. In fact, I can even"
+      },
+      {
+        "start": 1377.76,
+        "duration": 6.52,
+        "start_formatted": "22:57",
+        "text": "select the color over here. So, for"
+      },
+      {
+        "start": 1380.44,
+        "duration": 6.76,
+        "start_formatted": "23:00",
+        "text": "example, let's select a dark green like"
+      },
+      {
+        "start": 1384.28,
+        "duration": 4.92,
+        "start_formatted": "23:04",
+        "text": "this. All right, next let's also add a"
+      },
+      {
+        "start": 1387.2,
+        "duration": 4.16,
+        "start_formatted": "23:07",
+        "text": "subheading and then down here again, I'm"
+      },
+      {
+        "start": 1389.2,
+        "duration": 3.88,
+        "start_formatted": "23:09",
+        "text": "going to select text and here the text"
+      },
+      {
+        "start": 1391.36,
+        "duration": 4.76,
+        "start_formatted": "23:11",
+        "text": "is going to be this and the font should"
+      },
+      {
+        "start": 1393.08,
+        "duration": 5.56,
+        "start_formatted": "23:13",
+        "text": "be this. Next, let me add three drinks."
+      },
+      {
+        "start": 1396.12,
+        "duration": 4.92,
+        "start_formatted": "23:16",
+        "text": "So, I'm going to add the first glass of"
+      },
+      {
+        "start": 1398.64,
+        "duration": 4.16,
+        "start_formatted": "23:18",
+        "text": "matcha over here. Let's just set this to"
+      },
+      {
+        "start": 1401.04,
+        "duration": 3.88,
+        "start_formatted": "23:21",
+        "text": "a glass of matcha with milk at the"
+      },
+      {
+        "start": 1402.8,
+        "duration": 4.32,
+        "start_formatted": "23:22",
+        "text": "bottom. Now, what I can do is just click"
+      },
+      {
+        "start": 1404.92,
+        "duration": 4.32,
+        "start_formatted": "23:24",
+        "text": "on this element and then press Ctrl D to"
+      },
+      {
+        "start": 1407.12,
+        "duration": 5.12,
+        "start_formatted": "23:27",
+        "text": "duplicate it. So, I'm going to drag this"
+      },
+      {
+        "start": 1409.24,
+        "duration": 5.64,
+        "start_formatted": "23:29",
+        "text": "over to the left and then over here"
+      },
+      {
+        "start": 1412.24,
+        "duration": 4.6,
+        "start_formatted": "23:32",
+        "text": "instead of milk, let's put purple ube"
+      },
+      {
+        "start": 1414.88,
+        "duration": 3.24,
+        "start_formatted": "23:34",
+        "text": "milk at the bottom and then again, I'm"
+      },
+      {
+        "start": 1416.84,
+        "duration": 3.8,
+        "start_formatted": "23:36",
+        "text": "going to click on this and then press"
+      },
+      {
+        "start": 1418.12,
+        "duration": 4.4,
+        "start_formatted": "23:38",
+        "text": "Ctrl D to duplicate it again and then"
+      },
+      {
+        "start": 1420.64,
+        "duration": 4.16,
+        "start_formatted": "23:40",
+        "text": "let's put it over here. This time"
+      },
+      {
+        "start": 1422.52,
+        "duration": 5.28,
+        "start_formatted": "23:42",
+        "text": "instead of purple ube milk, let's put"
+      },
+      {
+        "start": 1424.8,
+        "duration": 5.64,
+        "start_formatted": "23:44",
+        "text": "pink strawberry milk. And then what I'm"
+      },
+      {
+        "start": 1427.8,
+        "duration": 4.88,
+        "start_formatted": "23:47",
+        "text": "going to do is actually at the top here,"
+      },
+      {
+        "start": 1430.44,
+        "duration": 4.36,
+        "start_formatted": "23:50",
+        "text": "I'm going to add a Starbucks logo. So,"
+      },
+      {
+        "start": 1432.68,
+        "duration": 5.28,
+        "start_formatted": "23:52",
+        "text": "let me double click on it and then type"
+      },
+      {
+        "start": 1434.8,
+        "duration": 5.48,
+        "start_formatted": "23:54",
+        "text": "Starbucks logo. Also down here, let me"
+      },
+      {
+        "start": 1437.96,
+        "duration": 5.24,
+        "start_formatted": "23:57",
+        "text": "add labels for each one of these. So,"
+      },
+      {
+        "start": 1440.28,
+        "duration": 5.36,
+        "start_formatted": "24:00",
+        "text": "here let's set this to text and then I'm"
+      },
+      {
+        "start": 1443.2,
+        "duration": 4.64,
+        "start_formatted": "24:03",
+        "text": "going to write ube matcha and this is"
+      },
+      {
+        "start": 1445.64,
+        "duration": 4.76,
+        "start_formatted": "24:05",
+        "text": "also going to be large bold blocky sans"
+      },
+      {
+        "start": 1447.84,
+        "duration": 5.16,
+        "start_formatted": "24:07",
+        "text": "serif text in a deep green color. So,"
+      },
+      {
+        "start": 1450.4,
+        "duration": 5.2,
+        "start_formatted": "24:10",
+        "text": "let me set this over here and then I'm"
+      },
+      {
+        "start": 1453.0,
+        "duration": 4.08,
+        "start_formatted": "24:13",
+        "text": "going to press Ctrl D to duplicate it"
+      },
+      {
+        "start": 1455.6,
+        "duration": 3.4,
+        "start_formatted": "24:15",
+        "text": "and then I'm going to set the label for"
+      },
+      {
+        "start": 1457.08,
+        "duration": 4.6,
+        "start_formatted": "24:17",
+        "text": "this one. This one is just going to be"
+      },
+      {
+        "start": 1459.0,
+        "duration": 5.08,
+        "start_formatted": "24:19",
+        "text": "matcha latte and then let me duplicate"
+      },
+      {
+        "start": 1461.68,
+        "duration": 5.76,
+        "start_formatted": "24:21",
+        "text": "it again to add the label over here."
+      },
+      {
+        "start": 1464.08,
+        "duration": 6.04,
+        "start_formatted": "24:24",
+        "text": "This time let's set it to strawberry"
+      },
+      {
+        "start": 1467.44,
+        "duration": 4.76,
+        "start_formatted": "24:27",
+        "text": "matcha. All right, that's about it. Now,"
+      },
+      {
+        "start": 1470.12,
+        "duration": 3.8,
+        "start_formatted": "24:30",
+        "text": "next let's press run and then I'll talk"
+      },
+      {
+        "start": 1472.2,
+        "duration": 3.56,
+        "start_formatted": "24:32",
+        "text": "about some other settings and how to"
+      },
+      {
+        "start": 1473.92,
+        "duration": 4.48,
+        "start_formatted": "24:33",
+        "text": "edit this further in a second. Now, note"
+      },
+      {
+        "start": 1475.76,
+        "duration": 5.64,
+        "start_formatted": "24:35",
+        "text": "that this is quite slow compared to Z"
+      },
+      {
+        "start": 1478.4,
+        "duration": 4.76,
+        "start_formatted": "24:38",
+        "text": "image and flux client which at least for"
+      },
+      {
+        "start": 1481.4,
+        "duration": 4.52,
+        "start_formatted": "24:41",
+        "text": "me, I can generate an image in like less"
+      },
+      {
+        "start": 1483.16,
+        "duration": 4.96,
+        "start_formatted": "24:43",
+        "text": "than 10 seconds. For Ideogram V4, it"
+      },
+      {
+        "start": 1485.92,
+        "duration": 4.8,
+        "start_formatted": "24:45",
+        "text": "does take roughly a minute to generate"
+      },
+      {
+        "start": 1488.12,
+        "duration": 4.2,
+        "start_formatted": "24:48",
+        "text": "one image. But the quality of this and"
+      },
+      {
+        "start": 1490.72,
+        "duration": 3.68,
+        "start_formatted": "24:50",
+        "text": "the prompt adherence as well as the"
+      },
+      {
+        "start": 1492.32,
+        "duration": 4.96,
+        "start_formatted": "24:52",
+        "text": "control of the composition of everything"
+      },
+      {
+        "start": 1494.4,
+        "duration": 4.72,
+        "start_formatted": "24:54",
+        "text": "is just a a better than Z image or flex"
+      },
+      {
+        "start": 1497.28,
+        "duration": 3.84,
+        "start_formatted": "24:57",
+        "text": "client. Although, this bounding box"
+      },
+      {
+        "start": 1499.12,
+        "duration": 4.0,
+        "start_formatted": "24:59",
+        "text": "feature does take some time to get used"
+      },
+      {
+        "start": 1501.12,
+        "duration": 4.24,
+        "start_formatted": "25:01",
+        "text": "to. All right, here's our result. Now,"
+      },
+      {
+        "start": 1503.12,
+        "duration": 4.64,
+        "start_formatted": "25:03",
+        "text": "if we don't like the position of certain"
+      },
+      {
+        "start": 1505.36,
+        "duration": 5.16,
+        "start_formatted": "25:05",
+        "text": "things, we can actually kind of edit"
+      },
+      {
+        "start": 1507.76,
+        "duration": 5.52,
+        "start_formatted": "25:07",
+        "text": "this further. So, that's what this node"
+      },
+      {
+        "start": 1510.52,
+        "duration": 5.0,
+        "start_formatted": "25:10",
+        "text": "down here is for. Note that this image"
+      },
+      {
+        "start": 1513.28,
+        "duration": 4.88,
+        "start_formatted": "25:13",
+        "text": "with all these bounding boxes and with"
+      },
+      {
+        "start": 1515.52,
+        "duration": 5.8,
+        "start_formatted": "25:15",
+        "text": "all these settings basically has a seed"
+      },
+      {
+        "start": 1518.16,
+        "duration": 5.16,
+        "start_formatted": "25:18",
+        "text": "or a unique ID of this number. If you"
+      },
+      {
+        "start": 1521.32,
+        "duration": 3.92,
+        "start_formatted": "25:21",
+        "text": "use a different number, even if you keep"
+      },
+      {
+        "start": 1523.32,
+        "duration": 4.28,
+        "start_formatted": "25:23",
+        "text": "the same settings over here, it's going"
+      },
+      {
+        "start": 1525.24,
+        "duration": 5.12,
+        "start_formatted": "25:25",
+        "text": "to generate a slightly different image."
+      },
+      {
+        "start": 1527.6,
+        "duration": 5.64,
+        "start_formatted": "25:27",
+        "text": "Now, by default, this seed number is"
+      },
+      {
+        "start": 1530.36,
+        "duration": 4.36,
+        "start_formatted": "25:30",
+        "text": "fixed. So, if we press run again without"
+      },
+      {
+        "start": 1533.24,
+        "duration": 3.6,
+        "start_formatted": "25:33",
+        "text": "changing the settings, it's going to"
+      },
+      {
+        "start": 1534.72,
+        "duration": 3.84,
+        "start_formatted": "25:34",
+        "text": "generate the exact same image. Now, the"
+      },
+      {
+        "start": 1536.84,
+        "duration": 4.44,
+        "start_formatted": "25:36",
+        "text": "reason why we want to keep the seed"
+      },
+      {
+        "start": 1538.56,
+        "duration": 4.76,
+        "start_formatted": "25:38",
+        "text": "fixed in this case is if we want to keep"
+      },
+      {
+        "start": 1541.28,
+        "duration": 4.28,
+        "start_formatted": "25:41",
+        "text": "roughly the same style, but just edit or"
+      },
+      {
+        "start": 1543.32,
+        "duration": 4.52,
+        "start_formatted": "25:43",
+        "text": "reposition certain stuff. So, let's say"
+      },
+      {
+        "start": 1545.56,
+        "duration": 5.0,
+        "start_formatted": "25:45",
+        "text": "I want to make the text here smaller."
+      },
+      {
+        "start": 1547.84,
+        "duration": 5.96,
+        "start_formatted": "25:47",
+        "text": "Well, what I can do is over here, let's"
+      },
+      {
+        "start": 1550.56,
+        "duration": 5.16,
+        "start_formatted": "25:50",
+        "text": "press grab background to temporarily set"
+      },
+      {
+        "start": 1553.8,
+        "duration": 4.24,
+        "start_formatted": "25:53",
+        "text": "the canvas background using our"
+      },
+      {
+        "start": 1555.72,
+        "duration": 4.72,
+        "start_formatted": "25:55",
+        "text": "generated image. Now, this doesn't mean"
+      },
+      {
+        "start": 1558.04,
+        "duration": 5.16,
+        "start_formatted": "25:58",
+        "text": "that it's going to use this background"
+      },
+      {
+        "start": 1560.44,
+        "duration": 5.56,
+        "start_formatted": "26:00",
+        "text": "as a reference input. Ideogram currently"
+      },
+      {
+        "start": 1563.2,
+        "duration": 4.8,
+        "start_formatted": "26:03",
+        "text": "is purely text-to-image. So, you can't"
+      },
+      {
+        "start": 1566.0,
+        "duration": 4.76,
+        "start_formatted": "26:06",
+        "text": "input any image for it to use as a"
+      },
+      {
+        "start": 1568.0,
+        "duration": 5.68,
+        "start_formatted": "26:08",
+        "text": "reference. However, what this feature"
+      },
+      {
+        "start": 1570.76,
+        "duration": 4.8,
+        "start_formatted": "26:10",
+        "text": "allows you to do is basically reposition"
+      },
+      {
+        "start": 1573.68,
+        "duration": 4.32,
+        "start_formatted": "26:13",
+        "text": "certain elements, but still generate"
+      },
+      {
+        "start": 1575.56,
+        "duration": 4.84,
+        "start_formatted": "26:15",
+        "text": "roughly the same image because down here"
+      },
+      {
+        "start": 1578.0,
+        "duration": 4.88,
+        "start_formatted": "26:18",
+        "text": "we are using the same seed. So, for"
+      },
+      {
+        "start": 1580.4,
+        "duration": 5.12,
+        "start_formatted": "26:20",
+        "text": "example, let's say I want to make this"
+      },
+      {
+        "start": 1582.88,
+        "duration": 4.8,
+        "start_formatted": "26:22",
+        "text": "text smaller. Again, if I click just on"
+      },
+      {
+        "start": 1585.52,
+        "duration": 4.0,
+        "start_formatted": "26:25",
+        "text": "this, I might not be able to select this"
+      },
+      {
+        "start": 1587.68,
+        "duration": 3.76,
+        "start_formatted": "26:27",
+        "text": "text element which is hidden at the"
+      },
+      {
+        "start": 1589.52,
+        "duration": 3.92,
+        "start_formatted": "26:29",
+        "text": "back. So, what I need to do is hold down"
+      },
+      {
+        "start": 1591.44,
+        "duration": 4.44,
+        "start_formatted": "26:31",
+        "text": "alt and then click on this again to"
+      },
+      {
+        "start": 1593.44,
+        "duration": 5.36,
+        "start_formatted": "26:33",
+        "text": "select the text element. And this time,"
+      },
+      {
+        "start": 1595.88,
+        "duration": 5.88,
+        "start_formatted": "26:35",
+        "text": "let's like shrink this down here, and"
+      },
+      {
+        "start": 1598.8,
+        "duration": 5.88,
+        "start_formatted": "26:38",
+        "text": "then let me also shrink these ones to"
+      },
+      {
+        "start": 1601.76,
+        "duration": 4.4,
+        "start_formatted": "26:41",
+        "text": "make them smaller, and also this one."
+      },
+      {
+        "start": 1604.68,
+        "duration": 3.64,
+        "start_formatted": "26:44",
+        "text": "And that's pretty much it. If I press"
+      },
+      {
+        "start": 1606.16,
+        "duration": 4.2,
+        "start_formatted": "26:46",
+        "text": "run again, it should generate a very"
+      },
+      {
+        "start": 1608.32,
+        "duration": 4.4,
+        "start_formatted": "26:48",
+        "text": "similar image, but just with the text"
+      },
+      {
+        "start": 1610.36,
+        "duration": 4.6,
+        "start_formatted": "26:50",
+        "text": "repositioned. All right, and here's our"
+      },
+      {
+        "start": 1612.72,
+        "duration": 4.4,
+        "start_formatted": "26:52",
+        "text": "results. Notice that it's not exactly"
+      },
+      {
+        "start": 1614.96,
+        "duration": 4.04,
+        "start_formatted": "26:54",
+        "text": "like the previous image because this is"
+      },
+      {
+        "start": 1617.12,
+        "duration": 4.12,
+        "start_formatted": "26:57",
+        "text": "just text to image. It doesn't take the"
+      },
+      {
+        "start": 1619.0,
+        "duration": 3.44,
+        "start_formatted": "26:59",
+        "text": "previous image as a reference. Now, if"
+      },
+      {
+        "start": 1621.24,
+        "duration": 2.76,
+        "start_formatted": "27:01",
+        "text": "you want to keep the exact same"
+      },
+      {
+        "start": 1622.44,
+        "duration": 3.68,
+        "start_formatted": "27:02",
+        "text": "settings, but generate a slightly"
+      },
+      {
+        "start": 1624.0,
+        "duration": 3.88,
+        "start_formatted": "27:04",
+        "text": "different image, then that is where you"
+      },
+      {
+        "start": 1626.12,
+        "duration": 3.68,
+        "start_formatted": "27:06",
+        "text": "can change the seed. So, what I like to"
+      },
+      {
+        "start": 1627.88,
+        "duration": 3.84,
+        "start_formatted": "27:07",
+        "text": "do is just click on new fixed random to"
+      },
+      {
+        "start": 1629.8,
+        "duration": 3.76,
+        "start_formatted": "27:09",
+        "text": "randomly shuffle this to a new seed, and"
+      },
+      {
+        "start": 1631.72,
+        "duration": 3.96,
+        "start_formatted": "27:11",
+        "text": "then press run again, and it should"
+      },
+      {
+        "start": 1633.56,
+        "duration": 3.84,
+        "start_formatted": "27:13",
+        "text": "generate a slightly different image. All"
+      },
+      {
+        "start": 1635.68,
+        "duration": 4.04,
+        "start_formatted": "27:15",
+        "text": "right, so here's a slightly different"
+      },
+      {
+        "start": 1637.4,
+        "duration": 4.72,
+        "start_formatted": "27:17",
+        "text": "variation. So, those are all the basic"
+      },
+      {
+        "start": 1639.72,
+        "duration": 4.8,
+        "start_formatted": "27:19",
+        "text": "settings. So, just to recap, you can set"
+      },
+      {
+        "start": 1642.12,
+        "duration": 4.28,
+        "start_formatted": "27:22",
+        "text": "the aspect ratio and the size of your"
+      },
+      {
+        "start": 1644.52,
+        "duration": 3.52,
+        "start_formatted": "27:24",
+        "text": "image over here. Here's where you can"
+      },
+      {
+        "start": 1646.4,
+        "duration": 3.24,
+        "start_formatted": "27:26",
+        "text": "fill in a ton of different settings like"
+      },
+      {
+        "start": 1648.04,
+        "duration": 3.2,
+        "start_formatted": "27:28",
+        "text": "high-level description, as well as the"
+      },
+      {
+        "start": 1649.64,
+        "duration": 3.56,
+        "start_formatted": "27:29",
+        "text": "background, as well as these different"
+      },
+      {
+        "start": 1651.24,
+        "duration": 4.2,
+        "start_formatted": "27:31",
+        "text": "settings. And then for here, you can"
+      },
+      {
+        "start": 1653.2,
+        "duration": 4.48,
+        "start_formatted": "27:33",
+        "text": "drag any elements onto here, and then"
+      },
+      {
+        "start": 1655.44,
+        "duration": 4.12,
+        "start_formatted": "27:35",
+        "text": "press Ctrl D to duplicate elements. You"
+      },
+      {
+        "start": 1657.68,
+        "duration": 4.12,
+        "start_formatted": "27:37",
+        "text": "can also click on each element, and then"
+      },
+      {
+        "start": 1659.56,
+        "duration": 4.08,
+        "start_formatted": "27:39",
+        "text": "set some reference colors over here. And"
+      },
+      {
+        "start": 1661.8,
+        "duration": 3.0,
+        "start_formatted": "27:41",
+        "text": "to delete a color, simply right-click on"
+      },
+      {
+        "start": 1663.64,
+        "duration": 3.12,
+        "start_formatted": "27:43",
+        "text": "it. And if you want to generate a"
+      },
+      {
+        "start": 1664.8,
+        "duration": 3.72,
+        "start_formatted": "27:44",
+        "text": "slightly different image while keeping"
+      },
+      {
+        "start": 1666.76,
+        "duration": 4.52,
+        "start_formatted": "27:46",
+        "text": "all these settings the same, then down"
+      },
+      {
+        "start": 1668.52,
+        "duration": 5.52,
+        "start_formatted": "27:48",
+        "text": "here, simply click on new fixed random"
+      },
+      {
+        "start": 1671.28,
+        "duration": 4.84,
+        "start_formatted": "27:51",
+        "text": "or click on randomize each time to set"
+      },
+      {
+        "start": 1674.04,
+        "duration": 3.12,
+        "start_formatted": "27:54",
+        "text": "the seed to a random value every time."
+      },
+      {
+        "start": 1676.12,
+        "duration": 2.72,
+        "start_formatted": "27:56",
+        "text": "And then there's one more setting I"
+      },
+      {
+        "start": 1677.16,
+        "duration": 3.36,
+        "start_formatted": "27:57",
+        "text": "forgot to mention, which is the batch"
+      },
+      {
+        "start": 1678.84,
+        "duration": 3.4,
+        "start_formatted": "27:58",
+        "text": "size. So, this is how many images you"
+      },
+      {
+        "start": 1680.52,
+        "duration": 3.64,
+        "start_formatted": "28:00",
+        "text": "want to generate at once. Right now,"
+      },
+      {
+        "start": 1682.24,
+        "duration": 4.24,
+        "start_formatted": "28:02",
+        "text": "it's just set to one image, but you can"
+      },
+      {
+        "start": 1684.16,
+        "duration": 4.4,
+        "start_formatted": "28:04",
+        "text": "set this to like two or four if you want"
+      },
+      {
+        "start": 1686.48,
+        "duration": 5.04,
+        "start_formatted": "28:06",
+        "text": "to generate four images at once. So,"
+      },
+      {
+        "start": 1688.56,
+        "duration": 5.32,
+        "start_formatted": "28:08",
+        "text": "that sums up how you can use Ideogram V4"
+      },
+      {
+        "start": 1691.52,
+        "duration": 4.44,
+        "start_formatted": "28:11",
+        "text": "in ComfyUI. This bounding box setting"
+      },
+      {
+        "start": 1693.88,
+        "duration": 3.6,
+        "start_formatted": "28:13",
+        "text": "does take some time to get used to. It's"
+      },
+      {
+        "start": 1695.96,
+        "duration": 3.28,
+        "start_formatted": "28:15",
+        "text": "definitely a lot more work than just"
+      },
+      {
+        "start": 1697.48,
+        "duration": 4.04,
+        "start_formatted": "28:17",
+        "text": "typing in a text prompt, but it gives"
+      },
+      {
+        "start": 1699.24,
+        "duration": 3.52,
+        "start_formatted": "28:19",
+        "text": "you a lot more control. And once you get"
+      },
+      {
+        "start": 1701.52,
+        "duration": 3.36,
+        "start_formatted": "28:21",
+        "text": "the hang of it, this is actually a"
+      },
+      {
+        "start": 1702.76,
+        "duration": 4.28,
+        "start_formatted": "28:22",
+        "text": "really powerful feature. In terms of"
+      },
+      {
+        "start": 1704.88,
+        "duration": 4.32,
+        "start_formatted": "28:24",
+        "text": "aesthetics, prompt adherence, world"
+      },
+      {
+        "start": 1707.04,
+        "duration": 5.04,
+        "start_formatted": "28:27",
+        "text": "understanding, this is definitely a lot"
+      },
+      {
+        "start": 1709.2,
+        "duration": 4.84,
+        "start_formatted": "28:29",
+        "text": "more powerful than Z image or Flex Kline"
+      },
+      {
+        "start": 1712.08,
+        "duration": 4.84,
+        "start_formatted": "28:32",
+        "text": "or even Quinn image. I'd have to say"
+      },
+      {
+        "start": 1714.04,
+        "duration": 5.0,
+        "start_formatted": "28:34",
+        "text": "this is the best open-source model you"
+      },
+      {
+        "start": 1716.92,
+        "duration": 3.68,
+        "start_formatted": "28:36",
+        "text": "can use right now. So, definitely give"
+      },
+      {
+        "start": 1719.04,
+        "duration": 3.04,
+        "start_formatted": "28:39",
+        "text": "it a try. Now, final thing I want to"
+      },
+      {
+        "start": 1720.6,
+        "duration": 4.12,
+        "start_formatted": "28:40",
+        "text": "mention, and what some of you might be"
+      },
+      {
+        "start": 1722.08,
+        "duration": 4.36,
+        "start_formatted": "28:42",
+        "text": "concerned about, is that Ideogram 4 does"
+      },
+      {
+        "start": 1724.72,
+        "duration": 3.6,
+        "start_formatted": "28:44",
+        "text": "have a non-commercial license. So, you"
+      },
+      {
+        "start": 1726.44,
+        "duration": 3.68,
+        "start_formatted": "28:46",
+        "text": "can run this offline and do whatever you"
+      },
+      {
+        "start": 1728.32,
+        "duration": 3.84,
+        "start_formatted": "28:48",
+        "text": "want with it as long as you don't profit"
+      },
+      {
+        "start": 1730.12,
+        "duration": 4.0,
+        "start_formatted": "28:50",
+        "text": "from this commercially. Now, if you do"
+      },
+      {
+        "start": 1732.16,
+        "duration": 4.12,
+        "start_formatted": "28:52",
+        "text": "legally want to use this for commercial"
+      },
+      {
+        "start": 1734.12,
+        "duration": 4.56,
+        "start_formatted": "28:54",
+        "text": "purposes, then you do need to contact"
+      },
+      {
+        "start": 1736.28,
+        "duration": 4.2,
+        "start_formatted": "28:56",
+        "text": "their sales. So, that's one downside of"
+      },
+      {
+        "start": 1738.68,
+        "duration": 3.76,
+        "start_formatted": "28:58",
+        "text": "using this model. But, if you're just"
+      },
+      {
+        "start": 1740.48,
+        "duration": 3.92,
+        "start_formatted": "29:00",
+        "text": "creating images for gooning, I mean,"
+      },
+      {
+        "start": 1742.44,
+        "duration": 4.32,
+        "start_formatted": "29:02",
+        "text": "personal use, then this doesn't really"
+      },
+      {
+        "start": 1744.4,
+        "duration": 5.6,
+        "start_formatted": "29:04",
+        "text": "matter to you. Anyway, that sums up my"
+      },
+      {
+        "start": 1746.76,
+        "duration": 4.72,
+        "start_formatted": "29:06",
+        "text": "tutorial on Ideogram V4. If you run into"
+      },
+      {
+        "start": 1750.0,
+        "duration": 3.56,
+        "start_formatted": "29:10",
+        "text": "any errors during the installation,"
+      },
+      {
+        "start": 1751.48,
+        "duration": 3.68,
+        "start_formatted": "29:11",
+        "text": "welcome to copy and paste the exact"
+      },
+      {
+        "start": 1753.56,
+        "duration": 3.76,
+        "start_formatted": "29:13",
+        "text": "error message in the description below"
+      },
+      {
+        "start": 1755.16,
+        "duration": 4.8,
+        "start_formatted": "29:15",
+        "text": "and I'll try to help you troubleshoot as"
+      },
+      {
+        "start": 1757.32,
+        "duration": 5.36,
+        "start_formatted": "29:17",
+        "text": "much as possible. As always, I will be"
+      },
+      {
+        "start": 1759.96,
+        "duration": 4.6,
+        "start_formatted": "29:19",
+        "text": "on the lookout for the top AI news and"
+      },
+      {
+        "start": 1762.68,
+        "duration": 3.8,
+        "start_formatted": "29:22",
+        "text": "tools to share with you. So, if you"
+      },
+      {
+        "start": 1764.56,
+        "duration": 4.04,
+        "start_formatted": "29:24",
+        "text": "enjoyed this video, remember to like,"
+      },
+      {
+        "start": 1766.48,
+        "duration": 4.76,
+        "start_formatted": "29:26",
+        "text": "share, subscribe, and stay tuned for"
+      },
+      {
+        "start": 1768.6,
+        "duration": 4.52,
+        "start_formatted": "29:28",
+        "text": "more content. Also, there's just so much"
+      },
+      {
+        "start": 1771.24,
+        "duration": 4.28,
+        "start_formatted": "29:31",
+        "text": "happening in the world of AI every week."
+      },
+      {
+        "start": 1773.12,
+        "duration": 4.76,
+        "start_formatted": "29:33",
+        "text": "I can't possibly cover everything on my"
+      },
+      {
+        "start": 1775.52,
+        "duration": 5.12,
+        "start_formatted": "29:35",
+        "text": "YouTube channel. So, to really stay up"
+      },
+      {
+        "start": 1777.88,
+        "duration": 5.32,
+        "start_formatted": "29:37",
+        "text": "to date with all that's going on in AI,"
+      },
+      {
+        "start": 1780.64,
+        "duration": 4.36,
+        "start_formatted": "29:40",
+        "text": "be sure to subscribe to my free weekly"
+      },
+      {
+        "start": 1783.2,
+        "duration": 3.48,
+        "start_formatted": "29:43",
+        "text": "newsletter. The link to that will be in"
+      },
+      {
+        "start": 1785.0,
+        "duration": 3.72,
+        "start_formatted": "29:45",
+        "text": "the description below. Thanks for"
+      },
+      {
+        "start": 1786.68,
+        "duration": 4.36,
+        "start_formatted": "29:46",
+        "text": "watching, and I'll see you in the next"
+      },
+      {
+        "start": 1788.72,
+        "duration": 2.32,
+        "start_formatted": "29:48",
+        "text": "one."
+      }
+    ],
+    "full_text": "This is now the best open-source image generator you can use. It's called Ideogram 4, and this has incredible quality and prompt adherence and world understanding. But, it works really differently from the other top models you may be familiar with. In fact, the funny thing is, I almost gave up on this the first time I tried it. But, I gave it a second chance, and after doing a few tweaks, after playing around with it a bit more, I found that it's incredibly powerful and extremely underrated. So, in this video, I'm going to go over all the incredible things you can do with it and how to use it properly. Plus, I'm going to show you how to install this on your computer so you can run it for free and unlimited times offline. Let's jump right in with all the amazing things it can do. First of all, this has so much knowledge jam-packed into it. For example, I can prompt it to generate all these video game characters like Mario, Link, Zelda, Donkey Kong, Pikachu, all the way to like Sephiroth and Chun-Li. And as you can see, it's able to generate all these characters very well. Note that this is just text-to-image, but it just has an inherent understanding of what all these characters look like. Or here's another example where we can generate a group photo of all these characters. And indeed, most of them do look correct, including Stitch and Doctor Strange, even the Black Panther, although it did turn Mulan into a man. It's also great at text rendering. So, here's one of my classic prompts, and as you can see, Ideogram was able to get all the text correct. In fact, it understands a ton of different typography and font styles. And you can precisely control all of this in your prompt. It's also great with prompt adherence. So, here's my classic prompt with a ballerina dancing in a sunlit studio with mirrored walls scattered with pointe shoes and sheet music. A rabbit watches atop a grand piano. Outside, there's an elephant that balances on a circus ball, and Ideogram is able to generate this perfectly. Now, there's a trick on how to generate this, which we'll talk about in a second. Here are some additional examples where it just generates much better photos while also understanding all the elements in my prompt. Here are some additional tricky examples for your reference. So, here we have a middle-aged artist using their hands to copy an image from a computer screen, but the whole thing is recursive. Or here's another example where we have a man looking into the mirror, but his reflection is a smeary data mash mess of colors and pixels while everything else remains clear and sharp. Ideogram is able to understand this very well. Or here's an example of generating Among Us. So, here I specified what should be in each panel of the manga page including the dialogue. And as you can see, Ideogram is able to handle this very well. Notice that this is just text to image, but it's able to understand all these anime characters. Note that we're not really comparing apples to apples here because what I think is the coolest feature and what makes this different from all the previous image models like Z image or Ernie is that you can drag bounding boxes across the canvas to determine where everything is in the image. I'll go over how to install this workflow later in the video so you can run it for free offline on your computer. But first, let me just show you a few cool examples. Let's say I want to create a poster for a music festival. Well, instead of just randomly pressing generate and hoping it turns out well, you can actually control how things are laid out on the poster. For example, we can set the title over here and then down here we can even determine the text and the look of this. So, for example, let's set it to midsummer music fest and let's set this to cursive, bold, and grunge. And then we can even select the colors. So, let's set this to something like bright orange like this. Next, I'm going to set a tagline here and it's going to be folk funk forest and let's make this italics in smaller font. And then next, I'm going to drag a cat girl cosplayer playing electric guitar and it's going to be a mid shot of her. Then afterwards, let me paste in some additional text here. It's going to be June 20th at this location and it's going to be a long strip with a black background, white text. And then let me add some additional text here. I'm also going to add a button down here. And then, for this one, let's set the color to dark red like this. And then, finally, I'm also going to drag another huge box behind everything. And this is going to be the background. And let's set this to something like a silhouette of forest trees layered. All right. Afterwards, let's also set the art style to something like watercolor. And then, let's set this to kind of anime painting. And let's press run and see what we get. All right. So, here's our result. Notice that it follows everything that is specified in the layout, including, you know, the font and the text color, this anime girl, and the background of forest trees in watercolor style, plus all the text. Next, here's another really cool example of how much control you can have for your image. So, for example, let's have a photo of a woman in the living room. For the style, let's set it to photo. I'm going to set this to realistic amateur casual. I'm going to get rid of all these settings. And then, again, let's draw where everything should be on the canvas. So, I'm going to draw a woman over here. And it's going to be a beautiful woman wearing a white bikini sitting on the sofa. Now, here's where we can control this even further. For example, let me drag a box over here. And I can write her hand holding a can of Coke. And then, I can drag another box, let's say, over here. And then, have her hand doing a peace sign. Next, I can even drag another box here and have her right foot lifted up. And let's put this somewhere over here. And then, let's get her to sit on a sofa. So, I'm going to drag this huge box across here. And then, let's write gray sofa. Actually, let's set this a bit higher and then over here. And then, since we have some room, let's also add a coffee table over here with some houseplants on the top. And then, I'm also going to drag a box over here and write a cat sleeps underneath the table. Now, there's some room over here. So, let's add a window with a man riding a T-Rex outside. Then finally, there's also some room over here, so let me add a final element, and let's add a poster of a Naruto movie on the wall. Let's press run and see what that gives us. All right, here's our result. How awesome is that? As you can see, this matches what I specified in the canvas perfectly. This is not censored at all. In fact, what I can do is overlay that image back onto the canvas, so you can see all these different elements. So indeed, we have a Naruto poster, we have a woman wearing a bikini with her hand holding Coke here, her hand doing a peace sign here, her right foot lifted over here, plus a gray sofa, coffee table with a cat sleeping underneath it, plus a dude riding a T-Rex outside. This gives you phenomenal control. Or here's another example. Let's say you want to create a manga from this. Well, I just need to change all these settings to a black and white manga page, and let's set this to be a high tension confrontation between two characters. I set the composition of each panel, so the first panel should be a wide dramatic bird's-eye view of a rain-drenched rooftop at night with the two figures standing a few paces apart. And then I also added some onomatopoeia sound effects like this, plus a speech bubble over here. And then for the second panel, I told it to focus on one character called Kenji from the waist up, and then it should show a speech bubble with him saying this. And then for the third panel, it's going to be a sharp close-up of the other character's face, and he's going to have this speech bubble. And then finally, at the bottom it's going to be a close-up of these two characters clashing blades intense fight, and it's going to have this ching SFX. So let's press run and see what that gives us. All right, here's what we get. So indeed, it follows everything I specified correctly, including the sound effects, plus the speech bubbles. This is really good. And again, if I just overlay the background on top of this, then everything matches where I placed my bounding boxes. So, those are just a few really cool examples of what you can do with this. As you can see, this is very different from other image models. With this canvas and bounding box feature, this gives you ultimate control over how you want things to be in the image, including micro features like hands and feet, faces, and poses. And the quality and prompt adherence of this is just absolutely wild. After playing around with this for a bit, I can confidently say the quality is better than Flux Klein or Z image. All right, next let's go over how to install this. So, we are going to use this platform called ComfyUI to run Ideogram. If you're not familiar with ComfyUI, this is the most popular platform for running open-source image and video generators offline. In fact, if you're not familiar with ComfyUI, definitely see this video first where I do a full installation tutorial of it. The nice thing about ComfyUI and why we use it is because it has automatic CPU offloading. So, even if you don't VRAM on your GPU to load all the models, this can just automatically offload it to any existing RAM you might have. So, this allows you to run much larger models than would normally fit. So, even though Ideogram is quite large at 9 GB in size per model, people were able to successfully run this with as low as just 6 GB of VRAM. So, this is very accessible. Now, there are many different ways you can run Ideogram on ComfyUI. One way is if you click on templates and you search for Ideogram, you should see this V4 text-to-image workflow. So, if you click on it, it looks like this. Now, you could run it through this way, but it's very error-prone. You'll need to format the prompt in this JSON format like this, and if you make any subtle mistake, it's going to mess up your generation. So, instead, I'm going to show you this workflow instead, which I highly recommend over the original workflow. Here, it includes this KJ Prompt Builder node, which allows you to drag these bounding boxes across your canvas, which gives you a lot more control and you don't have to work with such awful JSON code. So, I'm going to link to this workflow file in the description below. Simply click on file and then click download, and you can save this wherever you want. I'm just going to save it in my root ComfyUI folder. Afterwards, simply drag and drop your workflow onto your interface and you should see something like this. If you want to turn your AI agent into a full-on creative production machine, definitely check out Higgsfield, the sponsor of this video. They just launched Higgsfield MCP. Think of this as like the missing link between AI agents and actual media creation. With this, your agent, like Claude or Open Claw, can now generate, edit, and ship real creative assets like videos, images, and ads directly from one prompt. So, instead of asking Claude to plan a campaign, then manually jumping to a separate video tool, image tool, and website builder, Higgsfield MCP lets Claude, Open Claw, or Hermes agent run the whole pipeline end-to-end. For example, you can describe a product and your agent can research the audience, write the marketing angles, and then use Higgsfield to create images or videos using the best models out there, including GPT Image 2 and Seed Dance 2.0. One prompt sets the entire system in motion. And for anyone running faceless channels or short-form content, this is where things get really interesting. Your agent can monitor what's trending, map those formats to your niche, and then use Higgsfield MCP to generate production-ready videos at scale. Setup is also super simple. For Claude, you just go to settings and then connectors, and then paste in this Higgsfield custom connector. For Open Claw or Hermes, you just point your agent config to the same endpoint. One connector and suddenly your agent has access to an entire creative production stack. So, whether you're making ads, faceless videos, product launches, influencer content, or marketing campaigns, Higgsfield MCP basically turns your AI agent into a full content engine end-to-end. Try it today using the link in the description below. First of all, you're going to see some missing models on this left side, which will proceed to install in a second. Plus, you'll also see some missing nodes like this Ideogram Prompt Builder. Now, to install these missing nodes, you need to install this ComfyUI Manager, which will help you detect and install missing nodes. Now, in case you don't have this ComfyUI Manager installed, here's a refresher on how you can install the latest version. So, I'll link to this page in the description below. Notice that I'm using the Windows portable version, which is the recommended version. So, within my root folder, what I need to do is click at the top and then type in CMD to open this folder up in command prompt. And then afterwards, I just need to paste in this line. So, let me copy this and paste it in here. So, this is going to proceed to install ComfyUI Manager, as you can see here. And then afterwards, we also need to paste in this tag to actually enable the manager when we launch ComfyUI. So, back to my run.bat file, let me just open this in any text editor like Notepad. And then in this line here, we're going to make sure that you have --enable-manager so that it'll actually load up ComfyUI Manager when you start it. So, afterwards, let's press Ctrl S to save this and then let's run ComfyUI again. After you start up ComfyUI, you should see this button over here, which is the manager. Let's click on this. And then on this left sidebar down here in missing nodes, if you click on this, you should see several missing nodes, which you need to install. So, let's click install for all of these. All right, and then afterwards, it should say to apply these changes, please restart ComfyUI. So, let's press apply changes and wait for this to restart. Now, after restarting and installing those missing nodes, you should see that most of the nodes are now available. But, if you still see that this prompt builder KJ node is missing, then you'll need to manually install this node. And, here's how to do so. So, I'll link to this GitHub repo in the description below. Here, it contains the installation instructions. So, first of all, you do need to use Git to clone this repo into your custom nodes folder. So, what I'm going to do is click into ComfyUI, and then custom nodes, and then afterwards, at the top, I'm going to type CMD to open this up in command prompt. And here, I just need to get clone this repository. So, I can click on this green button, and then click copy here, and then paste the link back in here. So, now it'll proceed to clone this repo into my custom nodes folder. Afterwards, you should see this message, which means it has successfully cloned this repo. And by the way, if you've already installed this KJ nodes previously, then to update it, what you need to do is double-click into your KJ nodes folder, and then at the top here, type in CMD. Make sure you're within this KJ nodes folder. And then to update it, simply type get pull, and it should update to the latest version. Afterwards, let's exit out of this, and let me restart ComfyUI from scratch. All right, after restarting ComfyUI, you should see the missing error from this KJ node go away. And to make sure you do have this KJ node, you should see a canvas like this at the bottom, where you can drag and drop different bounding boxes. So, the next step is we need to install all these missing models. So, I'm going to link to this page in the description below. Simply click on files and versions, and then in diffusion models. Note that there are two different models that you need to download. You need to download one of the main Ideogram four models, and then you also need to download one of the unconditional models. Now, for each of these, they have an FP8 version, or if If GPU supports it, you can also go for a more compressed NVFP4 version. Note that you do need to have both the main model and the unconditional model for this to work. For me, I'm going to go with the FP8 version. So, I'm going to click on this first one. Over here, I'm going to click download, and this goes in ComfyUI, in models, and then in diffusion models. Let's click save. Note that this is 9.28 GB in size, but again, because ComfyUI is really good at offloading stuff, as long as you have enough RAM, not VRAM, you could potentially run the entire workflow with as low as just 6 GB of VRAM. Now, after downloading that, I'm also going to download this unconditional one, so let's click on this, and this also goes in ComfyUI, in models, and then diffusion models. Let's click save. All right, afterwards, back to our workflow, simply press the key R to refresh your model list, and then at the drop-down for the first one, let's select this unconditional model, which I just downloaded, and then for the second one, let's select the main model, which I just downloaded, and you should see the red outlines go away. All right, afterwards, we need to download this clip text encoder called Quin 3 VLHB. So, again, going back to this page, which I'll link to in the description below, click on files and versions, and then in text encoders. And again, there's going to be an FP8 version, which is 10.6 GB in size, or a more compressed NVFP4 version, which is 6.3. So, depending on which GPU you have, you can download either one of these. I'm going to choose this FP8 one, so let's press download, and this goes in ComfyUI, in models, and then in text encoders. Let's click save. All right, afterwards, press R to refresh your model list again, and then in this drop-down, I'm going to select this Quin 3 VLHB, which I just downloaded. And then, the final model that we need to load is the Flux 2 VAE. So, again, going back to this page, in files and versions in VAE, you just need to download this flux to VAE, which is 336 megabytes in size. Let's press download and this goes in comfy UI in models and then in VAE. Afterwards, let's press R to refresh the model list again and then in this drop down, we can select this flux to VAE. So finally, after doing all those steps, you should have no more errors. We have all the models plus all the nodes required to run this. We can now proceed to start generating images. So let's go over this workflow. Let's start here. So this node is where you set the aspect ratio as well as how large you want the image to be. So here's where you would select the megapixels and then Ideogram is able to support all these different aspect ratios including super vertical like 9 to 32 and super wide 32 to 9. So this makes it incredibly versatile. So for me, let's just go with 3 to 4 and then next, we will move on to this node, Ideogram prompt builder to type in what we want the image to be. So for example, let's try something like two women in bikinis riding an ostrich in the desert. And then here's where we can also specify the background. So we can put something like desert and then sunset. And then for style, we can choose either none or photo or art style. And then we can also specify additional parameters for all these different categories. So for example, for photo, we can specify things like macro or Polaroid, drone or aerial photo, street photography, portrait photography, vintage photography, etc. And then for aesthetics, we can specify stuff like minimalist, cyberpunk, cinematic, dark, etc. It's also okay to just leave these blank. And then for lighting, well, this can be like warm or cool, sunrise, sunset, harsh flash, golden hour, etc. And then for medium, it can be parameters like oil painting, canvas, realistic photo, watercolor, collage, poster, etc. Now, if I click run right away, it's going to proceed to generate the image based on what I input over here, but what you're going to see in a second is that for most of the time it's not actually going to generate anything, but instead it's going to give me this, image blocked by safety filter. So, this is actually an image that was generated by Ideogram. So, that's pretty lame and that's why I initially gave up on this. However, this model is actually not censored. What you have to do instead of just inputting prompts here is you also need to draw bounding boxes over here to determine where each object should be in the image. So, let's draw these out really quickly. I'm going to drag a box over here and let me type something like a young beautiful blonde woman wearing a red bikini. So, let's place her over here and then let's add another woman. This time it's going to be, let's say, a beautiful woman with pink hair wearing a black bikini. And then afterwards we also need to place the ostrich somewhere, so let's place it over here and let's write an ostrich running. And that's pretty much it. Now, we can add more elements here if we want, but let's just keep it simple and add these three elements which correspond to what we have in our prompt over here. So, now if I press run again, it should now be able to generate the image. So, it has nothing to do with any safety filter, it's just because for our first iteration we haven't drawn any bounding boxes on this canvas. This is what you need to get used to is drawing these bounding boxes to generate the image. But once you get the hang of it, I assure you Ideogram is a super powerful image generator that can do a ton of stuff, including pretty spicy stuff like melons. So, here's our image. As you can see, we have these two women riding an ostrich in the desert at sunset. So, again, it's super important that you draw these bounding boxes on this canvas before you start generating the image. Now, there's more settings here that you need to be aware of. First of all, let's say you have a ton of overlapping elements and let's say if you click on this, it's first selecting this ostrich element. What if you want to select the elements at the back? Well, to do that, simply hold Alt and then click again and it should allow you to click on the underlying element. And if we want to click this one here, again just hold Alt and then click again and it should be able to allow you to select this one at the back. Another thing you can do is click on grab background, which would basically take this image and set it as the background. And then here's where we can adjust the opacity of this image. Now, this doesn't mean it's going to take this generation as an input reference, all right? Ideogram currently is only text to image, but this is a helpful feature if you don't like the current arrangement of these objects in the photo and you want to rearrange them somewhere else. So, you can look at your output photo as a reference and then reposition your objects somewhere else. Let's press clear all and also clear background and let me show you another example and this time instead of a photo, let's create a poster for some matcha drinks. So, for the high-level description, let's put a poster called matcha mayhem introducing three new matcha drinks. For the style, I'm going to put none. For aesthetics, let's put minimalist. For lighting, let's put smooth professional product photo. For medium, I'm going to put poster. And then for the background, let's put something like minimalist cafe setting. Next, let's proceed to draw this out. First, let's draw the title. So, at the bottom here, I'm going to select text instead of object. It's going to be matcha mayhem. And then for the description, this is usually where I paste in, you know, the font or typography of the text as well as the color. So, for here, I want it to be large, bold, blocky sans-serif text in deep green color. In fact, I can even select the color over here. So, for example, let's select a dark green like this. All right, next let's also add a subheading and then down here again, I'm going to select text and here the text is going to be this and the font should be this. Next, let me add three drinks. So, I'm going to add the first glass of matcha over here. Let's just set this to a glass of matcha with milk at the bottom. Now, what I can do is just click on this element and then press Ctrl D to duplicate it. So, I'm going to drag this over to the left and then over here instead of milk, let's put purple ube milk at the bottom and then again, I'm going to click on this and then press Ctrl D to duplicate it again and then let's put it over here. This time instead of purple ube milk, let's put pink strawberry milk. And then what I'm going to do is actually at the top here, I'm going to add a Starbucks logo. So, let me double click on it and then type Starbucks logo. Also down here, let me add labels for each one of these. So, here let's set this to text and then I'm going to write ube matcha and this is also going to be large bold blocky sans serif text in a deep green color. So, let me set this over here and then I'm going to press Ctrl D to duplicate it and then I'm going to set the label for this one. This one is just going to be matcha latte and then let me duplicate it again to add the label over here. This time let's set it to strawberry matcha. All right, that's about it. Now, next let's press run and then I'll talk about some other settings and how to edit this further in a second. Now, note that this is quite slow compared to Z image and flux client which at least for me, I can generate an image in like less than 10 seconds. For Ideogram V4, it does take roughly a minute to generate one image. But the quality of this and the prompt adherence as well as the control of the composition of everything is just a a better than Z image or flex client. Although, this bounding box feature does take some time to get used to. All right, here's our result. Now, if we don't like the position of certain things, we can actually kind of edit this further. So, that's what this node down here is for. Note that this image with all these bounding boxes and with all these settings basically has a seed or a unique ID of this number. If you use a different number, even if you keep the same settings over here, it's going to generate a slightly different image. Now, by default, this seed number is fixed. So, if we press run again without changing the settings, it's going to generate the exact same image. Now, the reason why we want to keep the seed fixed in this case is if we want to keep roughly the same style, but just edit or reposition certain stuff. So, let's say I want to make the text here smaller. Well, what I can do is over here, let's press grab background to temporarily set the canvas background using our generated image. Now, this doesn't mean that it's going to use this background as a reference input. Ideogram currently is purely text-to-image. So, you can't input any image for it to use as a reference. However, what this feature allows you to do is basically reposition certain elements, but still generate roughly the same image because down here we are using the same seed. So, for example, let's say I want to make this text smaller. Again, if I click just on this, I might not be able to select this text element which is hidden at the back. So, what I need to do is hold down alt and then click on this again to select the text element. And this time, let's like shrink this down here, and then let me also shrink these ones to make them smaller, and also this one. And that's pretty much it. If I press run again, it should generate a very similar image, but just with the text repositioned. All right, and here's our results. Notice that it's not exactly like the previous image because this is just text to image. It doesn't take the previous image as a reference. Now, if you want to keep the exact same settings, but generate a slightly different image, then that is where you can change the seed. So, what I like to do is just click on new fixed random to randomly shuffle this to a new seed, and then press run again, and it should generate a slightly different image. All right, so here's a slightly different variation. So, those are all the basic settings. So, just to recap, you can set the aspect ratio and the size of your image over here. Here's where you can fill in a ton of different settings like high-level description, as well as the background, as well as these different settings. And then for here, you can drag any elements onto here, and then press Ctrl D to duplicate elements. You can also click on each element, and then set some reference colors over here. And to delete a color, simply right-click on it. And if you want to generate a slightly different image while keeping all these settings the same, then down here, simply click on new fixed random or click on randomize each time to set the seed to a random value every time. And then there's one more setting I forgot to mention, which is the batch size. So, this is how many images you want to generate at once. Right now, it's just set to one image, but you can set this to like two or four if you want to generate four images at once. So, that sums up how you can use Ideogram V4 in ComfyUI. This bounding box setting does take some time to get used to. It's definitely a lot more work than just typing in a text prompt, but it gives you a lot more control. And once you get the hang of it, this is actually a really powerful feature. In terms of aesthetics, prompt adherence, world understanding, this is definitely a lot more powerful than Z image or Flex Kline or even Quinn image. I'd have to say this is the best open-source model you can use right now. So, definitely give it a try. Now, final thing I want to mention, and what some of you might be concerned about, is that Ideogram 4 does have a non-commercial license. So, you can run this offline and do whatever you want with it as long as you don't profit from this commercially. Now, if you do legally want to use this for commercial purposes, then you do need to contact their sales. So, that's one downside of using this model. But, if you're just creating images for gooning, I mean, personal use, then this doesn't really matter to you. Anyway, that sums up my tutorial on Ideogram V4. If you run into any errors during the installation, welcome to copy and paste the exact error message in the description below and I'll try to help you troubleshoot as much as possible. As always, I will be on the lookout for the top AI news and tools to share with you. So, if you enjoyed this video, remember to like, share, subscribe, and stay tuned for more content. Also, there's just so much happening in the world of AI every week. I can't possibly cover everything on my YouTube channel. So, to really stay up to date with all that's going on in AI, be sure to subscribe to my free weekly newsletter. The link to that will be in the description below. Thanks for watching, and I'll see you in the next one.",
+    "word_count": 5826,
     "error": null
   }
 }

@@ -14,10 +14,4595 @@
     "video_id": "J02-39xtlt4",
     "has_transcript": true,
     "language": "en",
-    "is_generated": false,
-    "segments": [],
-    "full_text": "Google I/O AI updates. Gemini Omni, Gemini Spark, Gemini 3.5, TPU 8, Antigravity 2.0 #googleio #ai #ainews #aitools #agi \n\nThanks to our sponsor Hubspot. Access AEO Grader for free https://clickhubspot.com/887ba1 \n\nGemini Omni https://deepmind.google/models/gemini-omni/\nGemini 3.5 Flash https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5\nAntigravity 2.0 https://antigravity.google/\nAI Studio https://aistudio.google.com/\n\n0:00 Google IO\n0:27 Gemini Omni\n3:39 Gemini 3.5 Flash\n6:56 Antigravity 2.0\n8:36 Daily brief\n9:25 Hubspot AEO\n11:11 Gemini Spark\n12:13 New Google search\n13:04 Information agents\n13:47 Agentic search\n15:48 Personal intelligence\n16:32 AI workspace\n17:37 Docs live\n19:26 Google Pics\n20:30 AI inbox\n21:49 XR glasses\n24:11 TPU 8t 8i\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
-    "word_count": 0,
+    "is_generated": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "duration": 4.84,
+        "start_formatted": "00:00",
+        "text": "Google just held their biggest annual"
+      },
+      {
+        "start": 2.24,
+        "duration": 4.0,
+        "start_formatted": "00:02",
+        "text": "event with some huge AI announcements."
+      },
+      {
+        "start": 4.84,
+        "duration": 3.4,
+        "start_formatted": "00:04",
+        "text": "But here's the thing, it can be"
+      },
+      {
+        "start": 6.24,
+        "duration": 4.32,
+        "start_formatted": "00:06",
+        "text": "incredibly confusing. There's a ton of"
+      },
+      {
+        "start": 8.24,
+        "duration": 5.2,
+        "start_formatted": "00:08",
+        "text": "terms like Gemini Omni, Gemini 3.5"
+      },
+      {
+        "start": 10.56,
+        "duration": 5.04,
+        "start_formatted": "00:10",
+        "text": "Flash, Gemini Spark, Antigravity 2,"
+      },
+      {
+        "start": 13.44,
+        "duration": 4.88,
+        "start_formatted": "00:13",
+        "text": "Google Picks, and Google Flow, and so"
+      },
+      {
+        "start": 15.6,
+        "duration": 4.16,
+        "start_formatted": "00:15",
+        "text": "on. It can be very overwhelming. So, in"
+      },
+      {
+        "start": 18.32,
+        "duration": 3.6,
+        "start_formatted": "00:18",
+        "text": "this video, I'm going to break this down"
+      },
+      {
+        "start": 19.76,
+        "duration": 3.72,
+        "start_formatted": "00:19",
+        "text": "into simple terms and talk about all the"
+      },
+      {
+        "start": 21.92,
+        "duration": 4.16,
+        "start_formatted": "00:21",
+        "text": "major announcements that you need to"
+      },
+      {
+        "start": 23.48,
+        "duration": 4.6,
+        "start_formatted": "00:23",
+        "text": "know about. Let's jump right in. Thanks"
+      },
+      {
+        "start": 26.08,
+        "duration": 3.6,
+        "start_formatted": "00:26",
+        "text": "to HubSpot for sponsoring this video."
+      },
+      {
+        "start": 28.08,
+        "duration": 4.16,
+        "start_formatted": "00:28",
+        "text": "Now, one of their coolest announcements"
+      },
+      {
+        "start": 29.68,
+        "duration": 5.6,
+        "start_formatted": "00:29",
+        "text": "is this new model called Gemini Omni."
+      },
+      {
+        "start": 32.24,
+        "duration": 5.92,
+        "start_formatted": "00:32",
+        "text": "This is Google's new AI model for video"
+      },
+      {
+        "start": 35.28,
+        "duration": 4.88,
+        "start_formatted": "00:35",
+        "text": "and it's super flexible. Gemini Omni is"
+      },
+      {
+        "start": 38.16,
+        "duration": 5.08,
+        "start_formatted": "00:38",
+        "text": "multimodal, meaning it can take in a"
+      },
+      {
+        "start": 40.16,
+        "duration": 5.48,
+        "start_formatted": "00:40",
+        "text": "text prompt or an image or a video or"
+      },
+      {
+        "start": 43.24,
+        "duration": 4.12,
+        "start_formatted": "00:43",
+        "text": "audio or any combination of the above"
+      },
+      {
+        "start": 45.64,
+        "duration": 3.72,
+        "start_formatted": "00:45",
+        "text": "and create a video from that. For"
+      },
+      {
+        "start": 47.36,
+        "duration": 3.72,
+        "start_formatted": "00:47",
+        "text": "example, we can upload this original"
+      },
+      {
+        "start": 49.36,
+        "duration": 3.08,
+        "start_formatted": "00:49",
+        "text": "video and then for the prompt, we can"
+      },
+      {
+        "start": 51.08,
+        "duration": 3.12,
+        "start_formatted": "00:51",
+        "text": "write when the person touches the"
+      },
+      {
+        "start": 52.44,
+        "duration": 3.8,
+        "start_formatted": "00:52",
+        "text": "mirror, make the mirror ripple"
+      },
+      {
+        "start": 54.2,
+        "duration": 4.68,
+        "start_formatted": "00:54",
+        "text": "beautifully like liquid and the person's"
+      },
+      {
+        "start": 56.24,
+        "duration": 4.4,
+        "start_formatted": "00:56",
+        "text": "arms turn into reflective mirror"
+      },
+      {
+        "start": 58.88,
+        "duration": 3.72,
+        "start_formatted": "00:58",
+        "text": "material. Or instead, here's another"
+      },
+      {
+        "start": 60.64,
+        "duration": 4.4,
+        "start_formatted": "01:00",
+        "text": "example where we can turn this person"
+      },
+      {
+        "start": 62.6,
+        "duration": 3.8,
+        "start_formatted": "01:02",
+        "text": "into a monochrome line art drawing. Or"
+      },
+      {
+        "start": 65.04,
+        "duration": 3.48,
+        "start_formatted": "01:05",
+        "text": "here's another example where we can"
+      },
+      {
+        "start": 66.4,
+        "duration": 4.32,
+        "start_formatted": "01:06",
+        "text": "upload this video and then get Gemini"
+      },
+      {
+        "start": 68.52,
+        "duration": 3.96,
+        "start_formatted": "01:08",
+        "text": "Omni to edit it so that it looks like"
+      },
+      {
+        "start": 70.72,
+        "duration": 3.88,
+        "start_formatted": "01:10",
+        "text": "the hole in the person's hand is zooming"
+      },
+      {
+        "start": 72.48,
+        "duration": 4.56,
+        "start_formatted": "01:12",
+        "text": "in and magnifying the ground. Now,"
+      },
+      {
+        "start": 74.6,
+        "duration": 4.56,
+        "start_formatted": "01:14",
+        "text": "because this is multimodal, this can"
+      },
+      {
+        "start": 77.04,
+        "duration": 3.92,
+        "start_formatted": "01:17",
+        "text": "understand all types of media including"
+      },
+      {
+        "start": 79.16,
+        "duration": 4.04,
+        "start_formatted": "01:19",
+        "text": "audio. For example, we can get the"
+      },
+      {
+        "start": 80.96,
+        "duration": 4.845,
+        "start_formatted": "01:20",
+        "text": "lights of this apartment to turn on in"
+      },
+      {
+        "start": 83.2,
+        "duration": 4.625,
+        "start_formatted": "01:23",
+        "text": "sync with the music."
+      },
+      {
+        "start": 85.805,
+        "duration": 2.02,
+        "start_formatted": "01:25",
+        "text": ">> [music]"
+      },
+      {
+        "start": 90.39,
+        "duration": 2.02,
+        "start_formatted": "01:30",
+        "text": "[music]"
+      },
+      {
+        "start": 92.56,
+        "duration": 4.2,
+        "start_formatted": "01:32",
+        "text": ">> And it can work across different media"
+      },
+      {
+        "start": 94.52,
+        "duration": 4.24,
+        "start_formatted": "01:34",
+        "text": "at once. For example, we can input this"
+      },
+      {
+        "start": 96.76,
+        "duration": 3.88,
+        "start_formatted": "01:36",
+        "text": "video and then this reference image and"
+      },
+      {
+        "start": 98.76,
+        "duration": 3.8,
+        "start_formatted": "01:38",
+        "text": "have this architecture appear on the"
+      },
+      {
+        "start": 100.64,
+        "duration": 4.0,
+        "start_formatted": "01:40",
+        "text": "palm of his hand. Or here's another"
+      },
+      {
+        "start": 102.56,
+        "duration": 4.4,
+        "start_formatted": "01:42",
+        "text": "example. You can also edit the"
+      },
+      {
+        "start": 104.64,
+        "duration": 4.16,
+        "start_formatted": "01:44",
+        "text": "background, replace or remove objects,"
+      },
+      {
+        "start": 106.96,
+        "duration": 3.52,
+        "start_formatted": "01:46",
+        "text": "or even change the camera angle. For"
+      },
+      {
+        "start": 108.8,
+        "duration": 4.2,
+        "start_formatted": "01:48",
+        "text": "example, if this is the input video, we"
+      },
+      {
+        "start": 110.48,
+        "duration": 4.32,
+        "start_formatted": "01:50",
+        "text": "can replace the background into a park"
+      },
+      {
+        "start": 113.0,
+        "duration": 3.72,
+        "start_formatted": "01:53",
+        "text": "and then we can iterate this further by"
+      },
+      {
+        "start": 114.8,
+        "duration": 4.32,
+        "start_formatted": "01:54",
+        "text": "removing the violin and then we can"
+      },
+      {
+        "start": 116.72,
+        "duration": 4.4,
+        "start_formatted": "01:56",
+        "text": "iterate this again by changing the"
+      },
+      {
+        "start": 119.12,
+        "duration": 4.4,
+        "start_formatted": "01:59",
+        "text": "camera position. Notice it's able to"
+      },
+      {
+        "start": 121.12,
+        "duration": 4.16,
+        "start_formatted": "02:01",
+        "text": "keep the details consistent across all"
+      },
+      {
+        "start": 123.52,
+        "duration": 3.24,
+        "start_formatted": "02:03",
+        "text": "generations. Here's another example"
+      },
+      {
+        "start": 125.28,
+        "duration": 3.839,
+        "start_formatted": "02:05",
+        "text": "where we can take this video of a"
+      },
+      {
+        "start": 126.76,
+        "duration": 4.72,
+        "start_formatted": "02:06",
+        "text": "spaceship and then change the spaceship"
+      },
+      {
+        "start": 129.119,
+        "duration": 4.921,
+        "start_formatted": "02:09",
+        "text": "into another object like a seed or a"
+      },
+      {
+        "start": 131.48,
+        "duration": 4.28,
+        "start_formatted": "02:11",
+        "text": "clock or a red frisbee. What I'm"
+      },
+      {
+        "start": 134.04,
+        "duration": 3.919,
+        "start_formatted": "02:14",
+        "text": "especially impressed by is how good it"
+      },
+      {
+        "start": 135.76,
+        "duration": 4.84,
+        "start_formatted": "02:15",
+        "text": "is at generating educational explainer"
+      },
+      {
+        "start": 137.959,
+        "duration": 5.121,
+        "start_formatted": "02:17",
+        "text": "videos on certain concepts. For example,"
+      },
+      {
+        "start": 140.6,
+        "duration": 4.2,
+        "start_formatted": "02:20",
+        "text": "here's a claymation explainer of protein"
+      },
+      {
+        "start": 143.08,
+        "duration": 3.4,
+        "start_formatted": "02:23",
+        "text": "folding and most of the details are"
+      },
+      {
+        "start": 144.8,
+        "duration": 3.84,
+        "start_formatted": "02:24",
+        "text": "correct. Here's another really tricky"
+      },
+      {
+        "start": 146.48,
+        "duration": 4.24,
+        "start_formatted": "02:26",
+        "text": "prompt where we have each letter of the"
+      },
+      {
+        "start": 148.64,
+        "duration": 3.48,
+        "start_formatted": "02:28",
+        "text": "alphabet next to an item that starts"
+      },
+      {
+        "start": 150.72,
+        "duration": 3.2,
+        "start_formatted": "02:30",
+        "text": "with that letter, and it's able to"
+      },
+      {
+        "start": 152.12,
+        "duration": 3.8,
+        "start_formatted": "02:32",
+        "text": "generate this very well. Or here's a"
+      },
+      {
+        "start": 153.92,
+        "duration": 4.16,
+        "start_formatted": "02:33",
+        "text": "cool example where we can input this"
+      },
+      {
+        "start": 155.92,
+        "duration": 4.56,
+        "start_formatted": "02:35",
+        "text": "video of a fern plus this reference"
+      },
+      {
+        "start": 158.08,
+        "duration": 4.4,
+        "start_formatted": "02:38",
+        "text": "image of some fireflies plus an input"
+      },
+      {
+        "start": 160.48,
+        "duration": 3.926,
+        "start_formatted": "02:40",
+        "text": "audio of harp sounds. Let me play you"
+      },
+      {
+        "start": 162.48,
+        "duration": 3.946,
+        "start_formatted": "02:42",
+        "text": "the harp sound first."
+      },
+      {
+        "start": 164.406,
+        "duration": 2.02,
+        "start_formatted": "02:44",
+        "text": ">> [music]"
+      },
+      {
+        "start": 167.36,
+        "duration": 3.32,
+        "start_formatted": "02:47",
+        "text": ">> And then for the prompt, we can get it"
+      },
+      {
+        "start": 168.64,
+        "duration": 3.88,
+        "start_formatted": "02:48",
+        "text": "to add harp sounds synchronized to when"
+      },
+      {
+        "start": 170.68,
+        "duration": 4.36,
+        "start_formatted": "02:50",
+        "text": "I touch the fern leaf. And here's our"
+      },
+      {
+        "start": 172.52,
+        "duration": 2.52,
+        "start_formatted": "02:52",
+        "text": "result."
+      },
+      {
+        "start": 180.36,
+        "duration": 4.28,
+        "start_formatted": "03:00",
+        "text": "Here are some additional examples so you"
+      },
+      {
+        "start": 181.84,
+        "duration": 5.399,
+        "start_formatted": "03:01",
+        "text": "can easily replace anyone in an existing"
+      },
+      {
+        "start": 184.64,
+        "duration": 4.64,
+        "start_formatted": "03:04",
+        "text": "video with a new character like this. Or"
+      },
+      {
+        "start": 187.239,
+        "duration": 4.201,
+        "start_formatted": "03:07",
+        "text": "here's another example. Now, this isn't"
+      },
+      {
+        "start": 189.28,
+        "duration": 4.48,
+        "start_formatted": "03:09",
+        "text": "too impressive to me. We already have"
+      },
+      {
+        "start": 191.44,
+        "duration": 4.04,
+        "start_formatted": "03:11",
+        "text": "other omnimodal video models that are"
+      },
+      {
+        "start": 193.76,
+        "duration": 4.28,
+        "start_formatted": "03:13",
+        "text": "capable of doing similar things like"
+      },
+      {
+        "start": 195.48,
+        "duration": 4.96,
+        "start_formatted": "03:15",
+        "text": "Kling Free as well as See Dance 2.0. And"
+      },
+      {
+        "start": 198.04,
+        "duration": 4.199,
+        "start_formatted": "03:18",
+        "text": "at least for my initial testing, Gemini"
+      },
+      {
+        "start": 200.44,
+        "duration": 4.36,
+        "start_formatted": "03:20",
+        "text": "Omni doesn't seem to be as good as See"
+      },
+      {
+        "start": 202.239,
+        "duration": 4.641,
+        "start_formatted": "03:22",
+        "text": "Dance 2.0 in terms of anatomy and high"
+      },
+      {
+        "start": 204.8,
+        "duration": 3.96,
+        "start_formatted": "03:24",
+        "text": "action scenes. At least that is my"
+      },
+      {
+        "start": 206.88,
+        "duration": 3.96,
+        "start_formatted": "03:26",
+        "text": "initial impression. I'll continue doing"
+      },
+      {
+        "start": 208.76,
+        "duration": 4.08,
+        "start_formatted": "03:28",
+        "text": "some testing on this and if it's worthy,"
+      },
+      {
+        "start": 210.84,
+        "duration": 4.119,
+        "start_formatted": "03:30",
+        "text": "I'll make a full review video on it. For"
+      },
+      {
+        "start": 212.84,
+        "duration": 4.08,
+        "start_formatted": "03:32",
+        "text": "now, Gemini Omni should be available in"
+      },
+      {
+        "start": 214.959,
+        "duration": 4.241,
+        "start_formatted": "03:34",
+        "text": "the Gemini app as well as Google Flow"
+      },
+      {
+        "start": 216.92,
+        "duration": 4.16,
+        "start_formatted": "03:36",
+        "text": "for Pro users and beyond. Now, in"
+      },
+      {
+        "start": 219.2,
+        "duration": 4.36,
+        "start_formatted": "03:39",
+        "text": "addition to Gemini Omni, they've also"
+      },
+      {
+        "start": 221.08,
+        "duration": 5.76,
+        "start_formatted": "03:41",
+        "text": "announced their best and latest model"
+      },
+      {
+        "start": 223.56,
+        "duration": 5.72,
+        "start_formatted": "03:43",
+        "text": "Gemini 3.5 Flash. This is aimed to be a"
+      },
+      {
+        "start": 226.84,
+        "duration": 5.24,
+        "start_formatted": "03:46",
+        "text": "model that feels almost pro-level in"
+      },
+      {
+        "start": 229.28,
+        "duration": 4.68,
+        "start_formatted": "03:49",
+        "text": "intelligence but still has the speed and"
+      },
+      {
+        "start": 232.08,
+        "duration": 4.36,
+        "start_formatted": "03:52",
+        "text": "scale of a flash model. This is"
+      },
+      {
+        "start": 233.96,
+        "duration": 4.44,
+        "start_formatted": "03:53",
+        "text": "particularly aimed at agentic use. So,"
+      },
+      {
+        "start": 236.44,
+        "duration": 4.04,
+        "start_formatted": "03:56",
+        "text": "instead of just answering questions,"
+      },
+      {
+        "start": 238.4,
+        "duration": 3.96,
+        "start_formatted": "03:58",
+        "text": "this model is built for longer, more"
+      },
+      {
+        "start": 240.48,
+        "duration": 4.52,
+        "start_formatted": "04:00",
+        "text": "complex workflows where the AI has to"
+      },
+      {
+        "start": 242.36,
+        "duration": 5.12,
+        "start_formatted": "04:02",
+        "text": "plan, use tools, write code, check its"
+      },
+      {
+        "start": 245.0,
+        "duration": 5.24,
+        "start_formatted": "04:05",
+        "text": "work, and keep going over many steps."
+      },
+      {
+        "start": 247.48,
+        "duration": 5.2,
+        "start_formatted": "04:07",
+        "text": "Google says Gemini 1.5 is best for"
+      },
+      {
+        "start": 250.24,
+        "duration": 4.68,
+        "start_formatted": "04:10",
+        "text": "frontier performance across agents and"
+      },
+      {
+        "start": 252.68,
+        "duration": 4.679,
+        "start_formatted": "04:12",
+        "text": "coding with multimodal support for text,"
+      },
+      {
+        "start": 254.92,
+        "duration": 4.72,
+        "start_formatted": "04:14",
+        "text": "image, video, audio, and documents just"
+      },
+      {
+        "start": 257.359,
+        "duration": 4.521,
+        "start_formatted": "04:17",
+        "text": "like the previous Gemini models. It's"
+      },
+      {
+        "start": 259.64,
+        "duration": 4.2,
+        "start_formatted": "04:19",
+        "text": "also four times faster than other"
+      },
+      {
+        "start": 261.88,
+        "duration": 4.039,
+        "start_formatted": "04:21",
+        "text": "frontier models when looking at output"
+      },
+      {
+        "start": 263.84,
+        "duration": 4.4,
+        "start_formatted": "04:23",
+        "text": "tokens per second, which matters because"
+      },
+      {
+        "start": 265.919,
+        "duration": 4.601,
+        "start_formatted": "04:25",
+        "text": "agentic tasks can get really expensive"
+      },
+      {
+        "start": 268.24,
+        "duration": 4.48,
+        "start_formatted": "04:28",
+        "text": "and slow really quickly if the model has"
+      },
+      {
+        "start": 270.52,
+        "duration": 4.56,
+        "start_formatted": "04:30",
+        "text": "to think, call tools, revise, and"
+      },
+      {
+        "start": 272.72,
+        "duration": 4.48,
+        "start_formatted": "04:32",
+        "text": "generate lots of output. You can deploy"
+      },
+      {
+        "start": 275.08,
+        "duration": 4.12,
+        "start_formatted": "04:35",
+        "text": "multiple sub-agents, which is basically"
+      },
+      {
+        "start": 277.2,
+        "duration": 3.88,
+        "start_formatted": "04:37",
+        "text": "like splitting a big project into"
+      },
+      {
+        "start": 279.2,
+        "duration": 3.96,
+        "start_formatted": "04:39",
+        "text": "smaller jobs and sending different AI"
+      },
+      {
+        "start": 281.08,
+        "duration": 4.32,
+        "start_formatted": "04:41",
+        "text": "workers to handle each part. Here are"
+      },
+      {
+        "start": 283.16,
+        "duration": 4.4,
+        "start_formatted": "04:43",
+        "text": "some practical demos. For example, you"
+      },
+      {
+        "start": 285.4,
+        "duration": 4.72,
+        "start_formatted": "04:45",
+        "text": "can get multiple agents to rename and"
+      },
+      {
+        "start": 287.56,
+        "duration": 4.28,
+        "start_formatted": "04:47",
+        "text": "organize messy unstructured images. And"
+      },
+      {
+        "start": 290.12,
+        "duration": 4.04,
+        "start_formatted": "04:50",
+        "text": "because it's multimodal, it can actually"
+      },
+      {
+        "start": 291.84,
+        "duration": 4.24,
+        "start_formatted": "04:51",
+        "text": "analyze and understand each image, and"
+      },
+      {
+        "start": 294.16,
+        "duration": 4.04,
+        "start_formatted": "04:54",
+        "text": "it's able to rename each one based on"
+      },
+      {
+        "start": 296.08,
+        "duration": 4.4,
+        "start_formatted": "04:56",
+        "text": "the actual content within the image and"
+      },
+      {
+        "start": 298.2,
+        "duration": 4.48,
+        "start_formatted": "04:58",
+        "text": "aspect ratio. And it's able to do this"
+      },
+      {
+        "start": 300.48,
+        "duration": 4.32,
+        "start_formatted": "05:00",
+        "text": "really quickly. Or, here's another even"
+      },
+      {
+        "start": 302.68,
+        "duration": 4.44,
+        "start_formatted": "05:02",
+        "text": "more impressive demo showing how this"
+      },
+      {
+        "start": 304.8,
+        "duration": 4.56,
+        "start_formatted": "05:04",
+        "text": "can just keep working for hours until it"
+      },
+      {
+        "start": 307.12,
+        "duration": 4.56,
+        "start_formatted": "05:07",
+        "text": "finishes a goal. Here, they used a team"
+      },
+      {
+        "start": 309.36,
+        "duration": 4.72,
+        "start_formatted": "05:09",
+        "text": "of agents to recreate the original"
+      },
+      {
+        "start": 311.68,
+        "duration": 4.68,
+        "start_formatted": "05:11",
+        "text": "AlphaZero research paper and build a"
+      },
+      {
+        "start": 314.08,
+        "duration": 4.16,
+        "start_formatted": "05:14",
+        "text": "playable version. From just two prompts,"
+      },
+      {
+        "start": 316.36,
+        "duration": 4.6,
+        "start_formatted": "05:16",
+        "text": "it coded the raw reinforcement learning"
+      },
+      {
+        "start": 318.24,
+        "duration": 5.56,
+        "start_formatted": "05:18",
+        "text": "pipeline. It also trained an AI model"
+      },
+      {
+        "start": 320.96,
+        "duration": 5.12,
+        "start_formatted": "05:20",
+        "text": "from scratch via self-play, and finally"
+      },
+      {
+        "start": 323.8,
+        "duration": 4.56,
+        "start_formatted": "05:23",
+        "text": "made a full-stack web app so you can"
+      },
+      {
+        "start": 326.08,
+        "duration": 4.6,
+        "start_formatted": "05:26",
+        "text": "play against it. It was able to complete"
+      },
+      {
+        "start": 328.36,
+        "duration": 3.96,
+        "start_formatted": "05:28",
+        "text": "all of this in just a few hours. Or,"
+      },
+      {
+        "start": 330.68,
+        "duration": 3.56,
+        "start_formatted": "05:30",
+        "text": "here's another cute example where"
+      },
+      {
+        "start": 332.32,
+        "duration": 4.08,
+        "start_formatted": "05:32",
+        "text": "multiple agents work together to build a"
+      },
+      {
+        "start": 334.24,
+        "duration": 4.4,
+        "start_formatted": "05:34",
+        "text": "new city landscape. You can see each"
+      },
+      {
+        "start": 336.4,
+        "duration": 3.84,
+        "start_formatted": "05:36",
+        "text": "agent working on a section of the city."
+      },
+      {
+        "start": 338.64,
+        "duration": 3.76,
+        "start_formatted": "05:38",
+        "text": "The main thing that stands out is that"
+      },
+      {
+        "start": 340.24,
+        "duration": 4.64,
+        "start_formatted": "05:40",
+        "text": "this is not just a faster chatbot."
+      },
+      {
+        "start": 342.4,
+        "duration": 5.24,
+        "start_formatted": "05:42",
+        "text": "Google says Gemini 1.5 Flash is its"
+      },
+      {
+        "start": 344.88,
+        "duration": 5.4,
+        "start_formatted": "05:44",
+        "text": "strongest agentic and coding model yet."
+      },
+      {
+        "start": 347.64,
+        "duration": 4.84,
+        "start_formatted": "05:47",
+        "text": "It even outperforms Gemini 3.1 Pro on"
+      },
+      {
+        "start": 350.28,
+        "duration": 5.56,
+        "start_formatted": "05:50",
+        "text": "some tough coding and agentic benchmarks"
+      },
+      {
+        "start": 352.48,
+        "duration": 5.96,
+        "start_formatted": "05:52",
+        "text": "like MCP Atlas and Swalaflon, as well as"
+      },
+      {
+        "start": 355.84,
+        "duration": 4.44,
+        "start_formatted": "05:55",
+        "text": "Charkive reasoning, MMMU Pro. And keep"
+      },
+      {
+        "start": 358.44,
+        "duration": 3.8,
+        "start_formatted": "05:58",
+        "text": "in mind, this is just the Flash model,"
+      },
+      {
+        "start": 360.28,
+        "duration": 3.96,
+        "start_formatted": "06:00",
+        "text": "which is supposed to be smaller than the"
+      },
+      {
+        "start": 362.24,
+        "duration": 3.92,
+        "start_formatted": "06:02",
+        "text": "Pro version. Now, that being said, if I"
+      },
+      {
+        "start": 364.24,
+        "duration": 3.68,
+        "start_formatted": "06:04",
+        "text": "look at its performance in this"
+      },
+      {
+        "start": 366.16,
+        "duration": 3.56,
+        "start_formatted": "06:06",
+        "text": "independent leaderboard by Artificial"
+      },
+      {
+        "start": 367.92,
+        "duration": 4.92,
+        "start_formatted": "06:07",
+        "text": "Analysis, then you can see that Gemini"
+      },
+      {
+        "start": 369.72,
+        "duration": 7.2,
+        "start_formatted": "06:09",
+        "text": "3.5 Flash is still behind the frontier"
+      },
+      {
+        "start": 372.84,
+        "duration": 6.28,
+        "start_formatted": "06:12",
+        "text": "models, including GPT-5.5 and Opus 4.7."
+      },
+      {
+        "start": 376.92,
+        "duration": 4.32,
+        "start_formatted": "06:16",
+        "text": "However, keep in mind that this is just"
+      },
+      {
+        "start": 379.12,
+        "duration": 3.96,
+        "start_formatted": "06:19",
+        "text": "the Flash version and the Pro version is"
+      },
+      {
+        "start": 381.24,
+        "duration": 3.16,
+        "start_formatted": "06:21",
+        "text": "coming soon. In fact, rumors say that"
+      },
+      {
+        "start": 383.08,
+        "duration": 3.4,
+        "start_formatted": "06:23",
+        "text": "they're planning to roll out the Pro"
+      },
+      {
+        "start": 384.4,
+        "duration": 4.48,
+        "start_formatted": "06:24",
+        "text": "version next month. Anyways, for this"
+      },
+      {
+        "start": 386.48,
+        "duration": 4.56,
+        "start_formatted": "06:26",
+        "text": "new 3.5 Flash version, it's currently"
+      },
+      {
+        "start": 388.88,
+        "duration": 4.64,
+        "start_formatted": "06:28",
+        "text": "available via Google Antigravity, which"
+      },
+      {
+        "start": 391.04,
+        "duration": 3.92,
+        "start_formatted": "06:31",
+        "text": "we will go over right after this, plus"
+      },
+      {
+        "start": 393.52,
+        "duration": 3.08,
+        "start_formatted": "06:33",
+        "text": "Google's AI Studio. It's just"
+      },
+      {
+        "start": 394.96,
+        "duration": 3.44,
+        "start_formatted": "06:34",
+        "text": "aistudio.google.com."
+      },
+      {
+        "start": 396.6,
+        "duration": 4.48,
+        "start_formatted": "06:36",
+        "text": "At the top here is where you can select"
+      },
+      {
+        "start": 398.4,
+        "duration": 5.16,
+        "start_formatted": "06:38",
+        "text": "the latest Gemini 3.5 Flash. And it's"
+      },
+      {
+        "start": 401.08,
+        "duration": 5.04,
+        "start_formatted": "06:41",
+        "text": "also available to everyone in the Gemini"
+      },
+      {
+        "start": 403.56,
+        "duration": 4.96,
+        "start_formatted": "06:43",
+        "text": "app and AI mode in search. So, for"
+      },
+      {
+        "start": 406.12,
+        "duration": 5.04,
+        "start_formatted": "06:46",
+        "text": "example, if I click on AI mode on Google"
+      },
+      {
+        "start": 408.52,
+        "duration": 5.2,
+        "start_formatted": "06:48",
+        "text": "and I click this, it should be using 3.5"
+      },
+      {
+        "start": 411.16,
+        "duration": 5.04,
+        "start_formatted": "06:51",
+        "text": "Flash already. And notice how insanely"
+      },
+      {
+        "start": 413.72,
+        "duration": 5.16,
+        "start_formatted": "06:53",
+        "text": "fast this is. Next up, Google also"
+      },
+      {
+        "start": 416.2,
+        "duration": 4.96,
+        "start_formatted": "06:56",
+        "text": "introduced Antigravity 2.0. This is"
+      },
+      {
+        "start": 418.88,
+        "duration": 4.44,
+        "start_formatted": "06:58",
+        "text": "Google's new agentic coding platform."
+      },
+      {
+        "start": 421.16,
+        "duration": 4.24,
+        "start_formatted": "07:01",
+        "text": "Now, they first released version 1 last"
+      },
+      {
+        "start": 423.32,
+        "duration": 4.64,
+        "start_formatted": "07:03",
+        "text": "year and it was basically a clone of"
+      },
+      {
+        "start": 425.4,
+        "duration": 4.28,
+        "start_formatted": "07:05",
+        "text": "Windsurf or Cursor. This is an IDE where"
+      },
+      {
+        "start": 427.96,
+        "duration": 4.8,
+        "start_formatted": "07:07",
+        "text": "you can prompt an agent to work on a"
+      },
+      {
+        "start": 429.68,
+        "duration": 5.0,
+        "start_formatted": "07:09",
+        "text": "codebase. But, this IDE interface is so"
+      },
+      {
+        "start": 432.76,
+        "duration": 3.72,
+        "start_formatted": "07:12",
+        "text": "last year. And in the past few months,"
+      },
+      {
+        "start": 434.68,
+        "duration": 3.84,
+        "start_formatted": "07:14",
+        "text": "Cursor and Windsurf have kind of become"
+      },
+      {
+        "start": 436.48,
+        "duration": 4.439,
+        "start_formatted": "07:16",
+        "text": "irrelevant already. Instead, the most"
+      },
+      {
+        "start": 438.52,
+        "duration": 4.8,
+        "start_formatted": "07:18",
+        "text": "popular agentic interfaces right now are"
+      },
+      {
+        "start": 440.919,
+        "duration": 4.961,
+        "start_formatted": "07:20",
+        "text": "OpenAI's Codex and Claude Code. Instead"
+      },
+      {
+        "start": 443.32,
+        "duration": 4.4,
+        "start_formatted": "07:23",
+        "text": "of an IDE, these look much simpler and"
+      },
+      {
+        "start": 445.88,
+        "duration": 3.96,
+        "start_formatted": "07:25",
+        "text": "it's basically a chat interface where"
+      },
+      {
+        "start": 447.72,
+        "duration": 4.8,
+        "start_formatted": "07:27",
+        "text": "you can orchestrate multiple agents at"
+      },
+      {
+        "start": 449.84,
+        "duration": 5.0,
+        "start_formatted": "07:29",
+        "text": "once. So, this new Antigravity version 2"
+      },
+      {
+        "start": 452.52,
+        "duration": 4.6,
+        "start_formatted": "07:32",
+        "text": "also aims to do the same thing. It looks"
+      },
+      {
+        "start": 454.84,
+        "duration": 4.079,
+        "start_formatted": "07:34",
+        "text": "more like an agent chat interface where"
+      },
+      {
+        "start": 457.12,
+        "duration": 3.88,
+        "start_formatted": "07:37",
+        "text": "you can just work with multiple agents"
+      },
+      {
+        "start": 458.919,
+        "duration": 4.641,
+        "start_formatted": "07:38",
+        "text": "without ever having to look at a line of"
+      },
+      {
+        "start": 461.0,
+        "duration": 5.08,
+        "start_formatted": "07:41",
+        "text": "code. You can spin up dynamic sub agents"
+      },
+      {
+        "start": 463.56,
+        "duration": 4.44,
+        "start_formatted": "07:43",
+        "text": "for parallel work or schedule tasks for"
+      },
+      {
+        "start": 466.08,
+        "duration": 4.24,
+        "start_formatted": "07:46",
+        "text": "automation and connect your workflow"
+      },
+      {
+        "start": 468.0,
+        "duration": 5.08,
+        "start_formatted": "07:48",
+        "text": "across multiple apps. Here's a demo of"
+      },
+      {
+        "start": 470.32,
+        "duration": 4.92,
+        "start_formatted": "07:50",
+        "text": "Gemini 3.5 Flash in Anti-Gravity"
+      },
+      {
+        "start": 473.08,
+        "duration": 4.88,
+        "start_formatted": "07:53",
+        "text": "creating an operating system completely"
+      },
+      {
+        "start": 475.24,
+        "duration": 4.88,
+        "start_formatted": "07:55",
+        "text": "from scratch using an army of agents. It"
+      },
+      {
+        "start": 477.96,
+        "duration": 3.6,
+        "start_formatted": "07:57",
+        "text": "was able to keep iterating by itself and"
+      },
+      {
+        "start": 480.12,
+        "duration": 4.68,
+        "start_formatted": "08:00",
+        "text": "come up with a fully functional"
+      },
+      {
+        "start": 481.56,
+        "duration": 5.76,
+        "start_formatted": "08:01",
+        "text": "operating system in around 12 hours and"
+      },
+      {
+        "start": 484.8,
+        "duration": 5.36,
+        "start_formatted": "08:04",
+        "text": "it was able to play Doom. And the latest"
+      },
+      {
+        "start": 487.32,
+        "duration": 5.4,
+        "start_formatted": "08:07",
+        "text": "Gemini 3.5 Flash is already available in"
+      },
+      {
+        "start": 490.16,
+        "duration": 4.48,
+        "start_formatted": "08:10",
+        "text": "Anti-Gravity 2.0. This is perfect for"
+      },
+      {
+        "start": 492.72,
+        "duration": 3.76,
+        "start_formatted": "08:12",
+        "text": "agentic workflows because the new Flash"
+      },
+      {
+        "start": 494.64,
+        "duration": 3.279,
+        "start_formatted": "08:14",
+        "text": "model is like four times faster,"
+      },
+      {
+        "start": 496.48,
+        "duration": 3.08,
+        "start_formatted": "08:16",
+        "text": "especially when you're working with"
+      },
+      {
+        "start": 497.919,
+        "duration": 3.881,
+        "start_formatted": "08:17",
+        "text": "these agentic tools, which often"
+      },
+      {
+        "start": 499.56,
+        "duration": 4.12,
+        "start_formatted": "08:19",
+        "text": "involves reading files, generating code,"
+      },
+      {
+        "start": 501.8,
+        "duration": 3.44,
+        "start_formatted": "08:21",
+        "text": "calling tools, and checking results,"
+      },
+      {
+        "start": 503.68,
+        "duration": 3.96,
+        "start_formatted": "08:23",
+        "text": "fixing errors, and doing that over and"
+      },
+      {
+        "start": 505.24,
+        "duration": 3.84,
+        "start_formatted": "08:25",
+        "text": "over again. When I use Codex or Cloud"
+      },
+      {
+        "start": 507.64,
+        "duration": 3.72,
+        "start_formatted": "08:27",
+        "text": "Code, it usually takes like a few"
+      },
+      {
+        "start": 509.08,
+        "duration": 5.079,
+        "start_formatted": "08:29",
+        "text": "minutes for it to finish a task, whereas"
+      },
+      {
+        "start": 511.36,
+        "duration": 5.28,
+        "start_formatted": "08:31",
+        "text": "Anti-Gravity with Gemini 3.5 Flash is"
+      },
+      {
+        "start": 514.159,
+        "duration": 4.521,
+        "start_formatted": "08:34",
+        "text": "able to handle this way faster. Now, in"
+      },
+      {
+        "start": 516.64,
+        "duration": 4.24,
+        "start_formatted": "08:36",
+        "text": "addition to Anti-Gravity, Google also"
+      },
+      {
+        "start": 518.68,
+        "duration": 4.239,
+        "start_formatted": "08:38",
+        "text": "announced a huge update to the Gemini"
+      },
+      {
+        "start": 520.88,
+        "duration": 3.84,
+        "start_formatted": "08:40",
+        "text": "app. Instead of just being a chatbot you"
+      },
+      {
+        "start": 522.919,
+        "duration": 3.881,
+        "start_formatted": "08:42",
+        "text": "talk to, it's shifting more into a"
+      },
+      {
+        "start": 524.72,
+        "duration": 3.76,
+        "start_formatted": "08:44",
+        "text": "proactive assistant that can help you"
+      },
+      {
+        "start": 526.8,
+        "duration": 3.92,
+        "start_formatted": "08:46",
+        "text": "throughout the day. For example, there's"
+      },
+      {
+        "start": 528.48,
+        "duration": 4.92,
+        "start_formatted": "08:48",
+        "text": "a new daily brief feature, which is a"
+      },
+      {
+        "start": 530.72,
+        "duration": 5.04,
+        "start_formatted": "08:50",
+        "text": "personalized morning digest that works"
+      },
+      {
+        "start": 533.4,
+        "duration": 5.04,
+        "start_formatted": "08:53",
+        "text": "across your connected apps. Once you opt"
+      },
+      {
+        "start": 535.76,
+        "duration": 5.0,
+        "start_formatted": "08:55",
+        "text": "in, Gemini can look at things like Gmail"
+      },
+      {
+        "start": 538.44,
+        "duration": 4.68,
+        "start_formatted": "08:58",
+        "text": "updates, upcoming calendar events, and"
+      },
+      {
+        "start": 540.76,
+        "duration": 4.68,
+        "start_formatted": "09:00",
+        "text": "relevant follow-up details, then package"
+      },
+      {
+        "start": 543.12,
+        "duration": 4.36,
+        "start_formatted": "09:03",
+        "text": "everything into a skimmable briefing to"
+      },
+      {
+        "start": 545.44,
+        "duration": 3.36,
+        "start_formatted": "09:05",
+        "text": "start your day. But the important part"
+      },
+      {
+        "start": 547.48,
+        "duration": 3.6,
+        "start_formatted": "09:07",
+        "text": "is that it's not just summarizing"
+      },
+      {
+        "start": 548.8,
+        "duration": 4.36,
+        "start_formatted": "09:08",
+        "text": "everything randomly. Google says it can"
+      },
+      {
+        "start": 551.08,
+        "duration": 4.56,
+        "start_formatted": "09:11",
+        "text": "organize and prioritize based on your"
+      },
+      {
+        "start": 553.16,
+        "duration": 4.679,
+        "start_formatted": "09:13",
+        "text": "goals, suggest next steps, and learn"
+      },
+      {
+        "start": 555.64,
+        "duration": 4.72,
+        "start_formatted": "09:15",
+        "text": "over time from your feedback. Here it"
+      },
+      {
+        "start": 557.839,
+        "duration": 4.801,
+        "start_formatted": "09:17",
+        "text": "says daily brief is rolling out today to"
+      },
+      {
+        "start": 560.36,
+        "duration": 4.4,
+        "start_formatted": "09:20",
+        "text": "Google Plus subscribers and beyond"
+      },
+      {
+        "start": 562.64,
+        "duration": 4.24,
+        "start_formatted": "09:22",
+        "text": "starting in the US. You've probably"
+      },
+      {
+        "start": 564.76,
+        "duration": 4.32,
+        "start_formatted": "09:24",
+        "text": "heard a lot about SEO, but there's a new"
+      },
+      {
+        "start": 566.88,
+        "duration": 4.36,
+        "start_formatted": "09:26",
+        "text": "channel opening up alongside SEO that"
+      },
+      {
+        "start": 569.08,
+        "duration": 4.36,
+        "start_formatted": "09:29",
+        "text": "most brands aren't tracking yet. Buyers"
+      },
+      {
+        "start": 571.24,
+        "duration": 4.4,
+        "start_formatted": "09:31",
+        "text": "are no longer just searching on Google."
+      },
+      {
+        "start": 573.44,
+        "duration": 4.08,
+        "start_formatted": "09:33",
+        "text": "They're asking tools like ChatGPT,"
+      },
+      {
+        "start": 575.64,
+        "duration": 3.72,
+        "start_formatted": "09:35",
+        "text": "Gemini, and Perplexity for"
+      },
+      {
+        "start": 577.52,
+        "duration": 3.6,
+        "start_formatted": "09:37",
+        "text": "recommendations. And those answer"
+      },
+      {
+        "start": 579.36,
+        "duration": 4.04,
+        "start_formatted": "09:39",
+        "text": "engines are starting to shape which"
+      },
+      {
+        "start": 581.12,
+        "duration": 4.36,
+        "start_formatted": "09:41",
+        "text": "companies people discover, trust, and"
+      },
+      {
+        "start": 583.4,
+        "duration": 4.36,
+        "start_formatted": "09:43",
+        "text": "choose. So, here's the big question."
+      },
+      {
+        "start": 585.48,
+        "duration": 4.4,
+        "start_formatted": "09:45",
+        "text": "When someone asks an answer engine for"
+      },
+      {
+        "start": 587.76,
+        "duration": 4.32,
+        "start_formatted": "09:47",
+        "text": "the best solution in your category, does"
+      },
+      {
+        "start": 589.88,
+        "duration": 4.56,
+        "start_formatted": "09:49",
+        "text": "your brand show up? And if it does, what"
+      },
+      {
+        "start": 592.08,
+        "duration": 5.2,
+        "start_formatted": "09:52",
+        "text": "is it actually saying about you? That's"
+      },
+      {
+        "start": 594.44,
+        "duration": 5.8,
+        "start_formatted": "09:54",
+        "text": "what HubSpot's AEO Grader helps you find"
+      },
+      {
+        "start": 597.28,
+        "duration": 5.16,
+        "start_formatted": "09:57",
+        "text": "out. AEO stands for answer engine"
+      },
+      {
+        "start": 600.24,
+        "duration": 4.8,
+        "start_formatted": "10:00",
+        "text": "optimization. And this free tool shows"
+      },
+      {
+        "start": 602.44,
+        "duration": 4.4,
+        "start_formatted": "10:02",
+        "text": "you how ChatGPT, Gemini, and Perplexity"
+      },
+      {
+        "start": 605.04,
+        "duration": 3.72,
+        "start_formatted": "10:05",
+        "text": "characterize your brand based on their"
+      },
+      {
+        "start": 606.84,
+        "duration": 4.04,
+        "start_formatted": "10:06",
+        "text": "training data. You enter your company"
+      },
+      {
+        "start": 608.76,
+        "duration": 4.52,
+        "start_formatted": "10:08",
+        "text": "name, industry, and what you sell, and"
+      },
+      {
+        "start": 610.88,
+        "duration": 5.16,
+        "start_formatted": "10:10",
+        "text": "the Grader queries all three answer"
+      },
+      {
+        "start": 613.28,
+        "duration": 5.32,
+        "start_formatted": "10:13",
+        "text": "engines and scores your brand out of 100"
+      },
+      {
+        "start": 616.04,
+        "duration": 4.88,
+        "start_formatted": "10:16",
+        "text": "across five dimensions: sentiment,"
+      },
+      {
+        "start": 618.6,
+        "duration": 4.92,
+        "start_formatted": "10:18",
+        "text": "presence, quality, brand recognition,"
+      },
+      {
+        "start": 620.92,
+        "duration": 4.6,
+        "start_formatted": "10:20",
+        "text": "share of voice, and market competition."
+      },
+      {
+        "start": 623.52,
+        "duration": 4.0,
+        "start_formatted": "10:23",
+        "text": "So, you're not just seeing whether you"
+      },
+      {
+        "start": 625.52,
+        "duration": 4.28,
+        "start_formatted": "10:25",
+        "text": "show up, you're seeing how answer"
+      },
+      {
+        "start": 627.52,
+        "duration": 4.68,
+        "start_formatted": "10:27",
+        "text": "engines talk about you, whether that"
+      },
+      {
+        "start": 629.8,
+        "duration": 4.28,
+        "start_formatted": "10:29",
+        "text": "perception is positive or negative, how"
+      },
+      {
+        "start": 632.2,
+        "duration": 4.04,
+        "start_formatted": "10:32",
+        "text": "you stack up against competitors, and"
+      },
+      {
+        "start": 634.08,
+        "duration": 4.04,
+        "start_formatted": "10:34",
+        "text": "where the gaps are. My favorite part is"
+      },
+      {
+        "start": 636.24,
+        "duration": 4.0,
+        "start_formatted": "10:36",
+        "text": "the sentiment breakdown. It doesn't just"
+      },
+      {
+        "start": 638.12,
+        "duration": 3.92,
+        "start_formatted": "10:38",
+        "text": "tell you the overall tone, it shows you"
+      },
+      {
+        "start": 640.24,
+        "duration": 4.0,
+        "start_formatted": "10:40",
+        "text": "how sentiment shifts across different"
+      },
+      {
+        "start": 642.04,
+        "duration": 3.84,
+        "start_formatted": "10:42",
+        "text": "contexts, like whether answer engines"
+      },
+      {
+        "start": 644.24,
+        "duration": 4.04,
+        "start_formatted": "10:44",
+        "text": "praise your product but flag your"
+      },
+      {
+        "start": 645.88,
+        "duration": 4.48,
+        "start_formatted": "10:45",
+        "text": "customer support, or vice versa. Let me"
+      },
+      {
+        "start": 648.28,
+        "duration": 4.28,
+        "start_formatted": "10:48",
+        "text": "show you what this looks like. I'll pull"
+      },
+      {
+        "start": 650.36,
+        "duration": 4.08,
+        "start_formatted": "10:50",
+        "text": "up AEO Grader and run my brand through"
+      },
+      {
+        "start": 652.56,
+        "duration": 3.68,
+        "start_formatted": "10:52",
+        "text": "this so you can see the report. And"
+      },
+      {
+        "start": 654.44,
+        "duration": 4.2,
+        "start_formatted": "10:54",
+        "text": "here's the thing, if your competitors"
+      },
+      {
+        "start": 656.24,
+        "duration": 4.04,
+        "start_formatted": "10:56",
+        "text": "are scoring higher than you, that means"
+      },
+      {
+        "start": 658.64,
+        "duration": 4.36,
+        "start_formatted": "10:58",
+        "text": "answer engines are recommending them"
+      },
+      {
+        "start": 660.28,
+        "duration": 4.96,
+        "start_formatted": "11:00",
+        "text": "over you before a buyer ever visits your"
+      },
+      {
+        "start": 663.0,
+        "duration": 4.44,
+        "start_formatted": "11:03",
+        "text": "site. So, this AEO Grader is super"
+      },
+      {
+        "start": 665.24,
+        "duration": 4.04,
+        "start_formatted": "11:05",
+        "text": "insightful, and it's completely free."
+      },
+      {
+        "start": 667.44,
+        "duration": 3.56,
+        "start_formatted": "11:07",
+        "text": "The link is in the description below."
+      },
+      {
+        "start": 669.28,
+        "duration": 3.84,
+        "start_formatted": "11:09",
+        "text": "Thanks to HubSpot for sponsoring this"
+      },
+      {
+        "start": 671.0,
+        "duration": 5.72,
+        "start_formatted": "11:11",
+        "text": "video. Another big announcement is"
+      },
+      {
+        "start": 673.12,
+        "duration": 6.32,
+        "start_formatted": "11:13",
+        "text": "Gemini Spark, Google's new 24/7 personal"
+      },
+      {
+        "start": 676.72,
+        "duration": 5.36,
+        "start_formatted": "11:16",
+        "text": "agent. This is like Google's open core."
+      },
+      {
+        "start": 679.44,
+        "duration": 4.52,
+        "start_formatted": "11:19",
+        "text": "Spark runs on Gemini 3.5 and is deeply"
+      },
+      {
+        "start": 682.08,
+        "duration": 4.88,
+        "start_formatted": "11:22",
+        "text": "connected with workspace tools like"
+      },
+      {
+        "start": 683.96,
+        "duration": 5.48,
+        "start_formatted": "11:23",
+        "text": "Gmail, Docs, Slides, and more. The key"
+      },
+      {
+        "start": 686.96,
+        "duration": 4.48,
+        "start_formatted": "11:26",
+        "text": "difference is that Spark is cloud-based,"
+      },
+      {
+        "start": 689.44,
+        "duration": 4.24,
+        "start_formatted": "11:29",
+        "text": "so it can keep working after you close"
+      },
+      {
+        "start": 691.44,
+        "duration": 4.8,
+        "start_formatted": "11:31",
+        "text": "your laptop or lock your phone. Think of"
+      },
+      {
+        "start": 693.68,
+        "duration": 4.96,
+        "start_formatted": "11:33",
+        "text": "it like an AI assistant that can monitor"
+      },
+      {
+        "start": 696.24,
+        "duration": 4.84,
+        "start_formatted": "11:36",
+        "text": "a task, keep track of information, and"
+      },
+      {
+        "start": 698.64,
+        "duration": 4.4,
+        "start_formatted": "11:38",
+        "text": "help complete workflows over time. You"
+      },
+      {
+        "start": 701.08,
+        "duration": 4.08,
+        "start_formatted": "11:41",
+        "text": "could teach it to check your inbox for"
+      },
+      {
+        "start": 703.04,
+        "duration": 4.56,
+        "start_formatted": "11:43",
+        "text": "school updates, pull out important"
+      },
+      {
+        "start": 705.16,
+        "duration": 4.56,
+        "start_formatted": "11:45",
+        "text": "deadlines, or send a daily summary to"
+      },
+      {
+        "start": 707.6,
+        "duration": 4.04,
+        "start_formatted": "11:47",
+        "text": "you and your partner. Or you can ask it"
+      },
+      {
+        "start": 709.72,
+        "duration": 3.68,
+        "start_formatted": "11:49",
+        "text": "to take raw meeting notes from emails"
+      },
+      {
+        "start": 711.64,
+        "duration": 4.44,
+        "start_formatted": "11:51",
+        "text": "and chats and synthesize them into a"
+      },
+      {
+        "start": 713.4,
+        "duration": 4.6,
+        "start_formatted": "11:53",
+        "text": "polished Google Doc or draft an email to"
+      },
+      {
+        "start": 716.08,
+        "duration": 3.96,
+        "start_formatted": "11:56",
+        "text": "kick off a project. It takes scattered"
+      },
+      {
+        "start": 718.0,
+        "duration": 4.0,
+        "start_formatted": "11:58",
+        "text": "information across apps and turns it"
+      },
+      {
+        "start": 720.04,
+        "duration": 4.24,
+        "start_formatted": "12:00",
+        "text": "into organized action. Here it says"
+      },
+      {
+        "start": 722.0,
+        "duration": 4.24,
+        "start_formatted": "12:02",
+        "text": "Gemini Spark will roll out to trusted"
+      },
+      {
+        "start": 724.28,
+        "duration": 4.6,
+        "start_formatted": "12:04",
+        "text": "testers this week, and they're planning"
+      },
+      {
+        "start": 726.24,
+        "duration": 5.4,
+        "start_formatted": "12:06",
+        "text": "to roll it out as a beta for US Ultra"
+      },
+      {
+        "start": 728.88,
+        "duration": 5.04,
+        "start_formatted": "12:08",
+        "text": "subscribers next week. Google also"
+      },
+      {
+        "start": 731.64,
+        "duration": 4.64,
+        "start_formatted": "12:11",
+        "text": "announced a major redesign to Google"
+      },
+      {
+        "start": 733.92,
+        "duration": 4.0,
+        "start_formatted": "12:13",
+        "text": "Search. The main idea is search is no"
+      },
+      {
+        "start": 736.28,
+        "duration": 3.52,
+        "start_formatted": "12:16",
+        "text": "longer type in a search term and see a"
+      },
+      {
+        "start": 737.92,
+        "duration": 4.12,
+        "start_formatted": "12:17",
+        "text": "bunch of links. It's becoming a place"
+      },
+      {
+        "start": 739.8,
+        "duration": 4.52,
+        "start_formatted": "12:19",
+        "text": "where you can ask anything and get"
+      },
+      {
+        "start": 742.04,
+        "duration": 4.84,
+        "start_formatted": "12:22",
+        "text": "instant responses or even build mini"
+      },
+      {
+        "start": 744.32,
+        "duration": 4.96,
+        "start_formatted": "12:24",
+        "text": "apps or get help with ongoing tasks."
+      },
+      {
+        "start": 746.88,
+        "duration": 4.52,
+        "start_formatted": "12:26",
+        "text": "This new AI-powered search box expands"
+      },
+      {
+        "start": 749.28,
+        "duration": 4.16,
+        "start_formatted": "12:29",
+        "text": "dynamically, so you can explain what you"
+      },
+      {
+        "start": 751.4,
+        "duration": 4.56,
+        "start_formatted": "12:31",
+        "text": "actually need. It can help you shape"
+      },
+      {
+        "start": 753.44,
+        "duration": 5.08,
+        "start_formatted": "12:33",
+        "text": "your question with AI suggestions that"
+      },
+      {
+        "start": 755.96,
+        "duration": 4.24,
+        "start_formatted": "12:35",
+        "text": "go beyond just old-school autocomplete."
+      },
+      {
+        "start": 758.52,
+        "duration": 4.16,
+        "start_formatted": "12:38",
+        "text": "And you can search with more than just"
+      },
+      {
+        "start": 760.2,
+        "duration": 4.88,
+        "start_formatted": "12:40",
+        "text": "text. You can use images, files, videos,"
+      },
+      {
+        "start": 762.68,
+        "duration": 4.56,
+        "start_formatted": "12:42",
+        "text": "or even Chrome tabs as inputs. So this"
+      },
+      {
+        "start": 765.08,
+        "duration": 4.24,
+        "start_formatted": "12:45",
+        "text": "takes whatever context you have, whether"
+      },
+      {
+        "start": 767.24,
+        "duration": 4.44,
+        "start_formatted": "12:47",
+        "text": "that's a photo, and turns it into a"
+      },
+      {
+        "start": 769.32,
+        "duration": 4.0,
+        "start_formatted": "12:49",
+        "text": "question search can understand. The"
+      },
+      {
+        "start": 771.68,
+        "duration": 3.52,
+        "start_formatted": "12:51",
+        "text": "experience also becomes more"
+      },
+      {
+        "start": 773.32,
+        "duration": 4.12,
+        "start_formatted": "12:53",
+        "text": "conversational. This is where Google"
+      },
+      {
+        "start": 775.2,
+        "duration": 4.28,
+        "start_formatted": "12:55",
+        "text": "Search feels less like a search engine"
+      },
+      {
+        "start": 777.44,
+        "duration": 4.48,
+        "start_formatted": "12:57",
+        "text": "and more like a set of AI helpers that"
+      },
+      {
+        "start": 779.48,
+        "duration": 4.28,
+        "start_formatted": "12:59",
+        "text": "can keep working after you ask. Google"
+      },
+      {
+        "start": 781.92,
+        "duration": 4.08,
+        "start_formatted": "13:01",
+        "text": "is starting with information agents"
+      },
+      {
+        "start": 783.76,
+        "duration": 4.24,
+        "start_formatted": "13:03",
+        "text": "which run in the background 24/7 and"
+      },
+      {
+        "start": 786.0,
+        "duration": 4.0,
+        "start_formatted": "13:06",
+        "text": "monitor the web for whatever you care"
+      },
+      {
+        "start": 788.0,
+        "duration": 4.52,
+        "start_formatted": "13:08",
+        "text": "about. Basically, you give the agent a"
+      },
+      {
+        "start": 790.0,
+        "duration": 5.16,
+        "start_formatted": "13:10",
+        "text": "very specific question or goal, and it"
+      },
+      {
+        "start": 792.52,
+        "duration": 5.28,
+        "start_formatted": "13:12",
+        "text": "keeps watching blogs or news sites or"
+      },
+      {
+        "start": 795.16,
+        "duration": 4.4,
+        "start_formatted": "13:15",
+        "text": "social media and fresh real-time data"
+      },
+      {
+        "start": 797.8,
+        "duration": 4.08,
+        "start_formatted": "13:17",
+        "text": "like finance, and when something"
+      },
+      {
+        "start": 799.56,
+        "duration": 5.279,
+        "start_formatted": "13:19",
+        "text": "changes, it sends you a synthesized"
+      },
+      {
+        "start": 801.88,
+        "duration": 5.16,
+        "start_formatted": "13:21",
+        "text": "update with useful next steps. So if"
+      },
+      {
+        "start": 804.839,
+        "duration": 4.441,
+        "start_formatted": "13:24",
+        "text": "you're for a flight or apartment"
+      },
+      {
+        "start": 807.04,
+        "duration": 4.96,
+        "start_formatted": "13:27",
+        "text": "hunting, you can brain dump your exact"
+      },
+      {
+        "start": 809.28,
+        "duration": 5.08,
+        "start_formatted": "13:29",
+        "text": "requirements like location, price, size,"
+      },
+      {
+        "start": 812.0,
+        "duration": 4.8,
+        "start_formatted": "13:32",
+        "text": "etc. And the agent can keep scanning for"
+      },
+      {
+        "start": 814.36,
+        "duration": 4.0,
+        "start_formatted": "13:34",
+        "text": "listings that match. This takes repeated"
+      },
+      {
+        "start": 816.8,
+        "duration": 3.08,
+        "start_formatted": "13:36",
+        "text": "searching you would normally do every"
+      },
+      {
+        "start": 818.36,
+        "duration": 3.48,
+        "start_formatted": "13:38",
+        "text": "day and turns it into a background"
+      },
+      {
+        "start": 819.88,
+        "duration": 4.84,
+        "start_formatted": "13:39",
+        "text": "assistant that keeps checking for you."
+      },
+      {
+        "start": 821.84,
+        "duration": 5.72,
+        "start_formatted": "13:41",
+        "text": "And this feature is launching to AI Pro"
+      },
+      {
+        "start": 824.72,
+        "duration": 5.56,
+        "start_formatted": "13:44",
+        "text": "and Ultra subscribers this summer."
+      },
+      {
+        "start": 827.56,
+        "duration": 5.0,
+        "start_formatted": "13:47",
+        "text": "Google is also adding agentic booking"
+      },
+      {
+        "start": 830.28,
+        "duration": 4.84,
+        "start_formatted": "13:50",
+        "text": "inside search. So search doesn't just"
+      },
+      {
+        "start": 832.56,
+        "duration": 4.32,
+        "start_formatted": "13:52",
+        "text": "find you information, it helps you act"
+      },
+      {
+        "start": 835.12,
+        "duration": 4.4,
+        "start_formatted": "13:55",
+        "text": "on it. When you ask for something"
+      },
+      {
+        "start": 836.88,
+        "duration": 4.8,
+        "start_formatted": "13:56",
+        "text": "specific like a private karaoke room for"
+      },
+      {
+        "start": 839.52,
+        "duration": 3.96,
+        "start_formatted": "13:59",
+        "text": "six people on a Friday night, search can"
+      },
+      {
+        "start": 841.68,
+        "duration": 3.88,
+        "start_formatted": "14:01",
+        "text": "actually pull together the latest"
+      },
+      {
+        "start": 843.48,
+        "duration": 4.24,
+        "start_formatted": "14:03",
+        "text": "pricing and availability and give you"
+      },
+      {
+        "start": 845.56,
+        "duration": 4.28,
+        "start_formatted": "14:05",
+        "text": "direct links to complete the booking"
+      },
+      {
+        "start": 847.72,
+        "duration": 4.0,
+        "start_formatted": "14:07",
+        "text": "through the provider you choose. And"
+      },
+      {
+        "start": 849.84,
+        "duration": 3.92,
+        "start_formatted": "14:09",
+        "text": "what I think is the most useful feature"
+      },
+      {
+        "start": 851.72,
+        "duration": 4.76,
+        "start_formatted": "14:11",
+        "text": "for an introvert like me is the ability"
+      },
+      {
+        "start": 853.76,
+        "duration": 4.68,
+        "start_formatted": "14:13",
+        "text": "for search to call businesses on my"
+      },
+      {
+        "start": 856.48,
+        "duration": 4.16,
+        "start_formatted": "14:16",
+        "text": "behalf. So for categories like home"
+      },
+      {
+        "start": 858.44,
+        "duration": 4.36,
+        "start_formatted": "14:18",
+        "text": "repair or beauty or pet care, instead of"
+      },
+      {
+        "start": 860.64,
+        "duration": 4.12,
+        "start_formatted": "14:20",
+        "text": "calling around to ask who's available"
+      },
+      {
+        "start": 862.8,
+        "duration": 4.56,
+        "start_formatted": "14:22",
+        "text": "and what it costs or whether they can"
+      },
+      {
+        "start": 864.76,
+        "duration": 4.4,
+        "start_formatted": "14:24",
+        "text": "handle your request, you can ask Google"
+      },
+      {
+        "start": 867.36,
+        "duration": 3.56,
+        "start_formatted": "14:27",
+        "text": "to do some of that work for you. Now"
+      },
+      {
+        "start": 869.16,
+        "duration": 3.8,
+        "start_formatted": "14:29",
+        "text": "these booking and calling features are"
+      },
+      {
+        "start": 870.92,
+        "duration": 5.12,
+        "start_formatted": "14:30",
+        "text": "rolling out to everyone starting in the"
+      },
+      {
+        "start": 872.96,
+        "duration": 5.08,
+        "start_formatted": "14:32",
+        "text": "US this summer. Then there's the agentic"
+      },
+      {
+        "start": 876.04,
+        "duration": 3.96,
+        "start_formatted": "14:36",
+        "text": "coding side of Google search, which is"
+      },
+      {
+        "start": 878.04,
+        "duration": 4.32,
+        "start_formatted": "14:38",
+        "text": "quite interesting. Google is bringing"
+      },
+      {
+        "start": 880.0,
+        "duration": 4.72,
+        "start_formatted": "14:40",
+        "text": "anti-gravity and the coding abilities of"
+      },
+      {
+        "start": 882.36,
+        "duration": 4.76,
+        "start_formatted": "14:42",
+        "text": "their new 3.5 flash directly into"
+      },
+      {
+        "start": 884.72,
+        "duration": 4.76,
+        "start_formatted": "14:44",
+        "text": "search. So search can generate custom"
+      },
+      {
+        "start": 887.12,
+        "duration": 4.52,
+        "start_formatted": "14:47",
+        "text": "interfaces on the fly. Think of it like"
+      },
+      {
+        "start": 889.48,
+        "duration": 3.72,
+        "start_formatted": "14:49",
+        "text": "this. Instead of asking a question and"
+      },
+      {
+        "start": 891.64,
+        "duration": 3.64,
+        "start_formatted": "14:51",
+        "text": "getting a paragraph, you might get a"
+      },
+      {
+        "start": 893.2,
+        "duration": 4.24,
+        "start_formatted": "14:53",
+        "text": "custom visual tool or a graph or"
+      },
+      {
+        "start": 895.28,
+        "duration": 3.48,
+        "start_formatted": "14:55",
+        "text": "simulation specifically for your"
+      },
+      {
+        "start": 897.44,
+        "duration": 3.36,
+        "start_formatted": "14:57",
+        "text": "question. So if you're trying to"
+      },
+      {
+        "start": 898.76,
+        "duration": 4.04,
+        "start_formatted": "14:58",
+        "text": "understand like astrophysics or"
+      },
+      {
+        "start": 900.8,
+        "duration": 3.84,
+        "start_formatted": "15:00",
+        "text": "visualize how something works, Google"
+      },
+      {
+        "start": 902.8,
+        "duration": 4.32,
+        "start_formatted": "15:02",
+        "text": "search could assemble an interactive"
+      },
+      {
+        "start": 904.64,
+        "duration": 3.96,
+        "start_formatted": "15:04",
+        "text": "explanation in real time. This matters"
+      },
+      {
+        "start": 907.12,
+        "duration": 2.96,
+        "start_formatted": "15:07",
+        "text": "because some topics are easier to"
+      },
+      {
+        "start": 908.6,
+        "duration": 3.44,
+        "start_formatted": "15:08",
+        "text": "understand when you can see a"
+      },
+      {
+        "start": 910.08,
+        "duration": 3.8,
+        "start_formatted": "15:10",
+        "text": "visualization or interact with it"
+      },
+      {
+        "start": 912.04,
+        "duration": 3.72,
+        "start_formatted": "15:12",
+        "text": "instead of just reading text. Google"
+      },
+      {
+        "start": 913.88,
+        "duration": 4.68,
+        "start_formatted": "15:13",
+        "text": "says that this feature will be available"
+      },
+      {
+        "start": 915.76,
+        "duration": 4.84,
+        "start_formatted": "15:15",
+        "text": "for everyone in search in the summer. It"
+      },
+      {
+        "start": 918.56,
+        "duration": 4.6,
+        "start_formatted": "15:18",
+        "text": "goes even further than just one-off"
+      },
+      {
+        "start": 920.6,
+        "duration": 4.8,
+        "start_formatted": "15:20",
+        "text": "visual answers. Google says search will"
+      },
+      {
+        "start": 923.16,
+        "duration": 4.72,
+        "start_formatted": "15:23",
+        "text": "also be able to build custom dashboards"
+      },
+      {
+        "start": 925.4,
+        "duration": 4.76,
+        "start_formatted": "15:25",
+        "text": "and trackers for ongoing tasks. Think of"
+      },
+      {
+        "start": 927.88,
+        "duration": 4.32,
+        "start_formatted": "15:27",
+        "text": "these like tiny custom apps created"
+      },
+      {
+        "start": 930.16,
+        "duration": 3.68,
+        "start_formatted": "15:30",
+        "text": "inside search. For example, if you're"
+      },
+      {
+        "start": 932.2,
+        "duration": 4.04,
+        "start_formatted": "15:32",
+        "text": "starting a new health or exercise"
+      },
+      {
+        "start": 933.84,
+        "duration": 4.36,
+        "start_formatted": "15:33",
+        "text": "routine, you could ask search to build a"
+      },
+      {
+        "start": 936.24,
+        "duration": 3.64,
+        "start_formatted": "15:36",
+        "text": "fitness tracker for you. Search can code"
+      },
+      {
+        "start": 938.2,
+        "duration": 3.96,
+        "start_formatted": "15:38",
+        "text": "it, connect it with fresh real-time"
+      },
+      {
+        "start": 939.88,
+        "duration": 4.84,
+        "start_formatted": "15:39",
+        "text": "sources, and give you something you can"
+      },
+      {
+        "start": 942.16,
+        "duration": 4.88,
+        "start_formatted": "15:42",
+        "text": "keep coming back to week after week."
+      },
+      {
+        "start": 944.72,
+        "duration": 5.28,
+        "start_formatted": "15:44",
+        "text": "Finally, Google is expanding personal"
+      },
+      {
+        "start": 947.04,
+        "duration": 4.24,
+        "start_formatted": "15:47",
+        "text": "intelligence in AI mode. This means"
+      },
+      {
+        "start": 950.0,
+        "duration": 3.28,
+        "start_formatted": "15:50",
+        "text": "search can become more useful by"
+      },
+      {
+        "start": 951.28,
+        "duration": 3.96,
+        "start_formatted": "15:51",
+        "text": "understanding your personal context, but"
+      },
+      {
+        "start": 953.28,
+        "duration": 4.64,
+        "start_formatted": "15:53",
+        "text": "only when you choose to connect apps"
+      },
+      {
+        "start": 955.24,
+        "duration": 5.28,
+        "start_formatted": "15:55",
+        "text": "like Gmail, Google Photos, and Calendar."
+      },
+      {
+        "start": 957.92,
+        "duration": 4.16,
+        "start_formatted": "15:57",
+        "text": "The idea is that search should not just"
+      },
+      {
+        "start": 960.52,
+        "duration": 3.84,
+        "start_formatted": "16:00",
+        "text": "know the web, but it should also"
+      },
+      {
+        "start": 962.08,
+        "duration": 4.92,
+        "start_formatted": "16:02",
+        "text": "understand the context of your life,"
+      },
+      {
+        "start": 964.36,
+        "duration": 4.28,
+        "start_formatted": "16:04",
+        "text": "like emails, photos, or upcoming events."
+      },
+      {
+        "start": 967.0,
+        "duration": 3.76,
+        "start_formatted": "16:07",
+        "text": "Google says this is designed with"
+      },
+      {
+        "start": 968.64,
+        "duration": 4.2,
+        "start_formatted": "16:08",
+        "text": "transparency and choice, so you can"
+      },
+      {
+        "start": 970.76,
+        "duration": 3.64,
+        "start_formatted": "16:10",
+        "text": "choose to opt out if you want. So, in"
+      },
+      {
+        "start": 972.84,
+        "duration": 4.36,
+        "start_formatted": "16:12",
+        "text": "the coming months, we can expect Google"
+      },
+      {
+        "start": 974.4,
+        "duration": 5.28,
+        "start_formatted": "16:14",
+        "text": "Search to become way more personalized"
+      },
+      {
+        "start": 977.2,
+        "duration": 4.52,
+        "start_formatted": "16:17",
+        "text": "and automatic. Instead of just giving"
+      },
+      {
+        "start": 979.68,
+        "duration": 4.32,
+        "start_formatted": "16:19",
+        "text": "you a list of links, it can understand"
+      },
+      {
+        "start": 981.72,
+        "duration": 4.08,
+        "start_formatted": "16:21",
+        "text": "your personal context a lot more and do"
+      },
+      {
+        "start": 984.0,
+        "duration": 4.36,
+        "start_formatted": "16:24",
+        "text": "most of the search work for you or even"
+      },
+      {
+        "start": 985.8,
+        "duration": 4.48,
+        "start_formatted": "16:25",
+        "text": "generate interactive tools or mini apps"
+      },
+      {
+        "start": 988.36,
+        "duration": 3.84,
+        "start_formatted": "16:28",
+        "text": "right within the interface. Now, in"
+      },
+      {
+        "start": 990.28,
+        "duration": 4.32,
+        "start_formatted": "16:30",
+        "text": "addition to these exciting announcements"
+      },
+      {
+        "start": 992.2,
+        "duration": 4.96,
+        "start_formatted": "16:32",
+        "text": "to Google Search, Google also announced"
+      },
+      {
+        "start": 994.6,
+        "duration": 4.6,
+        "start_formatted": "16:34",
+        "text": "some huge updates for Google Workspace."
+      },
+      {
+        "start": 997.16,
+        "duration": 4.44,
+        "start_formatted": "16:37",
+        "text": "So, this includes Google Docs, Sheets,"
+      },
+      {
+        "start": 999.2,
+        "duration": 4.44,
+        "start_formatted": "16:39",
+        "text": "Slides, Calendar, and more. The idea"
+      },
+      {
+        "start": 1001.6,
+        "duration": 4.04,
+        "start_formatted": "16:41",
+        "text": "here is pretty clear. Workspace is"
+      },
+      {
+        "start": 1003.64,
+        "duration": 5.0,
+        "start_formatted": "16:43",
+        "text": "moving from apps that you manually"
+      },
+      {
+        "start": 1005.64,
+        "duration": 5.08,
+        "start_formatted": "16:45",
+        "text": "operate into AI-powered apps that take"
+      },
+      {
+        "start": 1008.64,
+        "duration": 4.4,
+        "start_formatted": "16:48",
+        "text": "action with you. Instead of opening"
+      },
+      {
+        "start": 1010.72,
+        "duration": 4.28,
+        "start_formatted": "16:50",
+        "text": "Gmail, Docs, Drive, and Slides as"
+      },
+      {
+        "start": 1013.04,
+        "duration": 3.96,
+        "start_formatted": "16:53",
+        "text": "separate tools and doing all the work"
+      },
+      {
+        "start": 1015.0,
+        "duration": 4.48,
+        "start_formatted": "16:55",
+        "text": "yourself, Google is trying to turn them"
+      },
+      {
+        "start": 1017.0,
+        "duration": 4.8,
+        "start_formatted": "16:57",
+        "text": "into a more connected AI workspace where"
+      },
+      {
+        "start": 1019.48,
+        "duration": 4.4,
+        "start_formatted": "16:59",
+        "text": "you can just talk naturally, dump messy"
+      },
+      {
+        "start": 1021.8,
+        "duration": 4.519,
+        "start_formatted": "17:01",
+        "text": "ideas, and there will be an agent that"
+      },
+      {
+        "start": 1023.88,
+        "duration": 4.84,
+        "start_formatted": "17:03",
+        "text": "autonomously does the work for you. The"
+      },
+      {
+        "start": 1026.319,
+        "duration": 4.921,
+        "start_formatted": "17:06",
+        "text": "first big update is voice. Google is"
+      },
+      {
+        "start": 1028.72,
+        "duration": 5.08,
+        "start_formatted": "17:08",
+        "text": "updating new conversational features to"
+      },
+      {
+        "start": 1031.24,
+        "duration": 4.599,
+        "start_formatted": "17:11",
+        "text": "Gmail, Docs, and Keep, so you can get"
+      },
+      {
+        "start": 1033.8,
+        "duration": 4.92,
+        "start_formatted": "17:13",
+        "text": "things done at the speed of talking"
+      },
+      {
+        "start": 1035.839,
+        "duration": 5.681,
+        "start_formatted": "17:15",
+        "text": "instead of typing. In Gmail live, you"
+      },
+      {
+        "start": 1038.72,
+        "duration": 4.88,
+        "start_formatted": "17:18",
+        "text": "can ask your inbox questions out loud"
+      },
+      {
+        "start": 1041.52,
+        "duration": 3.6,
+        "start_formatted": "17:21",
+        "text": "like what gate your flight is at or"
+      },
+      {
+        "start": 1043.6,
+        "duration": 3.56,
+        "start_formatted": "17:23",
+        "text": "what's happening at your kids school"
+      },
+      {
+        "start": 1045.12,
+        "duration": 4.44,
+        "start_formatted": "17:25",
+        "text": "this week, and it can search your email"
+      },
+      {
+        "start": 1047.16,
+        "duration": 5.08,
+        "start_formatted": "17:27",
+        "text": "and synthesize the answer. This takes a"
+      },
+      {
+        "start": 1049.56,
+        "duration": 4.88,
+        "start_formatted": "17:29",
+        "text": "messy inbox and outputs the exact"
+      },
+      {
+        "start": 1052.24,
+        "duration": 4.16,
+        "start_formatted": "17:32",
+        "text": "information you need without you having"
+      },
+      {
+        "start": 1054.44,
+        "duration": 4.12,
+        "start_formatted": "17:34",
+        "text": "to dig through your emails. They also"
+      },
+      {
+        "start": 1056.4,
+        "duration": 4.04,
+        "start_formatted": "17:36",
+        "text": "introduced Docs live, which is a"
+      },
+      {
+        "start": 1058.56,
+        "duration": 3.44,
+        "start_formatted": "17:38",
+        "text": "voice-powered writing partner."
+      },
+      {
+        "start": 1060.44,
+        "duration": 3.96,
+        "start_formatted": "17:40",
+        "text": "Basically, you can ramble through an"
+      },
+      {
+        "start": 1062.0,
+        "duration": 4.44,
+        "start_formatted": "17:42",
+        "text": "idea, talk through a rough draft, or"
+      },
+      {
+        "start": 1064.4,
+        "duration": 3.88,
+        "start_formatted": "17:44",
+        "text": "brainstorm out loud, and Docs can"
+      },
+      {
+        "start": 1066.44,
+        "duration": 3.8,
+        "start_formatted": "17:46",
+        "text": "organize your thoughts and help you"
+      },
+      {
+        "start": 1068.28,
+        "duration": 4.0,
+        "start_formatted": "17:48",
+        "text": "write things out. Instead of needing a"
+      },
+      {
+        "start": 1070.24,
+        "duration": 4.16,
+        "start_formatted": "17:50",
+        "text": "clean prompt, you can just think out"
+      },
+      {
+        "start": 1072.28,
+        "duration": 3.64,
+        "start_formatted": "17:52",
+        "text": "loud, and Docs helps turn that into"
+      },
+      {
+        "start": 1074.4,
+        "duration": 3.84,
+        "start_formatted": "17:54",
+        "text": "something usable."
+      },
+      {
+        "start": 1075.92,
+        "duration": 4.24,
+        "start_formatted": "17:55",
+        "text": "All right, let's try this out. So, I"
+      },
+      {
+        "start": 1078.24,
+        "duration": 3.32,
+        "start_formatted": "17:58",
+        "text": "just remembered I'm doing an alumni talk"
+      },
+      {
+        "start": 1080.16,
+        "duration": 3.16,
+        "start_formatted": "18:00",
+        "text": "for my high school's career day"
+      },
+      {
+        "start": 1081.56,
+        "duration": 2.76,
+        "start_formatted": "18:01",
+        "text": "tomorrow. Uh,"
+      },
+      {
+        "start": 1083.32,
+        "duration": 2.48,
+        "start_formatted": "18:03",
+        "text": "I need to come up with some talking"
+      },
+      {
+        "start": 1084.32,
+        "duration": 3.16,
+        "start_formatted": "18:04",
+        "text": "points to explain what I do for a living"
+      },
+      {
+        "start": 1085.8,
+        "duration": 4.0,
+        "start_formatted": "18:05",
+        "text": "as a software engineer, but I'm not"
+      },
+      {
+        "start": 1087.48,
+        "duration": 4.52,
+        "start_formatted": "18:07",
+        "text": "really sure where to start."
+      },
+      {
+        "start": 1089.8,
+        "duration": 4.84,
+        "start_formatted": "18:09",
+        "text": "Oh, actually, can you just pull my"
+      },
+      {
+        "start": 1092.0,
+        "duration": 4.32,
+        "start_formatted": "18:12",
+        "text": "resume from Drive? Although, that might"
+      },
+      {
+        "start": 1094.64,
+        "duration": 3.16,
+        "start_formatted": "18:14",
+        "text": "be boring. Um,"
+      },
+      {
+        "start": 1096.32,
+        "duration": 3.32,
+        "start_formatted": "18:16",
+        "text": "maybe can you come up with some funny"
+      },
+      {
+        "start": 1097.8,
+        "duration": 4.08,
+        "start_formatted": "18:17",
+        "text": "analogies so it'll be more of an"
+      },
+      {
+        "start": 1099.64,
+        "duration": 4.16,
+        "start_formatted": "18:19",
+        "text": "engaging talk for the students. Oh, and"
+      },
+      {
+        "start": 1101.88,
+        "duration": 3.32,
+        "start_formatted": "18:21",
+        "text": "also, I think the school sent me an"
+      },
+      {
+        "start": 1103.8,
+        "duration": 3.2,
+        "start_formatted": "18:23",
+        "text": "email."
+      },
+      {
+        "start": 1105.2,
+        "duration": 3.8,
+        "start_formatted": "18:25",
+        "text": "I think the subject is something like"
+      },
+      {
+        "start": 1107.0,
+        "duration": 3.6,
+        "start_formatted": "18:27",
+        "text": "career day logistics. Maybe just grab"
+      },
+      {
+        "start": 1109.0,
+        "duration": 3.04,
+        "start_formatted": "18:29",
+        "text": "the details from there, throw them at"
+      },
+      {
+        "start": 1110.6,
+        "duration": 3.56,
+        "start_formatted": "18:30",
+        "text": "the top of the doc so I know where to go"
+      },
+      {
+        "start": 1112.04,
+        "duration": 4.0,
+        "start_formatted": "18:32",
+        "text": "and what time to get there."
+      },
+      {
+        "start": 1114.16,
+        "duration": 5.24,
+        "start_formatted": "18:34",
+        "text": "Let's just update those requirements and"
+      },
+      {
+        "start": 1116.04,
+        "duration": 3.36,
+        "start_formatted": "18:36",
+        "text": "turn this straight into a draft."
+      },
+      {
+        "start": 1122.027,
+        "duration": 3.573,
+        "start_formatted": "18:42",
+        "text": ">> [applause]"
+      },
+      {
+        "start": 1123.68,
+        "duration": 4.56,
+        "start_formatted": "18:43",
+        "text": ">> This is cool, but it's a little dense."
+      },
+      {
+        "start": 1125.6,
+        "duration": 4.84,
+        "start_formatted": "18:45",
+        "text": "Maybe format the analogies as a table so"
+      },
+      {
+        "start": 1128.24,
+        "duration": 3.96,
+        "start_formatted": "18:48",
+        "text": "it's a little easier for me to scan. And"
+      },
+      {
+        "start": 1130.44,
+        "duration": 3.24,
+        "start_formatted": "18:50",
+        "text": "also, add a note to tell the story about"
+      },
+      {
+        "start": 1132.2,
+        "duration": 3.36,
+        "start_formatted": "18:52",
+        "text": "how my brother inspired me to become a"
+      },
+      {
+        "start": 1133.68,
+        "duration": 6.0,
+        "start_formatted": "18:53",
+        "text": "software engineer. Sort of at the top of"
+      },
+      {
+        "start": 1135.56,
+        "duration": 4.12,
+        "start_formatted": "18:55",
+        "text": "my doc and bold it so I don't miss it."
+      },
+      {
+        "start": 1141.6,
+        "duration": 3.408,
+        "start_formatted": "19:01",
+        "text": "Yeah, oh, it's great."
+      },
+      {
+        "start": 1142.988,
+        "duration": 2.02,
+        "start_formatted": "19:02",
+        "text": ">> [applause]"
+      },
+      {
+        "start": 1146.24,
+        "duration": 3.28,
+        "start_formatted": "19:06",
+        "text": ">> And if you're not familiar with Google"
+      },
+      {
+        "start": 1147.6,
+        "duration": 3.76,
+        "start_formatted": "19:07",
+        "text": "Keep, this is like Google's note-taking"
+      },
+      {
+        "start": 1149.52,
+        "duration": 3.92,
+        "start_formatted": "19:09",
+        "text": "app. It's also getting a similar"
+      },
+      {
+        "start": 1151.36,
+        "duration": 4.2,
+        "start_formatted": "19:11",
+        "text": "upgrade. You can just brain dump into"
+      },
+      {
+        "start": 1153.44,
+        "duration": 4.16,
+        "start_formatted": "19:13",
+        "text": "Keep and it'll use AI to turn your"
+      },
+      {
+        "start": 1155.56,
+        "duration": 4.04,
+        "start_formatted": "19:15",
+        "text": "scattered thoughts into organized notes"
+      },
+      {
+        "start": 1157.6,
+        "duration": 4.8,
+        "start_formatted": "19:17",
+        "text": "in the background. These voice features"
+      },
+      {
+        "start": 1159.6,
+        "duration": 5.08,
+        "start_formatted": "19:19",
+        "text": "are rolling out this summer first to Pro"
+      },
+      {
+        "start": 1162.4,
+        "duration": 4.6,
+        "start_formatted": "19:22",
+        "text": "and Ultra subscribers and Workspace"
+      },
+      {
+        "start": 1164.68,
+        "duration": 4.56,
+        "start_formatted": "19:24",
+        "text": "business customers. Another big update"
+      },
+      {
+        "start": 1167.0,
+        "duration": 4.48,
+        "start_formatted": "19:27",
+        "text": "is Google Pix, which is different from"
+      },
+      {
+        "start": 1169.24,
+        "duration": 4.72,
+        "start_formatted": "19:29",
+        "text": "Google Photos. So, don't mix those two"
+      },
+      {
+        "start": 1171.48,
+        "duration": 5.2,
+        "start_formatted": "19:31",
+        "text": "up. This is actually a new image"
+      },
+      {
+        "start": 1173.96,
+        "duration": 5.08,
+        "start_formatted": "19:33",
+        "text": "creation and editing tool built on their"
+      },
+      {
+        "start": 1176.68,
+        "duration": 4.6,
+        "start_formatted": "19:36",
+        "text": "Nano banana model. If you've been using"
+      },
+      {
+        "start": 1179.04,
+        "duration": 4.28,
+        "start_formatted": "19:39",
+        "text": "AI image models, you often run into a"
+      },
+      {
+        "start": 1181.28,
+        "duration": 4.36,
+        "start_formatted": "19:41",
+        "text": "very common problem, which is you get an"
+      },
+      {
+        "start": 1183.32,
+        "duration": 4.4,
+        "start_formatted": "19:43",
+        "text": "image that's almost right, but changing"
+      },
+      {
+        "start": 1185.64,
+        "duration": 4.04,
+        "start_formatted": "19:45",
+        "text": "one small thing often means starting"
+      },
+      {
+        "start": 1187.72,
+        "duration": 4.24,
+        "start_formatted": "19:47",
+        "text": "over. Well, Google Pix is designed to"
+      },
+      {
+        "start": 1189.68,
+        "duration": 4.96,
+        "start_formatted": "19:49",
+        "text": "make this image editing more smooth. You"
+      },
+      {
+        "start": 1191.96,
+        "duration": 4.56,
+        "start_formatted": "19:51",
+        "text": "can generate, edit, and refine visuals"
+      },
+      {
+        "start": 1194.64,
+        "duration": 4.0,
+        "start_formatted": "19:54",
+        "text": "with more precision. You can select"
+      },
+      {
+        "start": 1196.52,
+        "duration": 4.12,
+        "start_formatted": "19:56",
+        "text": "specific objects, move them, resize"
+      },
+      {
+        "start": 1198.64,
+        "duration": 4.28,
+        "start_formatted": "19:58",
+        "text": "them, or transform them without changing"
+      },
+      {
+        "start": 1200.64,
+        "duration": 4.52,
+        "start_formatted": "20:00",
+        "text": "the rest of the image. Now, by itself,"
+      },
+      {
+        "start": 1202.92,
+        "duration": 4.0,
+        "start_formatted": "20:02",
+        "text": "Google Pix isn't too impressive. I mean,"
+      },
+      {
+        "start": 1205.16,
+        "duration": 3.84,
+        "start_formatted": "20:05",
+        "text": "we have other similar image editing"
+      },
+      {
+        "start": 1206.92,
+        "duration": 4.0,
+        "start_formatted": "20:06",
+        "text": "tools out there already, but the cool"
+      },
+      {
+        "start": 1209.0,
+        "duration": 4.12,
+        "start_formatted": "20:09",
+        "text": "thing about this is it's being"
+      },
+      {
+        "start": 1210.92,
+        "duration": 5.12,
+        "start_formatted": "20:10",
+        "text": "integrated directly into Google"
+      },
+      {
+        "start": 1213.12,
+        "duration": 4.88,
+        "start_formatted": "20:13",
+        "text": "Workspace like Docs, Slides, and Drive."
+      },
+      {
+        "start": 1216.04,
+        "duration": 3.68,
+        "start_formatted": "20:16",
+        "text": "So, you can edit visuals where you're"
+      },
+      {
+        "start": 1218.0,
+        "duration": 3.64,
+        "start_formatted": "20:18",
+        "text": "already working instead of bouncing"
+      },
+      {
+        "start": 1219.72,
+        "duration": 3.56,
+        "start_formatted": "20:19",
+        "text": "between tabs. Now, Google Pix is"
+      },
+      {
+        "start": 1221.64,
+        "duration": 3.64,
+        "start_formatted": "20:21",
+        "text": "launching first to a limited group of"
+      },
+      {
+        "start": 1223.28,
+        "duration": 4.68,
+        "start_formatted": "20:23",
+        "text": "trusted testers, then it's going to roll"
+      },
+      {
+        "start": 1225.28,
+        "duration": 5.0,
+        "start_formatted": "20:25",
+        "text": "out globally this summer to Pro and"
+      },
+      {
+        "start": 1227.96,
+        "duration": 4.08,
+        "start_formatted": "20:27",
+        "text": "Ultra subscribers. And then there's AI"
+      },
+      {
+        "start": 1230.28,
+        "duration": 4.12,
+        "start_formatted": "20:30",
+        "text": "Inbox, which is basically Google's"
+      },
+      {
+        "start": 1232.04,
+        "duration": 4.24,
+        "start_formatted": "20:32",
+        "text": "attempt to make Gmail less overwhelming."
+      },
+      {
+        "start": 1234.4,
+        "duration": 4.8,
+        "start_formatted": "20:34",
+        "text": "Instead of treating your inbox like one"
+      },
+      {
+        "start": 1236.28,
+        "duration": 4.96,
+        "start_formatted": "20:36",
+        "text": "giant pile of messages, AI Inbox looks"
+      },
+      {
+        "start": 1239.2,
+        "duration": 4.4,
+        "start_formatted": "20:39",
+        "text": "for what actually matters. Important"
+      },
+      {
+        "start": 1241.24,
+        "duration": 4.2,
+        "start_formatted": "20:41",
+        "text": "updates, time-sensitive tasks, things"
+      },
+      {
+        "start": 1243.6,
+        "duration": 3.56,
+        "start_formatted": "20:43",
+        "text": "you need to respond to, and files you"
+      },
+      {
+        "start": 1245.44,
+        "duration": 4.36,
+        "start_formatted": "20:45",
+        "text": "need to review. The new version can"
+      },
+      {
+        "start": 1247.16,
+        "duration": 4.4,
+        "start_formatted": "20:47",
+        "text": "generate personalized replies. So, when"
+      },
+      {
+        "start": 1249.8,
+        "duration": 3.84,
+        "start_formatted": "20:49",
+        "text": "an email needs a quick response, it"
+      },
+      {
+        "start": 1251.56,
+        "duration": 4.88,
+        "start_formatted": "20:51",
+        "text": "already prepares a reply that you can"
+      },
+      {
+        "start": 1253.64,
+        "duration": 5.52,
+        "start_formatted": "20:53",
+        "text": "just review and press send. It can also"
+      },
+      {
+        "start": 1256.44,
+        "duration": 5.36,
+        "start_formatted": "20:56",
+        "text": "locate and surface the exact Google Doc"
+      },
+      {
+        "start": 1259.16,
+        "duration": 4.6,
+        "start_formatted": "20:59",
+        "text": "or Sheet or Slide or attachment, so you"
+      },
+      {
+        "start": 1261.8,
+        "duration": 3.6,
+        "start_formatted": "21:01",
+        "text": "don't have to scroll through your emails"
+      },
+      {
+        "start": 1263.76,
+        "duration": 4.24,
+        "start_formatted": "21:03",
+        "text": "hunting for the right file or"
+      },
+      {
+        "start": 1265.4,
+        "duration": 4.8,
+        "start_formatted": "21:05",
+        "text": "attachment. Finally, Workspace is also"
+      },
+      {
+        "start": 1268.0,
+        "duration": 5.04,
+        "start_formatted": "21:08",
+        "text": "getting Gemini Spark. Remember, this is"
+      },
+      {
+        "start": 1270.2,
+        "duration": 5.08,
+        "start_formatted": "21:10",
+        "text": "kind of like open claws, so it's a 24/7"
+      },
+      {
+        "start": 1273.04,
+        "duration": 4.24,
+        "start_formatted": "21:13",
+        "text": "personal agent. Spark isn't just there"
+      },
+      {
+        "start": 1275.28,
+        "duration": 4.8,
+        "start_formatted": "21:15",
+        "text": "to answer questions, it's designed to"
+      },
+      {
+        "start": 1277.28,
+        "duration": 4.96,
+        "start_formatted": "21:17",
+        "text": "take action on your behalf while being"
+      },
+      {
+        "start": 1280.08,
+        "duration": 4.2,
+        "start_formatted": "21:20",
+        "text": "connected to your workspace apps. It's"
+      },
+      {
+        "start": 1282.24,
+        "duration": 4.28,
+        "start_formatted": "21:22",
+        "text": "like having an assistant that can help"
+      },
+      {
+        "start": 1284.28,
+        "duration": 4.76,
+        "start_formatted": "21:24",
+        "text": "monitor, organize, and prepare things"
+      },
+      {
+        "start": 1286.52,
+        "duration": 4.68,
+        "start_formatted": "21:26",
+        "text": "for you across Gmail, Docs, Calendar,"
+      },
+      {
+        "start": 1289.04,
+        "duration": 4.12,
+        "start_formatted": "21:29",
+        "text": "and more. So, overall, these workspace"
+      },
+      {
+        "start": 1291.2,
+        "duration": 3.68,
+        "start_formatted": "21:31",
+        "text": "updates are less about one flashy"
+      },
+      {
+        "start": 1293.16,
+        "duration": 3.56,
+        "start_formatted": "21:33",
+        "text": "feature and more about a broader"
+      },
+      {
+        "start": 1294.88,
+        "duration": 4.32,
+        "start_formatted": "21:34",
+        "text": "direction. Google is trying to make"
+      },
+      {
+        "start": 1296.72,
+        "duration": 4.8,
+        "start_formatted": "21:36",
+        "text": "everyday productivity feel more natural"
+      },
+      {
+        "start": 1299.2,
+        "duration": 4.44,
+        "start_formatted": "21:39",
+        "text": "and less manual. You can speak instead"
+      },
+      {
+        "start": 1301.52,
+        "duration": 4.16,
+        "start_formatted": "21:41",
+        "text": "of type, brain dump instead of carefully"
+      },
+      {
+        "start": 1303.64,
+        "duration": 4.08,
+        "start_formatted": "21:43",
+        "text": "formatting, and you can just talk to an"
+      },
+      {
+        "start": 1305.68,
+        "duration": 4.72,
+        "start_formatted": "21:45",
+        "text": "AI agent to help you do most of your"
+      },
+      {
+        "start": 1307.72,
+        "duration": 5.28,
+        "start_formatted": "21:47",
+        "text": "work autonomously. Next up, this is the"
+      },
+      {
+        "start": 1310.4,
+        "duration": 4.76,
+        "start_formatted": "21:50",
+        "text": "feature I'm most excited about. Google"
+      },
+      {
+        "start": 1313.0,
+        "duration": 4.48,
+        "start_formatted": "21:53",
+        "text": "also showed off their new Android XR"
+      },
+      {
+        "start": 1315.16,
+        "duration": 4.64,
+        "start_formatted": "21:55",
+        "text": "smart glasses. I think we are finally"
+      },
+      {
+        "start": 1317.48,
+        "duration": 4.16,
+        "start_formatted": "21:57",
+        "text": "moving from just a sci-fi demo to"
+      },
+      {
+        "start": 1319.8,
+        "duration": 4.0,
+        "start_formatted": "21:59",
+        "text": "something you might actually wear every"
+      },
+      {
+        "start": 1321.64,
+        "duration": 5.2,
+        "start_formatted": "22:01",
+        "text": "day. These are glasses built with"
+      },
+      {
+        "start": 1323.8,
+        "duration": 5.2,
+        "start_formatted": "22:03",
+        "text": "Samsung and Qualcomm, powered by Gemini,"
+      },
+      {
+        "start": 1326.84,
+        "duration": 3.88,
+        "start_formatted": "22:06",
+        "text": "and they're designed to help you in real"
+      },
+      {
+        "start": 1329.0,
+        "duration": 3.76,
+        "start_formatted": "22:09",
+        "text": "life without having to pull out your"
+      },
+      {
+        "start": 1330.72,
+        "duration": 4.16,
+        "start_formatted": "22:10",
+        "text": "phone. You can just ask Gemini through"
+      },
+      {
+        "start": 1332.76,
+        "duration": 4.08,
+        "start_formatted": "22:12",
+        "text": "your glasses while you keep looking at"
+      },
+      {
+        "start": 1334.88,
+        "duration": 4.0,
+        "start_formatted": "22:14",
+        "text": "the world around you. Now, Google has"
+      },
+      {
+        "start": 1336.84,
+        "duration": 4.84,
+        "start_formatted": "22:16",
+        "text": "said there will be two types of smart"
+      },
+      {
+        "start": 1338.88,
+        "duration": 5.08,
+        "start_formatted": "22:18",
+        "text": "glasses. The first one is audio glasses,"
+      },
+      {
+        "start": 1341.68,
+        "duration": 4.84,
+        "start_formatted": "22:21",
+        "text": "which give you spoken help through"
+      },
+      {
+        "start": 1343.96,
+        "duration": 4.64,
+        "start_formatted": "22:23",
+        "text": "private over your speakers. The second"
+      },
+      {
+        "start": 1346.52,
+        "duration": 4.16,
+        "start_formatted": "22:26",
+        "text": "is display glasses, which actually show"
+      },
+      {
+        "start": 1348.6,
+        "duration": 3.96,
+        "start_formatted": "22:28",
+        "text": "you information right in your view when"
+      },
+      {
+        "start": 1350.68,
+        "duration": 4.16,
+        "start_formatted": "22:30",
+        "text": "you need it. And the key thing here is"
+      },
+      {
+        "start": 1352.56,
+        "duration": 4.68,
+        "start_formatted": "22:32",
+        "text": "that Gemini isn't just sitting inside"
+      },
+      {
+        "start": 1354.84,
+        "duration": 4.2,
+        "start_formatted": "22:34",
+        "text": "the glasses as a voice assistant. It can"
+      },
+      {
+        "start": 1357.24,
+        "duration": 3.88,
+        "start_formatted": "22:37",
+        "text": "understand what you're looking at,"
+      },
+      {
+        "start": 1359.04,
+        "duration": 3.84,
+        "start_formatted": "22:39",
+        "text": "respond to questions, and help you get"
+      },
+      {
+        "start": 1361.12,
+        "duration": 3.64,
+        "start_formatted": "22:41",
+        "text": "things done. So, when you're walking"
+      },
+      {
+        "start": 1362.88,
+        "duration": 3.4,
+        "start_formatted": "22:42",
+        "text": "past a restaurant, you can ask for"
+      },
+      {
+        "start": 1364.76,
+        "duration": 3.72,
+        "start_formatted": "22:44",
+        "text": "reviews. If you're staring at a"
+      },
+      {
+        "start": 1366.28,
+        "duration": 4.36,
+        "start_formatted": "22:46",
+        "text": "confusing parking sign, Gemini can"
+      },
+      {
+        "start": 1368.48,
+        "duration": 4.64,
+        "start_formatted": "22:48",
+        "text": "decode it for you. Basically, this takes"
+      },
+      {
+        "start": 1370.64,
+        "duration": 4.72,
+        "start_formatted": "22:50",
+        "text": "your real-world surroundings as input"
+      },
+      {
+        "start": 1373.12,
+        "duration": 3.88,
+        "start_formatted": "22:53",
+        "text": "and outputs very useful context right"
+      },
+      {
+        "start": 1375.36,
+        "duration": 3.96,
+        "start_formatted": "22:55",
+        "text": "when you need it. That's what makes"
+      },
+      {
+        "start": 1377.0,
+        "duration": 5.24,
+        "start_formatted": "22:57",
+        "text": "glasses such an interesting form factor"
+      },
+      {
+        "start": 1379.32,
+        "duration": 4.84,
+        "start_formatted": "22:59",
+        "text": "for AI. Navigation is another big use"
+      },
+      {
+        "start": 1382.24,
+        "duration": 3.64,
+        "start_formatted": "23:02",
+        "text": "case here. Because the glasses know"
+      },
+      {
+        "start": 1384.16,
+        "duration": 3.84,
+        "start_formatted": "23:04",
+        "text": "where you're standing and which"
+      },
+      {
+        "start": 1385.88,
+        "duration": 4.16,
+        "start_formatted": "23:05",
+        "text": "direction you're facing, they can give"
+      },
+      {
+        "start": 1388.0,
+        "duration": 4.48,
+        "start_formatted": "23:08",
+        "text": "you more natural turn-by-turn"
+      },
+      {
+        "start": 1390.04,
+        "duration": 4.6,
+        "start_formatted": "23:10",
+        "text": "directions. Gemini can also add stops to"
+      },
+      {
+        "start": 1392.48,
+        "duration": 4.12,
+        "start_formatted": "23:12",
+        "text": "your route or find nearby restaurants"
+      },
+      {
+        "start": 1394.64,
+        "duration": 4.48,
+        "start_formatted": "23:14",
+        "text": "based on your preferences. The glasses"
+      },
+      {
+        "start": 1396.6,
+        "duration": 4.76,
+        "start_formatted": "23:16",
+        "text": "also handle communication and media. So,"
+      },
+      {
+        "start": 1399.12,
+        "duration": 4.32,
+        "start_formatted": "23:19",
+        "text": "you can manage calls, send texts, hear"
+      },
+      {
+        "start": 1401.36,
+        "duration": 3.84,
+        "start_formatted": "23:21",
+        "text": "summaries of missed messages, and listen"
+      },
+      {
+        "start": 1403.44,
+        "duration": 4.04,
+        "start_formatted": "23:23",
+        "text": "to music without reaching into your"
+      },
+      {
+        "start": 1405.2,
+        "duration": 4.16,
+        "start_formatted": "23:25",
+        "text": "pocket. Translation is another really"
+      },
+      {
+        "start": 1407.48,
+        "duration": 4.48,
+        "start_formatted": "23:27",
+        "text": "obviously helpful feature that's"
+      },
+      {
+        "start": 1409.36,
+        "duration": 5.2,
+        "start_formatted": "23:29",
+        "text": "especially useful in glasses. Gemini can"
+      },
+      {
+        "start": 1411.96,
+        "duration": 4.52,
+        "start_formatted": "23:31",
+        "text": "translate speech in real time with audio"
+      },
+      {
+        "start": 1414.56,
+        "duration": 3.92,
+        "start_formatted": "23:34",
+        "text": "that matches the tone and pitch of the"
+      },
+      {
+        "start": 1416.48,
+        "duration": 4.44,
+        "start_formatted": "23:36",
+        "text": "original speaker. Or you can just look"
+      },
+      {
+        "start": 1418.48,
+        "duration": 4.36,
+        "start_formatted": "23:38",
+        "text": "at text on a menu or sign and then hear"
+      },
+      {
+        "start": 1420.92,
+        "duration": 3.36,
+        "start_formatted": "23:40",
+        "text": "the translation. Or if you're traveling,"
+      },
+      {
+        "start": 1422.84,
+        "duration": 3.96,
+        "start_formatted": "23:42",
+        "text": "you don't need to hold up your phone"
+      },
+      {
+        "start": 1424.28,
+        "duration": 4.04,
+        "start_formatted": "23:44",
+        "text": "awkwardly or copy text into an app. You"
+      },
+      {
+        "start": 1426.8,
+        "duration": 3.68,
+        "start_formatted": "23:46",
+        "text": "can just look, ask, and get the"
+      },
+      {
+        "start": 1428.32,
+        "duration": 4.48,
+        "start_formatted": "23:48",
+        "text": "translation in real time. Here it says"
+      },
+      {
+        "start": 1430.48,
+        "duration": 4.64,
+        "start_formatted": "23:50",
+        "text": "the glasses pair with both Android and"
+      },
+      {
+        "start": 1432.8,
+        "duration": 4.28,
+        "start_formatted": "23:52",
+        "text": "iOS phones. So, Google is trying to make"
+      },
+      {
+        "start": 1435.12,
+        "duration": 4.16,
+        "start_formatted": "23:55",
+        "text": "this more broadly useful instead of"
+      },
+      {
+        "start": 1437.08,
+        "duration": 4.44,
+        "start_formatted": "23:57",
+        "text": "locking it into one phone ecosystem."
+      },
+      {
+        "start": 1439.28,
+        "duration": 4.36,
+        "start_formatted": "23:59",
+        "text": "Overall, these new Android XR smart"
+      },
+      {
+        "start": 1441.52,
+        "duration": 4.2,
+        "start_formatted": "24:01",
+        "text": "glasses is Google's attempt to make AI"
+      },
+      {
+        "start": 1443.64,
+        "duration": 3.64,
+        "start_formatted": "24:03",
+        "text": "feel less like something trapped inside"
+      },
+      {
+        "start": 1445.72,
+        "duration": 3.8,
+        "start_formatted": "24:05",
+        "text": "a screen and more like something that"
+      },
+      {
+        "start": 1447.28,
+        "duration": 4.12,
+        "start_formatted": "24:07",
+        "text": "moves with you through the real world."
+      },
+      {
+        "start": 1449.52,
+        "duration": 3.64,
+        "start_formatted": "24:09",
+        "text": "Now, one of the biggest reasons I'm very"
+      },
+      {
+        "start": 1451.4,
+        "duration": 3.68,
+        "start_formatted": "24:11",
+        "text": "bullish on Google is not because of"
+      },
+      {
+        "start": 1453.16,
+        "duration": 3.72,
+        "start_formatted": "24:13",
+        "text": "their Gemini models, but because of"
+      },
+      {
+        "start": 1455.08,
+        "duration": 3.76,
+        "start_formatted": "24:15",
+        "text": "their infrastructure. You see, they've"
+      },
+      {
+        "start": 1456.88,
+        "duration": 4.12,
+        "start_formatted": "24:16",
+        "text": "been building chips for AI and machine"
+      },
+      {
+        "start": 1458.84,
+        "duration": 4.48,
+        "start_formatted": "24:18",
+        "text": "learning all this time. And unlike"
+      },
+      {
+        "start": 1461.0,
+        "duration": 4.36,
+        "start_formatted": "24:21",
+        "text": "Nvidia, which makes GPUs, which can be"
+      },
+      {
+        "start": 1463.32,
+        "duration": 4.48,
+        "start_formatted": "24:23",
+        "text": "used for like video games and other"
+      },
+      {
+        "start": 1465.36,
+        "duration": 5.96,
+        "start_formatted": "24:25",
+        "text": "stuff, Google's tensor processing units"
+      },
+      {
+        "start": 1467.8,
+        "duration": 5.48,
+        "start_formatted": "24:27",
+        "text": "or TPUs are specialized for AI. I'd say"
+      },
+      {
+        "start": 1471.32,
+        "duration": 4.44,
+        "start_formatted": "24:31",
+        "text": "they have the most efficient AI"
+      },
+      {
+        "start": 1473.28,
+        "duration": 4.4,
+        "start_formatted": "24:33",
+        "text": "infrastructure at scale out of any other"
+      },
+      {
+        "start": 1475.76,
+        "duration": 4.48,
+        "start_formatted": "24:35",
+        "text": "company. And they just introduced their"
+      },
+      {
+        "start": 1477.68,
+        "duration": 4.72,
+        "start_formatted": "24:37",
+        "text": "eighth generation TPUs. In fact, there"
+      },
+      {
+        "start": 1480.24,
+        "duration": 4.92,
+        "start_formatted": "24:40",
+        "text": "are two new chips for different parts of"
+      },
+      {
+        "start": 1482.4,
+        "duration": 5.32,
+        "start_formatted": "24:42",
+        "text": "the AI pipeline. One chip is called TPU"
+      },
+      {
+        "start": 1485.16,
+        "duration": 4.72,
+        "start_formatted": "24:45",
+        "text": "8T, and this is built for training"
+      },
+      {
+        "start": 1487.72,
+        "duration": 5.0,
+        "start_formatted": "24:47",
+        "text": "massive models. The other one is called"
+      },
+      {
+        "start": 1489.88,
+        "duration": 4.8,
+        "start_formatted": "24:49",
+        "text": "TPU 8I, which is built for inference."
+      },
+      {
+        "start": 1492.72,
+        "duration": 4.12,
+        "start_formatted": "24:52",
+        "text": "So, for running AI models once they're"
+      },
+      {
+        "start": 1494.68,
+        "duration": 4.32,
+        "start_formatted": "24:54",
+        "text": "already deployed. So, this takes the two"
+      },
+      {
+        "start": 1496.84,
+        "duration": 4.52,
+        "start_formatted": "24:56",
+        "text": "biggest jobs in AI, creating the model"
+      },
+      {
+        "start": 1499.0,
+        "duration": 4.24,
+        "start_formatted": "24:59",
+        "text": "and then serving that model to users,"
+      },
+      {
+        "start": 1501.36,
+        "duration": 4.4,
+        "start_formatted": "25:01",
+        "text": "and splits them into specialized"
+      },
+      {
+        "start": 1503.24,
+        "duration": 5.0,
+        "start_formatted": "25:03",
+        "text": "hardware designed for each job. Let's go"
+      },
+      {
+        "start": 1505.76,
+        "duration": 5.04,
+        "start_formatted": "25:05",
+        "text": "over the training chip first. So, this"
+      },
+      {
+        "start": 1508.24,
+        "duration": 4.92,
+        "start_formatted": "25:08",
+        "text": "HT is designed to shrink the model"
+      },
+      {
+        "start": 1510.8,
+        "duration": 5.6,
+        "start_formatted": "25:10",
+        "text": "development cycle from months to just"
+      },
+      {
+        "start": 1513.16,
+        "duration": 6.0,
+        "start_formatted": "25:13",
+        "text": "weeks. Plus, a single TPU HT Superpod"
+      },
+      {
+        "start": 1516.4,
+        "duration": 5.44,
+        "start_formatted": "25:16",
+        "text": "can scale to 9,600"
+      },
+      {
+        "start": 1519.16,
+        "duration": 5.88,
+        "start_formatted": "25:19",
+        "text": "chips with 2 petabytes of shared"
+      },
+      {
+        "start": 1521.84,
+        "duration": 5.28,
+        "start_formatted": "25:21",
+        "text": "high-bandwidth memory, 121 exaflops of"
+      },
+      {
+        "start": 1525.04,
+        "duration": 4.04,
+        "start_formatted": "25:25",
+        "text": "compute, and double the inter-chip"
+      },
+      {
+        "start": 1527.12,
+        "duration": 4.32,
+        "start_formatted": "25:27",
+        "text": "bandwidth of the previous generation."
+      },
+      {
+        "start": 1529.08,
+        "duration": 4.88,
+        "start_formatted": "25:29",
+        "text": "Basically, this whole Superpod acts like"
+      },
+      {
+        "start": 1531.44,
+        "duration": 5.32,
+        "start_formatted": "25:31",
+        "text": "one giant AI training engine with a"
+      },
+      {
+        "start": 1533.96,
+        "duration": 4.56,
+        "start_formatted": "25:33",
+        "text": "massive shared memory pool, so extremely"
+      },
+      {
+        "start": 1536.76,
+        "duration": 4.28,
+        "start_formatted": "25:36",
+        "text": "complex models can be trained very"
+      },
+      {
+        "start": 1538.52,
+        "duration": 4.56,
+        "start_formatted": "25:38",
+        "text": "efficiently. Google also says HT"
+      },
+      {
+        "start": 1541.04,
+        "duration": 4.44,
+        "start_formatted": "25:41",
+        "text": "delivers three times the compute"
+      },
+      {
+        "start": 1543.08,
+        "duration": 4.56,
+        "start_formatted": "25:43",
+        "text": "performance per pod compared with the"
+      },
+      {
+        "start": 1545.48,
+        "duration": 3.8,
+        "start_formatted": "25:45",
+        "text": "previous generation. And it targets over"
+      },
+      {
+        "start": 1547.64,
+        "duration": 3.88,
+        "start_formatted": "25:47",
+        "text": "97%"
+      },
+      {
+        "start": 1549.28,
+        "duration": 4.84,
+        "start_formatted": "25:49",
+        "text": "goodput, which basically means more of"
+      },
+      {
+        "start": 1551.52,
+        "duration": 4.36,
+        "start_formatted": "25:51",
+        "text": "the cluster's time is spent doing work"
+      },
+      {
+        "start": 1554.12,
+        "duration": 4.0,
+        "start_formatted": "25:54",
+        "text": "instead of recovering from waiting or"
+      },
+      {
+        "start": 1555.88,
+        "duration": 4.6,
+        "start_formatted": "25:55",
+        "text": "restarting. At this scale, even a tiny"
+      },
+      {
+        "start": 1558.12,
+        "duration": 4.84,
+        "start_formatted": "25:58",
+        "text": "percentage of improvement can save days"
+      },
+      {
+        "start": 1560.48,
+        "duration": 5.08,
+        "start_formatted": "26:00",
+        "text": "of training time. Then, there's the TPU"
+      },
+      {
+        "start": 1562.96,
+        "duration": 4.2,
+        "start_formatted": "26:02",
+        "text": "8i, which is built for inference. This"
+      },
+      {
+        "start": 1565.56,
+        "duration": 3.88,
+        "start_formatted": "26:05",
+        "text": "means powering the models that are used"
+      },
+      {
+        "start": 1567.16,
+        "duration": 4.6,
+        "start_formatted": "26:07",
+        "text": "when people prompt Gemini. So, when"
+      },
+      {
+        "start": 1569.44,
+        "duration": 5.8,
+        "start_formatted": "26:09",
+        "text": "millions of users ask questions to"
+      },
+      {
+        "start": 1571.76,
+        "duration": 5.68,
+        "start_formatted": "26:11",
+        "text": "Gemini, this TPU 8i is the chip designed"
+      },
+      {
+        "start": 1575.24,
+        "duration": 4.32,
+        "start_formatted": "26:15",
+        "text": "to serve these responses quickly. And"
+      },
+      {
+        "start": 1577.44,
+        "duration": 4.8,
+        "start_formatted": "26:17",
+        "text": "the big problem it's trying to solve is"
+      },
+      {
+        "start": 1579.56,
+        "duration": 4.84,
+        "start_formatted": "26:19",
+        "text": "latency. If you have one AI agent asking"
+      },
+      {
+        "start": 1582.24,
+        "duration": 4.2,
+        "start_formatted": "26:22",
+        "text": "another agent for help, then calling a"
+      },
+      {
+        "start": 1584.4,
+        "duration": 3.6,
+        "start_formatted": "26:24",
+        "text": "tool, then checking the result, then"
+      },
+      {
+        "start": 1586.44,
+        "duration": 3.64,
+        "start_formatted": "26:26",
+        "text": "asking another model to revise"
+      },
+      {
+        "start": 1588.0,
+        "duration": 4.56,
+        "start_formatted": "26:28",
+        "text": "something, small delays can stack up"
+      },
+      {
+        "start": 1590.08,
+        "duration": 6.28,
+        "start_formatted": "26:30",
+        "text": "fast. Now, the TPU attacks this problem"
+      },
+      {
+        "start": 1592.56,
+        "duration": 6.72,
+        "start_formatted": "26:32",
+        "text": "with 288 GB of high-bandwidth memory and"
+      },
+      {
+        "start": 1596.36,
+        "duration": 4.56,
+        "start_formatted": "26:36",
+        "text": "almost 400 MB of on-chip SRAM, which is"
+      },
+      {
+        "start": 1599.28,
+        "duration": 3.96,
+        "start_formatted": "26:39",
+        "text": "three times more than the previous"
+      },
+      {
+        "start": 1600.92,
+        "duration": 4.2,
+        "start_formatted": "26:40",
+        "text": "generation. They also doubled the"
+      },
+      {
+        "start": 1603.24,
+        "duration": 4.12,
+        "start_formatted": "26:43",
+        "text": "interconnect bandwidth, and they also"
+      },
+      {
+        "start": 1605.12,
+        "duration": 5.0,
+        "start_formatted": "26:45",
+        "text": "introduced a new Board Fly architecture"
+      },
+      {
+        "start": 1607.36,
+        "duration": 5.2,
+        "start_formatted": "26:47",
+        "text": "that cuts the max network diameter by by"
+      },
+      {
+        "start": 1610.12,
+        "duration": 5.36,
+        "start_formatted": "26:50",
+        "text": "than half. So, overall, these changes"
+      },
+      {
+        "start": 1612.56,
+        "duration": 4.8,
+        "start_formatted": "26:52",
+        "text": "deliver 80% better performance compared"
+      },
+      {
+        "start": 1615.48,
+        "duration": 4.24,
+        "start_formatted": "26:55",
+        "text": "to the previous generation. The other"
+      },
+      {
+        "start": 1617.36,
+        "duration": 4.36,
+        "start_formatted": "26:57",
+        "text": "major theme here is efficiency. Google"
+      },
+      {
+        "start": 1619.72,
+        "duration": 4.12,
+        "start_formatted": "26:59",
+        "text": "points out that in modern data centers,"
+      },
+      {
+        "start": 1621.72,
+        "duration": 3.52,
+        "start_formatted": "27:01",
+        "text": "power can just be as limiting as chip"
+      },
+      {
+        "start": 1623.84,
+        "duration": 3.72,
+        "start_formatted": "27:03",
+        "text": "supply. You need to run them"
+      },
+      {
+        "start": 1625.24,
+        "duration": 4.32,
+        "start_formatted": "27:05",
+        "text": "efficiently, cool them efficiently, and"
+      },
+      {
+        "start": 1627.56,
+        "duration": 4.16,
+        "start_formatted": "27:07",
+        "text": "move data between them without wasting"
+      },
+      {
+        "start": 1629.56,
+        "duration": 5.08,
+        "start_formatted": "27:09",
+        "text": "huge amounts of energy. The new 8th"
+      },
+      {
+        "start": 1631.72,
+        "duration": 4.76,
+        "start_formatted": "27:11",
+        "text": "generation of TPUs deliver up to two"
+      },
+      {
+        "start": 1634.64,
+        "duration": 3.8,
+        "start_formatted": "27:14",
+        "text": "times better performance per watt"
+      },
+      {
+        "start": 1636.48,
+        "duration": 3.64,
+        "start_formatted": "27:16",
+        "text": "compared to the previous generation. So,"
+      },
+      {
+        "start": 1638.44,
+        "duration": 3.8,
+        "start_formatted": "27:18",
+        "text": "in summary, Google's data centers now"
+      },
+      {
+        "start": 1640.12,
+        "duration": 5.04,
+        "start_formatted": "27:20",
+        "text": "deliver six times more computing power"
+      },
+      {
+        "start": 1642.24,
+        "duration": 5.24,
+        "start_formatted": "27:22",
+        "text": "per unit of electricity than they did 5"
+      },
+      {
+        "start": 1645.16,
+        "duration": 4.44,
+        "start_formatted": "27:25",
+        "text": "years ago, which is quite remarkable."
+      },
+      {
+        "start": 1647.48,
+        "duration": 4.72,
+        "start_formatted": "27:27",
+        "text": "Anyways, that sums up all the highlights"
+      },
+      {
+        "start": 1649.6,
+        "duration": 3.8,
+        "start_formatted": "27:29",
+        "text": "and announcements from Google I/O. Let"
+      },
+      {
+        "start": 1652.2,
+        "duration": 3.36,
+        "start_formatted": "27:32",
+        "text": "me know in the comments what you think"
+      },
+      {
+        "start": 1653.4,
+        "duration": 4.68,
+        "start_formatted": "27:33",
+        "text": "of this. As always, I will be on the"
+      },
+      {
+        "start": 1655.56,
+        "duration": 4.08,
+        "start_formatted": "27:35",
+        "text": "lookout for the top AI news and tools to"
+      },
+      {
+        "start": 1658.08,
+        "duration": 2.96,
+        "start_formatted": "27:38",
+        "text": "share with you. So, if you enjoyed this"
+      },
+      {
+        "start": 1659.64,
+        "duration": 3.16,
+        "start_formatted": "27:39",
+        "text": "video, remember to like, share,"
+      },
+      {
+        "start": 1661.04,
+        "duration": 3.72,
+        "start_formatted": "27:41",
+        "text": "subscribe, and stay tuned for more"
+      },
+      {
+        "start": 1662.8,
+        "duration": 3.52,
+        "start_formatted": "27:42",
+        "text": "content. Also, there's just so much"
+      },
+      {
+        "start": 1664.76,
+        "duration": 3.56,
+        "start_formatted": "27:44",
+        "text": "happening in the world of AI every week,"
+      },
+      {
+        "start": 1666.32,
+        "duration": 3.84,
+        "start_formatted": "27:46",
+        "text": "I can't possibly cover everything on my"
+      },
+      {
+        "start": 1668.32,
+        "duration": 3.76,
+        "start_formatted": "27:48",
+        "text": "YouTube channel. So, to really stay"
+      },
+      {
+        "start": 1670.16,
+        "duration": 4.16,
+        "start_formatted": "27:50",
+        "text": "up-to-date with all that's going on in"
+      },
+      {
+        "start": 1672.08,
+        "duration": 3.88,
+        "start_formatted": "27:52",
+        "text": "AI, be sure to subscribe to my free"
+      },
+      {
+        "start": 1674.32,
+        "duration": 3.32,
+        "start_formatted": "27:54",
+        "text": "weekly newsletter. The link to that will"
+      },
+      {
+        "start": 1675.96,
+        "duration": 3.36,
+        "start_formatted": "27:55",
+        "text": "be in the description below. Thanks for"
+      },
+      {
+        "start": 1677.64,
+        "duration": 3.96,
+        "start_formatted": "27:57",
+        "text": "watching, and I'll see you in the next"
+      },
+      {
+        "start": 1679.32,
+        "duration": 2.28,
+        "start_formatted": "27:59",
+        "text": "one."
+      }
+    ],
+    "full_text": "Google just held their biggest annual event with some huge AI announcements. But here's the thing, it can be incredibly confusing. There's a ton of terms like Gemini Omni, Gemini 3.5 Flash, Gemini Spark, Antigravity 2, Google Picks, and Google Flow, and so on. It can be very overwhelming. So, in this video, I'm going to break this down into simple terms and talk about all the major announcements that you need to know about. Let's jump right in. Thanks to HubSpot for sponsoring this video. Now, one of their coolest announcements is this new model called Gemini Omni. This is Google's new AI model for video and it's super flexible. Gemini Omni is multimodal, meaning it can take in a text prompt or an image or a video or audio or any combination of the above and create a video from that. For example, we can upload this original video and then for the prompt, we can write when the person touches the mirror, make the mirror ripple beautifully like liquid and the person's arms turn into reflective mirror material. Or instead, here's another example where we can turn this person into a monochrome line art drawing. Or here's another example where we can upload this video and then get Gemini Omni to edit it so that it looks like the hole in the person's hand is zooming in and magnifying the ground. Now, because this is multimodal, this can understand all types of media including audio. For example, we can get the lights of this apartment to turn on in sync with the music. >> [music] [music] >> And it can work across different media at once. For example, we can input this video and then this reference image and have this architecture appear on the palm of his hand. Or here's another example. You can also edit the background, replace or remove objects, or even change the camera angle. For example, if this is the input video, we can replace the background into a park and then we can iterate this further by removing the violin and then we can iterate this again by changing the camera position. Notice it's able to keep the details consistent across all generations. Here's another example where we can take this video of a spaceship and then change the spaceship into another object like a seed or a clock or a red frisbee. What I'm especially impressed by is how good it is at generating educational explainer videos on certain concepts. For example, here's a claymation explainer of protein folding and most of the details are correct. Here's another really tricky prompt where we have each letter of the alphabet next to an item that starts with that letter, and it's able to generate this very well. Or here's a cool example where we can input this video of a fern plus this reference image of some fireflies plus an input audio of harp sounds. Let me play you the harp sound first. >> [music] >> And then for the prompt, we can get it to add harp sounds synchronized to when I touch the fern leaf. And here's our result. Here are some additional examples so you can easily replace anyone in an existing video with a new character like this. Or here's another example. Now, this isn't too impressive to me. We already have other omnimodal video models that are capable of doing similar things like Kling Free as well as See Dance 2.0. And at least for my initial testing, Gemini Omni doesn't seem to be as good as See Dance 2.0 in terms of anatomy and high action scenes. At least that is my initial impression. I'll continue doing some testing on this and if it's worthy, I'll make a full review video on it. For now, Gemini Omni should be available in the Gemini app as well as Google Flow for Pro users and beyond. Now, in addition to Gemini Omni, they've also announced their best and latest model Gemini 3.5 Flash. This is aimed to be a model that feels almost pro-level in intelligence but still has the speed and scale of a flash model. This is particularly aimed at agentic use. So, instead of just answering questions, this model is built for longer, more complex workflows where the AI has to plan, use tools, write code, check its work, and keep going over many steps. Google says Gemini 1.5 is best for frontier performance across agents and coding with multimodal support for text, image, video, audio, and documents just like the previous Gemini models. It's also four times faster than other frontier models when looking at output tokens per second, which matters because agentic tasks can get really expensive and slow really quickly if the model has to think, call tools, revise, and generate lots of output. You can deploy multiple sub-agents, which is basically like splitting a big project into smaller jobs and sending different AI workers to handle each part. Here are some practical demos. For example, you can get multiple agents to rename and organize messy unstructured images. And because it's multimodal, it can actually analyze and understand each image, and it's able to rename each one based on the actual content within the image and aspect ratio. And it's able to do this really quickly. Or, here's another even more impressive demo showing how this can just keep working for hours until it finishes a goal. Here, they used a team of agents to recreate the original AlphaZero research paper and build a playable version. From just two prompts, it coded the raw reinforcement learning pipeline. It also trained an AI model from scratch via self-play, and finally made a full-stack web app so you can play against it. It was able to complete all of this in just a few hours. Or, here's another cute example where multiple agents work together to build a new city landscape. You can see each agent working on a section of the city. The main thing that stands out is that this is not just a faster chatbot. Google says Gemini 1.5 Flash is its strongest agentic and coding model yet. It even outperforms Gemini 3.1 Pro on some tough coding and agentic benchmarks like MCP Atlas and Swalaflon, as well as Charkive reasoning, MMMU Pro. And keep in mind, this is just the Flash model, which is supposed to be smaller than the Pro version. Now, that being said, if I look at its performance in this independent leaderboard by Artificial Analysis, then you can see that Gemini 3.5 Flash is still behind the frontier models, including GPT-5.5 and Opus 4.7. However, keep in mind that this is just the Flash version and the Pro version is coming soon. In fact, rumors say that they're planning to roll out the Pro version next month. Anyways, for this new 3.5 Flash version, it's currently available via Google Antigravity, which we will go over right after this, plus Google's AI Studio. It's just aistudio.google.com. At the top here is where you can select the latest Gemini 3.5 Flash. And it's also available to everyone in the Gemini app and AI mode in search. So, for example, if I click on AI mode on Google and I click this, it should be using 3.5 Flash already. And notice how insanely fast this is. Next up, Google also introduced Antigravity 2.0. This is Google's new agentic coding platform. Now, they first released version 1 last year and it was basically a clone of Windsurf or Cursor. This is an IDE where you can prompt an agent to work on a codebase. But, this IDE interface is so last year. And in the past few months, Cursor and Windsurf have kind of become irrelevant already. Instead, the most popular agentic interfaces right now are OpenAI's Codex and Claude Code. Instead of an IDE, these look much simpler and it's basically a chat interface where you can orchestrate multiple agents at once. So, this new Antigravity version 2 also aims to do the same thing. It looks more like an agent chat interface where you can just work with multiple agents without ever having to look at a line of code. You can spin up dynamic sub agents for parallel work or schedule tasks for automation and connect your workflow across multiple apps. Here's a demo of Gemini 3.5 Flash in Anti-Gravity creating an operating system completely from scratch using an army of agents. It was able to keep iterating by itself and come up with a fully functional operating system in around 12 hours and it was able to play Doom. And the latest Gemini 3.5 Flash is already available in Anti-Gravity 2.0. This is perfect for agentic workflows because the new Flash model is like four times faster, especially when you're working with these agentic tools, which often involves reading files, generating code, calling tools, and checking results, fixing errors, and doing that over and over again. When I use Codex or Cloud Code, it usually takes like a few minutes for it to finish a task, whereas Anti-Gravity with Gemini 3.5 Flash is able to handle this way faster. Now, in addition to Anti-Gravity, Google also announced a huge update to the Gemini app. Instead of just being a chatbot you talk to, it's shifting more into a proactive assistant that can help you throughout the day. For example, there's a new daily brief feature, which is a personalized morning digest that works across your connected apps. Once you opt in, Gemini can look at things like Gmail updates, upcoming calendar events, and relevant follow-up details, then package everything into a skimmable briefing to start your day. But the important part is that it's not just summarizing everything randomly. Google says it can organize and prioritize based on your goals, suggest next steps, and learn over time from your feedback. Here it says daily brief is rolling out today to Google Plus subscribers and beyond starting in the US. You've probably heard a lot about SEO, but there's a new channel opening up alongside SEO that most brands aren't tracking yet. Buyers are no longer just searching on Google. They're asking tools like ChatGPT, Gemini, and Perplexity for recommendations. And those answer engines are starting to shape which companies people discover, trust, and choose. So, here's the big question. When someone asks an answer engine for the best solution in your category, does your brand show up? And if it does, what is it actually saying about you? That's what HubSpot's AEO Grader helps you find out. AEO stands for answer engine optimization. And this free tool shows you how ChatGPT, Gemini, and Perplexity characterize your brand based on their training data. You enter your company name, industry, and what you sell, and the Grader queries all three answer engines and scores your brand out of 100 across five dimensions: sentiment, presence, quality, brand recognition, share of voice, and market competition. So, you're not just seeing whether you show up, you're seeing how answer engines talk about you, whether that perception is positive or negative, how you stack up against competitors, and where the gaps are. My favorite part is the sentiment breakdown. It doesn't just tell you the overall tone, it shows you how sentiment shifts across different contexts, like whether answer engines praise your product but flag your customer support, or vice versa. Let me show you what this looks like. I'll pull up AEO Grader and run my brand through this so you can see the report. And here's the thing, if your competitors are scoring higher than you, that means answer engines are recommending them over you before a buyer ever visits your site. So, this AEO Grader is super insightful, and it's completely free. The link is in the description below. Thanks to HubSpot for sponsoring this video. Another big announcement is Gemini Spark, Google's new 24/7 personal agent. This is like Google's open core. Spark runs on Gemini 3.5 and is deeply connected with workspace tools like Gmail, Docs, Slides, and more. The key difference is that Spark is cloud-based, so it can keep working after you close your laptop or lock your phone. Think of it like an AI assistant that can monitor a task, keep track of information, and help complete workflows over time. You could teach it to check your inbox for school updates, pull out important deadlines, or send a daily summary to you and your partner. Or you can ask it to take raw meeting notes from emails and chats and synthesize them into a polished Google Doc or draft an email to kick off a project. It takes scattered information across apps and turns it into organized action. Here it says Gemini Spark will roll out to trusted testers this week, and they're planning to roll it out as a beta for US Ultra subscribers next week. Google also announced a major redesign to Google Search. The main idea is search is no longer type in a search term and see a bunch of links. It's becoming a place where you can ask anything and get instant responses or even build mini apps or get help with ongoing tasks. This new AI-powered search box expands dynamically, so you can explain what you actually need. It can help you shape your question with AI suggestions that go beyond just old-school autocomplete. And you can search with more than just text. You can use images, files, videos, or even Chrome tabs as inputs. So this takes whatever context you have, whether that's a photo, and turns it into a question search can understand. The experience also becomes more conversational. This is where Google Search feels less like a search engine and more like a set of AI helpers that can keep working after you ask. Google is starting with information agents which run in the background 24/7 and monitor the web for whatever you care about. Basically, you give the agent a very specific question or goal, and it keeps watching blogs or news sites or social media and fresh real-time data like finance, and when something changes, it sends you a synthesized update with useful next steps. So if you're for a flight or apartment hunting, you can brain dump your exact requirements like location, price, size, etc. And the agent can keep scanning for listings that match. This takes repeated searching you would normally do every day and turns it into a background assistant that keeps checking for you. And this feature is launching to AI Pro and Ultra subscribers this summer. Google is also adding agentic booking inside search. So search doesn't just find you information, it helps you act on it. When you ask for something specific like a private karaoke room for six people on a Friday night, search can actually pull together the latest pricing and availability and give you direct links to complete the booking through the provider you choose. And what I think is the most useful feature for an introvert like me is the ability for search to call businesses on my behalf. So for categories like home repair or beauty or pet care, instead of calling around to ask who's available and what it costs or whether they can handle your request, you can ask Google to do some of that work for you. Now these booking and calling features are rolling out to everyone starting in the US this summer. Then there's the agentic coding side of Google search, which is quite interesting. Google is bringing anti-gravity and the coding abilities of their new 3.5 flash directly into search. So search can generate custom interfaces on the fly. Think of it like this. Instead of asking a question and getting a paragraph, you might get a custom visual tool or a graph or simulation specifically for your question. So if you're trying to understand like astrophysics or visualize how something works, Google search could assemble an interactive explanation in real time. This matters because some topics are easier to understand when you can see a visualization or interact with it instead of just reading text. Google says that this feature will be available for everyone in search in the summer. It goes even further than just one-off visual answers. Google says search will also be able to build custom dashboards and trackers for ongoing tasks. Think of these like tiny custom apps created inside search. For example, if you're starting a new health or exercise routine, you could ask search to build a fitness tracker for you. Search can code it, connect it with fresh real-time sources, and give you something you can keep coming back to week after week. Finally, Google is expanding personal intelligence in AI mode. This means search can become more useful by understanding your personal context, but only when you choose to connect apps like Gmail, Google Photos, and Calendar. The idea is that search should not just know the web, but it should also understand the context of your life, like emails, photos, or upcoming events. Google says this is designed with transparency and choice, so you can choose to opt out if you want. So, in the coming months, we can expect Google Search to become way more personalized and automatic. Instead of just giving you a list of links, it can understand your personal context a lot more and do most of the search work for you or even generate interactive tools or mini apps right within the interface. Now, in addition to these exciting announcements to Google Search, Google also announced some huge updates for Google Workspace. So, this includes Google Docs, Sheets, Slides, Calendar, and more. The idea here is pretty clear. Workspace is moving from apps that you manually operate into AI-powered apps that take action with you. Instead of opening Gmail, Docs, Drive, and Slides as separate tools and doing all the work yourself, Google is trying to turn them into a more connected AI workspace where you can just talk naturally, dump messy ideas, and there will be an agent that autonomously does the work for you. The first big update is voice. Google is updating new conversational features to Gmail, Docs, and Keep, so you can get things done at the speed of talking instead of typing. In Gmail live, you can ask your inbox questions out loud like what gate your flight is at or what's happening at your kids school this week, and it can search your email and synthesize the answer. This takes a messy inbox and outputs the exact information you need without you having to dig through your emails. They also introduced Docs live, which is a voice-powered writing partner. Basically, you can ramble through an idea, talk through a rough draft, or brainstorm out loud, and Docs can organize your thoughts and help you write things out. Instead of needing a clean prompt, you can just think out loud, and Docs helps turn that into something usable. All right, let's try this out. So, I just remembered I'm doing an alumni talk for my high school's career day tomorrow. Uh, I need to come up with some talking points to explain what I do for a living as a software engineer, but I'm not really sure where to start. Oh, actually, can you just pull my resume from Drive? Although, that might be boring. Um, maybe can you come up with some funny analogies so it'll be more of an engaging talk for the students. Oh, and also, I think the school sent me an email. I think the subject is something like career day logistics. Maybe just grab the details from there, throw them at the top of the doc so I know where to go and what time to get there. Let's just update those requirements and turn this straight into a draft. >> [applause] >> This is cool, but it's a little dense. Maybe format the analogies as a table so it's a little easier for me to scan. And also, add a note to tell the story about how my brother inspired me to become a software engineer. Sort of at the top of my doc and bold it so I don't miss it. Yeah, oh, it's great. >> [applause] >> And if you're not familiar with Google Keep, this is like Google's note-taking app. It's also getting a similar upgrade. You can just brain dump into Keep and it'll use AI to turn your scattered thoughts into organized notes in the background. These voice features are rolling out this summer first to Pro and Ultra subscribers and Workspace business customers. Another big update is Google Pix, which is different from Google Photos. So, don't mix those two up. This is actually a new image creation and editing tool built on their Nano banana model. If you've been using AI image models, you often run into a very common problem, which is you get an image that's almost right, but changing one small thing often means starting over. Well, Google Pix is designed to make this image editing more smooth. You can generate, edit, and refine visuals with more precision. You can select specific objects, move them, resize them, or transform them without changing the rest of the image. Now, by itself, Google Pix isn't too impressive. I mean, we have other similar image editing tools out there already, but the cool thing about this is it's being integrated directly into Google Workspace like Docs, Slides, and Drive. So, you can edit visuals where you're already working instead of bouncing between tabs. Now, Google Pix is launching first to a limited group of trusted testers, then it's going to roll out globally this summer to Pro and Ultra subscribers. And then there's AI Inbox, which is basically Google's attempt to make Gmail less overwhelming. Instead of treating your inbox like one giant pile of messages, AI Inbox looks for what actually matters. Important updates, time-sensitive tasks, things you need to respond to, and files you need to review. The new version can generate personalized replies. So, when an email needs a quick response, it already prepares a reply that you can just review and press send. It can also locate and surface the exact Google Doc or Sheet or Slide or attachment, so you don't have to scroll through your emails hunting for the right file or attachment. Finally, Workspace is also getting Gemini Spark. Remember, this is kind of like open claws, so it's a 24/7 personal agent. Spark isn't just there to answer questions, it's designed to take action on your behalf while being connected to your workspace apps. It's like having an assistant that can help monitor, organize, and prepare things for you across Gmail, Docs, Calendar, and more. So, overall, these workspace updates are less about one flashy feature and more about a broader direction. Google is trying to make everyday productivity feel more natural and less manual. You can speak instead of type, brain dump instead of carefully formatting, and you can just talk to an AI agent to help you do most of your work autonomously. Next up, this is the feature I'm most excited about. Google also showed off their new Android XR smart glasses. I think we are finally moving from just a sci-fi demo to something you might actually wear every day. These are glasses built with Samsung and Qualcomm, powered by Gemini, and they're designed to help you in real life without having to pull out your phone. You can just ask Gemini through your glasses while you keep looking at the world around you. Now, Google has said there will be two types of smart glasses. The first one is audio glasses, which give you spoken help through private over your speakers. The second is display glasses, which actually show you information right in your view when you need it. And the key thing here is that Gemini isn't just sitting inside the glasses as a voice assistant. It can understand what you're looking at, respond to questions, and help you get things done. So, when you're walking past a restaurant, you can ask for reviews. If you're staring at a confusing parking sign, Gemini can decode it for you. Basically, this takes your real-world surroundings as input and outputs very useful context right when you need it. That's what makes glasses such an interesting form factor for AI. Navigation is another big use case here. Because the glasses know where you're standing and which direction you're facing, they can give you more natural turn-by-turn directions. Gemini can also add stops to your route or find nearby restaurants based on your preferences. The glasses also handle communication and media. So, you can manage calls, send texts, hear summaries of missed messages, and listen to music without reaching into your pocket. Translation is another really obviously helpful feature that's especially useful in glasses. Gemini can translate speech in real time with audio that matches the tone and pitch of the original speaker. Or you can just look at text on a menu or sign and then hear the translation. Or if you're traveling, you don't need to hold up your phone awkwardly or copy text into an app. You can just look, ask, and get the translation in real time. Here it says the glasses pair with both Android and iOS phones. So, Google is trying to make this more broadly useful instead of locking it into one phone ecosystem. Overall, these new Android XR smart glasses is Google's attempt to make AI feel less like something trapped inside a screen and more like something that moves with you through the real world. Now, one of the biggest reasons I'm very bullish on Google is not because of their Gemini models, but because of their infrastructure. You see, they've been building chips for AI and machine learning all this time. And unlike Nvidia, which makes GPUs, which can be used for like video games and other stuff, Google's tensor processing units or TPUs are specialized for AI. I'd say they have the most efficient AI infrastructure at scale out of any other company. And they just introduced their eighth generation TPUs. In fact, there are two new chips for different parts of the AI pipeline. One chip is called TPU 8T, and this is built for training massive models. The other one is called TPU 8I, which is built for inference. So, for running AI models once they're already deployed. So, this takes the two biggest jobs in AI, creating the model and then serving that model to users, and splits them into specialized hardware designed for each job. Let's go over the training chip first. So, this HT is designed to shrink the model development cycle from months to just weeks. Plus, a single TPU HT Superpod can scale to 9,600 chips with 2 petabytes of shared high-bandwidth memory, 121 exaflops of compute, and double the inter-chip bandwidth of the previous generation. Basically, this whole Superpod acts like one giant AI training engine with a massive shared memory pool, so extremely complex models can be trained very efficiently. Google also says HT delivers three times the compute performance per pod compared with the previous generation. And it targets over 97% goodput, which basically means more of the cluster's time is spent doing work instead of recovering from waiting or restarting. At this scale, even a tiny percentage of improvement can save days of training time. Then, there's the TPU 8i, which is built for inference. This means powering the models that are used when people prompt Gemini. So, when millions of users ask questions to Gemini, this TPU 8i is the chip designed to serve these responses quickly. And the big problem it's trying to solve is latency. If you have one AI agent asking another agent for help, then calling a tool, then checking the result, then asking another model to revise something, small delays can stack up fast. Now, the TPU attacks this problem with 288 GB of high-bandwidth memory and almost 400 MB of on-chip SRAM, which is three times more than the previous generation. They also doubled the interconnect bandwidth, and they also introduced a new Board Fly architecture that cuts the max network diameter by by than half. So, overall, these changes deliver 80% better performance compared to the previous generation. The other major theme here is efficiency. Google points out that in modern data centers, power can just be as limiting as chip supply. You need to run them efficiently, cool them efficiently, and move data between them without wasting huge amounts of energy. The new 8th generation of TPUs deliver up to two times better performance per watt compared to the previous generation. So, in summary, Google's data centers now deliver six times more computing power per unit of electricity than they did 5 years ago, which is quite remarkable. Anyways, that sums up all the highlights and announcements from Google I/O. Let me know in the comments what you think of this. As always, I will be on the lookout for the top AI news and tools to share with you. So, if you enjoyed this video, remember to like, share, subscribe, and stay tuned for more content. Also, there's just so much happening in the world of AI every week, I can't possibly cover everything on my YouTube channel. So, to really stay up-to-date with all that's going on in AI, be sure to subscribe to my free weekly newsletter. The link to that will be in the description below. Thanks for watching, and I'll see you in the next one.",
+    "word_count": 5001,
     "error": null
   }
 }

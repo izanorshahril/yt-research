@@ -14,10 +14,5441 @@
     "video_id": "uJgzFn0GT7M",
     "has_transcript": true,
     "language": "en",
-    "is_generated": false,
-    "segments": [],
-    "full_text": "HUGE AI NEWS: Qwen 3.8 Max, Wan Animate 2, GPT 6 breakthroughs, Xiaomi robotics & more #ai #ainews #aitools #aivideo #agi\n\nThanks to our sponsor, Higgsfield. Try Seedance 2.5 today https://higgsfield.ai/s/theaisearch-qPkHlP\n00:00 AI news intro\n00:53 SymphonyGen\n03:29 MAC\n04:55 Wan Animate 2\n06:54 VocalRender\n09:21 Hunyuan3D Buffalo\n10:42 LeapTalk\n12:00 Higgsfield\n13:31 Qwen 3.8 Max\n16:54 WeatherNext 2\n19:23 GPT math breakthroughs\n21:19 ClinFusion\n22:50 Gen1 welding\n23:32 UBTECH swarm intelligence\n24:08 Xiaomi robotics 1\n25:44 Big Bang\n27:27 Muse Spark 1.2\n30:00 Long Horizon Harness\n\nSymphonyGen https://symphonygen.github.io/\nMAC https://github.com/Pan-Chera/Multi-Agent-CAD \nWan Animate 2 https://humanaigc.github.io/wan-animate-2/ \nVocalRender https://pymaster17.github.io/VocalRender/\nHunyuan3D Buffalo https://tencent-hunyuan.github.io/Hunyuan3D-Buffalo1.0/\nLeapTalk https://zhangrongxiang.github.io/leaptalk-page/\nQwen 3.8 Max https://qwen.ai/blog?id=qwen3.8 \nWeatherNext https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/ \nGPT math breakthroughs https://openai.com/index/ten-advances-in-mathematics/\nClinFusion https://github.com/Alibaba-DAMO-Academy/ClinFusion\nXiaomi robotics 1 https://github.com/XiaomiRobotics/Xiaomi-Robotics-1\nBig Bang https://github.com/endless-frontier/BigBang-v1\nMuse Spark 1.2 https://developer.meta.com/ai/resources/blog/build-with-muse-code/\nLong Horizon Harness https://lh-harness.pages.dev\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
-    "word_count": 0,
+    "is_generated": true,
+    "segments": [
+      {
+        "start": 0.48,
+        "duration": 6.56,
+        "start_formatted": "00:00",
+        "text": "AI never sleeps and this week has been"
+      },
+      {
+        "start": 3.919,
+        "duration": 5.76,
+        "start_formatted": "00:03",
+        "text": "absolutely insane. We have a new"
+      },
+      {
+        "start": 7.04,
+        "duration": 4.96,
+        "start_formatted": "00:07",
+        "text": "open-source AI for medical research and"
+      },
+      {
+        "start": 9.679,
+        "duration": 4.88,
+        "start_formatted": "00:09",
+        "text": "reporting. Alibaba releases their latest"
+      },
+      {
+        "start": 12.0,
+        "duration": 4.8,
+        "start_formatted": "00:12",
+        "text": "Quinn model and it's an absolute beast."
+      },
+      {
+        "start": 14.559,
+        "duration": 4.241,
+        "start_formatted": "00:14",
+        "text": "This AI can compose an entire symphony"
+      },
+      {
+        "start": 16.8,
+        "duration": 4.0,
+        "start_formatted": "00:16",
+        "text": "from scratch. We have another AI that"
+      },
+      {
+        "start": 18.8,
+        "duration": 5.0,
+        "start_formatted": "00:18",
+        "text": "can create super realistic singing"
+      },
+      {
+        "start": 20.8,
+        "duration": 3.0,
+        "start_formatted": "00:20",
+        "text": "voices."
+      },
+      {
+        "start": 27.84,
+        "duration": 4.719,
+        "start_formatted": "00:27",
+        "text": "OpenAI's internal model just solved some"
+      },
+      {
+        "start": 30.56,
+        "duration": 4.8,
+        "start_formatted": "00:30",
+        "text": "massive math breakthroughs. We have a"
+      },
+      {
+        "start": 32.559,
+        "duration": 5.441,
+        "start_formatted": "00:32",
+        "text": "new open source AI for creating 3D CAD"
+      },
+      {
+        "start": 35.36,
+        "duration": 4.64,
+        "start_formatted": "00:35",
+        "text": "files. Google releases and open sources"
+      },
+      {
+        "start": 38.0,
+        "duration": 4.32,
+        "start_formatted": "00:38",
+        "text": "their state-of-the-art AI for predicting"
+      },
+      {
+        "start": 40.0,
+        "duration": 4.879,
+        "start_formatted": "00:40",
+        "text": "cyclones and natural disasters. We have"
+      },
+      {
+        "start": 42.32,
+        "duration": 4.96,
+        "start_formatted": "00:42",
+        "text": "a new all-in-one 3D model generator and"
+      },
+      {
+        "start": 44.879,
+        "duration": 4.641,
+        "start_formatted": "00:44",
+        "text": "editor. Plus, this can also segment a"
+      },
+      {
+        "start": 47.28,
+        "duration": 5.04,
+        "start_formatted": "00:47",
+        "text": "model into separate parts. We have some"
+      },
+      {
+        "start": 49.52,
+        "duration": 5.12,
+        "start_formatted": "00:49",
+        "text": "exciting robotics demos and a lot more."
+      },
+      {
+        "start": 52.32,
+        "duration": 4.8,
+        "start_formatted": "00:52",
+        "text": "So, let's jump right in. First up, we"
+      },
+      {
+        "start": 54.64,
+        "duration": 4.719,
+        "start_formatted": "00:54",
+        "text": "have a new AI for creating symphony"
+      },
+      {
+        "start": 57.12,
+        "duration": 3.84,
+        "start_formatted": "00:57",
+        "text": "music. It's called Symphony Gen, and"
+      },
+      {
+        "start": 59.359,
+        "duration": 3.84,
+        "start_formatted": "00:59",
+        "text": "this is designed to create full"
+      },
+      {
+        "start": 60.96,
+        "duration": 4.72,
+        "start_formatted": "01:00",
+        "text": "orchestral music while giving you"
+      },
+      {
+        "start": 63.199,
+        "duration": 6.201,
+        "start_formatted": "01:03",
+        "text": "control over the underlying harmony. So,"
+      },
+      {
+        "start": 65.68,
+        "duration": 3.72,
+        "start_formatted": "01:05",
+        "text": "here are a few examples."
+      },
+      {
+        "start": 69.43,
+        "duration": 2.02,
+        "start_formatted": "01:09",
+        "text": "[music]"
+      },
+      {
+        "start": 77.29,
+        "duration": 2.02,
+        "start_formatted": "01:17",
+        "text": "[music]"
+      },
+      {
+        "start": 82.53,
+        "duration": 2.02,
+        "start_formatted": "01:22",
+        "text": ">> [music]"
+      },
+      {
+        "start": 90.39,
+        "duration": 2.02,
+        "start_formatted": "01:30",
+        "text": "[music]"
+      },
+      {
+        "start": 98.251,
+        "duration": 2.469,
+        "start_formatted": "01:38",
+        "text": "[music]"
+      },
+      {
+        "start": 99.119,
+        "duration": 3.601,
+        "start_formatted": "01:39",
+        "text": ">> Now this is actually quite challenging"
+      },
+      {
+        "start": 100.72,
+        "duration": 4.079,
+        "start_formatted": "01:40",
+        "text": "because the model has to coordinate many"
+      },
+      {
+        "start": 102.72,
+        "duration": 4.16,
+        "start_formatted": "01:42",
+        "text": "instruments and notes and the overall"
+      },
+      {
+        "start": 104.799,
+        "duration": 4.241,
+        "start_formatted": "01:44",
+        "text": "structure of the piece at the same time."
+      },
+      {
+        "start": 106.88,
+        "duration": 4.879,
+        "start_formatted": "01:46",
+        "text": "And actually what this does is it first"
+      },
+      {
+        "start": 109.04,
+        "duration": 4.32,
+        "start_formatted": "01:49",
+        "text": "generates a harmony skeleton and then it"
+      },
+      {
+        "start": 111.759,
+        "duration": 3.441,
+        "start_formatted": "01:51",
+        "text": "expands the outline into a complete"
+      },
+      {
+        "start": 113.36,
+        "duration": 3.92,
+        "start_formatted": "01:53",
+        "text": "orchestral arrangement. So think of it"
+      },
+      {
+        "start": 115.2,
+        "duration": 4.4,
+        "start_formatted": "01:55",
+        "text": "as first sketching the chords and the"
+      },
+      {
+        "start": 117.28,
+        "duration": 4.479,
+        "start_formatted": "01:57",
+        "text": "music direction and then filling in the"
+      },
+      {
+        "start": 119.6,
+        "duration": 4.159,
+        "start_formatted": "01:59",
+        "text": "notes for each instrument. For example,"
+      },
+      {
+        "start": 121.759,
+        "duration": 6.921,
+        "start_formatted": "02:01",
+        "text": "you can start with a major chord and"
+      },
+      {
+        "start": 123.759,
+        "duration": 4.921,
+        "start_formatted": "02:03",
+        "text": "here are a few examples with this start."
+      },
+      {
+        "start": 132.966,
+        "duration": 2.02,
+        "start_formatted": "02:12",
+        "text": "[music]"
+      },
+      {
+        "start": 140.171,
+        "duration": 2.02,
+        "start_formatted": "02:20",
+        "text": ">> [music]"
+      },
+      {
+        "start": 144.56,
+        "duration": 3.2,
+        "start_formatted": "02:24",
+        "text": ">> All right. So, as you can hear, they"
+      },
+      {
+        "start": 146.0,
+        "duration": 3.84,
+        "start_formatted": "02:26",
+        "text": "kind of start with the same major chord."
+      },
+      {
+        "start": 147.76,
+        "duration": 4.32,
+        "start_formatted": "02:27",
+        "text": "The nice thing is you can also input"
+      },
+      {
+        "start": 149.84,
+        "duration": 4.0,
+        "start_formatted": "02:29",
+        "text": "your own harmony skeleton or it can also"
+      },
+      {
+        "start": 152.08,
+        "duration": 3.92,
+        "start_formatted": "02:32",
+        "text": "take the harmony skeleton from an"
+      },
+      {
+        "start": 153.84,
+        "duration": 3.6,
+        "start_formatted": "02:33",
+        "text": "existing piece. For example, here's an"
+      },
+      {
+        "start": 156.0,
+        "duration": 3.84,
+        "start_formatted": "02:36",
+        "text": "original piece and then I'm going to"
+      },
+      {
+        "start": 157.44,
+        "duration": 4.879,
+        "start_formatted": "02:37",
+        "text": "play you the AI generated piece which"
+      },
+      {
+        "start": 159.84,
+        "duration": 5.931,
+        "start_formatted": "02:39",
+        "text": "takes inspiration from this harmony"
+      },
+      {
+        "start": 162.319,
+        "duration": 3.452,
+        "start_formatted": "02:42",
+        "text": "skeleton. [music]"
+      },
+      {
+        "start": 173.576,
+        "duration": 2.02,
+        "start_formatted": "02:53",
+        "text": ">> [music]"
+      },
+      {
+        "start": 178.816,
+        "duration": 4.063,
+        "start_formatted": "02:58",
+        "text": "[music]"
+      },
+      {
+        "start": 180.8,
+        "duration": 4.159,
+        "start_formatted": "03:00",
+        "text": ">> So, as you can hear, it has roughly the"
+      },
+      {
+        "start": 182.879,
+        "duration": 3.681,
+        "start_formatted": "03:02",
+        "text": "same chord pattern and tempo as the"
+      },
+      {
+        "start": 184.959,
+        "duration": 3.121,
+        "start_formatted": "03:04",
+        "text": "original XRP. The awesome thing is"
+      },
+      {
+        "start": 186.56,
+        "duration": 3.28,
+        "start_formatted": "03:06",
+        "text": "they've released the models to this"
+      },
+      {
+        "start": 188.08,
+        "duration": 3.519,
+        "start_formatted": "03:08",
+        "text": "already. So, if you click on this code"
+      },
+      {
+        "start": 189.84,
+        "duration": 3.759,
+        "start_formatted": "03:09",
+        "text": "button and you scroll down a bit here,"
+      },
+      {
+        "start": 191.599,
+        "duration": 4.321,
+        "start_formatted": "03:11",
+        "text": "it contains all the instructions on how"
+      },
+      {
+        "start": 193.599,
+        "duration": 4.241,
+        "start_formatted": "03:13",
+        "text": "to download and run this locally on your"
+      },
+      {
+        "start": 195.92,
+        "duration": 4.319,
+        "start_formatted": "03:15",
+        "text": "computer. Now, the models to this are"
+      },
+      {
+        "start": 197.84,
+        "duration": 4.319,
+        "start_formatted": "03:17",
+        "text": "fairly tiny. It's only like under 5"
+      },
+      {
+        "start": 200.239,
+        "duration": 4.321,
+        "start_formatted": "03:20",
+        "text": "megabytes in size, so you should be able"
+      },
+      {
+        "start": 202.159,
+        "duration": 3.841,
+        "start_formatted": "03:22",
+        "text": "to fit this on most consumer devices. If"
+      },
+      {
+        "start": 204.56,
+        "duration": 3.28,
+        "start_formatted": "03:24",
+        "text": "you're interested in reading further,"
+      },
+      {
+        "start": 206.0,
+        "duration": 3.84,
+        "start_formatted": "03:26",
+        "text": "I'll link to this main page in the"
+      },
+      {
+        "start": 207.84,
+        "duration": 4.16,
+        "start_formatted": "03:27",
+        "text": "description below. Also, this week, if"
+      },
+      {
+        "start": 209.84,
+        "duration": 4.24,
+        "start_formatted": "03:29",
+        "text": "you're into 3D modeling or printing,"
+      },
+      {
+        "start": 212.0,
+        "duration": 4.64,
+        "start_formatted": "03:32",
+        "text": "this AI is super useful. It's called"
+      },
+      {
+        "start": 214.08,
+        "duration": 4.64,
+        "start_formatted": "03:34",
+        "text": "MAC, which stands for multi-agent CAD."
+      },
+      {
+        "start": 216.64,
+        "duration": 4.4,
+        "start_formatted": "03:36",
+        "text": "And this is a really efficient AI that"
+      },
+      {
+        "start": 218.72,
+        "duration": 4.96,
+        "start_formatted": "03:38",
+        "text": "can help you create printable 3D models"
+      },
+      {
+        "start": 221.04,
+        "duration": 5.279,
+        "start_formatted": "03:41",
+        "text": "in CAD format. And all it takes is a"
+      },
+      {
+        "start": 223.68,
+        "duration": 4.24,
+        "start_formatted": "03:43",
+        "text": "text prompt. So for example, here is the"
+      },
+      {
+        "start": 226.319,
+        "duration": 3.601,
+        "start_formatted": "03:46",
+        "text": "text prompt on the left. And it'll"
+      },
+      {
+        "start": 227.92,
+        "duration": 4.48,
+        "start_formatted": "03:47",
+        "text": "generate a CAD file which you can print"
+      },
+      {
+        "start": 229.92,
+        "duration": 4.399,
+        "start_formatted": "03:49",
+        "text": "out in 3D as you can see on the right."
+      },
+      {
+        "start": 232.4,
+        "duration": 3.68,
+        "start_formatted": "03:52",
+        "text": "Here are some additional examples for"
+      },
+      {
+        "start": 234.319,
+        "duration": 3.761,
+        "start_formatted": "03:54",
+        "text": "your reference. As you can see, it can"
+      },
+      {
+        "start": 236.08,
+        "duration": 4.079,
+        "start_formatted": "03:56",
+        "text": "design a ton of different objects with"
+      },
+      {
+        "start": 238.08,
+        "duration": 3.519,
+        "start_formatted": "03:58",
+        "text": "different shapes and articulations. Here"
+      },
+      {
+        "start": 240.159,
+        "duration": 3.44,
+        "start_formatted": "04:00",
+        "text": "are some additional examples for your"
+      },
+      {
+        "start": 241.599,
+        "duration": 4.881,
+        "start_formatted": "04:01",
+        "text": "reference. And you can also see the cost"
+      },
+      {
+        "start": 243.599,
+        "duration": 5.121,
+        "start_formatted": "04:03",
+        "text": "per prompt listed below each example."
+      },
+      {
+        "start": 246.48,
+        "duration": 5.039,
+        "start_formatted": "04:06",
+        "text": "And as you can see after adding this"
+      },
+      {
+        "start": 248.72,
+        "duration": 4.879,
+        "start_formatted": "04:08",
+        "text": "multi- aent CAD system, it's a lot more"
+      },
+      {
+        "start": 251.519,
+        "duration": 4.56,
+        "start_formatted": "04:11",
+        "text": "efficient. It's able to complete the"
+      },
+      {
+        "start": 253.599,
+        "duration": 4.401,
+        "start_formatted": "04:13",
+        "text": "task most of the time at like 10 times"
+      },
+      {
+        "start": 256.079,
+        "duration": 3.68,
+        "start_formatted": "04:16",
+        "text": "lower the cost compared with if you"
+      },
+      {
+        "start": 258.0,
+        "duration": 3.44,
+        "start_formatted": "04:18",
+        "text": "didn't implement this system. In fact,"
+      },
+      {
+        "start": 259.759,
+        "duration": 3.921,
+        "start_formatted": "04:19",
+        "text": "if you compare this to another text to"
+      },
+      {
+        "start": 261.44,
+        "duration": 5.52,
+        "start_formatted": "04:21",
+        "text": "CAD model called CAD skills, you can see"
+      },
+      {
+        "start": 263.68,
+        "duration": 6.079,
+        "start_formatted": "04:23",
+        "text": "that this new Mac one uses 116 times"
+      },
+      {
+        "start": 266.96,
+        "duration": 5.519,
+        "start_formatted": "04:26",
+        "text": "fewer tokens. It costs 13 times less."
+      },
+      {
+        "start": 269.759,
+        "duration": 4.481,
+        "start_formatted": "04:29",
+        "text": "Plus, the pass rate is also much higher."
+      },
+      {
+        "start": 272.479,
+        "duration": 4.401,
+        "start_formatted": "04:32",
+        "text": "And getting this setup is also super"
+      },
+      {
+        "start": 274.24,
+        "duration": 4.32,
+        "start_formatted": "04:34",
+        "text": "simple. This is model agnostic. So, they"
+      },
+      {
+        "start": 276.88,
+        "duration": 3.36,
+        "start_formatted": "04:36",
+        "text": "used Quinn, but you can also switch it"
+      },
+      {
+        "start": 278.56,
+        "duration": 3.52,
+        "start_formatted": "04:38",
+        "text": "up with another model. Now, if you're"
+      },
+      {
+        "start": 280.24,
+        "duration": 3.84,
+        "start_formatted": "04:40",
+        "text": "interested in running this on this page,"
+      },
+      {
+        "start": 282.08,
+        "duration": 3.839,
+        "start_formatted": "04:42",
+        "text": "if you scroll down a bit, it contains"
+      },
+      {
+        "start": 284.08,
+        "duration": 4.08,
+        "start_formatted": "04:44",
+        "text": "all the instructions on how to download"
+      },
+      {
+        "start": 285.919,
+        "duration": 3.84,
+        "start_formatted": "04:45",
+        "text": "and run this locally on your computer."
+      },
+      {
+        "start": 288.16,
+        "duration": 3.52,
+        "start_formatted": "04:48",
+        "text": "If you're interested in reading further,"
+      },
+      {
+        "start": 289.759,
+        "duration": 3.841,
+        "start_formatted": "04:49",
+        "text": "I'll link to this main page in the"
+      },
+      {
+        "start": 291.68,
+        "duration": 4.56,
+        "start_formatted": "04:51",
+        "text": "description below. Also, this week,"
+      },
+      {
+        "start": 293.6,
+        "duration": 5.599,
+        "start_formatted": "04:53",
+        "text": "Alibaba dropped their latest animation"
+      },
+      {
+        "start": 296.24,
+        "duration": 5.519,
+        "start_formatted": "04:56",
+        "text": "system, One Animate 2. This basically"
+      },
+      {
+        "start": 299.199,
+        "duration": 4.481,
+        "start_formatted": "04:59",
+        "text": "takes a photo of any character plus a"
+      },
+      {
+        "start": 301.759,
+        "duration": 3.841,
+        "start_formatted": "05:01",
+        "text": "reference video and it'll animate the"
+      },
+      {
+        "start": 303.68,
+        "duration": 4.079,
+        "start_formatted": "05:03",
+        "text": "character according to the reference"
+      },
+      {
+        "start": 305.6,
+        "duration": 4.08,
+        "start_formatted": "05:05",
+        "text": "video as you can see in this example."
+      },
+      {
+        "start": 307.759,
+        "duration": 4.241,
+        "start_formatted": "05:07",
+        "text": "Note that it works with hands and"
+      },
+      {
+        "start": 309.68,
+        "duration": 4.32,
+        "start_formatted": "05:09",
+        "text": "fingers as well. Plus, this doesn't even"
+      },
+      {
+        "start": 312.0,
+        "duration": 4.0,
+        "start_formatted": "05:12",
+        "text": "have to be human characters. So, here's"
+      },
+      {
+        "start": 314.0,
+        "duration": 4.56,
+        "start_formatted": "05:14",
+        "text": "an example where we can animate this"
+      },
+      {
+        "start": 316.0,
+        "duration": 4.479,
+        "start_formatted": "05:16",
+        "text": "teddy bear instead. And in addition to"
+      },
+      {
+        "start": 318.56,
+        "duration": 4.16,
+        "start_formatted": "05:18",
+        "text": "hands and fingers, this can also"
+      },
+      {
+        "start": 320.479,
+        "duration": 4.321,
+        "start_formatted": "05:20",
+        "text": "transfer facial expressions from a"
+      },
+      {
+        "start": 322.72,
+        "duration": 4.479,
+        "start_formatted": "05:22",
+        "text": "reference video. As you can see in this"
+      },
+      {
+        "start": 324.8,
+        "duration": 4.239,
+        "start_formatted": "05:24",
+        "text": "example, the nice thing is this can also"
+      },
+      {
+        "start": 327.199,
+        "duration": 3.921,
+        "start_formatted": "05:27",
+        "text": "animate multiple characters. So, for"
+      },
+      {
+        "start": 329.039,
+        "duration": 3.761,
+        "start_formatted": "05:29",
+        "text": "example, you can input a photo with two"
+      },
+      {
+        "start": 331.12,
+        "duration": 3.2,
+        "start_formatted": "05:31",
+        "text": "characters plus a video with two"
+      },
+      {
+        "start": 332.8,
+        "duration": 4.32,
+        "start_formatted": "05:32",
+        "text": "characters and it'll transfer their"
+      },
+      {
+        "start": 334.32,
+        "duration": 4.56,
+        "start_formatted": "05:34",
+        "text": "movements over very naturally like this."
+      },
+      {
+        "start": 337.12,
+        "duration": 4.079,
+        "start_formatted": "05:37",
+        "text": "Alternatively, you can just use a"
+      },
+      {
+        "start": 338.88,
+        "duration": 4.64,
+        "start_formatted": "05:38",
+        "text": "reference video with one person, but use"
+      },
+      {
+        "start": 341.199,
+        "duration": 4.321,
+        "start_formatted": "05:41",
+        "text": "that to animate multiple characters in a"
+      },
+      {
+        "start": 343.52,
+        "duration": 3.76,
+        "start_formatted": "05:43",
+        "text": "photo, as you can see in this example."
+      },
+      {
+        "start": 345.52,
+        "duration": 3.679,
+        "start_formatted": "05:45",
+        "text": "And the nice thing about One Animate 2"
+      },
+      {
+        "start": 347.28,
+        "duration": 4.24,
+        "start_formatted": "05:47",
+        "text": "is that you can also animate characters"
+      },
+      {
+        "start": 349.199,
+        "duration": 4.161,
+        "start_formatted": "05:49",
+        "text": "with irregular body proportions. So, it"
+      },
+      {
+        "start": 351.52,
+        "duration": 4.0,
+        "start_formatted": "05:51",
+        "text": "doesn't have to be just human to human."
+      },
+      {
+        "start": 353.36,
+        "duration": 4.559,
+        "start_formatted": "05:53",
+        "text": "Another new feature about One Animate 2"
+      },
+      {
+        "start": 355.52,
+        "duration": 4.239,
+        "start_formatted": "05:55",
+        "text": "is you can also determine the camera"
+      },
+      {
+        "start": 357.919,
+        "duration": 3.921,
+        "start_formatted": "05:57",
+        "text": "angle. Here's an example with the same"
+      },
+      {
+        "start": 359.759,
+        "duration": 4.0,
+        "start_formatted": "05:59",
+        "text": "inputs, but you can also change the view"
+      },
+      {
+        "start": 361.84,
+        "duration": 3.919,
+        "start_formatted": "06:01",
+        "text": "to the left or to the right. And the"
+      },
+      {
+        "start": 363.759,
+        "duration": 4.16,
+        "start_formatted": "06:03",
+        "text": "nice thing is they've also released a"
+      },
+      {
+        "start": 365.759,
+        "duration": 4.401,
+        "start_formatted": "06:05",
+        "text": "smaller version called Wan Anime 2"
+      },
+      {
+        "start": 367.919,
+        "duration": 3.601,
+        "start_formatted": "06:07",
+        "text": "Light, which even allows for real-time"
+      },
+      {
+        "start": 370.16,
+        "duration": 3.2,
+        "start_formatted": "06:10",
+        "text": "streaming if you have the right"
+      },
+      {
+        "start": 371.52,
+        "duration": 3.76,
+        "start_formatted": "06:11",
+        "text": "hardware. You can see like the latency"
+      },
+      {
+        "start": 373.36,
+        "duration": 3.839,
+        "start_formatted": "06:13",
+        "text": "is under a second. So, this can be"
+      },
+      {
+        "start": 375.28,
+        "duration": 4.0,
+        "start_formatted": "06:15",
+        "text": "really useful for streaming. Now, I"
+      },
+      {
+        "start": 377.199,
+        "duration": 4.481,
+        "start_formatted": "06:17",
+        "text": "featured a ton of these tools before,"
+      },
+      {
+        "start": 379.28,
+        "duration": 5.199,
+        "start_formatted": "06:19",
+        "text": "including One Animate and Dream Actor,"
+      },
+      {
+        "start": 381.68,
+        "duration": 5.28,
+        "start_formatted": "06:21",
+        "text": "but this new One Animate 2 is a lot more"
+      },
+      {
+        "start": 384.479,
+        "duration": 4.241,
+        "start_formatted": "06:24",
+        "text": "detailed and consistent and natural."
+      },
+      {
+        "start": 386.96,
+        "duration": 3.76,
+        "start_formatted": "06:26",
+        "text": "Now, they didn't compare this with"
+      },
+      {
+        "start": 388.72,
+        "duration": 4.0,
+        "start_formatted": "06:28",
+        "text": "another leading animation tool called"
+      },
+      {
+        "start": 390.72,
+        "duration": 4.319,
+        "start_formatted": "06:30",
+        "text": "Scale 2. I think the quality of this"
+      },
+      {
+        "start": 392.72,
+        "duration": 4.08,
+        "start_formatted": "06:32",
+        "text": "versus Scale 2 is very similar. The"
+      },
+      {
+        "start": 395.039,
+        "duration": 3.761,
+        "start_formatted": "06:35",
+        "text": "awesome thing is they've released this"
+      },
+      {
+        "start": 396.8,
+        "duration": 4.32,
+        "start_formatted": "06:36",
+        "text": "already. Now, the full one animate is"
+      },
+      {
+        "start": 398.8,
+        "duration": 4.48,
+        "start_formatted": "06:38",
+        "text": "around 33 GB, so you'll need a high-end"
+      },
+      {
+        "start": 401.12,
+        "duration": 4.24,
+        "start_formatted": "06:41",
+        "text": "GPU to run this. And there's also"
+      },
+      {
+        "start": 403.28,
+        "duration": 4.08,
+        "start_formatted": "06:43",
+        "text": "already support for Comfy UI. They've"
+      },
+      {
+        "start": 405.36,
+        "duration": 3.839,
+        "start_formatted": "06:45",
+        "text": "released an int 8 version which is half"
+      },
+      {
+        "start": 407.36,
+        "duration": 3.92,
+        "start_formatted": "06:47",
+        "text": "the size and this should be able to fit"
+      },
+      {
+        "start": 409.199,
+        "duration": 3.681,
+        "start_formatted": "06:49",
+        "text": "on just a mid-tier GPU. If you're"
+      },
+      {
+        "start": 411.28,
+        "duration": 3.44,
+        "start_formatted": "06:51",
+        "text": "interested in reading further, I'll link"
+      },
+      {
+        "start": 412.88,
+        "duration": 4.159,
+        "start_formatted": "06:52",
+        "text": "to this main page in the description"
+      },
+      {
+        "start": 414.72,
+        "duration": 4.479,
+        "start_formatted": "06:54",
+        "text": "below. Also, this week we have a new AI"
+      },
+      {
+        "start": 417.039,
+        "duration": 4.0,
+        "start_formatted": "06:57",
+        "text": "called vocal render and like the name"
+      },
+      {
+        "start": 419.199,
+        "duration": 4.56,
+        "start_formatted": "06:59",
+        "text": "implies, this can generate singing"
+      },
+      {
+        "start": 421.039,
+        "duration": 5.44,
+        "start_formatted": "07:01",
+        "text": "voices for songs and it actually sounds"
+      },
+      {
+        "start": 423.759,
+        "duration": 4.241,
+        "start_formatted": "07:03",
+        "text": "incredibly realistic and expressive. So,"
+      },
+      {
+        "start": 426.479,
+        "duration": 3.761,
+        "start_formatted": "07:06",
+        "text": "here's what it does. This takes in"
+      },
+      {
+        "start": 428.0,
+        "duration": 4.4,
+        "start_formatted": "07:08",
+        "text": "lyrics and then the melody in MIDI notes"
+      },
+      {
+        "start": 430.24,
+        "duration": 5.04,
+        "start_formatted": "07:10",
+        "text": "and that's about it. So from this it can"
+      },
+      {
+        "start": 432.4,
+        "duration": 4.96,
+        "start_formatted": "07:12",
+        "text": "output a very expressive voice singing"
+      },
+      {
+        "start": 435.28,
+        "duration": 3.919,
+        "start_formatted": "07:15",
+        "text": "out these lyrics. Now they released two"
+      },
+      {
+        "start": 437.36,
+        "duration": 3.76,
+        "start_formatted": "07:17",
+        "text": "different models, Vocal Render and Vocal"
+      },
+      {
+        "start": 439.199,
+        "duration": 4.241,
+        "start_formatted": "07:19",
+        "text": "Render Pro. The Pro version just sounds"
+      },
+      {
+        "start": 441.12,
+        "duration": 4.34,
+        "start_formatted": "07:21",
+        "text": "a bit better. Let's listen to both."
+      },
+      {
+        "start": 443.44,
+        "duration": 2.02,
+        "start_formatted": "07:23",
+        "text": "[gasps]"
+      },
+      {
+        "start": 449.84,
+        "duration": 5.32,
+        "start_formatted": "07:29",
+        "text": ">> And then here is an example with the pro"
+      },
+      {
+        "start": 452.16,
+        "duration": 3.0,
+        "start_formatted": "07:32",
+        "text": "version."
+      },
+      {
+        "start": 459.199,
+        "duration": 3.201,
+        "start_formatted": "07:39",
+        "text": "Now, if you compare this with other"
+      },
+      {
+        "start": 461.12,
+        "duration": 3.6,
+        "start_formatted": "07:41",
+        "text": "singing [snorts] voice generators like"
+      },
+      {
+        "start": 462.4,
+        "duration": 4.239,
+        "start_formatted": "07:42",
+        "text": "Vivo 2 or Soul X, you can hear that"
+      },
+      {
+        "start": 464.72,
+        "duration": 3.44,
+        "start_formatted": "07:44",
+        "text": "vocal render is a lot better. So, let me"
+      },
+      {
+        "start": 466.639,
+        "duration": 4.521,
+        "start_formatted": "07:46",
+        "text": "just play you the other competitors as"
+      },
+      {
+        "start": 468.16,
+        "duration": 3.0,
+        "start_formatted": "07:48",
+        "text": "well."
+      },
+      {
+        "start": 474.225,
+        "duration": 2.02,
+        "start_formatted": "07:54",
+        "text": "[gasps]"
+      },
+      {
+        "start": 478.81,
+        "duration": 2.02,
+        "start_formatted": "07:58",
+        "text": "[singing]"
+      },
+      {
+        "start": 480.879,
+        "duration": 4.0,
+        "start_formatted": "08:00",
+        "text": "As you can hear, Vivo there didn't even"
+      },
+      {
+        "start": 482.879,
+        "duration": 3.361,
+        "start_formatted": "08:02",
+        "text": "follow the pitch that was specified. And"
+      },
+      {
+        "start": 484.879,
+        "duration": 3.6,
+        "start_formatted": "08:04",
+        "text": "how this works is actually quite"
+      },
+      {
+        "start": 486.24,
+        "duration": 4.56,
+        "start_formatted": "08:06",
+        "text": "interesting. It reads the lyrics and the"
+      },
+      {
+        "start": 488.479,
+        "duration": 4.16,
+        "start_formatted": "08:08",
+        "text": "musical notes together and predicts how"
+      },
+      {
+        "start": 490.8,
+        "duration": 3.839,
+        "start_formatted": "08:10",
+        "text": "the performance should flow and it"
+      },
+      {
+        "start": 492.639,
+        "duration": 3.921,
+        "start_formatted": "08:12",
+        "text": "automatically decides the final timing"
+      },
+      {
+        "start": 494.639,
+        "duration": 3.761,
+        "start_formatted": "08:14",
+        "text": "and the audio length. This is especially"
+      },
+      {
+        "start": 496.56,
+        "duration": 3.919,
+        "start_formatted": "08:16",
+        "text": "useful when one syllable stretches"
+      },
+      {
+        "start": 498.4,
+        "duration": 4.239,
+        "start_formatted": "08:18",
+        "text": "across several notes. So under the hood,"
+      },
+      {
+        "start": 500.479,
+        "duration": 3.921,
+        "start_formatted": "08:20",
+        "text": "an auto reggressive component first"
+      },
+      {
+        "start": 502.639,
+        "duration": 4.081,
+        "start_formatted": "08:22",
+        "text": "builds a broad sketch of the singing"
+      },
+      {
+        "start": 504.4,
+        "duration": 4.239,
+        "start_formatted": "08:24",
+        "text": "style and timing and then a diffusion"
+      },
+      {
+        "start": 506.72,
+        "duration": 3.68,
+        "start_formatted": "08:26",
+        "text": "model fills in the finer details"
+      },
+      {
+        "start": 508.639,
+        "duration": 4.08,
+        "start_formatted": "08:28",
+        "text": "including pitch, vocal tone,"
+      },
+      {
+        "start": 510.4,
+        "duration": 3.6,
+        "start_formatted": "08:30",
+        "text": "articulation, and local audio texture."
+      },
+      {
+        "start": 512.719,
+        "duration": 2.961,
+        "start_formatted": "08:32",
+        "text": "Now, the awesome thing is they've"
+      },
+      {
+        "start": 514.0,
+        "duration": 3.919,
+        "start_formatted": "08:34",
+        "text": "released the model already. So, if you"
+      },
+      {
+        "start": 515.68,
+        "duration": 4.0,
+        "start_formatted": "08:35",
+        "text": "click on this view repository button and"
+      },
+      {
+        "start": 517.919,
+        "duration": 3.761,
+        "start_formatted": "08:37",
+        "text": "you scroll down a bit here, it contains"
+      },
+      {
+        "start": 519.68,
+        "duration": 4.239,
+        "start_formatted": "08:39",
+        "text": "all the instructions on how to download"
+      },
+      {
+        "start": 521.68,
+        "duration": 3.839,
+        "start_formatted": "08:41",
+        "text": "and run this locally on your computer."
+      },
+      {
+        "start": 523.919,
+        "duration": 4.161,
+        "start_formatted": "08:43",
+        "text": "Plus, they've also released the code on"
+      },
+      {
+        "start": 525.519,
+        "duration": 4.241,
+        "start_formatted": "08:45",
+        "text": "how to train this yourself. And that's"
+      },
+      {
+        "start": 528.08,
+        "duration": 3.52,
+        "start_formatted": "08:48",
+        "text": "because currently they've only trained"
+      },
+      {
+        "start": 529.76,
+        "duration": 3.44,
+        "start_formatted": "08:49",
+        "text": "the model on Chinese, but you can also"
+      },
+      {
+        "start": 531.6,
+        "duration": 3.6,
+        "start_formatted": "08:51",
+        "text": "train your own checkpoint with any"
+      },
+      {
+        "start": 533.2,
+        "duration": 4.16,
+        "start_formatted": "08:53",
+        "text": "language you want. So, you just need to"
+      },
+      {
+        "start": 535.2,
+        "duration": 3.92,
+        "start_formatted": "08:55",
+        "text": "follow the training instructions on this"
+      },
+      {
+        "start": 537.36,
+        "duration": 3.68,
+        "start_formatted": "08:57",
+        "text": "page. Now, like I said, they have two"
+      },
+      {
+        "start": 539.12,
+        "duration": 4.159,
+        "start_formatted": "08:59",
+        "text": "different variants, a pro and a normal"
+      },
+      {
+        "start": 541.04,
+        "duration": 4.08,
+        "start_formatted": "09:01",
+        "text": "variant. Both of them are under 10"
+      },
+      {
+        "start": 543.279,
+        "duration": 4.481,
+        "start_formatted": "09:03",
+        "text": "gigabytes in size, so you should be able"
+      },
+      {
+        "start": 545.12,
+        "duration": 4.48,
+        "start_formatted": "09:05",
+        "text": "to fit this on most consumer GPUs."
+      },
+      {
+        "start": 547.76,
+        "duration": 3.92,
+        "start_formatted": "09:07",
+        "text": "Anyway, if you're looking to generate"
+      },
+      {
+        "start": 549.6,
+        "duration": 4.64,
+        "start_formatted": "09:09",
+        "text": "really realistic and expressive singing"
+      },
+      {
+        "start": 551.68,
+        "duration": 4.64,
+        "start_formatted": "09:11",
+        "text": "voices with AI, then this vocal render"
+      },
+      {
+        "start": 554.24,
+        "duration": 3.76,
+        "start_formatted": "09:14",
+        "text": "model is one of the best you can use so"
+      },
+      {
+        "start": 556.32,
+        "duration": 3.76,
+        "start_formatted": "09:16",
+        "text": "far. If you're interested in reading"
+      },
+      {
+        "start": 558.0,
+        "duration": 4.0,
+        "start_formatted": "09:18",
+        "text": "further, I'll link to this main page in"
+      },
+      {
+        "start": 560.08,
+        "duration": 4.879,
+        "start_formatted": "09:20",
+        "text": "the description below. Also, this week,"
+      },
+      {
+        "start": 562.0,
+        "duration": 5.76,
+        "start_formatted": "09:22",
+        "text": "Tencent Hunen releases a really cool 3D"
+      },
+      {
+        "start": 564.959,
+        "duration": 5.201,
+        "start_formatted": "09:24",
+        "text": "editing model called Hunyan 3D Buffalo."
+      },
+      {
+        "start": 567.76,
+        "duration": 4.48,
+        "start_formatted": "09:27",
+        "text": "This is basically a unified model that"
+      },
+      {
+        "start": 570.16,
+        "duration": 4.64,
+        "start_formatted": "09:30",
+        "text": "can generate, understand, edit, and"
+      },
+      {
+        "start": 572.24,
+        "duration": 5.039,
+        "start_formatted": "09:32",
+        "text": "separate 3D objects. So, here are some"
+      },
+      {
+        "start": 574.8,
+        "duration": 4.4,
+        "start_formatted": "09:34",
+        "text": "examples. We can simply edit 3D models"
+      },
+      {
+        "start": 577.279,
+        "duration": 4.0,
+        "start_formatted": "09:37",
+        "text": "with a text prompt. For example, we can"
+      },
+      {
+        "start": 579.2,
+        "duration": 4.639,
+        "start_formatted": "09:39",
+        "text": "input this model and then write turn the"
+      },
+      {
+        "start": 581.279,
+        "duration": 4.881,
+        "start_formatted": "09:41",
+        "text": "head into a bull's head. And here is the"
+      },
+      {
+        "start": 583.839,
+        "duration": 4.321,
+        "start_formatted": "09:43",
+        "text": "result. Or here we can write remove the"
+      },
+      {
+        "start": 586.16,
+        "duration": 4.16,
+        "start_formatted": "09:46",
+        "text": "sail. And it indeed removes the sail"
+      },
+      {
+        "start": 588.16,
+        "duration": 4.16,
+        "start_formatted": "09:48",
+        "text": "from this 3D model. Or here's an example"
+      },
+      {
+        "start": 590.32,
+        "duration": 4.48,
+        "start_formatted": "09:50",
+        "text": "where we can add glasses to the frog"
+      },
+      {
+        "start": 592.32,
+        "duration": 5.44,
+        "start_formatted": "09:52",
+        "text": "like this. Or we can take this robot and"
+      },
+      {
+        "start": 594.8,
+        "duration": 5.28,
+        "start_formatted": "09:54",
+        "text": "put spiked gauntlets on both hands. And"
+      },
+      {
+        "start": 597.76,
+        "duration": 4.16,
+        "start_formatted": "09:57",
+        "text": "indeed, that is what it does. It's also"
+      },
+      {
+        "start": 600.08,
+        "duration": 3.759,
+        "start_formatted": "10:00",
+        "text": "able to generate 3D models from just a"
+      },
+      {
+        "start": 601.92,
+        "duration": 3.84,
+        "start_formatted": "10:01",
+        "text": "text prompt. So, here are some examples"
+      },
+      {
+        "start": 603.839,
+        "duration": 4.241,
+        "start_formatted": "10:03",
+        "text": "for your reference. The cool thing is"
+      },
+      {
+        "start": 605.76,
+        "duration": 4.56,
+        "start_formatted": "10:05",
+        "text": "this can also take in any 3D model and"
+      },
+      {
+        "start": 608.08,
+        "duration": 4.48,
+        "start_formatted": "10:08",
+        "text": "separate it into individual parts like"
+      },
+      {
+        "start": 610.32,
+        "duration": 4.4,
+        "start_formatted": "10:10",
+        "text": "this. Or here's another example where we"
+      },
+      {
+        "start": 612.56,
+        "duration": 4.48,
+        "start_formatted": "10:12",
+        "text": "can separate this model into these"
+      },
+      {
+        "start": 614.72,
+        "duration": 4.32,
+        "start_formatted": "10:14",
+        "text": "separate parts. So, while most AI 3D"
+      },
+      {
+        "start": 617.04,
+        "duration": 4.88,
+        "start_formatted": "10:17",
+        "text": "model generators can only do one of"
+      },
+      {
+        "start": 619.04,
+        "duration": 5.12,
+        "start_formatted": "10:19",
+        "text": "these things, this new Hunyan 3D Buffalo"
+      },
+      {
+        "start": 621.92,
+        "duration": 5.12,
+        "start_formatted": "10:21",
+        "text": "is designed to be a unified model that"
+      },
+      {
+        "start": 624.16,
+        "duration": 5.44,
+        "start_formatted": "10:24",
+        "text": "can both generate and edit and segment"
+      },
+      {
+        "start": 627.04,
+        "duration": 4.08,
+        "start_formatted": "10:27",
+        "text": "3D models, making it super flexible. The"
+      },
+      {
+        "start": 629.6,
+        "duration": 3.919,
+        "start_formatted": "10:29",
+        "text": "nice thing is at the top of the page"
+      },
+      {
+        "start": 631.12,
+        "duration": 3.92,
+        "start_formatted": "10:31",
+        "text": "here, it says the code is coming soon."
+      },
+      {
+        "start": 633.519,
+        "duration": 2.961,
+        "start_formatted": "10:33",
+        "text": "So, it looks like they are planning to"
+      },
+      {
+        "start": 635.04,
+        "duration": 3.68,
+        "start_formatted": "10:35",
+        "text": "release the code and models to this,"
+      },
+      {
+        "start": 636.48,
+        "duration": 3.84,
+        "start_formatted": "10:36",
+        "text": "which is fantastic. For now, if you're"
+      },
+      {
+        "start": 638.72,
+        "duration": 3.359,
+        "start_formatted": "10:38",
+        "text": "interested in reading further, I'll link"
+      },
+      {
+        "start": 640.32,
+        "duration": 4.079,
+        "start_formatted": "10:40",
+        "text": "to this main page in the description"
+      },
+      {
+        "start": 642.079,
+        "duration": 4.561,
+        "start_formatted": "10:42",
+        "text": "below. Next up, we have a new AI called"
+      },
+      {
+        "start": 644.399,
+        "duration": 4.961,
+        "start_formatted": "10:44",
+        "text": "Leap Talk. And this can generate talking"
+      },
+      {
+        "start": 646.64,
+        "duration": 4.879,
+        "start_formatted": "10:46",
+        "text": "avatars in real time. So, this just"
+      },
+      {
+        "start": 649.36,
+        "duration": 4.56,
+        "start_formatted": "10:49",
+        "text": "takes in any reference image of a"
+      },
+      {
+        "start": 651.519,
+        "duration": 4.481,
+        "start_formatted": "10:51",
+        "text": "person, any speech audio, and it outputs"
+      },
+      {
+        "start": 653.92,
+        "duration": 3.12,
+        "start_formatted": "10:53",
+        "text": "a lip-s synced talking head video in"
+      },
+      {
+        "start": 656.0,
+        "duration": 3.2,
+        "start_formatted": "10:56",
+        "text": "pretty much real time."
+      },
+      {
+        "start": 657.04,
+        "duration": 4.479,
+        "start_formatted": "10:57",
+        "text": ">> Can the security and smooth passage of"
+      },
+      {
+        "start": 659.2,
+        "duration": 4.48,
+        "start_formatted": "10:59",
+        "text": "international waterways be fundamentally"
+      },
+      {
+        "start": 661.519,
+        "duration": 4.801,
+        "start_formatted": "11:01",
+        "text": "safeguarded? All parties should work"
+      },
+      {
+        "start": 663.68,
+        "duration": 4.8,
+        "start_formatted": "11:03",
+        "text": "together to deescalate the situation and"
+      },
+      {
+        "start": 666.32,
+        "duration": 4.4,
+        "start_formatted": "11:06",
+        "text": "prevent regional instability from having"
+      },
+      {
+        "start": 668.48,
+        "duration": 4.56,
+        "start_formatted": "11:08",
+        "text": "a greater impact on the global economy"
+      },
+      {
+        "start": 670.72,
+        "duration": 4.559,
+        "start_formatted": "11:10",
+        "text": "and energy security. Now, this talking"
+      },
+      {
+        "start": 673.04,
+        "duration": 4.16,
+        "start_formatted": "11:13",
+        "text": "head does look very rigid. She doesn't"
+      },
+      {
+        "start": 675.279,
+        "duration": 4.321,
+        "start_formatted": "11:15",
+        "text": "move as naturally as some of the other"
+      },
+      {
+        "start": 677.2,
+        "duration": 4.24,
+        "start_formatted": "11:17",
+        "text": "frontier avatar generators out there,"
+      },
+      {
+        "start": 679.6,
+        "duration": 4.239,
+        "start_formatted": "11:19",
+        "text": "but the strength of this model is that"
+      },
+      {
+        "start": 681.44,
+        "duration": 4.399,
+        "start_formatted": "11:21",
+        "text": "it's incredibly fast. So, if you look at"
+      },
+      {
+        "start": 683.839,
+        "duration": 4.56,
+        "start_formatted": "11:23",
+        "text": "the latency of Leap Talk compared to"
+      },
+      {
+        "start": 685.839,
+        "duration": 4.161,
+        "start_formatted": "11:25",
+        "text": "other avatar generators like Hello 3 or"
+      },
+      {
+        "start": 688.399,
+        "duration": 3.12,
+        "start_formatted": "11:28",
+        "text": "Echo Mimic, which I featured on my"
+      },
+      {
+        "start": 690.0,
+        "duration": 3.2,
+        "start_formatted": "11:30",
+        "text": "channel before, Leap Talk is like"
+      },
+      {
+        "start": 691.519,
+        "duration": 4.081,
+        "start_formatted": "11:31",
+        "text": "thousands of times faster. And they"
+      },
+      {
+        "start": 693.2,
+        "duration": 5.199,
+        "start_formatted": "11:33",
+        "text": "claim that on an H200 GPU, this can"
+      },
+      {
+        "start": 695.6,
+        "duration": 4.64,
+        "start_formatted": "11:35",
+        "text": "achieve up to 200 frames per second,"
+      },
+      {
+        "start": 698.399,
+        "duration": 4.241,
+        "start_formatted": "11:38",
+        "text": "which is crazy. So, if you're looking"
+      },
+      {
+        "start": 700.24,
+        "duration": 4.32,
+        "start_formatted": "11:40",
+        "text": "for a lightweight realtime talking head"
+      },
+      {
+        "start": 702.64,
+        "duration": 3.68,
+        "start_formatted": "11:42",
+        "text": "generator, this is likely the fastest"
+      },
+      {
+        "start": 704.56,
+        "duration": 3.12,
+        "start_formatted": "11:44",
+        "text": "option available right now. And the"
+      },
+      {
+        "start": 706.32,
+        "duration": 3.12,
+        "start_formatted": "11:46",
+        "text": "awesome thing is they've released this"
+      },
+      {
+        "start": 707.68,
+        "duration": 3.52,
+        "start_formatted": "11:47",
+        "text": "already. So, if you click on this code"
+      },
+      {
+        "start": 709.44,
+        "duration": 3.76,
+        "start_formatted": "11:49",
+        "text": "button and you scroll down a bit here,"
+      },
+      {
+        "start": 711.2,
+        "duration": 4.16,
+        "start_formatted": "11:51",
+        "text": "it contains all the instructions on how"
+      },
+      {
+        "start": 713.2,
+        "duration": 3.759,
+        "start_formatted": "11:53",
+        "text": "to download and run this locally on your"
+      },
+      {
+        "start": 715.36,
+        "duration": 3.52,
+        "start_formatted": "11:55",
+        "text": "computer. If you're interested in"
+      },
+      {
+        "start": 716.959,
+        "duration": 3.841,
+        "start_formatted": "11:56",
+        "text": "reading further, I'll link to this main"
+      },
+      {
+        "start": 718.88,
+        "duration": 3.36,
+        "start_formatted": "11:58",
+        "text": "page in the description below. If you"
+      },
+      {
+        "start": 720.8,
+        "duration": 2.719,
+        "start_formatted": "12:00",
+        "text": "want to supercharge your content"
+      },
+      {
+        "start": 722.24,
+        "duration": 3.52,
+        "start_formatted": "12:02",
+        "text": "creation, definitely check out"
+      },
+      {
+        "start": 723.519,
+        "duration": 4.0,
+        "start_formatted": "12:03",
+        "text": "Higsfield, the sponsor of this video."
+      },
+      {
+        "start": 725.76,
+        "duration": 4.72,
+        "start_formatted": "12:05",
+        "text": "They've just added the best video"
+      },
+      {
+        "start": 727.519,
+        "duration": 4.641,
+        "start_formatted": "12:07",
+        "text": "generator out there, Seed Dance 2.5. The"
+      },
+      {
+        "start": 730.48,
+        "duration": 3.52,
+        "start_formatted": "12:10",
+        "text": "biggest improvement from this model is"
+      },
+      {
+        "start": 732.16,
+        "duration": 4.0,
+        "start_formatted": "12:12",
+        "text": "that you can now generate up to 30"
+      },
+      {
+        "start": 734.0,
+        "duration": 4.16,
+        "start_formatted": "12:14",
+        "text": "seconds of video in a single pass with"
+      },
+      {
+        "start": 736.16,
+        "duration": 4.64,
+        "start_formatted": "12:16",
+        "text": "multiple shots and an actual narrative"
+      },
+      {
+        "start": 738.16,
+        "duration": 4.72,
+        "start_formatted": "12:18",
+        "text": "with audio built in. You can also extend"
+      },
+      {
+        "start": 740.8,
+        "duration": 3.76,
+        "start_formatted": "12:20",
+        "text": "an existing generation with new shots"
+      },
+      {
+        "start": 742.88,
+        "duration": 3.84,
+        "start_formatted": "12:22",
+        "text": "while keeping the same characters,"
+      },
+      {
+        "start": 744.56,
+        "duration": 4.16,
+        "start_formatted": "12:24",
+        "text": "locations, pacing, and overall"
+      },
+      {
+        "start": 746.72,
+        "duration": 4.239,
+        "start_formatted": "12:26",
+        "text": "consistency. What really stands out is"
+      },
+      {
+        "start": 748.72,
+        "duration": 5.119,
+        "start_formatted": "12:28",
+        "text": "the reference system. You can feed it up"
+      },
+      {
+        "start": 750.959,
+        "duration": 6.161,
+        "start_formatted": "12:30",
+        "text": "to 50 references at once, including 30"
+      },
+      {
+        "start": 753.839,
+        "duration": 4.961,
+        "start_formatted": "12:33",
+        "text": "images, 10 videos, and 10 audio files."
+      },
+      {
+        "start": 757.12,
+        "duration": 3.839,
+        "start_formatted": "12:37",
+        "text": "You can provide your characters,"
+      },
+      {
+        "start": 758.8,
+        "duration": 4.719,
+        "start_formatted": "12:38",
+        "text": "environment, visual style, motion, and"
+      },
+      {
+        "start": 760.959,
+        "duration": 5.12,
+        "start_formatted": "12:40",
+        "text": "soundtrack all in one generation. It can"
+      },
+      {
+        "start": 763.519,
+        "duration": 4.32,
+        "start_formatted": "12:43",
+        "text": "even use a simple 3D clay render as a"
+      },
+      {
+        "start": 766.079,
+        "duration": 3.361,
+        "start_formatted": "12:46",
+        "text": "reference to understand the camera"
+      },
+      {
+        "start": 767.839,
+        "duration": 3.761,
+        "start_formatted": "12:47",
+        "text": "movement, lighting, and overall"
+      },
+      {
+        "start": 769.44,
+        "duration": 4.56,
+        "start_formatted": "12:49",
+        "text": "composition of the scene. You also get"
+      },
+      {
+        "start": 771.6,
+        "duration": 4.72,
+        "start_formatted": "12:51",
+        "text": "much more control over editing. For"
+      },
+      {
+        "start": 774.0,
+        "duration": 4.32,
+        "start_formatted": "12:54",
+        "text": "example, you can specify exactly what"
+      },
+      {
+        "start": 776.32,
+        "duration": 3.84,
+        "start_formatted": "12:56",
+        "text": "happens during different timestamps,"
+      },
+      {
+        "start": 778.32,
+        "duration": 3.84,
+        "start_formatted": "12:58",
+        "text": "change just one section without"
+      },
+      {
+        "start": 780.16,
+        "duration": 3.84,
+        "start_formatted": "13:00",
+        "text": "affecting the rest of the video, or move"
+      },
+      {
+        "start": 782.16,
+        "duration": 3.44,
+        "start_formatted": "13:02",
+        "text": "the same performance into a completely"
+      },
+      {
+        "start": 784.0,
+        "duration": 3.76,
+        "start_formatted": "13:04",
+        "text": "different environment, or even change"
+      },
+      {
+        "start": 785.6,
+        "duration": 4.88,
+        "start_formatted": "13:05",
+        "text": "the camera angle while preserving the"
+      },
+      {
+        "start": 787.76,
+        "duration": 5.199,
+        "start_formatted": "13:07",
+        "text": "characters and action. Seance 2.5"
+      },
+      {
+        "start": 790.48,
+        "duration": 4.96,
+        "start_formatted": "13:10",
+        "text": "supports text to video, image to video,"
+      },
+      {
+        "start": 792.959,
+        "duration": 4.721,
+        "start_formatted": "13:12",
+        "text": "video to video, and other references. So"
+      },
+      {
+        "start": 795.44,
+        "duration": 4.399,
+        "start_formatted": "13:15",
+        "text": "whether you want to create short films,"
+      },
+      {
+        "start": 797.68,
+        "duration": 4.399,
+        "start_formatted": "13:17",
+        "text": "action scenes, music videos, commercials"
+      },
+      {
+        "start": 799.839,
+        "duration": 3.841,
+        "start_formatted": "13:19",
+        "text": "or any other content, it gives you a lot"
+      },
+      {
+        "start": 802.079,
+        "duration": 4.32,
+        "start_formatted": "13:22",
+        "text": "more control while keeping everything"
+      },
+      {
+        "start": 803.68,
+        "duration": 5.04,
+        "start_formatted": "13:23",
+        "text": "consistent. You can try Seance 2.5 on"
+      },
+      {
+        "start": 806.399,
+        "duration": 4.401,
+        "start_formatted": "13:26",
+        "text": "Higsfield today using the link in the"
+      },
+      {
+        "start": 808.72,
+        "duration": 4.72,
+        "start_formatted": "13:28",
+        "text": "description below. Now around 2 weeks"
+      },
+      {
+        "start": 810.8,
+        "duration": 5.2,
+        "start_formatted": "13:30",
+        "text": "ago, Moonshot AI released Kimmy K3 and"
+      },
+      {
+        "start": 813.44,
+        "duration": 5.04,
+        "start_formatted": "13:33",
+        "text": "this is a massive 2.8 a trillion"
+      },
+      {
+        "start": 816.0,
+        "duration": 4.639,
+        "start_formatted": "13:36",
+        "text": "parameter model which they open sourced"
+      },
+      {
+        "start": 818.48,
+        "duration": 3.919,
+        "start_formatted": "13:38",
+        "text": "and back then this was not only the best"
+      },
+      {
+        "start": 820.639,
+        "duration": 3.681,
+        "start_formatted": "13:40",
+        "text": "open- source model out there but it has"
+      },
+      {
+        "start": 822.399,
+        "duration": 3.921,
+        "start_formatted": "13:42",
+        "text": "even caught up to Frontier for some of"
+      },
+      {
+        "start": 824.32,
+        "duration": 5.36,
+        "start_formatted": "13:44",
+        "text": "these benchmarks it's as good or even"
+      },
+      {
+        "start": 826.32,
+        "duration": 5.759,
+        "start_formatted": "13:46",
+        "text": "better than like GPT 5.6 or Fable 5."
+      },
+      {
+        "start": 829.68,
+        "duration": 5.92,
+        "start_formatted": "13:49",
+        "text": "Well, it's not over yet. So this week"
+      },
+      {
+        "start": 832.079,
+        "duration": 6.241,
+        "start_formatted": "13:52",
+        "text": "Alibaba releases Quen 3.8 Max. This is"
+      },
+      {
+        "start": 835.6,
+        "duration": 4.96,
+        "start_formatted": "13:55",
+        "text": "also a massive 2.4 4 trillion parameter"
+      },
+      {
+        "start": 838.32,
+        "duration": 4.72,
+        "start_formatted": "13:58",
+        "text": "model and this is also the first time"
+      },
+      {
+        "start": 840.56,
+        "duration": 4.719,
+        "start_formatted": "14:00",
+        "text": "that they will open source a max class"
+      },
+      {
+        "start": 843.04,
+        "duration": 4.159,
+        "start_formatted": "14:03",
+        "text": "model which is super exciting. Here they"
+      },
+      {
+        "start": 845.279,
+        "duration": 4.161,
+        "start_formatted": "14:05",
+        "text": "say the weights will be released next"
+      },
+      {
+        "start": 847.199,
+        "duration": 4.241,
+        "start_formatted": "14:07",
+        "text": "week and check out the benchmark scores"
+      },
+      {
+        "start": 849.44,
+        "duration": 3.6,
+        "start_formatted": "14:09",
+        "text": "of this in terms of these agentic"
+      },
+      {
+        "start": 851.44,
+        "duration": 4.72,
+        "start_formatted": "14:11",
+        "text": "software engineering tasks. You can see"
+      },
+      {
+        "start": 853.04,
+        "duration": 5.12,
+        "start_formatted": "14:13",
+        "text": "that in some cases this new Quen 3.8 Max"
+      },
+      {
+        "start": 856.16,
+        "duration": 4.88,
+        "start_formatted": "14:16",
+        "text": "which is the dark blue even matches the"
+      },
+      {
+        "start": 858.16,
+        "duration": 5.6,
+        "start_formatted": "14:18",
+        "text": "performance of Fable 5 and GPT 5.6 Soul"
+      },
+      {
+        "start": 861.04,
+        "duration": 4.96,
+        "start_formatted": "14:21",
+        "text": "and it already beats Opus 4.8 which is"
+      },
+      {
+        "start": 863.76,
+        "duration": 4.48,
+        "start_formatted": "14:23",
+        "text": "the dark gray bar. Very impressive for"
+      },
+      {
+        "start": 866.0,
+        "duration": 4.079,
+        "start_formatted": "14:26",
+        "text": "an open-source model. Now, like most"
+      },
+      {
+        "start": 868.24,
+        "duration": 3.92,
+        "start_formatted": "14:28",
+        "text": "Frontier models, this is designed to"
+      },
+      {
+        "start": 870.079,
+        "duration": 4.401,
+        "start_formatted": "14:30",
+        "text": "work across a ton of steps, autonomously"
+      },
+      {
+        "start": 872.16,
+        "duration": 5.119,
+        "start_formatted": "14:32",
+        "text": "use tools, inspect results, and continue"
+      },
+      {
+        "start": 874.48,
+        "duration": 5.359,
+        "start_formatted": "14:34",
+        "text": "working until it reaches your specified"
+      },
+      {
+        "start": 877.279,
+        "duration": 4.321,
+        "start_formatted": "14:37",
+        "text": "goal. Here in this demonstration, it was"
+      },
+      {
+        "start": 879.839,
+        "duration": 3.68,
+        "start_formatted": "14:39",
+        "text": "given an empty folder, and it was told"
+      },
+      {
+        "start": 881.6,
+        "duration": 4.32,
+        "start_formatted": "14:41",
+        "text": "to create a self-improving harness"
+      },
+      {
+        "start": 883.519,
+        "duration": 4.721,
+        "start_formatted": "14:43",
+        "text": "system from scratch that turns feedback"
+      },
+      {
+        "start": 885.92,
+        "duration": 4.08,
+        "start_formatted": "14:45",
+        "text": "into GitHub issues, automatically claims"
+      },
+      {
+        "start": 888.24,
+        "duration": 3.76,
+        "start_formatted": "14:48",
+        "text": "and codes them, and merges working"
+      },
+      {
+        "start": 890.0,
+        "duration": 4.16,
+        "start_formatted": "14:50",
+        "text": "changes, and keeps evolving the tool"
+      },
+      {
+        "start": 892.0,
+        "duration": 4.959,
+        "start_formatted": "14:52",
+        "text": "over time. And the crazy thing is this"
+      },
+      {
+        "start": 894.16,
+        "duration": 4.56,
+        "start_formatted": "14:54",
+        "text": "worked for about 16 days without any"
+      },
+      {
+        "start": 896.959,
+        "duration": 3.841,
+        "start_formatted": "14:56",
+        "text": "human help. It just kept doing this"
+      },
+      {
+        "start": 898.72,
+        "duration": 5.679,
+        "start_formatted": "14:58",
+        "text": "until it achieved the goal and in the"
+      },
+      {
+        "start": 900.8,
+        "duration": 6.08,
+        "start_formatted": "15:00",
+        "text": "end it made like 265 commits and 127"
+      },
+      {
+        "start": 904.399,
+        "duration": 5.041,
+        "start_formatted": "15:04",
+        "text": "pull requests. Or here's another example"
+      },
+      {
+        "start": 906.88,
+        "duration": 4.88,
+        "start_formatted": "15:06",
+        "text": "where it was given a recent paper for"
+      },
+      {
+        "start": 909.44,
+        "duration": 4.399,
+        "start_formatted": "15:09",
+        "text": "training language models and it was told"
+      },
+      {
+        "start": 911.76,
+        "duration": 4.16,
+        "start_formatted": "15:11",
+        "text": "to basically reproduce the paper and"
+      },
+      {
+        "start": 913.839,
+        "duration": 4.8,
+        "start_formatted": "15:13",
+        "text": "then beat it. So it worked autonomously"
+      },
+      {
+        "start": 915.92,
+        "duration": 4.8,
+        "start_formatted": "15:15",
+        "text": "for like 5 days. It wrote thousands of"
+      },
+      {
+        "start": 918.639,
+        "duration": 4.401,
+        "start_formatted": "15:18",
+        "text": "code from scratch, rebuilt the entire"
+      },
+      {
+        "start": 920.72,
+        "duration": 4.96,
+        "start_formatted": "15:20",
+        "text": "experiment, matched the paper's results,"
+      },
+      {
+        "start": 923.04,
+        "duration": 5.12,
+        "start_formatted": "15:23",
+        "text": "and then invented and tested 18 of its"
+      },
+      {
+        "start": 925.68,
+        "duration": 4.399,
+        "start_formatted": "15:25",
+        "text": "own improvement ideas. And its final"
+      },
+      {
+        "start": 928.16,
+        "duration": 4.239,
+        "start_formatted": "15:28",
+        "text": "method actually beat the original paper"
+      },
+      {
+        "start": 930.079,
+        "duration": 4.161,
+        "start_formatted": "15:30",
+        "text": "by 2.7 points on a really hard"
+      },
+      {
+        "start": 932.399,
+        "duration": 3.281,
+        "start_formatted": "15:32",
+        "text": "competitive math benchmark. That's"
+      },
+      {
+        "start": 934.24,
+        "duration": 3.12,
+        "start_formatted": "15:34",
+        "text": "crazy. I mean, this is just a very"
+      },
+      {
+        "start": 935.68,
+        "duration": 3.44,
+        "start_formatted": "15:35",
+        "text": "recent paper, but you can just plug it"
+      },
+      {
+        "start": 937.36,
+        "duration": 4.159,
+        "start_formatted": "15:37",
+        "text": "into this AI to figure out an even"
+      },
+      {
+        "start": 939.12,
+        "duration": 4.64,
+        "start_formatted": "15:39",
+        "text": "better result. So, I mean, the age of"
+      },
+      {
+        "start": 941.519,
+        "duration": 4.56,
+        "start_formatted": "15:41",
+        "text": "autonomous scientific improvement is"
+      },
+      {
+        "start": 943.76,
+        "duration": 4.56,
+        "start_formatted": "15:43",
+        "text": "already here. Or here's another crazy"
+      },
+      {
+        "start": 946.079,
+        "duration": 4.32,
+        "start_formatted": "15:46",
+        "text": "example where it was told to design and"
+      },
+      {
+        "start": 948.32,
+        "duration": 4.48,
+        "start_formatted": "15:48",
+        "text": "optimize a chip. So it started from"
+      },
+      {
+        "start": 950.399,
+        "duration": 4.961,
+        "start_formatted": "15:50",
+        "text": "basically nothing. It designed, coded,"
+      },
+      {
+        "start": 952.8,
+        "duration": 4.719,
+        "start_formatted": "15:52",
+        "text": "simulated, and repeatedly improved this"
+      },
+      {
+        "start": 955.36,
+        "duration": 4.159,
+        "start_formatted": "15:55",
+        "text": "cryptographic hardware accelerator. It"
+      },
+      {
+        "start": 957.519,
+        "duration": 4.161,
+        "start_formatted": "15:57",
+        "text": "was able to produce a physical layout"
+      },
+      {
+        "start": 959.519,
+        "duration": 4.56,
+        "start_formatted": "15:59",
+        "text": "that's like 12 times smaller than the"
+      },
+      {
+        "start": 961.68,
+        "duration": 4.24,
+        "start_formatted": "16:01",
+        "text": "baseline while meeting timing targets."
+      },
+      {
+        "start": 964.079,
+        "duration": 3.44,
+        "start_formatted": "16:04",
+        "text": "Now, if you look at this leaderboard by"
+      },
+      {
+        "start": 965.92,
+        "duration": 4.64,
+        "start_formatted": "16:05",
+        "text": "artificial analysis, then you can see"
+      },
+      {
+        "start": 967.519,
+        "duration": 5.841,
+        "start_formatted": "16:07",
+        "text": "that Quinn 3.8 8 is just one point below"
+      },
+      {
+        "start": 970.56,
+        "duration": 4.88,
+        "start_formatted": "16:10",
+        "text": "Kimmy K3 while being like 400 billion"
+      },
+      {
+        "start": 973.36,
+        "duration": 3.68,
+        "start_formatted": "16:13",
+        "text": "parameters smaller. So I mean once they"
+      },
+      {
+        "start": 975.44,
+        "duration": 3.759,
+        "start_formatted": "16:15",
+        "text": "release the weights to this this will be"
+      },
+      {
+        "start": 977.04,
+        "duration": 4.239,
+        "start_formatted": "16:17",
+        "text": "like the second best open model out"
+      },
+      {
+        "start": 979.199,
+        "duration": 4.801,
+        "start_formatted": "16:19",
+        "text": "there and they're edging very close to"
+      },
+      {
+        "start": 981.279,
+        "duration": 4.321,
+        "start_formatted": "16:21",
+        "text": "GPT 5.6 and Claude Fable. The thing I"
+      },
+      {
+        "start": 984.0,
+        "duration": 2.8,
+        "start_formatted": "16:24",
+        "text": "don't like about artificial analysis is"
+      },
+      {
+        "start": 985.6,
+        "duration": 3.039,
+        "start_formatted": "16:25",
+        "text": "they don't have any confidence"
+      },
+      {
+        "start": 986.8,
+        "duration": 3.68,
+        "start_formatted": "16:26",
+        "text": "intervals. So it's hard to say whether"
+      },
+      {
+        "start": 988.639,
+        "duration": 3.521,
+        "start_formatted": "16:28",
+        "text": "these top five models are actually"
+      },
+      {
+        "start": 990.48,
+        "duration": 3.52,
+        "start_formatted": "16:30",
+        "text": "significantly better in terms of"
+      },
+      {
+        "start": 992.16,
+        "duration": 4.56,
+        "start_formatted": "16:32",
+        "text": "performance. Now currently you can use"
+      },
+      {
+        "start": 994.0,
+        "duration": 4.079,
+        "start_formatted": "16:34",
+        "text": "Quinn 3.8 8 Max via their API. And as"
+      },
+      {
+        "start": 996.72,
+        "duration": 3.039,
+        "start_formatted": "16:36",
+        "text": "you can see, it's slightly more"
+      },
+      {
+        "start": 998.079,
+        "duration": 4.081,
+        "start_formatted": "16:38",
+        "text": "expensive than Kimmy, but still cheaper"
+      },
+      {
+        "start": 999.759,
+        "duration": 4.561,
+        "start_formatted": "16:39",
+        "text": "than GPG 51.6 and much cheaper than"
+      },
+      {
+        "start": 1002.16,
+        "duration": 3.919,
+        "start_formatted": "16:42",
+        "text": "Claude Opus or Claude Fable, which I"
+      },
+      {
+        "start": 1004.32,
+        "duration": 3.36,
+        "start_formatted": "16:44",
+        "text": "would not recommend. Like I said, they"
+      },
+      {
+        "start": 1006.079,
+        "duration": 3.041,
+        "start_formatted": "16:46",
+        "text": "are planning to release the weights next"
+      },
+      {
+        "start": 1007.68,
+        "duration": 3.76,
+        "start_formatted": "16:47",
+        "text": "week. But for now, you can try this out"
+      },
+      {
+        "start": 1009.12,
+        "duration": 4.24,
+        "start_formatted": "16:49",
+        "text": "via Quen Cloud. If you're interested in"
+      },
+      {
+        "start": 1011.44,
+        "duration": 4.24,
+        "start_formatted": "16:51",
+        "text": "reading further, I'll link to this main"
+      },
+      {
+        "start": 1013.36,
+        "duration": 4.32,
+        "start_formatted": "16:53",
+        "text": "page in the description below. Next up,"
+      },
+      {
+        "start": 1015.68,
+        "duration": 4.48,
+        "start_formatted": "16:55",
+        "text": "Google DeepMind releases a really"
+      },
+      {
+        "start": 1017.68,
+        "duration": 4.56,
+        "start_formatted": "16:57",
+        "text": "exciting update called Weather Next 2."
+      },
+      {
+        "start": 1020.16,
+        "duration": 4.48,
+        "start_formatted": "17:00",
+        "text": "This is basically an AI that can help"
+      },
+      {
+        "start": 1022.24,
+        "duration": 4.959,
+        "start_formatted": "17:02",
+        "text": "predict hurricanes and tropical cyclones"
+      },
+      {
+        "start": 1024.64,
+        "duration": 4.399,
+        "start_formatted": "17:04",
+        "text": "way earlier than other methods and way"
+      },
+      {
+        "start": 1027.199,
+        "duration": 4.081,
+        "start_formatted": "17:07",
+        "text": "more accurately. You see, the difficult"
+      },
+      {
+        "start": 1029.039,
+        "duration": 4.16,
+        "start_formatted": "17:09",
+        "text": "thing about hurricane forecasting is you"
+      },
+      {
+        "start": 1031.28,
+        "duration": 4.08,
+        "start_formatted": "17:11",
+        "text": "normally need one kind of model to"
+      },
+      {
+        "start": 1033.199,
+        "duration": 4.161,
+        "start_formatted": "17:13",
+        "text": "predict where a storm will go and"
+      },
+      {
+        "start": 1035.36,
+        "duration": 4.64,
+        "start_formatted": "17:15",
+        "text": "another highresolution model to predict"
+      },
+      {
+        "start": 1037.36,
+        "duration": 5.12,
+        "start_formatted": "17:17",
+        "text": "how strong it'll become. But weather nex"
+      },
+      {
+        "start": 1040.0,
+        "duration": 4.64,
+        "start_formatted": "17:20",
+        "text": "basically combines both jobs into a"
+      },
+      {
+        "start": 1042.48,
+        "duration": 4.16,
+        "start_formatted": "17:22",
+        "text": "single model. It's able to predict the"
+      },
+      {
+        "start": 1044.64,
+        "duration": 3.84,
+        "start_formatted": "17:24",
+        "text": "storm's track intensity and wind"
+      },
+      {
+        "start": 1046.64,
+        "duration": 5.279,
+        "start_formatted": "17:26",
+        "text": "structure. In fact, it can generate"
+      },
+      {
+        "start": 1048.48,
+        "duration": 6.24,
+        "start_formatted": "17:28",
+        "text": "forecasts as far as 15 days in advance,"
+      },
+      {
+        "start": 1051.919,
+        "duration": 5.201,
+        "start_formatted": "17:31",
+        "text": "and it can run an ensemble of a thousand"
+      },
+      {
+        "start": 1054.72,
+        "duration": 4.319,
+        "start_formatted": "17:34",
+        "text": "different possible scenarios to estimate"
+      },
+      {
+        "start": 1057.12,
+        "duration": 3.919,
+        "start_formatted": "17:37",
+        "text": "the probability of where it's headed."
+      },
+      {
+        "start": 1059.039,
+        "duration": 4.161,
+        "start_formatted": "17:39",
+        "text": "It's also way more accurate at"
+      },
+      {
+        "start": 1061.039,
+        "duration": 4.721,
+        "start_formatted": "17:41",
+        "text": "predicting the track intensity and"
+      },
+      {
+        "start": 1063.2,
+        "duration": 4.479,
+        "start_formatted": "17:43",
+        "text": "extent. So, this latest weather next"
+      },
+      {
+        "start": 1065.76,
+        "duration": 3.919,
+        "start_formatted": "17:45",
+        "text": "model is the blue line here. And as you"
+      },
+      {
+        "start": 1067.679,
+        "duration": 3.921,
+        "start_formatted": "17:47",
+        "text": "can see, its error rate is much lower"
+      },
+      {
+        "start": 1069.679,
+        "duration": 4.0,
+        "start_formatted": "17:49",
+        "text": "than the other methods, even as you"
+      },
+      {
+        "start": 1071.6,
+        "duration": 4.319,
+        "start_formatted": "17:51",
+        "text": "increase the lead time to like 5 days in"
+      },
+      {
+        "start": 1073.679,
+        "duration": 4.161,
+        "start_formatted": "17:53",
+        "text": "advance. Here's another example where if"
+      },
+      {
+        "start": 1075.919,
+        "duration": 3.76,
+        "start_formatted": "17:55",
+        "text": "you compare the error rates with other"
+      },
+      {
+        "start": 1077.84,
+        "duration": 4.0,
+        "start_formatted": "17:57",
+        "text": "competitor cyclone prediction models,"
+      },
+      {
+        "start": 1079.679,
+        "duration": 4.641,
+        "start_formatted": "17:59",
+        "text": "you can see that Weather Next has a much"
+      },
+      {
+        "start": 1081.84,
+        "duration": 5.52,
+        "start_formatted": "18:01",
+        "text": "lower error rate. In fact, Google says"
+      },
+      {
+        "start": 1084.32,
+        "duration": 5.44,
+        "start_formatted": "18:04",
+        "text": "Weather Next provides more than 24 hours"
+      },
+      {
+        "start": 1087.36,
+        "duration": 4.16,
+        "start_formatted": "18:07",
+        "text": "of additional forecasting lead time"
+      },
+      {
+        "start": 1089.76,
+        "duration": 3.76,
+        "start_formatted": "18:09",
+        "text": "compared with leading systems. What's"
+      },
+      {
+        "start": 1091.52,
+        "duration": 4.88,
+        "start_formatted": "18:11",
+        "text": "more impressive is it does it using"
+      },
+      {
+        "start": 1093.52,
+        "duration": 5.279,
+        "start_formatted": "18:13",
+        "text": "weather data at roughly 28x 28 km"
+      },
+      {
+        "start": 1096.4,
+        "duration": 4.8,
+        "start_formatted": "18:16",
+        "text": "resolution, which is around 100 times"
+      },
+      {
+        "start": 1098.799,
+        "duration": 4.481,
+        "start_formatted": "18:18",
+        "text": "coarser than traditional models, which"
+      },
+      {
+        "start": 1101.2,
+        "duration": 4.56,
+        "start_formatted": "18:21",
+        "text": "require much higher resolution data. So"
+      },
+      {
+        "start": 1103.28,
+        "duration": 4.56,
+        "start_formatted": "18:23",
+        "text": "that means a full 15-day forecast can"
+      },
+      {
+        "start": 1105.76,
+        "duration": 4.08,
+        "start_formatted": "18:25",
+        "text": "just be generated in under a minute on"
+      },
+      {
+        "start": 1107.84,
+        "duration": 3.76,
+        "start_formatted": "18:27",
+        "text": "just one TPU, which is Google's tensor"
+      },
+      {
+        "start": 1109.84,
+        "duration": 4.32,
+        "start_formatted": "18:29",
+        "text": "processing unit. Here it says they"
+      },
+      {
+        "start": 1111.6,
+        "duration": 5.199,
+        "start_formatted": "18:31",
+        "text": "basically trained this AI on nearly 20"
+      },
+      {
+        "start": 1114.16,
+        "duration": 5.28,
+        "start_formatted": "18:34",
+        "text": "terabytes of global atmospheric data,"
+      },
+      {
+        "start": 1116.799,
+        "duration": 4.561,
+        "start_formatted": "18:36",
+        "text": "including nearly 5,000 historical"
+      },
+      {
+        "start": 1119.44,
+        "duration": 4.08,
+        "start_formatted": "18:39",
+        "text": "storms. So the model is able to learn"
+      },
+      {
+        "start": 1121.36,
+        "duration": 4.559,
+        "start_formatted": "18:41",
+        "text": "these complex weather patterns and how"
+      },
+      {
+        "start": 1123.52,
+        "duration": 4.399,
+        "start_formatted": "18:43",
+        "text": "to identify extreme weather. The awesome"
+      },
+      {
+        "start": 1125.919,
+        "duration": 3.681,
+        "start_formatted": "18:45",
+        "text": "thing is not only have they published a"
+      },
+      {
+        "start": 1127.919,
+        "duration": 4.0,
+        "start_formatted": "18:47",
+        "text": "Nature paper on this, but they are also"
+      },
+      {
+        "start": 1129.6,
+        "duration": 4.56,
+        "start_formatted": "18:49",
+        "text": "open sourcing the code and model to"
+      },
+      {
+        "start": 1131.919,
+        "duration": 4.081,
+        "start_formatted": "18:51",
+        "text": "this. So anyone can just download and"
+      },
+      {
+        "start": 1134.16,
+        "duration": 3.519,
+        "start_formatted": "18:54",
+        "text": "run this or build on top of it. So if"
+      },
+      {
+        "start": 1136.0,
+        "duration": 3.52,
+        "start_formatted": "18:56",
+        "text": "you click on this link, it takes you to"
+      },
+      {
+        "start": 1137.679,
+        "duration": 3.441,
+        "start_formatted": "18:57",
+        "text": "their GitHub repo. And if you scroll"
+      },
+      {
+        "start": 1139.52,
+        "duration": 3.6,
+        "start_formatted": "18:59",
+        "text": "down a bit here, it contains all the"
+      },
+      {
+        "start": 1141.12,
+        "duration": 3.76,
+        "start_formatted": "19:01",
+        "text": "instructions on how to set this up."
+      },
+      {
+        "start": 1143.12,
+        "duration": 3.52,
+        "start_formatted": "19:03",
+        "text": "They're also releasing Weather Next 2"
+      },
+      {
+        "start": 1144.88,
+        "duration": 4.32,
+        "start_formatted": "19:04",
+        "text": "Mini, which is a compact version which"
+      },
+      {
+        "start": 1146.64,
+        "duration": 4.8,
+        "start_formatted": "19:06",
+        "text": "you can run in Google Collab for free."
+      },
+      {
+        "start": 1149.2,
+        "duration": 4.4,
+        "start_formatted": "19:09",
+        "text": "So props to Google for open sourcing"
+      },
+      {
+        "start": 1151.44,
+        "duration": 4.08,
+        "start_formatted": "19:11",
+        "text": "this. This AI is actually super helpful"
+      },
+      {
+        "start": 1153.6,
+        "duration": 3.199,
+        "start_formatted": "19:13",
+        "text": "and it'll save a ton of lives by"
+      },
+      {
+        "start": 1155.52,
+        "duration": 3.36,
+        "start_formatted": "19:15",
+        "text": "predicting, you know, these natural"
+      },
+      {
+        "start": 1156.799,
+        "duration": 3.76,
+        "start_formatted": "19:16",
+        "text": "disasters earlier and more accurately."
+      },
+      {
+        "start": 1158.88,
+        "duration": 3.52,
+        "start_formatted": "19:18",
+        "text": "If you're interested in reading further,"
+      },
+      {
+        "start": 1160.559,
+        "duration": 3.601,
+        "start_formatted": "19:20",
+        "text": "I'll link to this main page in the"
+      },
+      {
+        "start": 1162.4,
+        "duration": 3.84,
+        "start_formatted": "19:22",
+        "text": "description below. Also, this week,"
+      },
+      {
+        "start": 1164.16,
+        "duration": 4.08,
+        "start_formatted": "19:24",
+        "text": "OpenAI announces something pretty"
+      },
+      {
+        "start": 1166.24,
+        "duration": 4.559,
+        "start_formatted": "19:26",
+        "text": "remarkable. You see, there are rumors"
+      },
+      {
+        "start": 1168.24,
+        "duration": 4.799,
+        "start_formatted": "19:28",
+        "text": "that their next model, GPT6, will be"
+      },
+      {
+        "start": 1170.799,
+        "duration": 4.88,
+        "start_formatted": "19:30",
+        "text": "rolled out very soon. Well, this is"
+      },
+      {
+        "start": 1173.039,
+        "duration": 4.961,
+        "start_formatted": "19:33",
+        "text": "internally codenamed Astra, and it looks"
+      },
+      {
+        "start": 1175.679,
+        "duration": 5.441,
+        "start_formatted": "19:35",
+        "text": "like they used an internal version of"
+      },
+      {
+        "start": 1178.0,
+        "duration": 5.44,
+        "start_formatted": "19:38",
+        "text": "Astra to solve 10 long-standing open"
+      },
+      {
+        "start": 1181.12,
+        "duration": 4.16,
+        "start_formatted": "19:41",
+        "text": "math problems, which is pretty insane."
+      },
+      {
+        "start": 1183.44,
+        "duration": 4.0,
+        "start_formatted": "19:43",
+        "text": "These aren't just math questions with"
+      },
+      {
+        "start": 1185.28,
+        "duration": 4.56,
+        "start_formatted": "19:45",
+        "text": "known answers. They include open"
+      },
+      {
+        "start": 1187.44,
+        "duration": 4.8,
+        "start_formatted": "19:47",
+        "text": "problems across geometry, coding theory,"
+      },
+      {
+        "start": 1189.84,
+        "duration": 4.8,
+        "start_formatted": "19:49",
+        "text": "group theory, quantum complexity,"
+      },
+      {
+        "start": 1192.24,
+        "duration": 4.72,
+        "start_formatted": "19:52",
+        "text": "cryptography, and combinotaurics, which"
+      },
+      {
+        "start": 1194.64,
+        "duration": 4.32,
+        "start_formatted": "19:54",
+        "text": "no human could ever solve before. But"
+      },
+      {
+        "start": 1196.96,
+        "duration": 4.48,
+        "start_formatted": "19:56",
+        "text": "here with this internal version of"
+      },
+      {
+        "start": 1198.96,
+        "duration": 4.24,
+        "start_formatted": "19:58",
+        "text": "Astra, it was able to either resolve the"
+      },
+      {
+        "start": 1201.44,
+        "duration": 3.84,
+        "start_formatted": "20:01",
+        "text": "problem or make substantial new"
+      },
+      {
+        "start": 1203.2,
+        "duration": 3.68,
+        "start_formatted": "20:03",
+        "text": "progress. Now, this is very technical,"
+      },
+      {
+        "start": 1205.28,
+        "duration": 3.92,
+        "start_formatted": "20:05",
+        "text": "especially if you don't have any math"
+      },
+      {
+        "start": 1206.88,
+        "duration": 4.32,
+        "start_formatted": "20:06",
+        "text": "background. But in summary, one example"
+      },
+      {
+        "start": 1209.2,
+        "duration": 4.16,
+        "start_formatted": "20:09",
+        "text": "establishes the existence of these"
+      },
+      {
+        "start": 1211.2,
+        "duration": 4.16,
+        "start_formatted": "20:11",
+        "text": "non-sopic groups, which addresses a"
+      },
+      {
+        "start": 1213.36,
+        "duration": 4.72,
+        "start_formatted": "20:13",
+        "text": "major question in group theory. And then"
+      },
+      {
+        "start": 1215.36,
+        "duration": 4.559,
+        "start_formatted": "20:15",
+        "text": "it was also able to resolve multiple"
+      },
+      {
+        "start": 1218.08,
+        "duration": 3.839,
+        "start_formatted": "20:18",
+        "text": "airish problems. And then there were"
+      },
+      {
+        "start": 1219.919,
+        "duration": 4.321,
+        "start_formatted": "20:19",
+        "text": "other examples where it's able to"
+      },
+      {
+        "start": 1221.919,
+        "duration": 4.241,
+        "start_formatted": "20:21",
+        "text": "improve the bounds in sphere packing and"
+      },
+      {
+        "start": 1224.24,
+        "duration": 3.919,
+        "start_formatted": "20:24",
+        "text": "coding theory. Now these problems are"
+      },
+      {
+        "start": 1226.16,
+        "duration": 4.16,
+        "start_formatted": "20:26",
+        "text": "basically really hard to solve, but once"
+      },
+      {
+        "start": 1228.159,
+        "duration": 4.321,
+        "start_formatted": "20:28",
+        "text": "it finds the answer, it's really easy to"
+      },
+      {
+        "start": 1230.32,
+        "duration": 3.359,
+        "start_formatted": "20:30",
+        "text": "prove that the answer is correct, in"
+      },
+      {
+        "start": 1232.48,
+        "duration": 3.439,
+        "start_formatted": "20:32",
+        "text": "case you're wondering. And you know,"
+      },
+      {
+        "start": 1233.679,
+        "duration": 4.561,
+        "start_formatted": "20:33",
+        "text": "probably the craziest detail is the"
+      },
+      {
+        "start": 1235.919,
+        "duration": 4.561,
+        "start_formatted": "20:35",
+        "text": "cost. So, OpenAI estimates that all of"
+      },
+      {
+        "start": 1238.24,
+        "duration": 5.76,
+        "start_formatted": "20:38",
+        "text": "the model tokens used to discover these"
+      },
+      {
+        "start": 1240.48,
+        "duration": 5.76,
+        "start_formatted": "20:40",
+        "text": "10 solutions cost only $2,000 at their"
+      },
+      {
+        "start": 1244.0,
+        "duration": 3.84,
+        "start_formatted": "20:44",
+        "text": "API rates. That's crazy if you think"
+      },
+      {
+        "start": 1246.24,
+        "duration": 4.319,
+        "start_formatted": "20:46",
+        "text": "about it. They only needed to spend"
+      },
+      {
+        "start": 1247.84,
+        "duration": 4.56,
+        "start_formatted": "20:47",
+        "text": "$2,000 of compute to crack 10"
+      },
+      {
+        "start": 1250.559,
+        "duration": 4.081,
+        "start_formatted": "20:50",
+        "text": "mathematical breakthroughs which no"
+      },
+      {
+        "start": 1252.4,
+        "duration": 3.759,
+        "start_formatted": "20:52",
+        "text": "human could ever solve. We are right in"
+      },
+      {
+        "start": 1254.64,
+        "duration": 3.2,
+        "start_formatted": "20:54",
+        "text": "the middle of the scientific"
+      },
+      {
+        "start": 1256.159,
+        "duration": 3.041,
+        "start_formatted": "20:56",
+        "text": "acceleration. In the past few months,"
+      },
+      {
+        "start": 1257.84,
+        "duration": 3.28,
+        "start_formatted": "20:57",
+        "text": "we've already seen some huge"
+      },
+      {
+        "start": 1259.2,
+        "duration": 3.92,
+        "start_formatted": "20:59",
+        "text": "breakthroughs in like medicine, physics,"
+      },
+      {
+        "start": 1261.12,
+        "duration": 4.16,
+        "start_formatted": "21:01",
+        "text": "and of course, math. So, it's really"
+      },
+      {
+        "start": 1263.12,
+        "duration": 4.72,
+        "start_formatted": "21:03",
+        "text": "exciting times. They've also released"
+      },
+      {
+        "start": 1265.28,
+        "duration": 4.32,
+        "start_formatted": "21:05",
+        "text": "the reasoning walkthroughs on how the AI"
+      },
+      {
+        "start": 1267.84,
+        "duration": 3.44,
+        "start_formatted": "21:07",
+        "text": "actually came up with the solution to"
+      },
+      {
+        "start": 1269.6,
+        "duration": 3.84,
+        "start_formatted": "21:09",
+        "text": "each of these problems. This is"
+      },
+      {
+        "start": 1271.28,
+        "duration": 3.759,
+        "start_formatted": "21:11",
+        "text": "extremely technical math stuff, but if"
+      },
+      {
+        "start": 1273.44,
+        "duration": 3.84,
+        "start_formatted": "21:13",
+        "text": "you are interested in digging through"
+      },
+      {
+        "start": 1275.039,
+        "duration": 4.321,
+        "start_formatted": "21:15",
+        "text": "the details, I will link to this main"
+      },
+      {
+        "start": 1277.28,
+        "duration": 4.24,
+        "start_formatted": "21:17",
+        "text": "page in the description below. Also,"
+      },
+      {
+        "start": 1279.36,
+        "duration": 4.72,
+        "start_formatted": "21:19",
+        "text": "this week, Alibaba's Demo Academy"
+      },
+      {
+        "start": 1281.52,
+        "duration": 4.88,
+        "start_formatted": "21:21",
+        "text": "released a really useful open-source"
+      },
+      {
+        "start": 1284.08,
+        "duration": 4.88,
+        "start_formatted": "21:24",
+        "text": "model called Clinfusion. This is"
+      },
+      {
+        "start": 1286.4,
+        "duration": 4.399,
+        "start_formatted": "21:26",
+        "text": "basically a model for holistic medical"
+      },
+      {
+        "start": 1288.96,
+        "duration": 4.4,
+        "start_formatted": "21:28",
+        "text": "understanding. Basically, you can give"
+      },
+      {
+        "start": 1290.799,
+        "duration": 5.281,
+        "start_formatted": "21:30",
+        "text": "it medical images like X-rays, scans, or"
+      },
+      {
+        "start": 1293.36,
+        "duration": 4.96,
+        "start_formatted": "21:33",
+        "text": "even native 3D imaging together with a"
+      },
+      {
+        "start": 1296.08,
+        "duration": 4.56,
+        "start_formatted": "21:36",
+        "text": "text prompt, and it can answer medical"
+      },
+      {
+        "start": 1298.32,
+        "duration": 4.719,
+        "start_formatted": "21:38",
+        "text": "questions or generate clinical reports."
+      },
+      {
+        "start": 1300.64,
+        "duration": 4.32,
+        "start_formatted": "21:40",
+        "text": "The big problem with medical AI models"
+      },
+      {
+        "start": 1303.039,
+        "duration": 4.081,
+        "start_formatted": "21:43",
+        "text": "is that different imaging types are"
+      },
+      {
+        "start": 1304.96,
+        "duration": 4.88,
+        "start_formatted": "21:44",
+        "text": "extremely different. But basically, what"
+      },
+      {
+        "start": 1307.12,
+        "duration": 4.96,
+        "start_formatted": "21:47",
+        "text": "Clinfusion does is it uses a combined"
+      },
+      {
+        "start": 1309.84,
+        "duration": 4.8,
+        "start_formatted": "21:49",
+        "text": "vision encoder designed to understand"
+      },
+      {
+        "start": 1312.08,
+        "duration": 5.28,
+        "start_formatted": "21:52",
+        "text": "all this medical data inside just one"
+      },
+      {
+        "start": 1314.64,
+        "duration": 4.56,
+        "start_formatted": "21:54",
+        "text": "system, including 2D and 3D medical"
+      },
+      {
+        "start": 1317.36,
+        "duration": 4.4,
+        "start_formatted": "21:57",
+        "text": "data. And from this you can see the"
+      },
+      {
+        "start": 1319.2,
+        "duration": 4.479,
+        "start_formatted": "21:59",
+        "text": "results are extremely strong. It beats"
+      },
+      {
+        "start": 1321.76,
+        "duration": 3.84,
+        "start_formatted": "22:01",
+        "text": "leading and closed source models on most"
+      },
+      {
+        "start": 1323.679,
+        "duration": 4.0,
+        "start_formatted": "22:03",
+        "text": "of these multimodal benchmarks even"
+      },
+      {
+        "start": 1325.6,
+        "duration": 5.12,
+        "start_formatted": "22:05",
+        "text": "outperforming proprietary models like"
+      },
+      {
+        "start": 1327.679,
+        "duration": 5.201,
+        "start_formatted": "22:07",
+        "text": "GPT 5.2. Although note that this is"
+      },
+      {
+        "start": 1330.72,
+        "duration": 4.72,
+        "start_formatted": "22:10",
+        "text": "quite an old GPT. Right now we're"
+      },
+      {
+        "start": 1332.88,
+        "duration": 4.24,
+        "start_formatted": "22:12",
+        "text": "already at version 5.6. Now on to the"
+      },
+      {
+        "start": 1335.44,
+        "duration": 3.599,
+        "start_formatted": "22:15",
+        "text": "specs of this. They released two"
+      },
+      {
+        "start": 1337.12,
+        "duration": 3.919,
+        "start_formatted": "22:17",
+        "text": "different models. There's a 32 billion"
+      },
+      {
+        "start": 1339.039,
+        "duration": 5.201,
+        "start_formatted": "22:19",
+        "text": "parameter model which is higher quality."
+      },
+      {
+        "start": 1341.039,
+        "duration": 4.961,
+        "start_formatted": "22:21",
+        "text": "And this is quite large at 72 GB in"
+      },
+      {
+        "start": 1344.24,
+        "duration": 4.88,
+        "start_formatted": "22:24",
+        "text": "size. And then we have an 8 billion"
+      },
+      {
+        "start": 1346.0,
+        "duration": 4.72,
+        "start_formatted": "22:26",
+        "text": "parameter version which is only 24 GB in"
+      },
+      {
+        "start": 1349.12,
+        "duration": 4.08,
+        "start_formatted": "22:29",
+        "text": "size. So you should be able to fit this"
+      },
+      {
+        "start": 1350.72,
+        "duration": 5.199,
+        "start_formatted": "22:30",
+        "text": "on like a mid to high-end GPU. This is"
+      },
+      {
+        "start": 1353.2,
+        "duration": 4.8,
+        "start_formatted": "22:33",
+        "text": "probably the best open- source model for"
+      },
+      {
+        "start": 1355.919,
+        "duration": 3.841,
+        "start_formatted": "22:35",
+        "text": "medical analysis. You can use in that"
+      },
+      {
+        "start": 1358.0,
+        "duration": 3.2,
+        "start_formatted": "22:38",
+        "text": "size range. So if you're interested in"
+      },
+      {
+        "start": 1359.76,
+        "duration": 3.44,
+        "start_formatted": "22:39",
+        "text": "trying this out on this page, it"
+      },
+      {
+        "start": 1361.2,
+        "duration": 4.16,
+        "start_formatted": "22:41",
+        "text": "contains all the instructions on how to"
+      },
+      {
+        "start": 1363.2,
+        "duration": 3.68,
+        "start_formatted": "22:43",
+        "text": "download and run this locally on your"
+      },
+      {
+        "start": 1365.36,
+        "duration": 3.36,
+        "start_formatted": "22:45",
+        "text": "computer. If you're interested in"
+      },
+      {
+        "start": 1366.88,
+        "duration": 4.08,
+        "start_formatted": "22:46",
+        "text": "reading further, I'll link to this main"
+      },
+      {
+        "start": 1368.72,
+        "duration": 4.8,
+        "start_formatted": "22:48",
+        "text": "page in the description below. In human"
+      },
+      {
+        "start": 1370.96,
+        "duration": 5.12,
+        "start_formatted": "22:50",
+        "text": "robotics news, we have this new demo"
+      },
+      {
+        "start": 1373.52,
+        "duration": 5.12,
+        "start_formatted": "22:53",
+        "text": "from Persona AI. So, here it's"
+      },
+      {
+        "start": 1376.08,
+        "duration": 5.36,
+        "start_formatted": "22:56",
+        "text": "demonstrating its Gen 1 humanoid robot"
+      },
+      {
+        "start": 1378.64,
+        "duration": 4.72,
+        "start_formatted": "22:58",
+        "text": "performing a real welding task through"
+      },
+      {
+        "start": 1381.44,
+        "duration": 4.08,
+        "start_formatted": "23:01",
+        "text": "teleaoperation. So, as you can see, the"
+      },
+      {
+        "start": 1383.36,
+        "duration": 5.12,
+        "start_formatted": "23:03",
+        "text": "dude on the left is wearing this VR"
+      },
+      {
+        "start": 1385.52,
+        "duration": 5.36,
+        "start_formatted": "23:05",
+        "text": "headset, and it's controlling this Gen 1"
+      },
+      {
+        "start": 1388.48,
+        "duration": 5.36,
+        "start_formatted": "23:08",
+        "text": "humanoid robot in real time. And it's"
+      },
+      {
+        "start": 1390.88,
+        "duration": 5.36,
+        "start_formatted": "23:10",
+        "text": "even able to do this welding task, which"
+      },
+      {
+        "start": 1393.84,
+        "duration": 4.319,
+        "start_formatted": "23:13",
+        "text": "requires very precise and stable"
+      },
+      {
+        "start": 1396.24,
+        "duration": 4.16,
+        "start_formatted": "23:16",
+        "text": "movements. Now, this is quite a simple"
+      },
+      {
+        "start": 1398.159,
+        "duration": 5.281,
+        "start_formatted": "23:18",
+        "text": "example, but this is a demonstration of"
+      },
+      {
+        "start": 1400.4,
+        "duration": 5.36,
+        "start_formatted": "23:20",
+        "text": "how we can eventually deploy robots in"
+      },
+      {
+        "start": 1403.44,
+        "duration": 4.0,
+        "start_formatted": "23:23",
+        "text": "some high-risk or dangerous industrial"
+      },
+      {
+        "start": 1405.76,
+        "duration": 3.68,
+        "start_formatted": "23:25",
+        "text": "environments and then get them to work"
+      },
+      {
+        "start": 1407.44,
+        "duration": 3.92,
+        "start_formatted": "23:27",
+        "text": "there while an expert controls them"
+      },
+      {
+        "start": 1409.44,
+        "duration": 4.88,
+        "start_formatted": "23:29",
+        "text": "remotely somewhere else via tea"
+      },
+      {
+        "start": 1411.36,
+        "duration": 5.679,
+        "start_formatted": "23:31",
+        "text": "operation. In other robotics news, UB"
+      },
+      {
+        "start": 1414.32,
+        "duration": 4.88,
+        "start_formatted": "23:34",
+        "text": "Robotics also previews their swarm"
+      },
+      {
+        "start": 1417.039,
+        "duration": 4.401,
+        "start_formatted": "23:37",
+        "text": "intelligence model in action. Here"
+      },
+      {
+        "start": 1419.2,
+        "duration": 4.56,
+        "start_formatted": "23:39",
+        "text": "you're seeing several of their new"
+      },
+      {
+        "start": 1421.44,
+        "duration": 4.56,
+        "start_formatted": "23:41",
+        "text": "wheeled industrial humanoid robot called"
+      },
+      {
+        "start": 1423.76,
+        "duration": 4.159,
+        "start_formatted": "23:43",
+        "text": "the Cruiser Y1. And they're all working"
+      },
+      {
+        "start": 1426.0,
+        "duration": 4.0,
+        "start_formatted": "23:46",
+        "text": "in this warehouse. They're all taking"
+      },
+      {
+        "start": 1427.919,
+        "duration": 4.24,
+        "start_formatted": "23:47",
+        "text": "stuff from pallets and then putting it"
+      },
+      {
+        "start": 1430.0,
+        "duration": 4.08,
+        "start_formatted": "23:50",
+        "text": "to the right location. Now, not only do"
+      },
+      {
+        "start": 1432.159,
+        "duration": 4.64,
+        "start_formatted": "23:52",
+        "text": "each of these have a brain, but there's"
+      },
+      {
+        "start": 1434.08,
+        "duration": 4.56,
+        "start_formatted": "23:54",
+        "text": "also an overarching swarm intelligence"
+      },
+      {
+        "start": 1436.799,
+        "duration": 3.681,
+        "start_formatted": "23:56",
+        "text": "system which coordinates all of them"
+      },
+      {
+        "start": 1438.64,
+        "duration": 3.68,
+        "start_formatted": "23:58",
+        "text": "together. So there's no redundancy,"
+      },
+      {
+        "start": 1440.48,
+        "duration": 4.16,
+        "start_formatted": "24:00",
+        "text": "there's no overlap. And so this allows"
+      },
+      {
+        "start": 1442.32,
+        "duration": 4.479,
+        "start_formatted": "24:02",
+        "text": "you to control like basically an army of"
+      },
+      {
+        "start": 1444.64,
+        "duration": 4.56,
+        "start_formatted": "24:04",
+        "text": "robots to do a task concurrently. In"
+      },
+      {
+        "start": 1446.799,
+        "duration": 4.641,
+        "start_formatted": "24:06",
+        "text": "other humanoid robot news, Xiaomi has"
+      },
+      {
+        "start": 1449.2,
+        "duration": 4.64,
+        "start_formatted": "24:09",
+        "text": "released a new robot foundation model"
+      },
+      {
+        "start": 1451.44,
+        "duration": 4.8,
+        "start_formatted": "24:11",
+        "text": "called Xiaomi Robotics 1, and it's"
+      },
+      {
+        "start": 1453.84,
+        "duration": 5.04,
+        "start_formatted": "24:13",
+        "text": "designed to let robots handle everyday"
+      },
+      {
+        "start": 1456.24,
+        "duration": 5.039,
+        "start_formatted": "24:16",
+        "text": "objects and practical tasks. So things"
+      },
+      {
+        "start": 1458.88,
+        "duration": 4.64,
+        "start_formatted": "24:18",
+        "text": "like picking up objects and placing them"
+      },
+      {
+        "start": 1461.279,
+        "duration": 4.4,
+        "start_formatted": "24:21",
+        "text": "in different places, as you can see in"
+      },
+      {
+        "start": 1463.52,
+        "duration": 4.24,
+        "start_formatted": "24:23",
+        "text": "this example, it's even able to zip up"
+      },
+      {
+        "start": 1465.679,
+        "duration": 5.201,
+        "start_formatted": "24:25",
+        "text": "this bag very effectively. And it's able"
+      },
+      {
+        "start": 1467.76,
+        "duration": 5.6,
+        "start_formatted": "24:27",
+        "text": "to pack a suitcase like this. It's able"
+      },
+      {
+        "start": 1470.88,
+        "duration": 4.88,
+        "start_formatted": "24:30",
+        "text": "to navigate across the room to find"
+      },
+      {
+        "start": 1473.36,
+        "duration": 4.24,
+        "start_formatted": "24:33",
+        "text": "various objects to put in the suitcase."
+      },
+      {
+        "start": 1475.76,
+        "duration": 4.0,
+        "start_formatted": "24:35",
+        "text": "Basically, how this works is you just"
+      },
+      {
+        "start": 1477.6,
+        "duration": 4.079,
+        "start_formatted": "24:37",
+        "text": "give the robot an instruction using"
+      },
+      {
+        "start": 1479.76,
+        "duration": 3.44,
+        "start_formatted": "24:39",
+        "text": "natural language and it looks at the"
+      },
+      {
+        "start": 1481.679,
+        "duration": 3.441,
+        "start_formatted": "24:41",
+        "text": "environment through its cameras. It"
+      },
+      {
+        "start": 1483.2,
+        "duration": 3.599,
+        "start_formatted": "24:43",
+        "text": "understands what needs to happen. It"
+      },
+      {
+        "start": 1485.12,
+        "duration": 3.28,
+        "start_formatted": "24:45",
+        "text": "plans everything out and then it"
+      },
+      {
+        "start": 1486.799,
+        "duration": 3.36,
+        "start_formatted": "24:46",
+        "text": "actually carries out the action. What"
+      },
+      {
+        "start": 1488.4,
+        "duration": 3.92,
+        "start_formatted": "24:48",
+        "text": "makes this model especially interesting"
+      },
+      {
+        "start": 1490.159,
+        "duration": 4.0,
+        "start_formatted": "24:50",
+        "text": "is how Xiaomi trained it. So, normally"
+      },
+      {
+        "start": 1492.32,
+        "duration": 4.4,
+        "start_formatted": "24:52",
+        "text": "collecting robot training data means"
+      },
+      {
+        "start": 1494.159,
+        "duration": 4.961,
+        "start_formatted": "24:54",
+        "text": "having humans remotely control real"
+      },
+      {
+        "start": 1496.72,
+        "duration": 4.24,
+        "start_formatted": "24:56",
+        "text": "robots for thousands of hours, which is"
+      },
+      {
+        "start": 1499.12,
+        "duration": 3.679,
+        "start_formatted": "24:59",
+        "text": "expensive and difficult to scale."
+      },
+      {
+        "start": 1500.96,
+        "duration": 4.319,
+        "start_formatted": "25:00",
+        "text": "However, Xiaomi collected around a"
+      },
+      {
+        "start": 1502.799,
+        "duration": 5.12,
+        "start_formatted": "25:02",
+        "text": "100,000 hours of video using just a"
+      },
+      {
+        "start": 1505.279,
+        "duration": 5.041,
+        "start_formatted": "25:05",
+        "text": "handheld gripper with a camera. So, the"
+      },
+      {
+        "start": 1507.919,
+        "duration": 4.321,
+        "start_formatted": "25:07",
+        "text": "humans simply carried this device around"
+      },
+      {
+        "start": 1510.32,
+        "duration": 4.16,
+        "start_formatted": "25:10",
+        "text": "while performing normal tasks in their"
+      },
+      {
+        "start": 1512.24,
+        "duration": 4.88,
+        "start_formatted": "25:12",
+        "text": "homes or factories or offices. The model"
+      },
+      {
+        "start": 1514.48,
+        "duration": 5.04,
+        "start_formatted": "25:14",
+        "text": "first learns general manipulation skills"
+      },
+      {
+        "start": 1517.12,
+        "duration": 4.88,
+        "start_formatted": "25:17",
+        "text": "from all this human data. Then, Xiaomi"
+      },
+      {
+        "start": 1519.52,
+        "duration": 5.039,
+        "start_formatted": "25:19",
+        "text": "adapts it to actual robot bodies using"
+      },
+      {
+        "start": 1522.0,
+        "duration": 4.799,
+        "start_formatted": "25:22",
+        "text": "another roughly 10,000 hours of real"
+      },
+      {
+        "start": 1524.559,
+        "duration": 4.24,
+        "start_formatted": "25:24",
+        "text": "robot data. The awesome thing is they've"
+      },
+      {
+        "start": 1526.799,
+        "duration": 3.76,
+        "start_formatted": "25:26",
+        "text": "actually released the models to this,"
+      },
+      {
+        "start": 1528.799,
+        "duration": 3.601,
+        "start_formatted": "25:28",
+        "text": "including details of how they train"
+      },
+      {
+        "start": 1530.559,
+        "duration": 4.0,
+        "start_formatted": "25:30",
+        "text": "this. So, if you're building your own"
+      },
+      {
+        "start": 1532.4,
+        "duration": 4.399,
+        "start_formatted": "25:32",
+        "text": "robots or if you're looking for ways to"
+      },
+      {
+        "start": 1534.559,
+        "duration": 3.921,
+        "start_formatted": "25:34",
+        "text": "train a robotics model, this would be a"
+      },
+      {
+        "start": 1536.799,
+        "duration": 3.281,
+        "start_formatted": "25:36",
+        "text": "great resource for you. If you're"
+      },
+      {
+        "start": 1538.48,
+        "duration": 3.439,
+        "start_formatted": "25:38",
+        "text": "interested in reading further, I'll link"
+      },
+      {
+        "start": 1540.08,
+        "duration": 4.079,
+        "start_formatted": "25:40",
+        "text": "to this main page in the description"
+      },
+      {
+        "start": 1541.919,
+        "duration": 5.201,
+        "start_formatted": "25:41",
+        "text": "below. Also, this week, we have what"
+      },
+      {
+        "start": 1544.159,
+        "duration": 5.12,
+        "start_formatted": "25:44",
+        "text": "they claim a self-evolving model called"
+      },
+      {
+        "start": 1547.12,
+        "duration": 4.559,
+        "start_formatted": "25:47",
+        "text": "Big Bang. This is an experimental"
+      },
+      {
+        "start": 1549.279,
+        "duration": 4.481,
+        "start_formatted": "25:49",
+        "text": "language model with a pretty wild idea."
+      },
+      {
+        "start": 1551.679,
+        "duration": 4.561,
+        "start_formatted": "25:51",
+        "text": "Instead of humans constantly designing"
+      },
+      {
+        "start": 1553.76,
+        "duration": 4.56,
+        "start_formatted": "25:53",
+        "text": "better training questions to improve the"
+      },
+      {
+        "start": 1556.24,
+        "duration": 4.16,
+        "start_formatted": "25:56",
+        "text": "AI, what if the AI could generate"
+      },
+      {
+        "start": 1558.32,
+        "duration": 4.64,
+        "start_formatted": "25:58",
+        "text": "increasingly difficult training data for"
+      },
+      {
+        "start": 1560.4,
+        "duration": 5.44,
+        "start_formatted": "26:00",
+        "text": "itself? So, Big Bang starts with the"
+      },
+      {
+        "start": 1562.96,
+        "duration": 4.88,
+        "start_formatted": "26:02",
+        "text": "open- source Quinn 3.635b,"
+      },
+      {
+        "start": 1565.84,
+        "duration": 4.319,
+        "start_formatted": "26:05",
+        "text": "but all its post-training data comes"
+      },
+      {
+        "start": 1567.84,
+        "duration": 4.959,
+        "start_formatted": "26:07",
+        "text": "from an automated system where generator"
+      },
+      {
+        "start": 1570.159,
+        "duration": 4.64,
+        "start_formatted": "26:10",
+        "text": "agents create and solve difficult"
+      },
+      {
+        "start": 1572.799,
+        "duration": 3.681,
+        "start_formatted": "26:12",
+        "text": "scientific and technical problems. And"
+      },
+      {
+        "start": 1574.799,
+        "duration": 3.521,
+        "start_formatted": "26:14",
+        "text": "then afterwards, we also have this"
+      },
+      {
+        "start": 1576.48,
+        "duration": 4.4,
+        "start_formatted": "26:16",
+        "text": "critic agent which tries to find"
+      },
+      {
+        "start": 1578.32,
+        "duration": 4.56,
+        "start_formatted": "26:18",
+        "text": "mistakes and reject weak examples. And"
+      },
+      {
+        "start": 1580.88,
+        "duration": 3.84,
+        "start_formatted": "26:20",
+        "text": "then finally, we also have a metacritic"
+      },
+      {
+        "start": 1582.88,
+        "duration": 3.679,
+        "start_formatted": "26:22",
+        "text": "agent which checks whether these"
+      },
+      {
+        "start": 1584.72,
+        "duration": 4.16,
+        "start_formatted": "26:24",
+        "text": "difficult problems actually make the"
+      },
+      {
+        "start": 1586.559,
+        "duration": 4.24,
+        "start_formatted": "26:26",
+        "text": "model better on real research tasks. And"
+      },
+      {
+        "start": 1588.88,
+        "duration": 4.08,
+        "start_formatted": "26:28",
+        "text": "the results are surprisingly strong"
+      },
+      {
+        "start": 1590.799,
+        "duration": 4.88,
+        "start_formatted": "26:30",
+        "text": "compared to just the base model Quinn"
+      },
+      {
+        "start": 1592.96,
+        "duration": 5.36,
+        "start_formatted": "26:32",
+        "text": "3.635b. You can see that it scores much"
+      },
+      {
+        "start": 1595.679,
+        "duration": 5.36,
+        "start_formatted": "26:35",
+        "text": "higher in terms of browse comp and bench"
+      },
+      {
+        "start": 1598.32,
+        "duration": 4.64,
+        "start_formatted": "26:38",
+        "text": "which are like aentic coding benchmarks"
+      },
+      {
+        "start": 1601.039,
+        "duration": 4.321,
+        "start_formatted": "26:41",
+        "text": "as well as Frontier Science. You can see"
+      },
+      {
+        "start": 1602.96,
+        "duration": 4.319,
+        "start_formatted": "26:42",
+        "text": "that this is an especially huge leap."
+      },
+      {
+        "start": 1605.36,
+        "duration": 4.08,
+        "start_formatted": "26:45",
+        "text": "The base model only scored like 12"
+      },
+      {
+        "start": 1607.279,
+        "duration": 4.481,
+        "start_formatted": "26:47",
+        "text": "points but here it scored like 46"
+      },
+      {
+        "start": 1609.44,
+        "duration": 4.4,
+        "start_formatted": "26:49",
+        "text": "points. Same with humanity's last exam,"
+      },
+      {
+        "start": 1611.76,
+        "duration": 4.399,
+        "start_formatted": "26:51",
+        "text": "a massive improvement and also about"
+      },
+      {
+        "start": 1613.84,
+        "duration": 4.48,
+        "start_formatted": "26:53",
+        "text": "mystery and also paper bench. Now"
+      },
+      {
+        "start": 1616.159,
+        "duration": 3.681,
+        "start_formatted": "26:56",
+        "text": "calling this self-evolving is a bit"
+      },
+      {
+        "start": 1618.32,
+        "duration": 3.599,
+        "start_formatted": "26:58",
+        "text": "misleading but I think what they meant"
+      },
+      {
+        "start": 1619.84,
+        "duration": 3.839,
+        "start_formatted": "26:59",
+        "text": "here is this framework can be looped"
+      },
+      {
+        "start": 1621.919,
+        "duration": 4.161,
+        "start_formatted": "27:01",
+        "text": "again and again. So you can keep getting"
+      },
+      {
+        "start": 1623.679,
+        "duration": 4.801,
+        "start_formatted": "27:03",
+        "text": "it to create more and more challenging"
+      },
+      {
+        "start": 1626.08,
+        "duration": 3.68,
+        "start_formatted": "27:06",
+        "text": "synthetic data to keep improving the AI"
+      },
+      {
+        "start": 1628.48,
+        "duration": 2.64,
+        "start_formatted": "27:08",
+        "text": "model. But of course at some point"
+      },
+      {
+        "start": 1629.76,
+        "duration": 3.039,
+        "start_formatted": "27:09",
+        "text": "you're going to hit a wall in terms of"
+      },
+      {
+        "start": 1631.12,
+        "duration": 3.439,
+        "start_formatted": "27:11",
+        "text": "intelligence and performance. The"
+      },
+      {
+        "start": 1632.799,
+        "duration": 3.601,
+        "start_formatted": "27:12",
+        "text": "awesome thing is they've released this"
+      },
+      {
+        "start": 1634.559,
+        "duration": 3.6,
+        "start_formatted": "27:14",
+        "text": "already. So, if you click on this code"
+      },
+      {
+        "start": 1636.4,
+        "duration": 3.84,
+        "start_formatted": "27:16",
+        "text": "button and you scroll down a bit here,"
+      },
+      {
+        "start": 1638.159,
+        "duration": 4.321,
+        "start_formatted": "27:18",
+        "text": "it contains all the instructions on how"
+      },
+      {
+        "start": 1640.24,
+        "duration": 3.76,
+        "start_formatted": "27:20",
+        "text": "to download and run this locally on your"
+      },
+      {
+        "start": 1642.48,
+        "duration": 3.439,
+        "start_formatted": "27:22",
+        "text": "computer. If you're interested in"
+      },
+      {
+        "start": 1644.0,
+        "duration": 3.919,
+        "start_formatted": "27:24",
+        "text": "reading further, I'll link to this main"
+      },
+      {
+        "start": 1645.919,
+        "duration": 4.961,
+        "start_formatted": "27:25",
+        "text": "page in the description below. Also,"
+      },
+      {
+        "start": 1647.919,
+        "duration": 6.321,
+        "start_formatted": "27:27",
+        "text": "this week, Meta quietly releases their"
+      },
+      {
+        "start": 1650.88,
+        "duration": 5.44,
+        "start_formatted": "27:30",
+        "text": "latest AI model, Musepark 1.2. This is"
+      },
+      {
+        "start": 1654.24,
+        "duration": 4.16,
+        "start_formatted": "27:34",
+        "text": "their updated version that's now much"
+      },
+      {
+        "start": 1656.32,
+        "duration": 4.4,
+        "start_formatted": "27:36",
+        "text": "more focused on real world coding and"
+      },
+      {
+        "start": 1658.4,
+        "duration": 4.8,
+        "start_formatted": "27:38",
+        "text": "agentic workflows. The idea is to give"
+      },
+      {
+        "start": 1660.72,
+        "duration": 5.199,
+        "start_formatted": "27:40",
+        "text": "it an entire software project and let it"
+      },
+      {
+        "start": 1663.2,
+        "duration": 4.88,
+        "start_formatted": "27:43",
+        "text": "work across multiple files, call tools,"
+      },
+      {
+        "start": 1665.919,
+        "duration": 4.561,
+        "start_formatted": "27:45",
+        "text": "and keep going through longer tasks."
+      },
+      {
+        "start": 1668.08,
+        "duration": 4.64,
+        "start_formatted": "27:48",
+        "text": "This supports a 1 million token context"
+      },
+      {
+        "start": 1670.48,
+        "duration": 4.319,
+        "start_formatted": "27:50",
+        "text": "window, so you can potentially fit a ton"
+      },
+      {
+        "start": 1672.72,
+        "duration": 4.48,
+        "start_formatted": "27:52",
+        "text": "of information into your prompt at once."
+      },
+      {
+        "start": 1674.799,
+        "duration": 4.48,
+        "start_formatted": "27:54",
+        "text": "It's also multimodal, so it can take in"
+      },
+      {
+        "start": 1677.2,
+        "duration": 4.64,
+        "start_formatted": "27:57",
+        "text": "things like text, images, video, audio,"
+      },
+      {
+        "start": 1679.279,
+        "duration": 4.88,
+        "start_formatted": "27:59",
+        "text": "and documents as input, although coding"
+      },
+      {
+        "start": 1681.84,
+        "duration": 4.319,
+        "start_formatted": "28:01",
+        "text": "is one of its main focuses. As you can"
+      },
+      {
+        "start": 1684.159,
+        "duration": 4.4,
+        "start_formatted": "28:04",
+        "text": "see from their self-reported benchmarks,"
+      },
+      {
+        "start": 1686.159,
+        "duration": 4.961,
+        "start_formatted": "28:06",
+        "text": "it is quite a big leap compared to the"
+      },
+      {
+        "start": 1688.559,
+        "duration": 4.161,
+        "start_formatted": "28:08",
+        "text": "previous new Spark 1.1, and it's edging"
+      },
+      {
+        "start": 1691.12,
+        "duration": 4.24,
+        "start_formatted": "28:11",
+        "text": "pretty close to the top models out"
+      },
+      {
+        "start": 1692.72,
+        "duration": 4.64,
+        "start_formatted": "28:12",
+        "text": "there, including Opus 5. However, note"
+      },
+      {
+        "start": 1695.36,
+        "duration": 5.28,
+        "start_formatted": "28:15",
+        "text": "that these self-reported benchmarks are"
+      },
+      {
+        "start": 1697.36,
+        "duration": 5.36,
+        "start_formatted": "28:17",
+        "text": "very misleading. They just use GPT 5.6"
+      },
+      {
+        "start": 1700.64,
+        "duration": 3.759,
+        "start_formatted": "28:20",
+        "text": "Terra instead of Soul, which is the"
+      },
+      {
+        "start": 1702.72,
+        "duration": 3.439,
+        "start_formatted": "28:22",
+        "text": "larger model. So, it looks like they're"
+      },
+      {
+        "start": 1704.399,
+        "duration": 4.481,
+        "start_formatted": "28:24",
+        "text": "intentionally just including a dumber"
+      },
+      {
+        "start": 1706.159,
+        "duration": 4.481,
+        "start_formatted": "28:26",
+        "text": "GPT model on their page. So instead, if"
+      },
+      {
+        "start": 1708.88,
+        "duration": 3.36,
+        "start_formatted": "28:28",
+        "text": "you look at this independent artificial"
+      },
+      {
+        "start": 1710.64,
+        "duration": 4.399,
+        "start_formatted": "28:30",
+        "text": "analysis leaderboard, then you can see"
+      },
+      {
+        "start": 1712.24,
+        "duration": 5.679,
+        "start_formatted": "28:32",
+        "text": "that Muse Spark 1.2 is actually all the"
+      },
+      {
+        "start": 1715.039,
+        "duration": 7.041,
+        "start_formatted": "28:35",
+        "text": "way down here, way behind Quen 3.8,"
+      },
+      {
+        "start": 1717.919,
+        "duration": 6.0,
+        "start_formatted": "28:37",
+        "text": "Kimik 3, and GPT 5.6 Soul Max. So it's"
+      },
+      {
+        "start": 1722.08,
+        "duration": 3.599,
+        "start_formatted": "28:42",
+        "text": "not even within like the top 10."
+      },
+      {
+        "start": 1723.919,
+        "duration": 3.76,
+        "start_formatted": "28:43",
+        "text": "However, if you look at the cost per"
+      },
+      {
+        "start": 1725.679,
+        "duration": 5.441,
+        "start_formatted": "28:45",
+        "text": "task, then this is quite cheap, even"
+      },
+      {
+        "start": 1727.679,
+        "duration": 5.921,
+        "start_formatted": "28:47",
+        "text": "cheaper than Gemini 3.6 Flash and Kim K3"
+      },
+      {
+        "start": 1731.12,
+        "duration": 4.24,
+        "start_formatted": "28:51",
+        "text": "and much cheaper than the Opus models."
+      },
+      {
+        "start": 1733.6,
+        "duration": 4.0,
+        "start_formatted": "28:53",
+        "text": "Now, this is closed source, and for now,"
+      },
+      {
+        "start": 1735.36,
+        "duration": 3.76,
+        "start_formatted": "28:55",
+        "text": "you can only use it via their API. If"
+      },
+      {
+        "start": 1737.6,
+        "duration": 3.76,
+        "start_formatted": "28:57",
+        "text": "you look at another leaderboard called"
+      },
+      {
+        "start": 1739.12,
+        "duration": 4.32,
+        "start_formatted": "28:59",
+        "text": "Val's index, which looks at how good an"
+      },
+      {
+        "start": 1741.36,
+        "duration": 4.08,
+        "start_formatted": "29:01",
+        "text": "AI model is across finance and coding"
+      },
+      {
+        "start": 1743.44,
+        "duration": 3.76,
+        "start_formatted": "29:03",
+        "text": "tasks, then you can see that again, Muse"
+      },
+      {
+        "start": 1745.44,
+        "duration": 5.28,
+        "start_formatted": "29:05",
+        "text": "Spark is all the way down here, even"
+      },
+      {
+        "start": 1747.2,
+        "duration": 5.76,
+        "start_formatted": "29:07",
+        "text": "below GPT 5.6 Soul and Kimik 3. However,"
+      },
+      {
+        "start": 1750.72,
+        "duration": 4.16,
+        "start_formatted": "29:10",
+        "text": "it does cost the least compared to the"
+      },
+      {
+        "start": 1752.96,
+        "duration": 4.079,
+        "start_formatted": "29:12",
+        "text": "other models. So, this could be a fairly"
+      },
+      {
+        "start": 1754.88,
+        "duration": 4.64,
+        "start_formatted": "29:14",
+        "text": "costefficient option. For now, note that"
+      },
+      {
+        "start": 1757.039,
+        "duration": 4.88,
+        "start_formatted": "29:17",
+        "text": "you can only use Muse Spark 1.1 via"
+      },
+      {
+        "start": 1759.52,
+        "duration": 4.159,
+        "start_formatted": "29:19",
+        "text": "their API and this is closed source. In"
+      },
+      {
+        "start": 1761.919,
+        "duration": 3.841,
+        "start_formatted": "29:21",
+        "text": "addition to Musepark, they also"
+      },
+      {
+        "start": 1763.679,
+        "duration": 4.401,
+        "start_formatted": "29:23",
+        "text": "introduced something called Muse Code,"
+      },
+      {
+        "start": 1765.76,
+        "duration": 5.36,
+        "start_formatted": "29:25",
+        "text": "which is a coding agent exactly like"
+      },
+      {
+        "start": 1768.08,
+        "duration": 5.12,
+        "start_formatted": "29:28",
+        "text": "OpenAI's codeex or Zcode, Kimmyode, etc."
+      },
+      {
+        "start": 1771.12,
+        "duration": 4.4,
+        "start_formatted": "29:31",
+        "text": "Now, like I mentioned before, the best"
+      },
+      {
+        "start": 1773.2,
+        "duration": 4.079,
+        "start_formatted": "29:33",
+        "text": "harness to use to run an AI model is the"
+      },
+      {
+        "start": 1775.52,
+        "duration": 3.68,
+        "start_formatted": "29:35",
+        "text": "harness designed by the same company."
+      },
+      {
+        "start": 1777.279,
+        "duration": 3.841,
+        "start_formatted": "29:37",
+        "text": "So, if you're using GPT, then it's best"
+      },
+      {
+        "start": 1779.2,
+        "duration": 3.92,
+        "start_formatted": "29:39",
+        "text": "to use Codeex. If you're using Kimmy,"
+      },
+      {
+        "start": 1781.12,
+        "duration": 4.159,
+        "start_formatted": "29:41",
+        "text": "it's best to use Kimode. If you're using"
+      },
+      {
+        "start": 1783.12,
+        "duration": 4.08,
+        "start_formatted": "29:43",
+        "text": "GLM, it's best to use Zcode. And the"
+      },
+      {
+        "start": 1785.279,
+        "duration": 3.681,
+        "start_formatted": "29:45",
+        "text": "same goes for Muse Spark. So, if you"
+      },
+      {
+        "start": 1787.2,
+        "duration": 4.24,
+        "start_formatted": "29:47",
+        "text": "decide to use this, then the best way to"
+      },
+      {
+        "start": 1788.96,
+        "duration": 3.76,
+        "start_formatted": "29:48",
+        "text": "use it is through Muse Code. Anyway, on"
+      },
+      {
+        "start": 1791.44,
+        "duration": 3.44,
+        "start_formatted": "29:51",
+        "text": "this page, it contains all the"
+      },
+      {
+        "start": 1792.72,
+        "duration": 4.0,
+        "start_formatted": "29:52",
+        "text": "documentation on how to download and run"
+      },
+      {
+        "start": 1794.88,
+        "duration": 3.44,
+        "start_formatted": "29:54",
+        "text": "this. So, if you're interested, I'll"
+      },
+      {
+        "start": 1796.72,
+        "duration": 3.92,
+        "start_formatted": "29:56",
+        "text": "link to this page in the description"
+      },
+      {
+        "start": 1798.32,
+        "duration": 4.16,
+        "start_formatted": "29:58",
+        "text": "below. Also, this week, we have a very"
+      },
+      {
+        "start": 1800.64,
+        "duration": 3.519,
+        "start_formatted": "30:00",
+        "text": "interesting harness framework called"
+      },
+      {
+        "start": 1802.48,
+        "duration": 3.6,
+        "start_formatted": "30:02",
+        "text": "Long Horizon Harness. And this is"
+      },
+      {
+        "start": 1804.159,
+        "duration": 3.921,
+        "start_formatted": "30:04",
+        "text": "designed to help AI agents complete"
+      },
+      {
+        "start": 1806.08,
+        "duration": 3.92,
+        "start_formatted": "30:06",
+        "text": "really complex tasks that can take a ton"
+      },
+      {
+        "start": 1808.08,
+        "duration": 4.0,
+        "start_formatted": "30:08",
+        "text": "of steps or a really long time, like"
+      },
+      {
+        "start": 1810.0,
+        "duration": 4.32,
+        "start_formatted": "30:10",
+        "text": "hours or days. You see, we already have"
+      },
+      {
+        "start": 1812.08,
+        "duration": 4.4,
+        "start_formatted": "30:12",
+        "text": "a ton of agentic harnesses today like"
+      },
+      {
+        "start": 1814.32,
+        "duration": 4.64,
+        "start_formatted": "30:14",
+        "text": "Codeex, which is now renamed into"
+      },
+      {
+        "start": 1816.48,
+        "duration": 4.799,
+        "start_formatted": "30:16",
+        "text": "ChatgPT or also Claude Code, Zcode,"
+      },
+      {
+        "start": 1818.96,
+        "duration": 4.16,
+        "start_formatted": "30:18",
+        "text": "Kimmy Code, Open Claw, or Hermes. But"
+      },
+      {
+        "start": 1821.279,
+        "duration": 3.921,
+        "start_formatted": "30:21",
+        "text": "they all face one problem, which is that"
+      },
+      {
+        "start": 1823.12,
+        "duration": 3.6,
+        "start_formatted": "30:23",
+        "text": "if you get it to do a really long task,"
+      },
+      {
+        "start": 1825.2,
+        "duration": 3.28,
+        "start_formatted": "30:25",
+        "text": "then it has trouble fitting and"
+      },
+      {
+        "start": 1826.72,
+        "duration": 4.079,
+        "start_formatted": "30:26",
+        "text": "remembering everything. So, as the"
+      },
+      {
+        "start": 1828.48,
+        "duration": 4.64,
+        "start_formatted": "30:28",
+        "text": "history becomes longer and longer, the"
+      },
+      {
+        "start": 1830.799,
+        "duration": 4.161,
+        "start_formatted": "30:30",
+        "text": "agent could forget the original goal. It"
+      },
+      {
+        "start": 1833.12,
+        "duration": 3.6,
+        "start_formatted": "30:33",
+        "text": "could make some incorrect summaries and"
+      },
+      {
+        "start": 1834.96,
+        "duration": 4.0,
+        "start_formatted": "30:34",
+        "text": "completely go off on a tangent. It can"
+      },
+      {
+        "start": 1836.72,
+        "duration": 4.079,
+        "start_formatted": "30:36",
+        "text": "repeat work or even mistakenly claim"
+      },
+      {
+        "start": 1838.96,
+        "duration": 3.92,
+        "start_formatted": "30:38",
+        "text": "that something is finished. Well, what"
+      },
+      {
+        "start": 1840.799,
+        "duration": 4.161,
+        "start_formatted": "30:40",
+        "text": "this long horizon does is it replaces"
+      },
+      {
+        "start": 1842.88,
+        "duration": 4.159,
+        "start_formatted": "30:42",
+        "text": "that approach with three separate roles."
+      },
+      {
+        "start": 1844.96,
+        "duration": 4.4,
+        "start_formatted": "30:44",
+        "text": "There's a manager, an executor, and an"
+      },
+      {
+        "start": 1847.039,
+        "duration": 4.561,
+        "start_formatted": "30:47",
+        "text": "auditor. The manager decides the next"
+      },
+      {
+        "start": 1849.36,
+        "duration": 4.88,
+        "start_formatted": "30:49",
+        "text": "small task based on only verified"
+      },
+      {
+        "start": 1851.6,
+        "duration": 4.799,
+        "start_formatted": "30:51",
+        "text": "progress. The executor receives that one"
+      },
+      {
+        "start": 1854.24,
+        "duration": 3.84,
+        "start_formatted": "30:54",
+        "text": "task in a fresh context and performs the"
+      },
+      {
+        "start": 1856.399,
+        "duration": 3.28,
+        "start_formatted": "30:56",
+        "text": "actual work, and then the auditor"
+      },
+      {
+        "start": 1858.08,
+        "duration": 4.079,
+        "start_formatted": "30:58",
+        "text": "independently checks the files, the"
+      },
+      {
+        "start": 1859.679,
+        "duration": 5.12,
+        "start_formatted": "30:59",
+        "text": "fixes, etc., and confirms what really"
+      },
+      {
+        "start": 1862.159,
+        "duration": 4.721,
+        "start_formatted": "31:02",
+        "text": "changed. Only stuff that was verified by"
+      },
+      {
+        "start": 1864.799,
+        "duration": 3.921,
+        "start_formatted": "31:04",
+        "text": "the auditor are saved for the next"
+      },
+      {
+        "start": 1866.88,
+        "duration": 3.679,
+        "start_formatted": "31:06",
+        "text": "round. So, think of this as like a"
+      },
+      {
+        "start": 1868.72,
+        "duration": 4.079,
+        "start_formatted": "31:08",
+        "text": "construction project where the manager"
+      },
+      {
+        "start": 1870.559,
+        "duration": 4.561,
+        "start_formatted": "31:10",
+        "text": "assigns the work, the builder completes"
+      },
+      {
+        "start": 1872.799,
+        "duration": 4.48,
+        "start_formatted": "31:12",
+        "text": "it, and an independent inspector signs"
+      },
+      {
+        "start": 1875.12,
+        "duration": 4.0,
+        "start_formatted": "31:15",
+        "text": "off before anything is marked finished."
+      },
+      {
+        "start": 1877.279,
+        "duration": 4.0,
+        "start_formatted": "31:17",
+        "text": "And the nice thing is this system works"
+      },
+      {
+        "start": 1879.12,
+        "duration": 4.88,
+        "start_formatted": "31:19",
+        "text": "across different agentic harnesses like"
+      },
+      {
+        "start": 1881.279,
+        "duration": 4.88,
+        "start_formatted": "31:21",
+        "text": "Claude Code, Codeex CLI, Gemini CLI,"
+      },
+      {
+        "start": 1884.0,
+        "duration": 4.159,
+        "start_formatted": "31:24",
+        "text": "Zcode, Kimmy Code, and other compatible"
+      },
+      {
+        "start": 1886.159,
+        "duration": 4.481,
+        "start_formatted": "31:26",
+        "text": "systems. And here are some really"
+      },
+      {
+        "start": 1888.159,
+        "duration": 5.12,
+        "start_formatted": "31:28",
+        "text": "impressive results. If they add this"
+      },
+      {
+        "start": 1890.64,
+        "duration": 4.8,
+        "start_formatted": "31:30",
+        "text": "long horizon harness using Quen 3.7 in"
+      },
+      {
+        "start": 1893.279,
+        "duration": 4.801,
+        "start_formatted": "31:33",
+        "text": "cloud code, you can see that it was able"
+      },
+      {
+        "start": 1895.44,
+        "duration": 4.16,
+        "start_formatted": "31:35",
+        "text": "to increase its weavebench score by"
+      },
+      {
+        "start": 1898.08,
+        "duration": 3.92,
+        "start_formatted": "31:38",
+        "text": "28.9%."
+      },
+      {
+        "start": 1899.6,
+        "duration": 4.72,
+        "start_formatted": "31:39",
+        "text": "It's also able to triple the completion"
+      },
+      {
+        "start": 1902.0,
+        "duration": 4.24,
+        "start_formatted": "31:42",
+        "text": "rate of OS World 2. And then for"
+      },
+      {
+        "start": 1904.32,
+        "duration": 4.88,
+        "start_formatted": "31:44",
+        "text": "Terminal Bench, it's also able to"
+      },
+      {
+        "start": 1906.24,
+        "duration": 4.88,
+        "start_formatted": "31:46",
+        "text": "increase the score by like 7.5% which is"
+      },
+      {
+        "start": 1909.2,
+        "duration": 3.44,
+        "start_formatted": "31:49",
+        "text": "a huge deal. Here's the Terminal Bench"
+      },
+      {
+        "start": 1911.12,
+        "duration": 4.72,
+        "start_formatted": "31:51",
+        "text": "leaderboard. And as you can see, if you"
+      },
+      {
+        "start": 1912.64,
+        "duration": 5.759,
+        "start_formatted": "31:52",
+        "text": "add this LH harness to GPT 5.6 6 Luna"
+      },
+      {
+        "start": 1915.84,
+        "duration": 4.559,
+        "start_formatted": "31:55",
+        "text": "using codeex, it's able to achieve a"
+      },
+      {
+        "start": 1918.399,
+        "duration": 4.0,
+        "start_formatted": "31:58",
+        "text": "much higher score than without this"
+      },
+      {
+        "start": 1920.399,
+        "duration": 3.681,
+        "start_formatted": "32:00",
+        "text": "harness. It's all the way down here."
+      },
+      {
+        "start": 1922.399,
+        "duration": 4.0,
+        "start_formatted": "32:02",
+        "text": "Same with if you add the harness to"
+      },
+      {
+        "start": 1924.08,
+        "duration": 4.319,
+        "start_formatted": "32:04",
+        "text": "Cloud Code and Quen 3.7, it's able to"
+      },
+      {
+        "start": 1926.399,
+        "duration": 4.16,
+        "start_formatted": "32:06",
+        "text": "achieve a much higher score than without"
+      },
+      {
+        "start": 1928.399,
+        "duration": 4.481,
+        "start_formatted": "32:08",
+        "text": "it, which is down here. Now, if you add"
+      },
+      {
+        "start": 1930.559,
+        "duration": 4.72,
+        "start_formatted": "32:10",
+        "text": "this harness layer on top, of course, it"
+      },
+      {
+        "start": 1932.88,
+        "duration": 4.56,
+        "start_formatted": "32:12",
+        "text": "is expected to use some more tokens. For"
+      },
+      {
+        "start": 1935.279,
+        "duration": 4.0,
+        "start_formatted": "32:15",
+        "text": "example, for both Weavebench and OS"
+      },
+      {
+        "start": 1937.44,
+        "duration": 4.079,
+        "start_formatted": "32:17",
+        "text": "World, it uses a lot more tokens than"
+      },
+      {
+        "start": 1939.279,
+        "duration": 4.24,
+        "start_formatted": "32:19",
+        "text": "without it, but it does achieve a much"
+      },
+      {
+        "start": 1941.519,
+        "duration": 3.681,
+        "start_formatted": "32:21",
+        "text": "higher score or success rate. So,"
+      },
+      {
+        "start": 1943.519,
+        "duration": 3.28,
+        "start_formatted": "32:23",
+        "text": "there's a trade-off there. Interestingly"
+      },
+      {
+        "start": 1945.2,
+        "duration": 3.52,
+        "start_formatted": "32:25",
+        "text": "for Terminal Bench, not only did it"
+      },
+      {
+        "start": 1946.799,
+        "duration": 4.161,
+        "start_formatted": "32:26",
+        "text": "achieve a higher score, but it also used"
+      },
+      {
+        "start": 1948.72,
+        "duration": 3.839,
+        "start_formatted": "32:28",
+        "text": "fewer tokens. Anyway, a very fascinating"
+      },
+      {
+        "start": 1950.96,
+        "duration": 3.92,
+        "start_formatted": "32:30",
+        "text": "framework which could potentially"
+      },
+      {
+        "start": 1952.559,
+        "duration": 4.321,
+        "start_formatted": "32:32",
+        "text": "improve the performance of any long"
+      },
+      {
+        "start": 1954.88,
+        "duration": 3.279,
+        "start_formatted": "32:34",
+        "text": "horizon tasks that you're running. The"
+      },
+      {
+        "start": 1956.88,
+        "duration": 3.2,
+        "start_formatted": "32:36",
+        "text": "awesome thing is they've released this"
+      },
+      {
+        "start": 1958.159,
+        "duration": 4.081,
+        "start_formatted": "32:38",
+        "text": "already. So, if you click on this code"
+      },
+      {
+        "start": 1960.08,
+        "duration": 3.76,
+        "start_formatted": "32:40",
+        "text": "repo button and you scroll down a bit"
+      },
+      {
+        "start": 1962.24,
+        "duration": 3.52,
+        "start_formatted": "32:42",
+        "text": "here, it contains all the instructions"
+      },
+      {
+        "start": 1963.84,
+        "duration": 4.16,
+        "start_formatted": "32:43",
+        "text": "on how to download this for whichever"
+      },
+      {
+        "start": 1965.76,
+        "duration": 3.919,
+        "start_formatted": "32:45",
+        "text": "Agentic system you're using. If you're"
+      },
+      {
+        "start": 1968.0,
+        "duration": 3.519,
+        "start_formatted": "32:48",
+        "text": "interested in reading further, I'll link"
+      },
+      {
+        "start": 1969.679,
+        "duration": 3.84,
+        "start_formatted": "32:49",
+        "text": "to this main page in the description"
+      },
+      {
+        "start": 1971.519,
+        "duration": 4.88,
+        "start_formatted": "32:51",
+        "text": "below. And that sums up all the"
+      },
+      {
+        "start": 1973.519,
+        "duration": 4.561,
+        "start_formatted": "32:53",
+        "text": "highlights in AI this week. Let me know"
+      },
+      {
+        "start": 1976.399,
+        "duration": 3.52,
+        "start_formatted": "32:56",
+        "text": "in the comments what you think of all of"
+      },
+      {
+        "start": 1978.08,
+        "duration": 4.0,
+        "start_formatted": "32:58",
+        "text": "this. Which piece of news was your"
+      },
+      {
+        "start": 1979.919,
+        "duration": 4.64,
+        "start_formatted": "32:59",
+        "text": "favorite? And which tool are you most"
+      },
+      {
+        "start": 1982.08,
+        "duration": 4.8,
+        "start_formatted": "33:02",
+        "text": "looking forward to trying out? As"
+      },
+      {
+        "start": 1984.559,
+        "duration": 5.201,
+        "start_formatted": "33:04",
+        "text": "always, I will be on the lookout for the"
+      },
+      {
+        "start": 1986.88,
+        "duration": 4.799,
+        "start_formatted": "33:06",
+        "text": "top AI news and tools to share with you."
+      },
+      {
+        "start": 1989.76,
+        "duration": 4.0,
+        "start_formatted": "33:09",
+        "text": "So, if you enjoyed this video, remember"
+      },
+      {
+        "start": 1991.679,
+        "duration": 4.401,
+        "start_formatted": "33:11",
+        "text": "to like, share, subscribe, and stay"
+      },
+      {
+        "start": 1993.76,
+        "duration": 4.08,
+        "start_formatted": "33:13",
+        "text": "tuned for more content. Also, there's"
+      },
+      {
+        "start": 1996.08,
+        "duration": 4.24,
+        "start_formatted": "33:16",
+        "text": "just so much happening in the world of"
+      },
+      {
+        "start": 1997.84,
+        "duration": 4.88,
+        "start_formatted": "33:17",
+        "text": "AI every week. I can't possibly cover"
+      },
+      {
+        "start": 2000.32,
+        "duration": 4.8,
+        "start_formatted": "33:20",
+        "text": "everything on my YouTube channel. So, to"
+      },
+      {
+        "start": 2002.72,
+        "duration": 5.04,
+        "start_formatted": "33:22",
+        "text": "really stay up to date with all that's"
+      },
+      {
+        "start": 2005.12,
+        "duration": 4.88,
+        "start_formatted": "33:25",
+        "text": "going on in AI, be sure to subscribe to"
+      },
+      {
+        "start": 2007.76,
+        "duration": 4.159,
+        "start_formatted": "33:27",
+        "text": "my free weekly newsletter. The link to"
+      },
+      {
+        "start": 2010.0,
+        "duration": 4.08,
+        "start_formatted": "33:30",
+        "text": "that will be in the description below."
+      },
+      {
+        "start": 2011.919,
+        "duration": 4.801,
+        "start_formatted": "33:31",
+        "text": "Thanks for watching and I'll see you in"
+      },
+      {
+        "start": 2014.08,
+        "duration": 2.64,
+        "start_formatted": "33:34",
+        "text": "the next one."
+      }
+    ],
+    "full_text": "AI never sleeps and this week has been absolutely insane. We have a new open-source AI for medical research and reporting. Alibaba releases their latest Quinn model and it's an absolute beast. This AI can compose an entire symphony from scratch. We have another AI that can create super realistic singing voices. OpenAI's internal model just solved some massive math breakthroughs. We have a new open source AI for creating 3D CAD files. Google releases and open sources their state-of-the-art AI for predicting cyclones and natural disasters. We have a new all-in-one 3D model generator and editor. Plus, this can also segment a model into separate parts. We have some exciting robotics demos and a lot more. So, let's jump right in. First up, we have a new AI for creating symphony music. It's called Symphony Gen, and this is designed to create full orchestral music while giving you control over the underlying harmony. So, here are a few examples. [music] [music] >> [music] [music] [music] >> Now this is actually quite challenging because the model has to coordinate many instruments and notes and the overall structure of the piece at the same time. And actually what this does is it first generates a harmony skeleton and then it expands the outline into a complete orchestral arrangement. So think of it as first sketching the chords and the music direction and then filling in the notes for each instrument. For example, you can start with a major chord and here are a few examples with this start. [music] >> [music] >> All right. So, as you can hear, they kind of start with the same major chord. The nice thing is you can also input your own harmony skeleton or it can also take the harmony skeleton from an existing piece. For example, here's an original piece and then I'm going to play you the AI generated piece which takes inspiration from this harmony skeleton. [music] >> [music] [music] >> So, as you can hear, it has roughly the same chord pattern and tempo as the original XRP. The awesome thing is they've released the models to this already. So, if you click on this code button and you scroll down a bit here, it contains all the instructions on how to download and run this locally on your computer. Now, the models to this are fairly tiny. It's only like under 5 megabytes in size, so you should be able to fit this on most consumer devices. If you're interested in reading further, I'll link to this main page in the description below. Also, this week, if you're into 3D modeling or printing, this AI is super useful. It's called MAC, which stands for multi-agent CAD. And this is a really efficient AI that can help you create printable 3D models in CAD format. And all it takes is a text prompt. So for example, here is the text prompt on the left. And it'll generate a CAD file which you can print out in 3D as you can see on the right. Here are some additional examples for your reference. As you can see, it can design a ton of different objects with different shapes and articulations. Here are some additional examples for your reference. And you can also see the cost per prompt listed below each example. And as you can see after adding this multi- aent CAD system, it's a lot more efficient. It's able to complete the task most of the time at like 10 times lower the cost compared with if you didn't implement this system. In fact, if you compare this to another text to CAD model called CAD skills, you can see that this new Mac one uses 116 times fewer tokens. It costs 13 times less. Plus, the pass rate is also much higher. And getting this setup is also super simple. This is model agnostic. So, they used Quinn, but you can also switch it up with another model. Now, if you're interested in running this on this page, if you scroll down a bit, it contains all the instructions on how to download and run this locally on your computer. If you're interested in reading further, I'll link to this main page in the description below. Also, this week, Alibaba dropped their latest animation system, One Animate 2. This basically takes a photo of any character plus a reference video and it'll animate the character according to the reference video as you can see in this example. Note that it works with hands and fingers as well. Plus, this doesn't even have to be human characters. So, here's an example where we can animate this teddy bear instead. And in addition to hands and fingers, this can also transfer facial expressions from a reference video. As you can see in this example, the nice thing is this can also animate multiple characters. So, for example, you can input a photo with two characters plus a video with two characters and it'll transfer their movements over very naturally like this. Alternatively, you can just use a reference video with one person, but use that to animate multiple characters in a photo, as you can see in this example. And the nice thing about One Animate 2 is that you can also animate characters with irregular body proportions. So, it doesn't have to be just human to human. Another new feature about One Animate 2 is you can also determine the camera angle. Here's an example with the same inputs, but you can also change the view to the left or to the right. And the nice thing is they've also released a smaller version called Wan Anime 2 Light, which even allows for real-time streaming if you have the right hardware. You can see like the latency is under a second. So, this can be really useful for streaming. Now, I featured a ton of these tools before, including One Animate and Dream Actor, but this new One Animate 2 is a lot more detailed and consistent and natural. Now, they didn't compare this with another leading animation tool called Scale 2. I think the quality of this versus Scale 2 is very similar. The awesome thing is they've released this already. Now, the full one animate is around 33 GB, so you'll need a high-end GPU to run this. And there's also already support for Comfy UI. They've released an int 8 version which is half the size and this should be able to fit on just a mid-tier GPU. If you're interested in reading further, I'll link to this main page in the description below. Also, this week we have a new AI called vocal render and like the name implies, this can generate singing voices for songs and it actually sounds incredibly realistic and expressive. So, here's what it does. This takes in lyrics and then the melody in MIDI notes and that's about it. So from this it can output a very expressive voice singing out these lyrics. Now they released two different models, Vocal Render and Vocal Render Pro. The Pro version just sounds a bit better. Let's listen to both. [gasps] >> And then here is an example with the pro version. Now, if you compare this with other singing [snorts] voice generators like Vivo 2 or Soul X, you can hear that vocal render is a lot better. So, let me just play you the other competitors as well. [gasps] [singing] As you can hear, Vivo there didn't even follow the pitch that was specified. And how this works is actually quite interesting. It reads the lyrics and the musical notes together and predicts how the performance should flow and it automatically decides the final timing and the audio length. This is especially useful when one syllable stretches across several notes. So under the hood, an auto reggressive component first builds a broad sketch of the singing style and timing and then a diffusion model fills in the finer details including pitch, vocal tone, articulation, and local audio texture. Now, the awesome thing is they've released the model already. So, if you click on this view repository button and you scroll down a bit here, it contains all the instructions on how to download and run this locally on your computer. Plus, they've also released the code on how to train this yourself. And that's because currently they've only trained the model on Chinese, but you can also train your own checkpoint with any language you want. So, you just need to follow the training instructions on this page. Now, like I said, they have two different variants, a pro and a normal variant. Both of them are under 10 gigabytes in size, so you should be able to fit this on most consumer GPUs. Anyway, if you're looking to generate really realistic and expressive singing voices with AI, then this vocal render model is one of the best you can use so far. If you're interested in reading further, I'll link to this main page in the description below. Also, this week, Tencent Hunen releases a really cool 3D editing model called Hunyan 3D Buffalo. This is basically a unified model that can generate, understand, edit, and separate 3D objects. So, here are some examples. We can simply edit 3D models with a text prompt. For example, we can input this model and then write turn the head into a bull's head. And here is the result. Or here we can write remove the sail. And it indeed removes the sail from this 3D model. Or here's an example where we can add glasses to the frog like this. Or we can take this robot and put spiked gauntlets on both hands. And indeed, that is what it does. It's also able to generate 3D models from just a text prompt. So, here are some examples for your reference. The cool thing is this can also take in any 3D model and separate it into individual parts like this. Or here's another example where we can separate this model into these separate parts. So, while most AI 3D model generators can only do one of these things, this new Hunyan 3D Buffalo is designed to be a unified model that can both generate and edit and segment 3D models, making it super flexible. The nice thing is at the top of the page here, it says the code is coming soon. So, it looks like they are planning to release the code and models to this, which is fantastic. For now, if you're interested in reading further, I'll link to this main page in the description below. Next up, we have a new AI called Leap Talk. And this can generate talking avatars in real time. So, this just takes in any reference image of a person, any speech audio, and it outputs a lip-s synced talking head video in pretty much real time. >> Can the security and smooth passage of international waterways be fundamentally safeguarded? All parties should work together to deescalate the situation and prevent regional instability from having a greater impact on the global economy and energy security. Now, this talking head does look very rigid. She doesn't move as naturally as some of the other frontier avatar generators out there, but the strength of this model is that it's incredibly fast. So, if you look at the latency of Leap Talk compared to other avatar generators like Hello 3 or Echo Mimic, which I featured on my channel before, Leap Talk is like thousands of times faster. And they claim that on an H200 GPU, this can achieve up to 200 frames per second, which is crazy. So, if you're looking for a lightweight realtime talking head generator, this is likely the fastest option available right now. And the awesome thing is they've released this already. So, if you click on this code button and you scroll down a bit here, it contains all the instructions on how to download and run this locally on your computer. If you're interested in reading further, I'll link to this main page in the description below. If you want to supercharge your content creation, definitely check out Higsfield, the sponsor of this video. They've just added the best video generator out there, Seed Dance 2.5. The biggest improvement from this model is that you can now generate up to 30 seconds of video in a single pass with multiple shots and an actual narrative with audio built in. You can also extend an existing generation with new shots while keeping the same characters, locations, pacing, and overall consistency. What really stands out is the reference system. You can feed it up to 50 references at once, including 30 images, 10 videos, and 10 audio files. You can provide your characters, environment, visual style, motion, and soundtrack all in one generation. It can even use a simple 3D clay render as a reference to understand the camera movement, lighting, and overall composition of the scene. You also get much more control over editing. For example, you can specify exactly what happens during different timestamps, change just one section without affecting the rest of the video, or move the same performance into a completely different environment, or even change the camera angle while preserving the characters and action. Seance 2.5 supports text to video, image to video, video to video, and other references. So whether you want to create short films, action scenes, music videos, commercials or any other content, it gives you a lot more control while keeping everything consistent. You can try Seance 2.5 on Higsfield today using the link in the description below. Now around 2 weeks ago, Moonshot AI released Kimmy K3 and this is a massive 2.8 a trillion parameter model which they open sourced and back then this was not only the best open- source model out there but it has even caught up to Frontier for some of these benchmarks it's as good or even better than like GPT 5.6 or Fable 5. Well, it's not over yet. So this week Alibaba releases Quen 3.8 Max. This is also a massive 2.4 4 trillion parameter model and this is also the first time that they will open source a max class model which is super exciting. Here they say the weights will be released next week and check out the benchmark scores of this in terms of these agentic software engineering tasks. You can see that in some cases this new Quen 3.8 Max which is the dark blue even matches the performance of Fable 5 and GPT 5.6 Soul and it already beats Opus 4.8 which is the dark gray bar. Very impressive for an open-source model. Now, like most Frontier models, this is designed to work across a ton of steps, autonomously use tools, inspect results, and continue working until it reaches your specified goal. Here in this demonstration, it was given an empty folder, and it was told to create a self-improving harness system from scratch that turns feedback into GitHub issues, automatically claims and codes them, and merges working changes, and keeps evolving the tool over time. And the crazy thing is this worked for about 16 days without any human help. It just kept doing this until it achieved the goal and in the end it made like 265 commits and 127 pull requests. Or here's another example where it was given a recent paper for training language models and it was told to basically reproduce the paper and then beat it. So it worked autonomously for like 5 days. It wrote thousands of code from scratch, rebuilt the entire experiment, matched the paper's results, and then invented and tested 18 of its own improvement ideas. And its final method actually beat the original paper by 2.7 points on a really hard competitive math benchmark. That's crazy. I mean, this is just a very recent paper, but you can just plug it into this AI to figure out an even better result. So, I mean, the age of autonomous scientific improvement is already here. Or here's another crazy example where it was told to design and optimize a chip. So it started from basically nothing. It designed, coded, simulated, and repeatedly improved this cryptographic hardware accelerator. It was able to produce a physical layout that's like 12 times smaller than the baseline while meeting timing targets. Now, if you look at this leaderboard by artificial analysis, then you can see that Quinn 3.8 8 is just one point below Kimmy K3 while being like 400 billion parameters smaller. So I mean once they release the weights to this this will be like the second best open model out there and they're edging very close to GPT 5.6 and Claude Fable. The thing I don't like about artificial analysis is they don't have any confidence intervals. So it's hard to say whether these top five models are actually significantly better in terms of performance. Now currently you can use Quinn 3.8 8 Max via their API. And as you can see, it's slightly more expensive than Kimmy, but still cheaper than GPG 51.6 and much cheaper than Claude Opus or Claude Fable, which I would not recommend. Like I said, they are planning to release the weights next week. But for now, you can try this out via Quen Cloud. If you're interested in reading further, I'll link to this main page in the description below. Next up, Google DeepMind releases a really exciting update called Weather Next 2. This is basically an AI that can help predict hurricanes and tropical cyclones way earlier than other methods and way more accurately. You see, the difficult thing about hurricane forecasting is you normally need one kind of model to predict where a storm will go and another highresolution model to predict how strong it'll become. But weather nex basically combines both jobs into a single model. It's able to predict the storm's track intensity and wind structure. In fact, it can generate forecasts as far as 15 days in advance, and it can run an ensemble of a thousand different possible scenarios to estimate the probability of where it's headed. It's also way more accurate at predicting the track intensity and extent. So, this latest weather next model is the blue line here. And as you can see, its error rate is much lower than the other methods, even as you increase the lead time to like 5 days in advance. Here's another example where if you compare the error rates with other competitor cyclone prediction models, you can see that Weather Next has a much lower error rate. In fact, Google says Weather Next provides more than 24 hours of additional forecasting lead time compared with leading systems. What's more impressive is it does it using weather data at roughly 28x 28 km resolution, which is around 100 times coarser than traditional models, which require much higher resolution data. So that means a full 15-day forecast can just be generated in under a minute on just one TPU, which is Google's tensor processing unit. Here it says they basically trained this AI on nearly 20 terabytes of global atmospheric data, including nearly 5,000 historical storms. So the model is able to learn these complex weather patterns and how to identify extreme weather. The awesome thing is not only have they published a Nature paper on this, but they are also open sourcing the code and model to this. So anyone can just download and run this or build on top of it. So if you click on this link, it takes you to their GitHub repo. And if you scroll down a bit here, it contains all the instructions on how to set this up. They're also releasing Weather Next 2 Mini, which is a compact version which you can run in Google Collab for free. So props to Google for open sourcing this. This AI is actually super helpful and it'll save a ton of lives by predicting, you know, these natural disasters earlier and more accurately. If you're interested in reading further, I'll link to this main page in the description below. Also, this week, OpenAI announces something pretty remarkable. You see, there are rumors that their next model, GPT6, will be rolled out very soon. Well, this is internally codenamed Astra, and it looks like they used an internal version of Astra to solve 10 long-standing open math problems, which is pretty insane. These aren't just math questions with known answers. They include open problems across geometry, coding theory, group theory, quantum complexity, cryptography, and combinotaurics, which no human could ever solve before. But here with this internal version of Astra, it was able to either resolve the problem or make substantial new progress. Now, this is very technical, especially if you don't have any math background. But in summary, one example establishes the existence of these non-sopic groups, which addresses a major question in group theory. And then it was also able to resolve multiple airish problems. And then there were other examples where it's able to improve the bounds in sphere packing and coding theory. Now these problems are basically really hard to solve, but once it finds the answer, it's really easy to prove that the answer is correct, in case you're wondering. And you know, probably the craziest detail is the cost. So, OpenAI estimates that all of the model tokens used to discover these 10 solutions cost only $2,000 at their API rates. That's crazy if you think about it. They only needed to spend $2,000 of compute to crack 10 mathematical breakthroughs which no human could ever solve. We are right in the middle of the scientific acceleration. In the past few months, we've already seen some huge breakthroughs in like medicine, physics, and of course, math. So, it's really exciting times. They've also released the reasoning walkthroughs on how the AI actually came up with the solution to each of these problems. This is extremely technical math stuff, but if you are interested in digging through the details, I will link to this main page in the description below. Also, this week, Alibaba's Demo Academy released a really useful open-source model called Clinfusion. This is basically a model for holistic medical understanding. Basically, you can give it medical images like X-rays, scans, or even native 3D imaging together with a text prompt, and it can answer medical questions or generate clinical reports. The big problem with medical AI models is that different imaging types are extremely different. But basically, what Clinfusion does is it uses a combined vision encoder designed to understand all this medical data inside just one system, including 2D and 3D medical data. And from this you can see the results are extremely strong. It beats leading and closed source models on most of these multimodal benchmarks even outperforming proprietary models like GPT 5.2. Although note that this is quite an old GPT. Right now we're already at version 5.6. Now on to the specs of this. They released two different models. There's a 32 billion parameter model which is higher quality. And this is quite large at 72 GB in size. And then we have an 8 billion parameter version which is only 24 GB in size. So you should be able to fit this on like a mid to high-end GPU. This is probably the best open- source model for medical analysis. You can use in that size range. So if you're interested in trying this out on this page, it contains all the instructions on how to download and run this locally on your computer. If you're interested in reading further, I'll link to this main page in the description below. In human robotics news, we have this new demo from Persona AI. So, here it's demonstrating its Gen 1 humanoid robot performing a real welding task through teleaoperation. So, as you can see, the dude on the left is wearing this VR headset, and it's controlling this Gen 1 humanoid robot in real time. And it's even able to do this welding task, which requires very precise and stable movements. Now, this is quite a simple example, but this is a demonstration of how we can eventually deploy robots in some high-risk or dangerous industrial environments and then get them to work there while an expert controls them remotely somewhere else via tea operation. In other robotics news, UB Robotics also previews their swarm intelligence model in action. Here you're seeing several of their new wheeled industrial humanoid robot called the Cruiser Y1. And they're all working in this warehouse. They're all taking stuff from pallets and then putting it to the right location. Now, not only do each of these have a brain, but there's also an overarching swarm intelligence system which coordinates all of them together. So there's no redundancy, there's no overlap. And so this allows you to control like basically an army of robots to do a task concurrently. In other humanoid robot news, Xiaomi has released a new robot foundation model called Xiaomi Robotics 1, and it's designed to let robots handle everyday objects and practical tasks. So things like picking up objects and placing them in different places, as you can see in this example, it's even able to zip up this bag very effectively. And it's able to pack a suitcase like this. It's able to navigate across the room to find various objects to put in the suitcase. Basically, how this works is you just give the robot an instruction using natural language and it looks at the environment through its cameras. It understands what needs to happen. It plans everything out and then it actually carries out the action. What makes this model especially interesting is how Xiaomi trained it. So, normally collecting robot training data means having humans remotely control real robots for thousands of hours, which is expensive and difficult to scale. However, Xiaomi collected around a 100,000 hours of video using just a handheld gripper with a camera. So, the humans simply carried this device around while performing normal tasks in their homes or factories or offices. The model first learns general manipulation skills from all this human data. Then, Xiaomi adapts it to actual robot bodies using another roughly 10,000 hours of real robot data. The awesome thing is they've actually released the models to this, including details of how they train this. So, if you're building your own robots or if you're looking for ways to train a robotics model, this would be a great resource for you. If you're interested in reading further, I'll link to this main page in the description below. Also, this week, we have what they claim a self-evolving model called Big Bang. This is an experimental language model with a pretty wild idea. Instead of humans constantly designing better training questions to improve the AI, what if the AI could generate increasingly difficult training data for itself? So, Big Bang starts with the open- source Quinn 3.635b, but all its post-training data comes from an automated system where generator agents create and solve difficult scientific and technical problems. And then afterwards, we also have this critic agent which tries to find mistakes and reject weak examples. And then finally, we also have a metacritic agent which checks whether these difficult problems actually make the model better on real research tasks. And the results are surprisingly strong compared to just the base model Quinn 3.635b. You can see that it scores much higher in terms of browse comp and bench which are like aentic coding benchmarks as well as Frontier Science. You can see that this is an especially huge leap. The base model only scored like 12 points but here it scored like 46 points. Same with humanity's last exam, a massive improvement and also about mystery and also paper bench. Now calling this self-evolving is a bit misleading but I think what they meant here is this framework can be looped again and again. So you can keep getting it to create more and more challenging synthetic data to keep improving the AI model. But of course at some point you're going to hit a wall in terms of intelligence and performance. The awesome thing is they've released this already. So, if you click on this code button and you scroll down a bit here, it contains all the instructions on how to download and run this locally on your computer. If you're interested in reading further, I'll link to this main page in the description below. Also, this week, Meta quietly releases their latest AI model, Musepark 1.2. This is their updated version that's now much more focused on real world coding and agentic workflows. The idea is to give it an entire software project and let it work across multiple files, call tools, and keep going through longer tasks. This supports a 1 million token context window, so you can potentially fit a ton of information into your prompt at once. It's also multimodal, so it can take in things like text, images, video, audio, and documents as input, although coding is one of its main focuses. As you can see from their self-reported benchmarks, it is quite a big leap compared to the previous new Spark 1.1, and it's edging pretty close to the top models out there, including Opus 5. However, note that these self-reported benchmarks are very misleading. They just use GPT 5.6 Terra instead of Soul, which is the larger model. So, it looks like they're intentionally just including a dumber GPT model on their page. So instead, if you look at this independent artificial analysis leaderboard, then you can see that Muse Spark 1.2 is actually all the way down here, way behind Quen 3.8, Kimik 3, and GPT 5.6 Soul Max. So it's not even within like the top 10. However, if you look at the cost per task, then this is quite cheap, even cheaper than Gemini 3.6 Flash and Kim K3 and much cheaper than the Opus models. Now, this is closed source, and for now, you can only use it via their API. If you look at another leaderboard called Val's index, which looks at how good an AI model is across finance and coding tasks, then you can see that again, Muse Spark is all the way down here, even below GPT 5.6 Soul and Kimik 3. However, it does cost the least compared to the other models. So, this could be a fairly costefficient option. For now, note that you can only use Muse Spark 1.1 via their API and this is closed source. In addition to Musepark, they also introduced something called Muse Code, which is a coding agent exactly like OpenAI's codeex or Zcode, Kimmyode, etc. Now, like I mentioned before, the best harness to use to run an AI model is the harness designed by the same company. So, if you're using GPT, then it's best to use Codeex. If you're using Kimmy, it's best to use Kimode. If you're using GLM, it's best to use Zcode. And the same goes for Muse Spark. So, if you decide to use this, then the best way to use it is through Muse Code. Anyway, on this page, it contains all the documentation on how to download and run this. So, if you're interested, I'll link to this page in the description below. Also, this week, we have a very interesting harness framework called Long Horizon Harness. And this is designed to help AI agents complete really complex tasks that can take a ton of steps or a really long time, like hours or days. You see, we already have a ton of agentic harnesses today like Codeex, which is now renamed into ChatgPT or also Claude Code, Zcode, Kimmy Code, Open Claw, or Hermes. But they all face one problem, which is that if you get it to do a really long task, then it has trouble fitting and remembering everything. So, as the history becomes longer and longer, the agent could forget the original goal. It could make some incorrect summaries and completely go off on a tangent. It can repeat work or even mistakenly claim that something is finished. Well, what this long horizon does is it replaces that approach with three separate roles. There's a manager, an executor, and an auditor. The manager decides the next small task based on only verified progress. The executor receives that one task in a fresh context and performs the actual work, and then the auditor independently checks the files, the fixes, etc., and confirms what really changed. Only stuff that was verified by the auditor are saved for the next round. So, think of this as like a construction project where the manager assigns the work, the builder completes it, and an independent inspector signs off before anything is marked finished. And the nice thing is this system works across different agentic harnesses like Claude Code, Codeex CLI, Gemini CLI, Zcode, Kimmy Code, and other compatible systems. And here are some really impressive results. If they add this long horizon harness using Quen 3.7 in cloud code, you can see that it was able to increase its weavebench score by 28.9%. It's also able to triple the completion rate of OS World 2. And then for Terminal Bench, it's also able to increase the score by like 7.5% which is a huge deal. Here's the Terminal Bench leaderboard. And as you can see, if you add this LH harness to GPT 5.6 6 Luna using codeex, it's able to achieve a much higher score than without this harness. It's all the way down here. Same with if you add the harness to Cloud Code and Quen 3.7, it's able to achieve a much higher score than without it, which is down here. Now, if you add this harness layer on top, of course, it is expected to use some more tokens. For example, for both Weavebench and OS World, it uses a lot more tokens than without it, but it does achieve a much higher score or success rate. So, there's a trade-off there. Interestingly for Terminal Bench, not only did it achieve a higher score, but it also used fewer tokens. Anyway, a very fascinating framework which could potentially improve the performance of any long horizon tasks that you're running. The awesome thing is they've released this already. So, if you click on this code repo button and you scroll down a bit here, it contains all the instructions on how to download this for whichever Agentic system you're using. If you're interested in reading further, I'll link to this main page in the description below. And that sums up all the highlights in AI this week. Let me know in the comments what you think of all of this. Which piece of news was your favorite? And which tool are you most looking forward to trying out? As always, I will be on the lookout for the top AI news and tools to share with you. So, if you enjoyed this video, remember to like, share, subscribe, and stay tuned for more content. Also, there's just so much happening in the world of AI every week. I can't possibly cover everything on my YouTube channel. So, to really stay up to date with all that's going on in AI, be sure to subscribe to my free weekly newsletter. The link to that will be in the description below. Thanks for watching and I'll see you in the next one.",
+    "word_count": 6003,
     "error": null
   }
 }

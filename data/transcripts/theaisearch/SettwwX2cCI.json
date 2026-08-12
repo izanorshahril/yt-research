@@ -14,10 +14,4145 @@
     "video_id": "SettwwX2cCI",
     "has_transcript": true,
     "language": "en",
-    "is_generated": false,
-    "segments": [],
-    "full_text": "GPT 5.6 review. GPT 5.6 vs Claude Fable. #ai #aitools #ainews #llm #openai #agi #singularity\n\nThanks to our sponsor Hubspot. Access GPT at Work for free https://clickhubspot.com/e36db8 \n\nGPT 5.6 https://openai.com/index/gpt-5-6/\nCodex app https://developers.openai.com/codex/app\n\n\n0:00 GPT 5.6 models\n1:00 Codex vs ChatGPT\n1:43 Realtime anime girl\n3:37 Liquid simulation\n5:12 Promo video creation\n7:55 GPT at work\n9:07 Music composition\n11:36 3D model\n12:33 Math animation\n13:54 Identifying cancer\n14:57 Finding the frog\n16:22 Deep research\n17:40 Financial presentation\n19:20 Specs and performance\n21:24 Leaderboards and where to use GPT 5.6\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
-    "word_count": 0,
+    "is_generated": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "duration": 4.52,
+        "start_formatted": "00:00",
+        "text": "GPT-5.6"
+      },
+      {
+        "start": 1.88,
+        "duration": 4.04,
+        "start_formatted": "00:01",
+        "text": "is here and this is an absolute beast."
+      },
+      {
+        "start": 4.52,
+        "duration": 3.16,
+        "start_formatted": "00:04",
+        "text": "In this video, we're going to go over"
+      },
+      {
+        "start": 5.92,
+        "duration": 3.32,
+        "start_formatted": "00:05",
+        "text": "all the impressive things that it can do"
+      },
+      {
+        "start": 7.68,
+        "duration": 2.96,
+        "start_formatted": "00:07",
+        "text": "and where and how to use it and of"
+      },
+      {
+        "start": 9.24,
+        "duration": 3.4,
+        "start_formatted": "00:09",
+        "text": "course we're also going to go over its"
+      },
+      {
+        "start": 10.64,
+        "duration": 4.84,
+        "start_formatted": "00:10",
+        "text": "specs and performance against other"
+      },
+      {
+        "start": 12.64,
+        "duration": 4.56,
+        "start_formatted": "00:12",
+        "text": "competitor models. Let's jump right in."
+      },
+      {
+        "start": 15.48,
+        "duration": 3.6,
+        "start_formatted": "00:15",
+        "text": "Thanks to HubSpot for sponsoring this"
+      },
+      {
+        "start": 17.2,
+        "duration": 4.4,
+        "start_formatted": "00:17",
+        "text": "video. All right, so just in OpenAI"
+      },
+      {
+        "start": 19.08,
+        "duration": 4.92,
+        "start_formatted": "00:19",
+        "text": "releases GPT-5.6."
+      },
+      {
+        "start": 21.6,
+        "duration": 4.64,
+        "start_formatted": "00:21",
+        "text": "This is their latest most intelligent"
+      },
+      {
+        "start": 24.0,
+        "duration": 3.92,
+        "start_formatted": "00:24",
+        "text": "family of models. In fact, this consists"
+      },
+      {
+        "start": 26.24,
+        "duration": 4.4,
+        "start_formatted": "00:26",
+        "text": "of three different models. There's"
+      },
+      {
+        "start": 27.92,
+        "duration": 4.839,
+        "start_formatted": "00:27",
+        "text": "GPT-5.6 Soul which is the largest and"
+      },
+      {
+        "start": 30.64,
+        "duration": 4.28,
+        "start_formatted": "00:30",
+        "text": "most performant variant. This is also"
+      },
+      {
+        "start": 32.759,
+        "duration": 3.921,
+        "start_formatted": "00:32",
+        "text": "the most expensive. And then Terra is in"
+      },
+      {
+        "start": 34.92,
+        "duration": 3.4,
+        "start_formatted": "00:34",
+        "text": "the middle and then we have Luna which"
+      },
+      {
+        "start": 36.68,
+        "duration": 3.96,
+        "start_formatted": "00:36",
+        "text": "is the smallest model so it's the"
+      },
+      {
+        "start": 38.32,
+        "duration": 4.0,
+        "start_formatted": "00:38",
+        "text": "fastest but also less intelligent. First"
+      },
+      {
+        "start": 40.64,
+        "duration": 3.32,
+        "start_formatted": "00:40",
+        "text": "of all, it's important to note that for"
+      },
+      {
+        "start": 42.32,
+        "duration": 3.72,
+        "start_formatted": "00:42",
+        "text": "all these frontier models, they can"
+      },
+      {
+        "start": 43.96,
+        "duration": 3.96,
+        "start_formatted": "00:43",
+        "text": "already handle simple stuff like writing"
+      },
+      {
+        "start": 46.04,
+        "duration": 4.04,
+        "start_formatted": "00:46",
+        "text": "emails, summarizing things, writing"
+      },
+      {
+        "start": 47.92,
+        "duration": 3.44,
+        "start_formatted": "00:47",
+        "text": "essays, or doing research for you. So in"
+      },
+      {
+        "start": 50.08,
+        "duration": 3.8,
+        "start_formatted": "00:50",
+        "text": "this video, I'm not even going to show"
+      },
+      {
+        "start": 51.36,
+        "duration": 4.12,
+        "start_formatted": "00:51",
+        "text": "you such tests. It's way too easy. I'm"
+      },
+      {
+        "start": 53.88,
+        "duration": 3.68,
+        "start_formatted": "00:53",
+        "text": "going to push its limits on some much"
+      },
+      {
+        "start": 55.48,
+        "duration": 4.88,
+        "start_formatted": "00:55",
+        "text": "harder stuff. Now for this latest"
+      },
+      {
+        "start": 57.56,
+        "duration": 5.2,
+        "start_formatted": "00:57",
+        "text": "GPT-5.6, you could use this using the"
+      },
+      {
+        "start": 60.36,
+        "duration": 4.04,
+        "start_formatted": "01:00",
+        "text": "online ChatGPT platform, but it doesn't"
+      },
+      {
+        "start": 62.76,
+        "duration": 2.92,
+        "start_formatted": "01:02",
+        "text": "really do it justice. Especially if"
+      },
+      {
+        "start": 64.4,
+        "duration": 3.84,
+        "start_formatted": "01:04",
+        "text": "you're working on something that"
+      },
+      {
+        "start": 65.68,
+        "duration": 4.36,
+        "start_formatted": "01:05",
+        "text": "requires using multiple files or tools"
+      },
+      {
+        "start": 68.24,
+        "duration": 5.0,
+        "start_formatted": "01:08",
+        "text": "or multiple steps. It's much better to"
+      },
+      {
+        "start": 70.04,
+        "duration": 5.88,
+        "start_formatted": "01:10",
+        "text": "use GPT-5.6 with any genic framework or"
+      },
+      {
+        "start": 73.24,
+        "duration": 4.6,
+        "start_formatted": "01:13",
+        "text": "a harness like Codex. In fact, they've"
+      },
+      {
+        "start": 75.92,
+        "duration": 4.04,
+        "start_formatted": "01:15",
+        "text": "kind of redesigned the Codex app to just"
+      },
+      {
+        "start": 77.84,
+        "duration": 4.0,
+        "start_formatted": "01:17",
+        "text": "be called the ChatGPT desktop app. You"
+      },
+      {
+        "start": 79.96,
+        "duration": 3.68,
+        "start_formatted": "01:19",
+        "text": "can download this for free for whatever"
+      },
+      {
+        "start": 81.84,
+        "duration": 3.84,
+        "start_formatted": "01:21",
+        "text": "operating system you're using and it"
+      },
+      {
+        "start": 83.64,
+        "duration": 4.36,
+        "start_formatted": "01:23",
+        "text": "looks like this. It's pretty similar to"
+      },
+      {
+        "start": 85.68,
+        "duration": 4.64,
+        "start_formatted": "01:25",
+        "text": "the online ChatGPT, but with this you"
+      },
+      {
+        "start": 88.0,
+        "duration": 4.52,
+        "start_formatted": "01:28",
+        "text": "can basically get multiple agents to"
+      },
+      {
+        "start": 90.32,
+        "duration": 4.36,
+        "start_formatted": "01:30",
+        "text": "work on multiple files and folders on"
+      },
+      {
+        "start": 92.52,
+        "duration": 4.08,
+        "start_formatted": "01:32",
+        "text": "your computer at once. You can also save"
+      },
+      {
+        "start": 94.68,
+        "duration": 4.16,
+        "start_formatted": "01:34",
+        "text": "skills to be reused later or even"
+      },
+      {
+        "start": 96.6,
+        "duration": 4.32,
+        "start_formatted": "01:36",
+        "text": "schedule automations. So definitely give"
+      },
+      {
+        "start": 98.84,
+        "duration": 4.08,
+        "start_formatted": "01:38",
+        "text": "the Codex app a try. It's free for you"
+      },
+      {
+        "start": 100.92,
+        "duration": 4.56,
+        "start_formatted": "01:40",
+        "text": "to use. All right, let's start off with"
+      },
+      {
+        "start": 102.92,
+        "duration": 4.32,
+        "start_formatted": "01:42",
+        "text": "a really complex prompt already. I'm"
+      },
+      {
+        "start": 105.48,
+        "duration": 3.44,
+        "start_formatted": "01:45",
+        "text": "going to get it to make a web app where"
+      },
+      {
+        "start": 107.24,
+        "duration": 4.36,
+        "start_formatted": "01:47",
+        "text": "there's going to be an anime girl who"
+      },
+      {
+        "start": 108.92,
+        "duration": 2.68,
+        "start_formatted": "01:48",
+        "text": "can talk to me"
+      },
+      {
+        "start": 115.0,
+        "duration": 4.28,
+        "start_formatted": "01:55",
+        "text": ">> or which I can chat with using voice."
+      },
+      {
+        "start": 117.64,
+        "duration": 4.4,
+        "start_formatted": "01:57",
+        "text": "There should be an anime girl who I can"
+      },
+      {
+        "start": 119.28,
+        "duration": 4.28,
+        "start_formatted": "01:59",
+        "text": "talk to use GPT image to make multiple"
+      },
+      {
+        "start": 122.04,
+        "duration": 3.08,
+        "start_formatted": "02:02",
+        "text": "images of this character with mouth"
+      },
+      {
+        "start": 123.56,
+        "duration": 3.96,
+        "start_formatted": "02:03",
+        "text": "movements so you can stitch them"
+      },
+      {
+        "start": 125.12,
+        "duration": 4.559,
+        "start_formatted": "02:05",
+        "text": "together into animations. And then here"
+      },
+      {
+        "start": 127.52,
+        "duration": 4.76,
+        "start_formatted": "02:07",
+        "text": "I got it to use Google's Gemini"
+      },
+      {
+        "start": 129.679,
+        "duration": 4.721,
+        "start_formatted": "02:09",
+        "text": "real-time voice model. So what I did was"
+      },
+      {
+        "start": 132.28,
+        "duration": 4.4,
+        "start_formatted": "02:12",
+        "text": "I just went to Google's AI studio and"
+      },
+      {
+        "start": 134.4,
+        "duration": 4.16,
+        "start_formatted": "02:14",
+        "text": "then clicked on real time and then I"
+      },
+      {
+        "start": 136.68,
+        "duration": 4.16,
+        "start_formatted": "02:16",
+        "text": "chose this one cuz it's a bit cheaper"
+      },
+      {
+        "start": 138.56,
+        "duration": 4.2,
+        "start_formatted": "02:18",
+        "text": "and then I'm going to choose this voice"
+      },
+      {
+        "start": 140.84,
+        "duration": 3.76,
+        "start_formatted": "02:20",
+        "text": "and then at the top here I simply click"
+      },
+      {
+        "start": 142.76,
+        "duration": 4.08,
+        "start_formatted": "02:22",
+        "text": "on get code and then I'm going to copy"
+      },
+      {
+        "start": 144.6,
+        "duration": 4.04,
+        "start_formatted": "02:24",
+        "text": "this and then paste the code in here for"
+      },
+      {
+        "start": 146.84,
+        "duration": 4.16,
+        "start_formatted": "02:26",
+        "text": "it to refer to. And then down here I"
+      },
+      {
+        "start": 148.64,
+        "duration": 3.92,
+        "start_formatted": "02:28",
+        "text": "also give it my API key and then I wrote"
+      },
+      {
+        "start": 151.0,
+        "duration": 3.12,
+        "start_formatted": "02:31",
+        "text": "the character should be animated with"
+      },
+      {
+        "start": 152.56,
+        "duration": 3.52,
+        "start_formatted": "02:32",
+        "text": "lip sync so that it looks like she's"
+      },
+      {
+        "start": 154.12,
+        "duration": 4.56,
+        "start_formatted": "02:34",
+        "text": "speaking of the audio. And then for the"
+      },
+      {
+        "start": 156.08,
+        "duration": 4.92,
+        "start_formatted": "02:36",
+        "text": "model I'm going to use the largest 5.6"
+      },
+      {
+        "start": 158.68,
+        "duration": 4.24,
+        "start_formatted": "02:38",
+        "text": "soul and set this to the maximum"
+      },
+      {
+        "start": 161.0,
+        "duration": 4.88,
+        "start_formatted": "02:41",
+        "text": "thinking mode which is ultra. Let's"
+      },
+      {
+        "start": 162.92,
+        "duration": 5.28,
+        "start_formatted": "02:42",
+        "text": "click run. All right, so that took it 17"
+      },
+      {
+        "start": 165.88,
+        "duration": 5.12,
+        "start_formatted": "02:45",
+        "text": "minutes and you can see here it's using"
+      },
+      {
+        "start": 168.2,
+        "duration": 4.52,
+        "start_formatted": "02:48",
+        "text": "GPT image to generate this avatar with"
+      },
+      {
+        "start": 171.0,
+        "duration": 4.52,
+        "start_formatted": "02:51",
+        "text": "different mouth movements. And it told"
+      },
+      {
+        "start": 172.72,
+        "duration": 4.92,
+        "start_formatted": "02:52",
+        "text": "me to run this with my API key and then"
+      },
+      {
+        "start": 175.52,
+        "duration": 3.999,
+        "start_formatted": "02:55",
+        "text": "open this URL. So let me do that really"
+      },
+      {
+        "start": 177.64,
+        "duration": 3.52,
+        "start_formatted": "02:57",
+        "text": "quickly. And here's the interface. Let's"
+      },
+      {
+        "start": 179.519,
+        "duration": 3.761,
+        "start_formatted": "02:59",
+        "text": "see if this works. I'm going to press on"
+      },
+      {
+        "start": 181.16,
+        "duration": 2.6,
+        "start_formatted": "03:01",
+        "text": "start voice chat. Hello, can you hear"
+      },
+      {
+        "start": 183.28,
+        "duration": 2.76,
+        "start_formatted": "03:03",
+        "text": "me?"
+      },
+      {
+        "start": 183.76,
+        "duration": 4.52,
+        "start_formatted": "03:03",
+        "text": ">> Loud and clear. Welcome to our little"
+      },
+      {
+        "start": 186.04,
+        "duration": 5.08,
+        "start_formatted": "03:06",
+        "text": "corner of the stars. Are you ready for"
+      },
+      {
+        "start": 188.28,
+        "duration": 4.04,
+        "start_formatted": "03:08",
+        "text": "some stargazing or maybe a story?"
+      },
+      {
+        "start": 191.12,
+        "duration": 3.8,
+        "start_formatted": "03:11",
+        "text": ">> Can you tell me a joke?"
+      },
+      {
+        "start": 192.32,
+        "duration": 4.84,
+        "start_formatted": "03:12",
+        "text": ">> Why did the star break up with the moon?"
+      },
+      {
+        "start": 194.92,
+        "duration": 4.68,
+        "start_formatted": "03:14",
+        "text": "Because it said the moon was just going"
+      },
+      {
+        "start": 197.16,
+        "duration": 4.76,
+        "start_formatted": "03:17",
+        "text": "through too many phases. Pretty cheesy,"
+      },
+      {
+        "start": 199.6,
+        "duration": 4.48,
+        "start_formatted": "03:19",
+        "text": "right? Got a better one for me?"
+      },
+      {
+        "start": 201.92,
+        "duration": 4.599,
+        "start_formatted": "03:21",
+        "text": ">> So there you go. Here is a fully"
+      },
+      {
+        "start": 204.08,
+        "duration": 4.64,
+        "start_formatted": "03:24",
+        "text": "functioning anime girl which I can talk"
+      },
+      {
+        "start": 206.519,
+        "duration": 3.641,
+        "start_formatted": "03:26",
+        "text": "to in real time. It was able to code up"
+      },
+      {
+        "start": 208.72,
+        "duration": 3.16,
+        "start_formatted": "03:28",
+        "text": "all of this in just one prompt and"
+      },
+      {
+        "start": 210.16,
+        "duration": 3.76,
+        "start_formatted": "03:30",
+        "text": "everything just works. I didn't even"
+      },
+      {
+        "start": 211.88,
+        "duration": 3.4,
+        "start_formatted": "03:31",
+        "text": "need to send any follow-up prompts or"
+      },
+      {
+        "start": 213.92,
+        "duration": 4.0,
+        "start_formatted": "03:33",
+        "text": "correct it any further. Really"
+      },
+      {
+        "start": 215.28,
+        "duration": 4.239,
+        "start_formatted": "03:35",
+        "text": "impressive. Next, let's test its physics"
+      },
+      {
+        "start": 217.92,
+        "duration": 4.0,
+        "start_formatted": "03:37",
+        "text": "understanding. So I'm going to get it to"
+      },
+      {
+        "start": 219.519,
+        "duration": 4.72,
+        "start_formatted": "03:39",
+        "text": "simulate liquid splashes with adjustable"
+      },
+      {
+        "start": 221.92,
+        "duration": 4.24,
+        "start_formatted": "03:41",
+        "text": "gravity and light settings. Make it"
+      },
+      {
+        "start": 224.239,
+        "duration": 4.161,
+        "start_formatted": "03:44",
+        "text": "visually stunning. And to make it even"
+      },
+      {
+        "start": 226.16,
+        "duration": 4.799,
+        "start_formatted": "03:46",
+        "text": "more difficult, I want it to allow me to"
+      },
+      {
+        "start": 228.4,
+        "duration": 5.36,
+        "start_formatted": "03:48",
+        "text": "control movements using hand tracking"
+      },
+      {
+        "start": 230.959,
+        "duration": 6.361,
+        "start_formatted": "03:50",
+        "text": "via webcam. And here's the key. Do not"
+      },
+      {
+        "start": 233.76,
+        "duration": 5.4,
+        "start_formatted": "03:53",
+        "text": "use 3js or any other external libraries"
+      },
+      {
+        "start": 237.32,
+        "duration": 3.6,
+        "start_formatted": "03:57",
+        "text": "with, you know, pre-rendered physics"
+      },
+      {
+        "start": 239.16,
+        "duration": 3.56,
+        "start_formatted": "03:59",
+        "text": "animations. It needs to code up"
+      },
+      {
+        "start": 240.92,
+        "duration": 4.16,
+        "start_formatted": "04:00",
+        "text": "everything from scratch. Again, I'm"
+      },
+      {
+        "start": 242.72,
+        "duration": 4.56,
+        "start_formatted": "04:02",
+        "text": "going to use 5.6 Soul Ultra and then"
+      },
+      {
+        "start": 245.08,
+        "duration": 4.32,
+        "start_formatted": "04:05",
+        "text": "press generate. So, it worked for 12"
+      },
+      {
+        "start": 247.28,
+        "duration": 3.96,
+        "start_formatted": "04:07",
+        "text": "minutes and that was it. I didn't need"
+      },
+      {
+        "start": 249.4,
+        "duration": 4.12,
+        "start_formatted": "04:09",
+        "text": "to prompt it further. I didn't run into"
+      },
+      {
+        "start": 251.24,
+        "duration": 5.279,
+        "start_formatted": "04:11",
+        "text": "any errors. Everything just works. All"
+      },
+      {
+        "start": 253.52,
+        "duration": 4.719,
+        "start_formatted": "04:13",
+        "text": "right, so here is the interface. You can"
+      },
+      {
+        "start": 256.519,
+        "duration": 4.0,
+        "start_formatted": "04:16",
+        "text": "see the liquid does look pretty"
+      },
+      {
+        "start": 258.239,
+        "duration": 4.881,
+        "start_formatted": "04:18",
+        "text": "accurate. I can adjust these different"
+      },
+      {
+        "start": 260.519,
+        "duration": 6.041,
+        "start_formatted": "04:20",
+        "text": "settings like flow energy, brush radius,"
+      },
+      {
+        "start": 263.12,
+        "duration": 6.52,
+        "start_formatted": "04:23",
+        "text": "gravity vector, viscosity, vorticity. I"
+      },
+      {
+        "start": 266.56,
+        "duration": 5.2,
+        "start_formatted": "04:26",
+        "text": "can change the colors here. So, here are"
+      },
+      {
+        "start": 269.64,
+        "duration": 4.52,
+        "start_formatted": "04:29",
+        "text": "some additional colors. And here is"
+      },
+      {
+        "start": 271.76,
+        "duration": 4.8,
+        "start_formatted": "04:31",
+        "text": "where I can turn on my webcam to start"
+      },
+      {
+        "start": 274.16,
+        "duration": 4.2,
+        "start_formatted": "04:34",
+        "text": "hand tracking. So, let's click on this."
+      },
+      {
+        "start": 276.56,
+        "duration": 4.359,
+        "start_formatted": "04:36",
+        "text": "So, now it's pulling up my webcam and"
+      },
+      {
+        "start": 278.36,
+        "duration": 4.8,
+        "start_formatted": "04:38",
+        "text": "tracking my hand. Very cool. So, I can"
+      },
+      {
+        "start": 280.919,
+        "duration": 4.321,
+        "start_formatted": "04:40",
+        "text": "draw all over this canvas. Let me change"
+      },
+      {
+        "start": 283.16,
+        "duration": 5.44,
+        "start_formatted": "04:43",
+        "text": "the colors a bit. And then over here, I"
+      },
+      {
+        "start": 285.24,
+        "duration": 5.12,
+        "start_formatted": "04:45",
+        "text": "can also change the key direction as you"
+      },
+      {
+        "start": 288.6,
+        "duration": 5.84,
+        "start_formatted": "04:48",
+        "text": "can see here. Also, the light's"
+      },
+      {
+        "start": 290.36,
+        "duration": 6.6,
+        "start_formatted": "04:50",
+        "text": "intensity and also liquid gloss and the"
+      },
+      {
+        "start": 294.44,
+        "duration": 4.4,
+        "start_formatted": "04:54",
+        "text": "bloom or basically the glow effect. Very"
+      },
+      {
+        "start": 296.96,
+        "duration": 4.88,
+        "start_formatted": "04:56",
+        "text": "nice. Everything just works in one"
+      },
+      {
+        "start": 298.84,
+        "duration": 5.16,
+        "start_formatted": "04:58",
+        "text": "prompt. That's the beauty of GPT 5.6,"
+      },
+      {
+        "start": 301.84,
+        "duration": 4.16,
+        "start_formatted": "05:01",
+        "text": "especially the largest Soul model with,"
+      },
+      {
+        "start": 304.0,
+        "duration": 4.12,
+        "start_formatted": "05:04",
+        "text": "you know, extra high or ultra thinking."
+      },
+      {
+        "start": 306.0,
+        "duration": 4.08,
+        "start_formatted": "05:06",
+        "text": "It usually gets everything right from"
+      },
+      {
+        "start": 308.12,
+        "duration": 3.24,
+        "start_formatted": "05:08",
+        "text": "just one prompt. There's very minimal"
+      },
+      {
+        "start": 310.08,
+        "duration": 3.28,
+        "start_formatted": "05:10",
+        "text": "hand holding and you don't really need"
+      },
+      {
+        "start": 311.36,
+        "duration": 5.04,
+        "start_formatted": "05:11",
+        "text": "to prompt it further. Now, because GPT"
+      },
+      {
+        "start": 313.36,
+        "duration": 5.84,
+        "start_formatted": "05:13",
+        "text": "5.6 is designed for agentic use, it can"
+      },
+      {
+        "start": 316.4,
+        "duration": 4.92,
+        "start_formatted": "05:16",
+        "text": "autonomously call and use various tools"
+      },
+      {
+        "start": 319.2,
+        "duration": 4.36,
+        "start_formatted": "05:19",
+        "text": "to complete a workflow. So, let's test"
+      },
+      {
+        "start": 321.32,
+        "duration": 4.36,
+        "start_formatted": "05:21",
+        "text": "its ability to do exactly that. I'm"
+      },
+      {
+        "start": 323.56,
+        "duration": 5.04,
+        "start_formatted": "05:23",
+        "text": "going to give it a product page. This is"
+      },
+      {
+        "start": 325.68,
+        "duration": 5.16,
+        "start_formatted": "05:25",
+        "text": "the landing page of ByteDance's latest"
+      },
+      {
+        "start": 328.6,
+        "duration": 4.92,
+        "start_formatted": "05:28",
+        "text": "image model Sea Dream 5 Pro. And I want"
+      },
+      {
+        "start": 330.84,
+        "duration": 4.68,
+        "start_formatted": "05:30",
+        "text": "to get GPT to create a promo video about"
+      },
+      {
+        "start": 333.52,
+        "duration": 4.48,
+        "start_formatted": "05:33",
+        "text": "this product. We're going to use Gemini"
+      },
+      {
+        "start": 335.52,
+        "duration": 3.96,
+        "start_formatted": "05:35",
+        "text": "TTS to include a voiceover. And then"
+      },
+      {
+        "start": 338.0,
+        "duration": 3.36,
+        "start_formatted": "05:38",
+        "text": "we're also going to use an open source"
+      },
+      {
+        "start": 339.48,
+        "duration": 4.24,
+        "start_formatted": "05:39",
+        "text": "tool called HyperFrames to create the"
+      },
+      {
+        "start": 341.36,
+        "duration": 4.12,
+        "start_formatted": "05:41",
+        "text": "animation. I'm not even going to tell it"
+      },
+      {
+        "start": 343.72,
+        "duration": 4.24,
+        "start_formatted": "05:43",
+        "text": "how to install it. I'm only going to"
+      },
+      {
+        "start": 345.48,
+        "duration": 3.88,
+        "start_formatted": "05:45",
+        "text": "link to this GitHub repo. So, it needs"
+      },
+      {
+        "start": 347.96,
+        "duration": 3.24,
+        "start_formatted": "05:47",
+        "text": "to scroll down and look at the"
+      },
+      {
+        "start": 349.36,
+        "duration": 3.64,
+        "start_formatted": "05:49",
+        "text": "instructions and figure out how to set"
+      },
+      {
+        "start": 351.2,
+        "duration": 4.52,
+        "start_formatted": "05:51",
+        "text": "this up itself. And then here are more"
+      },
+      {
+        "start": 353.0,
+        "duration": 5.32,
+        "start_formatted": "05:53",
+        "text": "specs, so it should be 16:9, around a"
+      },
+      {
+        "start": 355.72,
+        "duration": 4.88,
+        "start_formatted": "05:55",
+        "text": "minute long, include actual images, demo"
+      },
+      {
+        "start": 358.32,
+        "duration": 4.52,
+        "start_formatted": "05:58",
+        "text": "images or videos from the product page."
+      },
+      {
+        "start": 360.6,
+        "duration": 3.84,
+        "start_formatted": "06:00",
+        "text": "And then use this existing audio as the"
+      },
+      {
+        "start": 362.84,
+        "duration": 3.92,
+        "start_formatted": "06:02",
+        "text": "background music. And then afterwards, I"
+      },
+      {
+        "start": 364.44,
+        "duration": 5.4,
+        "start_formatted": "06:04",
+        "text": "just pasted some documentation on how to"
+      },
+      {
+        "start": 366.76,
+        "duration": 5.2,
+        "start_formatted": "06:06",
+        "text": "actually use Gemini TTS. Plus down here,"
+      },
+      {
+        "start": 369.84,
+        "duration": 4.44,
+        "start_formatted": "06:09",
+        "text": "I give it my API key so it can actually"
+      },
+      {
+        "start": 371.96,
+        "duration": 4.04,
+        "start_formatted": "06:11",
+        "text": "use Gemini TTS to generate the"
+      },
+      {
+        "start": 374.28,
+        "duration": 3.84,
+        "start_formatted": "06:14",
+        "text": "voiceover. And that's pretty much it."
+      },
+      {
+        "start": 376.0,
+        "duration": 4.72,
+        "start_formatted": "06:16",
+        "text": "Let's press generate. All right, so that"
+      },
+      {
+        "start": 378.12,
+        "duration": 4.48,
+        "start_formatted": "06:18",
+        "text": "took a painfully long time. It took 30"
+      },
+      {
+        "start": 380.72,
+        "duration": 3.28,
+        "start_formatted": "06:20",
+        "text": "minutes to actually generate the video."
+      },
+      {
+        "start": 382.6,
+        "duration": 3.88,
+        "start_formatted": "06:22",
+        "text": "There were some elements that were"
+      },
+      {
+        "start": 384.0,
+        "duration": 4.96,
+        "start_formatted": "06:24",
+        "text": "overlapping such as some text or images"
+      },
+      {
+        "start": 386.48,
+        "duration": 4.88,
+        "start_formatted": "06:26",
+        "text": "on other images. So, I added a follow-up"
+      },
+      {
+        "start": 388.96,
+        "duration": 4.12,
+        "start_formatted": "06:28",
+        "text": "prompt, make sure no elements overlap,"
+      },
+      {
+        "start": 391.36,
+        "duration": 3.72,
+        "start_formatted": "06:31",
+        "text": "and then it re-rendered the video and"
+      },
+      {
+        "start": 393.08,
+        "duration": 4.12,
+        "start_formatted": "06:33",
+        "text": "here's our final result."
+      },
+      {
+        "start": 395.08,
+        "duration": 3.819,
+        "start_formatted": "06:35",
+        "text": ">> What if image generation could think"
+      },
+      {
+        "start": 397.2,
+        "duration": 1.719,
+        "start_formatted": "06:37",
+        "text": "like a creative partner,"
+      },
+      {
+        "start": 398.899,
+        "duration": 1.941,
+        "start_formatted": "06:38",
+        "text": ">> [music]"
+      },
+      {
+        "start": 398.919,
+        "duration": 5.161,
+        "start_formatted": "06:38",
+        "text": ">> not just make a picture?"
+      },
+      {
+        "start": 400.84,
+        "duration": 5.16,
+        "start_formatted": "06:40",
+        "text": "Meet SeaDream 5.0 Pro, ByteDance Seed's"
+      },
+      {
+        "start": 404.08,
+        "duration": 3.839,
+        "start_formatted": "06:44",
+        "text": "multimodal image model for advanced"
+      },
+      {
+        "start": 406.0,
+        "duration": 3.84,
+        "start_formatted": "06:46",
+        "text": "reasoning, efficient creation, and"
+      },
+      {
+        "start": 407.919,
+        "duration": 4.201,
+        "start_formatted": "06:47",
+        "text": "professional production."
+      },
+      {
+        "start": 409.84,
+        "duration": 4.48,
+        "start_formatted": "06:49",
+        "text": "Mark [music] the space, sketch the idea,"
+      },
+      {
+        "start": 412.12,
+        "duration": 4.2,
+        "start_formatted": "06:52",
+        "text": "or annotate the change. SeaDream"
+      },
+      {
+        "start": 414.32,
+        "duration": 4.4,
+        "start_formatted": "06:54",
+        "text": "responds with precise edits while the"
+      },
+      {
+        "start": 416.32,
+        "duration": 4.24,
+        "start_formatted": "06:56",
+        "text": "rest of the frame stays intact."
+      },
+      {
+        "start": 418.72,
+        "duration": 4.04,
+        "start_formatted": "06:58",
+        "text": "It can even separate a finished image"
+      },
+      {
+        "start": 420.56,
+        "duration": 3.884,
+        "start_formatted": "07:00",
+        "text": "into editable layers."
+      },
+      {
+        "start": 422.76,
+        "duration": 1.88,
+        "start_formatted": "07:02",
+        "text": "Need more than a beautiful frame?"
+      },
+      {
+        "start": 424.444,
+        "duration": 2.356,
+        "start_formatted": "07:04",
+        "text": ">> [music]"
+      },
+      {
+        "start": 424.64,
+        "duration": 4.04,
+        "start_formatted": "07:04",
+        "text": ">> Build information-dense infographics,"
+      },
+      {
+        "start": 426.8,
+        "duration": 5.16,
+        "start_formatted": "07:06",
+        "text": "product layouts, storyboards, and"
+      },
+      {
+        "start": 428.68,
+        "duration": 4.84,
+        "start_formatted": "07:08",
+        "text": "interfaces with detail that holds up."
+      },
+      {
+        "start": 431.96,
+        "duration": 4.12,
+        "start_formatted": "07:11",
+        "text": "Push realism further [music] with"
+      },
+      {
+        "start": 433.52,
+        "duration": 4.72,
+        "start_formatted": "07:13",
+        "text": "authentic light, shadow, skin texture,"
+      },
+      {
+        "start": 436.08,
+        "duration": 3.96,
+        "start_formatted": "07:16",
+        "text": "and cinematic composition."
+      },
+      {
+        "start": 438.24,
+        "duration": 3.52,
+        "start_formatted": "07:18",
+        "text": "Take the same workflow global with"
+      },
+      {
+        "start": 440.04,
+        "duration": 4.71,
+        "start_formatted": "07:20",
+        "text": "native prompting and image generation"
+      },
+      {
+        "start": 441.76,
+        "duration": 3.08,
+        "start_formatted": "07:21",
+        "text": "across a dozen widely used languages."
+      },
+      {
+        "start": 444.75,
+        "duration": 2.61,
+        "start_formatted": "07:24",
+        "text": ">> [snorts]"
+      },
+      {
+        "start": 444.84,
+        "duration": 5.0,
+        "start_formatted": "07:24",
+        "text": ">> From first concept to final campaign,"
+      },
+      {
+        "start": 447.36,
+        "duration": 4.96,
+        "start_formatted": "07:27",
+        "text": "SeaDream 5.0 Pro gives creators more"
+      },
+      {
+        "start": 449.84,
+        "duration": 3.72,
+        "start_formatted": "07:29",
+        "text": "control, more clarity, and more room to"
+      },
+      {
+        "start": 452.32,
+        "duration": 3.44,
+        "start_formatted": "07:32",
+        "text": "explore."
+      },
+      {
+        "start": 453.56,
+        "duration": 3.4,
+        "start_formatted": "07:33",
+        "text": "Beyond generation, it understands"
+      },
+      {
+        "start": 455.76,
+        "duration": 2.56,
+        "start_formatted": "07:35",
+        "text": "design."
+      },
+      {
+        "start": 456.96,
+        "duration": 4.44,
+        "start_formatted": "07:36",
+        "text": ">> As you can see, the video still looks"
+      },
+      {
+        "start": 458.32,
+        "duration": 5.36,
+        "start_formatted": "07:38",
+        "text": "pretty bad. There are some places where"
+      },
+      {
+        "start": 461.4,
+        "duration": 4.8,
+        "start_formatted": "07:41",
+        "text": "the text is kind of overlapping with the"
+      },
+      {
+        "start": 463.68,
+        "duration": 4.6,
+        "start_formatted": "07:43",
+        "text": "image. It's not really placed nicely."
+      },
+      {
+        "start": 466.2,
+        "duration": 3.8,
+        "start_formatted": "07:46",
+        "text": "The letter spacing is also sometimes"
+      },
+      {
+        "start": 468.28,
+        "duration": 4.52,
+        "start_formatted": "07:48",
+        "text": "messed up. So, in terms of creating"
+      },
+      {
+        "start": 470.0,
+        "duration": 4.8,
+        "start_formatted": "07:50",
+        "text": "professional visual content, it is still"
+      },
+      {
+        "start": 472.8,
+        "duration": 4.72,
+        "start_formatted": "07:52",
+        "text": "lacking. You've probably heard how"
+      },
+      {
+        "start": 474.8,
+        "duration": 4.52,
+        "start_formatted": "07:54",
+        "text": "useful ChatGPT can be at work, but if"
+      },
+      {
+        "start": 477.52,
+        "duration": 4.2,
+        "start_formatted": "07:57",
+        "text": "you're not quite sure how to actually"
+      },
+      {
+        "start": 479.32,
+        "duration": 4.36,
+        "start_formatted": "07:59",
+        "text": "use it beyond asking random questions,"
+      },
+      {
+        "start": 481.72,
+        "duration": 4.52,
+        "start_formatted": "08:01",
+        "text": "this is the ultimate guide for you."
+      },
+      {
+        "start": 483.68,
+        "duration": 4.32,
+        "start_formatted": "08:03",
+        "text": "Check out how to use ChatGPT at work by"
+      },
+      {
+        "start": 486.24,
+        "duration": 4.04,
+        "start_formatted": "08:06",
+        "text": "HubSpot. I've put it in the description"
+      },
+      {
+        "start": 488.0,
+        "duration": 4.64,
+        "start_formatted": "08:08",
+        "text": "below for you to access for free. This"
+      },
+      {
+        "start": 490.28,
+        "duration": 4.48,
+        "start_formatted": "08:10",
+        "text": "guide walks you through how ChatGPT"
+      },
+      {
+        "start": 492.64,
+        "duration": 3.8,
+        "start_formatted": "08:12",
+        "text": "actually works, what it's good at, and"
+      },
+      {
+        "start": 494.76,
+        "duration": 3.6,
+        "start_formatted": "08:14",
+        "text": "how to stop treating it like a simple"
+      },
+      {
+        "start": 496.44,
+        "duration": 4.12,
+        "start_formatted": "08:16",
+        "text": "chatbot and start using it like a real"
+      },
+      {
+        "start": 498.36,
+        "duration": 4.84,
+        "start_formatted": "08:18",
+        "text": "productivity assistant. It starts with a"
+      },
+      {
+        "start": 500.56,
+        "duration": 3.8,
+        "start_formatted": "08:20",
+        "text": "simple breakdown of AI and ChatGPT, so"
+      },
+      {
+        "start": 503.2,
+        "duration": 2.68,
+        "start_formatted": "08:23",
+        "text": "even if you're new to this, you'll"
+      },
+      {
+        "start": 504.36,
+        "duration": 3.68,
+        "start_formatted": "08:24",
+        "text": "understand what's happening behind the"
+      },
+      {
+        "start": 505.88,
+        "duration": 4.28,
+        "start_formatted": "08:25",
+        "text": "scenes. Then, it shows you practical"
+      },
+      {
+        "start": 508.04,
+        "duration": 3.999,
+        "start_formatted": "08:28",
+        "text": "ways to use ChatGPT at work from"
+      },
+      {
+        "start": 510.16,
+        "duration": 4.36,
+        "start_formatted": "08:30",
+        "text": "drafting emails and doing research to"
+      },
+      {
+        "start": 512.039,
+        "duration": 4.601,
+        "start_formatted": "08:32",
+        "text": "sales, lead gen, customer support,"
+      },
+      {
+        "start": 514.52,
+        "duration": 4.199,
+        "start_formatted": "08:34",
+        "text": "marketing, and product management. My"
+      },
+      {
+        "start": 516.64,
+        "duration": 3.959,
+        "start_formatted": "08:36",
+        "text": "favorite part is the section on creating"
+      },
+      {
+        "start": 518.719,
+        "duration": 3.681,
+        "start_formatted": "08:38",
+        "text": "better prompts. It breaks down how to"
+      },
+      {
+        "start": 520.599,
+        "duration": 4.001,
+        "start_formatted": "08:40",
+        "text": "give ChatGPT the right context, the"
+      },
+      {
+        "start": 522.4,
+        "duration": 4.76,
+        "start_formatted": "08:42",
+        "text": "right task, and the right details so you"
+      },
+      {
+        "start": 524.6,
+        "duration": 5.16,
+        "start_formatted": "08:44",
+        "text": "get sharper, more useful responses"
+      },
+      {
+        "start": 527.16,
+        "duration": 4.64,
+        "start_formatted": "08:47",
+        "text": "instead of vague or generic answers. It"
+      },
+      {
+        "start": 529.76,
+        "duration": 4.64,
+        "start_formatted": "08:49",
+        "text": "even includes advanced techniques like"
+      },
+      {
+        "start": 531.8,
+        "duration": 4.88,
+        "start_formatted": "08:51",
+        "text": "iterative prompting and asking GPT to"
+      },
+      {
+        "start": 534.4,
+        "duration": 5.04,
+        "start_formatted": "08:54",
+        "text": "help improve your own prompts. It also"
+      },
+      {
+        "start": 536.68,
+        "duration": 5.0,
+        "start_formatted": "08:56",
+        "text": "includes a free doc, 100 ways to try"
+      },
+      {
+        "start": 539.44,
+        "duration": 4.399,
+        "start_formatted": "08:59",
+        "text": "ChatGPT today. You can access it for"
+      },
+      {
+        "start": 541.68,
+        "duration": 4.4,
+        "start_formatted": "09:01",
+        "text": "free using the link in the description"
+      },
+      {
+        "start": 543.839,
+        "duration": 4.401,
+        "start_formatted": "09:03",
+        "text": "below. Thanks to HubSpot for sponsoring"
+      },
+      {
+        "start": 546.08,
+        "duration": 4.08,
+        "start_formatted": "09:06",
+        "text": "this video. All right, next let's see"
+      },
+      {
+        "start": 548.24,
+        "duration": 4.92,
+        "start_formatted": "09:08",
+        "text": "how good it is at making music. So,"
+      },
+      {
+        "start": 550.16,
+        "duration": 4.8,
+        "start_formatted": "09:10",
+        "text": "here's my prompt. Make a DAW interface"
+      },
+      {
+        "start": 553.16,
+        "duration": 3.44,
+        "start_formatted": "09:13",
+        "text": "with these instruments. For each"
+      },
+      {
+        "start": 554.96,
+        "duration": 3.32,
+        "start_formatted": "09:14",
+        "text": "instrument, there should be a piano roll"
+      },
+      {
+        "start": 556.6,
+        "duration": 3.64,
+        "start_formatted": "09:16",
+        "text": "interface where I can drag and drop"
+      },
+      {
+        "start": 558.28,
+        "duration": 4.04,
+        "start_formatted": "09:18",
+        "text": "notes on the timeline. Each track should"
+      },
+      {
+        "start": 560.24,
+        "duration": 4.0,
+        "start_formatted": "09:20",
+        "text": "have pan, volume, and other standard"
+      },
+      {
+        "start": 562.32,
+        "duration": 3.64,
+        "start_formatted": "09:22",
+        "text": "settings. Add play, pause, and other"
+      },
+      {
+        "start": 564.24,
+        "duration": 3.88,
+        "start_formatted": "09:24",
+        "text": "settings. Put everything in a standalone"
+      },
+      {
+        "start": 565.96,
+        "duration": 4.32,
+        "start_formatted": "09:25",
+        "text": "HTML file. Make sure it loads"
+      },
+      {
+        "start": 568.12,
+        "duration": 4.12,
+        "start_formatted": "09:28",
+        "text": "efficiently on a regular web browser."
+      },
+      {
+        "start": 570.28,
+        "duration": 5.559,
+        "start_formatted": "09:30",
+        "text": "And then, by default, show a powerful"
+      },
+      {
+        "start": 572.24,
+        "duration": 5.08,
+        "start_formatted": "09:32",
+        "text": "expressive 32-bar song. Include effects"
+      },
+      {
+        "start": 575.839,
+        "duration": 3.481,
+        "start_formatted": "09:35",
+        "text": "automation, panning, and make sure"
+      },
+      {
+        "start": 577.32,
+        "duration": 5.44,
+        "start_formatted": "09:37",
+        "text": "everything is mastered well. Again, I'm"
+      },
+      {
+        "start": 579.32,
+        "duration": 5.24,
+        "start_formatted": "09:39",
+        "text": "going to set this to 5.6 so ultra and"
+      },
+      {
+        "start": 582.76,
+        "duration": 4.16,
+        "start_formatted": "09:42",
+        "text": "then press run. All right, so it worked"
+      },
+      {
+        "start": 584.56,
+        "duration": 4.16,
+        "start_formatted": "09:44",
+        "text": "for 11 minutes, but when I tested it, it"
+      },
+      {
+        "start": 586.92,
+        "duration": 4.44,
+        "start_formatted": "09:46",
+        "text": "kind of sounded robotic without much"
+      },
+      {
+        "start": 588.72,
+        "duration": 4.32,
+        "start_formatted": "09:48",
+        "text": "variation, so I wrote add more variation"
+      },
+      {
+        "start": 591.36,
+        "duration": 4.24,
+        "start_formatted": "09:51",
+        "text": "and creativity. You can add more"
+      },
+      {
+        "start": 593.04,
+        "duration": 4.96,
+        "start_formatted": "09:53",
+        "text": "instruments if necessary. Add risers and"
+      },
+      {
+        "start": 595.6,
+        "duration": 4.64,
+        "start_formatted": "09:55",
+        "text": "drops, add volume and effects automation"
+      },
+      {
+        "start": 598.0,
+        "duration": 4.16,
+        "start_formatted": "09:58",
+        "text": "for the tracks, add more width, make it"
+      },
+      {
+        "start": 600.24,
+        "duration": 3.8,
+        "start_formatted": "10:00",
+        "text": "sound amazing. So, it worked for an"
+      },
+      {
+        "start": 602.16,
+        "duration": 4.8,
+        "start_formatted": "10:02",
+        "text": "additional 12 minutes and here's the"
+      },
+      {
+        "start": 604.04,
+        "duration": 2.92,
+        "start_formatted": "10:04",
+        "text": "final result."
+      },
+      {
+        "start": 609.156,
+        "duration": 2.02,
+        "start_formatted": "10:09",
+        "text": ">> [music]"
+      },
+      {
+        "start": 617.672,
+        "duration": 2.02,
+        "start_formatted": "10:17",
+        "text": "[music]"
+      },
+      {
+        "start": 624.877,
+        "duration": 2.02,
+        "start_formatted": "10:24",
+        "text": "[music]"
+      },
+      {
+        "start": 630.117,
+        "duration": 2.02,
+        "start_formatted": "10:30",
+        "text": "[music]"
+      },
+      {
+        "start": 646.492,
+        "duration": 2.02,
+        "start_formatted": "10:46",
+        "text": "[music]"
+      },
+      {
+        "start": 659.592,
+        "duration": 2.02,
+        "start_formatted": "10:59",
+        "text": "[music]"
+      },
+      {
+        "start": 666.797,
+        "duration": 2.02,
+        "start_formatted": "11:06",
+        "text": "[music]"
+      },
+      {
+        "start": 671.92,
+        "duration": 3.44,
+        "start_formatted": "11:11",
+        "text": ">> So, it just keeps looping after that,"
+      },
+      {
+        "start": 673.64,
+        "duration": 3.96,
+        "start_formatted": "11:13",
+        "text": "but overall not bad for just two"
+      },
+      {
+        "start": 675.36,
+        "duration": 4.64,
+        "start_formatted": "11:15",
+        "text": "prompts. It was able to add some really"
+      },
+      {
+        "start": 677.6,
+        "duration": 5.0,
+        "start_formatted": "11:17",
+        "text": "cool transitions like risers and symbols"
+      },
+      {
+        "start": 680.0,
+        "duration": 4.36,
+        "start_formatted": "11:20",
+        "text": "and drops. It's able to include and"
+      },
+      {
+        "start": 682.6,
+        "duration": 4.64,
+        "start_formatted": "11:22",
+        "text": "orchestrate all these instruments"
+      },
+      {
+        "start": 684.36,
+        "duration": 4.68,
+        "start_formatted": "11:24",
+        "text": "together into one fairly coherent song."
+      },
+      {
+        "start": 687.24,
+        "duration": 3.56,
+        "start_formatted": "11:27",
+        "text": "It's not going to win a Grammy. It still"
+      },
+      {
+        "start": 689.04,
+        "duration": 4.28,
+        "start_formatted": "11:29",
+        "text": "doesn't sound like a professional"
+      },
+      {
+        "start": 690.8,
+        "duration": 4.04,
+        "start_formatted": "11:30",
+        "text": "human-made track, but it does seem to be"
+      },
+      {
+        "start": 693.32,
+        "duration": 3.72,
+        "start_formatted": "11:33",
+        "text": "better than what I got from the other"
+      },
+      {
+        "start": 694.84,
+        "duration": 5.0,
+        "start_formatted": "11:34",
+        "text": "Frontier models. Next, let's see how"
+      },
+      {
+        "start": 697.04,
+        "duration": 4.92,
+        "start_formatted": "11:37",
+        "text": "good it is at rendering 3D scenes. So,"
+      },
+      {
+        "start": 699.84,
+        "duration": 3.92,
+        "start_formatted": "11:39",
+        "text": "I'm going to upload this image. It's a"
+      },
+      {
+        "start": 701.96,
+        "duration": 3.24,
+        "start_formatted": "11:41",
+        "text": "pretty complicated image with a ton of"
+      },
+      {
+        "start": 703.76,
+        "duration": 3.92,
+        "start_formatted": "11:43",
+        "text": "different elements. And then for the"
+      },
+      {
+        "start": 705.2,
+        "duration": 4.88,
+        "start_formatted": "11:45",
+        "text": "prompt, I just wrote create a beautiful"
+      },
+      {
+        "start": 707.68,
+        "duration": 4.6,
+        "start_formatted": "11:47",
+        "text": "3D animated scene from this image, use a"
+      },
+      {
+        "start": 710.08,
+        "duration": 5.04,
+        "start_formatted": "11:50",
+        "text": "single HTML file. And that's pretty much"
+      },
+      {
+        "start": 712.28,
+        "duration": 4.84,
+        "start_formatted": "11:52",
+        "text": "it. So, it worked for 11 minutes, and"
+      },
+      {
+        "start": 715.12,
+        "duration": 4.36,
+        "start_formatted": "11:55",
+        "text": "afterwards, it did give me a simple"
+      },
+      {
+        "start": 717.12,
+        "duration": 4.44,
+        "start_formatted": "11:57",
+        "text": "render. However, it was quite simple and"
+      },
+      {
+        "start": 719.48,
+        "duration": 4.24,
+        "start_formatted": "11:59",
+        "text": "not really detailed. So, I wrote add"
+      },
+      {
+        "start": 721.56,
+        "duration": 3.84,
+        "start_formatted": "12:01",
+        "text": "more details and make it look exactly"
+      },
+      {
+        "start": 723.72,
+        "duration": 3.8,
+        "start_formatted": "12:03",
+        "text": "like the reference image. And"
+      },
+      {
+        "start": 725.4,
+        "duration": 4.32,
+        "start_formatted": "12:05",
+        "text": "afterwards, here is our result. As you"
+      },
+      {
+        "start": 727.52,
+        "duration": 4.2,
+        "start_formatted": "12:07",
+        "text": "can see, it doesn't look exactly like"
+      },
+      {
+        "start": 729.72,
+        "duration": 4.08,
+        "start_formatted": "12:09",
+        "text": "the reference image. The tables and the"
+      },
+      {
+        "start": 731.72,
+        "duration": 3.84,
+        "start_formatted": "12:11",
+        "text": "chairs and the walls aren't really in"
+      },
+      {
+        "start": 733.8,
+        "duration": 3.84,
+        "start_formatted": "12:13",
+        "text": "the right place. But again, this is a"
+      },
+      {
+        "start": 735.56,
+        "duration": 3.92,
+        "start_formatted": "12:15",
+        "text": "really tricky image, and none of the"
+      },
+      {
+        "start": 737.64,
+        "duration": 4.12,
+        "start_formatted": "12:17",
+        "text": "other top models, including Claude"
+      },
+      {
+        "start": 739.48,
+        "duration": 4.16,
+        "start_formatted": "12:19",
+        "text": "Fable, were able to get this completely"
+      },
+      {
+        "start": 741.76,
+        "duration": 4.2,
+        "start_formatted": "12:21",
+        "text": "correct. What I do like about this is"
+      },
+      {
+        "start": 743.64,
+        "duration": 4.16,
+        "start_formatted": "12:23",
+        "text": "that all the objects are very coherent"
+      },
+      {
+        "start": 745.96,
+        "duration": 3.84,
+        "start_formatted": "12:25",
+        "text": "from the start, such as the legs of the"
+      },
+      {
+        "start": 747.8,
+        "duration": 3.72,
+        "start_formatted": "12:27",
+        "text": "chairs and the tables, plus the screens"
+      },
+      {
+        "start": 749.8,
+        "duration": 4.32,
+        "start_formatted": "12:29",
+        "text": "and the keyboards. Most of the objects"
+      },
+      {
+        "start": 751.52,
+        "duration": 4.88,
+        "start_formatted": "12:31",
+        "text": "do look coherent. Next, let's see how"
+      },
+      {
+        "start": 754.12,
+        "duration": 4.0,
+        "start_formatted": "12:34",
+        "text": "good it is at making math animations."
+      },
+      {
+        "start": 756.4,
+        "duration": 4.16,
+        "start_formatted": "12:36",
+        "text": "Here, the prompt is create a beautiful"
+      },
+      {
+        "start": 758.12,
+        "duration": 5.28,
+        "start_formatted": "12:38",
+        "text": "Manim animation where Fourier epicycles"
+      },
+      {
+        "start": 760.56,
+        "duration": 5.68,
+        "start_formatted": "12:40",
+        "text": "draw a butterfly, etc., etc. Save the"
+      },
+      {
+        "start": 763.4,
+        "duration": 4.96,
+        "start_formatted": "12:43",
+        "text": "output as MP4. Now, for those of you who"
+      },
+      {
+        "start": 766.24,
+        "duration": 4.28,
+        "start_formatted": "12:46",
+        "text": "don't know, Manim is basically a tool to"
+      },
+      {
+        "start": 768.36,
+        "duration": 4.12,
+        "start_formatted": "12:48",
+        "text": "create math animations, but I don't even"
+      },
+      {
+        "start": 770.52,
+        "duration": 4.28,
+        "start_formatted": "12:50",
+        "text": "have this installed yet. It needs to"
+      },
+      {
+        "start": 772.48,
+        "duration": 4.16,
+        "start_formatted": "12:52",
+        "text": "search for the Manim GitHub repo and"
+      },
+      {
+        "start": 774.8,
+        "duration": 4.28,
+        "start_formatted": "12:54",
+        "text": "figure out how to install this in my"
+      },
+      {
+        "start": 776.64,
+        "duration": 5.16,
+        "start_formatted": "12:56",
+        "text": "folder and run it. Anyways, let's click"
+      },
+      {
+        "start": 779.08,
+        "duration": 5.8,
+        "start_formatted": "12:59",
+        "text": "run. Now, it Again, 5.6 Sol is super"
+      },
+      {
+        "start": 781.8,
+        "duration": 5.039,
+        "start_formatted": "13:01",
+        "text": "slow, so it worked for 19 minutes. It"
+      },
+      {
+        "start": 784.88,
+        "duration": 4.2,
+        "start_formatted": "13:04",
+        "text": "did output a video file of the"
+      },
+      {
+        "start": 786.839,
+        "duration": 4.681,
+        "start_formatted": "13:06",
+        "text": "animation, but the butterfly looked way"
+      },
+      {
+        "start": 789.08,
+        "duration": 4.04,
+        "start_formatted": "13:09",
+        "text": "too simple, so I prompted it further to"
+      },
+      {
+        "start": 791.52,
+        "duration": 3.319,
+        "start_formatted": "13:11",
+        "text": "make it look better and even more"
+      },
+      {
+        "start": 793.12,
+        "duration": 3.52,
+        "start_formatted": "13:13",
+        "text": "complicated. But the butterfly still"
+      },
+      {
+        "start": 794.839,
+        "duration": 3.481,
+        "start_formatted": "13:14",
+        "text": "looked pretty ugly, so I wrote make the"
+      },
+      {
+        "start": 796.64,
+        "duration": 3.92,
+        "start_formatted": "13:16",
+        "text": "markings on the butterfly even more"
+      },
+      {
+        "start": 798.32,
+        "duration": 4.56,
+        "start_formatted": "13:18",
+        "text": "beautiful and accurate. And then it"
+      },
+      {
+        "start": 800.56,
+        "duration": 4.92,
+        "start_formatted": "13:20",
+        "text": "worked for an additional 17 minutes, and"
+      },
+      {
+        "start": 802.88,
+        "duration": 4.32,
+        "start_formatted": "13:22",
+        "text": "here is our final animation. And as you"
+      },
+      {
+        "start": 805.48,
+        "duration": 4.36,
+        "start_formatted": "13:25",
+        "text": "can see, this animation is really"
+      },
+      {
+        "start": 807.2,
+        "duration": 5.24,
+        "start_formatted": "13:27",
+        "text": "complex. It contains a ton of these"
+      },
+      {
+        "start": 809.84,
+        "duration": 4.56,
+        "start_formatted": "13:29",
+        "text": "Fourier circles connected together in"
+      },
+      {
+        "start": 812.44,
+        "duration": 4.12,
+        "start_formatted": "13:32",
+        "text": "order to draw this really complex"
+      },
+      {
+        "start": 814.4,
+        "duration": 5.16,
+        "start_formatted": "13:34",
+        "text": "butterfly shape. I did the same test"
+      },
+      {
+        "start": 816.56,
+        "duration": 6.04,
+        "start_formatted": "13:36",
+        "text": "with the open-source GLM 5.2, but the"
+      },
+      {
+        "start": 819.56,
+        "duration": 4.96,
+        "start_formatted": "13:39",
+        "text": "animation from GPT 5.6 does look a bit"
+      },
+      {
+        "start": 822.6,
+        "duration": 3.88,
+        "start_formatted": "13:42",
+        "text": "better. I especially like the outlines"
+      },
+      {
+        "start": 824.52,
+        "duration": 5.52,
+        "start_formatted": "13:44",
+        "text": "on the butterfly wings. So, those are"
+      },
+      {
+        "start": 826.48,
+        "duration": 6.04,
+        "start_formatted": "13:46",
+        "text": "some tests on the Codex desktop app, but"
+      },
+      {
+        "start": 830.04,
+        "duration": 4.92,
+        "start_formatted": "13:50",
+        "text": "you can also use the new GPT 5.6"
+      },
+      {
+        "start": 832.52,
+        "duration": 4.44,
+        "start_formatted": "13:52",
+        "text": "directly on the online chat GPT. So, in"
+      },
+      {
+        "start": 834.96,
+        "duration": 5.0,
+        "start_formatted": "13:54",
+        "text": "the model drop-down, you should see a"
+      },
+      {
+        "start": 836.96,
+        "duration": 4.96,
+        "start_formatted": "13:56",
+        "text": "version of GPT 5.6 depending on which"
+      },
+      {
+        "start": 839.96,
+        "duration": 4.96,
+        "start_formatted": "13:59",
+        "text": "plan you have. Since I'm on the pro"
+      },
+      {
+        "start": 841.92,
+        "duration": 5.0,
+        "start_formatted": "14:01",
+        "text": "plan, I do have access to 5.6 soul. And"
+      },
+      {
+        "start": 844.92,
+        "duration": 3.68,
+        "start_formatted": "14:04",
+        "text": "for intelligence, I can select all the"
+      },
+      {
+        "start": 846.92,
+        "duration": 3.76,
+        "start_formatted": "14:06",
+        "text": "way up to pro level, which is the"
+      },
+      {
+        "start": 848.6,
+        "duration": 4.28,
+        "start_formatted": "14:08",
+        "text": "highest. In my next test, let's see if"
+      },
+      {
+        "start": 850.68,
+        "duration": 4.48,
+        "start_formatted": "14:10",
+        "text": "it can identify cancer. So, I'm going to"
+      },
+      {
+        "start": 852.88,
+        "duration": 4.2,
+        "start_formatted": "14:12",
+        "text": "paste in this image of six different"
+      },
+      {
+        "start": 855.16,
+        "duration": 3.88,
+        "start_formatted": "14:15",
+        "text": "scans and then ask it to identify the"
+      },
+      {
+        "start": 857.08,
+        "duration": 4.52,
+        "start_formatted": "14:17",
+        "text": "types of tumors in each of the six"
+      },
+      {
+        "start": 859.04,
+        "duration": 4.52,
+        "start_formatted": "14:19",
+        "text": "images, if any. Let's press generate and"
+      },
+      {
+        "start": 861.6,
+        "duration": 4.8,
+        "start_formatted": "14:21",
+        "text": "see if it can get this correct. All"
+      },
+      {
+        "start": 863.56,
+        "duration": 5.0,
+        "start_formatted": "14:23",
+        "text": "right, so it thought for 18 minutes, and"
+      },
+      {
+        "start": 866.4,
+        "duration": 4.24,
+        "start_formatted": "14:26",
+        "text": "here is its answer. For all scans in the"
+      },
+      {
+        "start": 868.56,
+        "duration": 4.56,
+        "start_formatted": "14:28",
+        "text": "top row, it just identified them as"
+      },
+      {
+        "start": 870.64,
+        "duration": 4.36,
+        "start_formatted": "14:30",
+        "text": "hemorrhages and not tumors, which is not"
+      },
+      {
+        "start": 873.12,
+        "duration": 3.76,
+        "start_formatted": "14:33",
+        "text": "correct. All images here actually"
+      },
+      {
+        "start": 875.0,
+        "duration": 4.52,
+        "start_formatted": "14:35",
+        "text": "contain a type of tumor. And then for"
+      },
+      {
+        "start": 876.88,
+        "duration": 5.04,
+        "start_formatted": "14:36",
+        "text": "bottom center, it identified this as"
+      },
+      {
+        "start": 879.52,
+        "duration": 4.08,
+        "start_formatted": "14:39",
+        "text": "craniopharyngioma, which is also not"
+      },
+      {
+        "start": 881.92,
+        "duration": 3.96,
+        "start_formatted": "14:41",
+        "text": "correct. And then for the bottom right,"
+      },
+      {
+        "start": 883.6,
+        "duration": 3.88,
+        "start_formatted": "14:43",
+        "text": "it also said this is not a tumor, which"
+      },
+      {
+        "start": 885.88,
+        "duration": 3.8,
+        "start_formatted": "14:45",
+        "text": "is wrong. It completely failed this"
+      },
+      {
+        "start": 887.48,
+        "duration": 3.84,
+        "start_formatted": "14:47",
+        "text": "test. However, I still appreciate that"
+      },
+      {
+        "start": 889.68,
+        "duration": 3.68,
+        "start_formatted": "14:49",
+        "text": "it actually tried to answer this,"
+      },
+      {
+        "start": 891.32,
+        "duration": 4.04,
+        "start_formatted": "14:51",
+        "text": "whereas for Claude Fable, it will just"
+      },
+      {
+        "start": 893.36,
+        "duration": 4.08,
+        "start_formatted": "14:53",
+        "text": "outright refuse to answer any"
+      },
+      {
+        "start": 895.36,
+        "duration": 4.28,
+        "start_formatted": "14:55",
+        "text": "biology-related questions. All right,"
+      },
+      {
+        "start": 897.44,
+        "duration": 4.44,
+        "start_formatted": "14:57",
+        "text": "it's time for your favorite test,"
+      },
+      {
+        "start": 899.64,
+        "duration": 4.8,
+        "start_formatted": "14:59",
+        "text": "finding the frog. So, I'm going to"
+      },
+      {
+        "start": 901.88,
+        "duration": 4.6,
+        "start_formatted": "15:01",
+        "text": "upload this image, and there's a frog"
+      },
+      {
+        "start": 904.44,
+        "duration": 3.52,
+        "start_formatted": "15:04",
+        "text": "hidden somewhere in this image. Now, I'm"
+      },
+      {
+        "start": 906.48,
+        "duration": 4.48,
+        "start_formatted": "15:06",
+        "text": "not even going to say that there's a"
+      },
+      {
+        "start": 907.96,
+        "duration": 5.04,
+        "start_formatted": "15:07",
+        "text": "frog in this image. I'm going to ask GPT"
+      },
+      {
+        "start": 910.96,
+        "duration": 4.72,
+        "start_formatted": "15:10",
+        "text": "if there's any animal in this image, and"
+      },
+      {
+        "start": 913.0,
+        "duration": 5.56,
+        "start_formatted": "15:13",
+        "text": "if so, identify it and circle it. Again,"
+      },
+      {
+        "start": 915.68,
+        "duration": 4.52,
+        "start_formatted": "15:15",
+        "text": "I'm going to use 5.6 and then pro. Let's"
+      },
+      {
+        "start": 918.56,
+        "duration": 4.4,
+        "start_formatted": "15:18",
+        "text": "see if it can get this correct. All"
+      },
+      {
+        "start": 920.2,
+        "duration": 6.0,
+        "start_formatted": "15:20",
+        "text": "right, so it worked for 13 minutes and"
+      },
+      {
+        "start": 922.96,
+        "duration": 5.24,
+        "start_formatted": "15:22",
+        "text": "it said yes, there is a camouflaged frog"
+      },
+      {
+        "start": 926.2,
+        "duration": 4.28,
+        "start_formatted": "15:26",
+        "text": "near the left edge of the image. I"
+      },
+      {
+        "start": 928.2,
+        "duration": 4.72,
+        "start_formatted": "15:28",
+        "text": "circled it in red. Now, if I click on"
+      },
+      {
+        "start": 930.48,
+        "duration": 4.76,
+        "start_formatted": "15:30",
+        "text": "viewed the circled animal, it circled"
+      },
+      {
+        "start": 932.92,
+        "duration": 4.92,
+        "start_formatted": "15:32",
+        "text": "the frog here, which is not correct. So,"
+      },
+      {
+        "start": 935.24,
+        "duration": 5.04,
+        "start_formatted": "15:35",
+        "text": "unfortunately, it failed the frog test."
+      },
+      {
+        "start": 937.84,
+        "duration": 4.12,
+        "start_formatted": "15:37",
+        "text": "Note that Claude Fable 5 is the only"
+      },
+      {
+        "start": 940.28,
+        "duration": 3.96,
+        "start_formatted": "15:40",
+        "text": "model so far that was able to"
+      },
+      {
+        "start": 941.96,
+        "duration": 5.36,
+        "start_formatted": "15:41",
+        "text": "successfully find the frog. I'm actually"
+      },
+      {
+        "start": 944.24,
+        "duration": 4.56,
+        "start_formatted": "15:44",
+        "text": "surprised that GPT-5.6 couldn't find it"
+      },
+      {
+        "start": 947.32,
+        "duration": 3.32,
+        "start_formatted": "15:47",
+        "text": "because it should have better vision"
+      },
+      {
+        "start": 948.8,
+        "duration": 3.8,
+        "start_formatted": "15:48",
+        "text": "capabilities than Claude Fable. Now,"
+      },
+      {
+        "start": 950.64,
+        "duration": 4.04,
+        "start_formatted": "15:50",
+        "text": "let's be nice to it and give it a second"
+      },
+      {
+        "start": 952.6,
+        "duration": 4.24,
+        "start_formatted": "15:52",
+        "text": "chance. This time, I'm going to upload"
+      },
+      {
+        "start": 954.68,
+        "duration": 4.04,
+        "start_formatted": "15:54",
+        "text": "this image and there's an animal hidden"
+      },
+      {
+        "start": 956.84,
+        "duration": 3.32,
+        "start_formatted": "15:56",
+        "text": "somewhere in this image. And then I'm"
+      },
+      {
+        "start": 958.72,
+        "duration": 3.36,
+        "start_formatted": "15:58",
+        "text": "going to write the same prompt, is there"
+      },
+      {
+        "start": 960.16,
+        "duration": 4.0,
+        "start_formatted": "16:00",
+        "text": "any animal in this image? If so,"
+      },
+      {
+        "start": 962.08,
+        "duration": 4.6,
+        "start_formatted": "16:02",
+        "text": "identify it and circle it. All right,"
+      },
+      {
+        "start": 964.16,
+        "duration": 5.76,
+        "start_formatted": "16:04",
+        "text": "for this prompt, it took a ridiculously"
+      },
+      {
+        "start": 966.68,
+        "duration": 4.48,
+        "start_formatted": "16:06",
+        "text": "long time. It worked for 27 minutes and"
+      },
+      {
+        "start": 969.92,
+        "duration": 3.64,
+        "start_formatted": "16:09",
+        "text": "it identified that there's a"
+      },
+      {
+        "start": 971.16,
+        "duration": 4.32,
+        "start_formatted": "16:11",
+        "text": "well-camouflaged toad near the center of"
+      },
+      {
+        "start": 973.56,
+        "duration": 4.04,
+        "start_formatted": "16:13",
+        "text": "the image. Now, actually, where it's"
+      },
+      {
+        "start": 975.48,
+        "duration": 4.32,
+        "start_formatted": "16:15",
+        "text": "circled is correct, but this is"
+      },
+      {
+        "start": 977.6,
+        "duration": 4.16,
+        "start_formatted": "16:17",
+        "text": "definitely not a toad. So, it only got"
+      },
+      {
+        "start": 979.8,
+        "duration": 3.72,
+        "start_formatted": "16:19",
+        "text": "it half correct. All right, next, let's"
+      },
+      {
+        "start": 981.76,
+        "duration": 4.2,
+        "start_formatted": "16:21",
+        "text": "also test its ability to do deep"
+      },
+      {
+        "start": 983.52,
+        "duration": 4.76,
+        "start_formatted": "16:23",
+        "text": "research. So, here's my prompt, describe"
+      },
+      {
+        "start": 985.96,
+        "duration": 4.72,
+        "start_formatted": "16:25",
+        "text": "the molecular drivers of this type of"
+      },
+      {
+        "start": 988.28,
+        "duration": 4.28,
+        "start_formatted": "16:28",
+        "text": "leukemia, include relevant tables and"
+      },
+      {
+        "start": 990.68,
+        "duration": 4.56,
+        "start_formatted": "16:30",
+        "text": "visualizations. So, a very deep and"
+      },
+      {
+        "start": 992.56,
+        "duration": 5.16,
+        "start_formatted": "16:32",
+        "text": "technical medical research report. Let's"
+      },
+      {
+        "start": 995.24,
+        "duration": 4.84,
+        "start_formatted": "16:35",
+        "text": "see its response. So, this worked for 31"
+      },
+      {
+        "start": 997.72,
+        "duration": 4.84,
+        "start_formatted": "16:37",
+        "text": "minutes and here is what we got. Here it"
+      },
+      {
+        "start": 1000.08,
+        "duration": 4.759,
+        "start_formatted": "16:40",
+        "text": "gives me a nice table on some molecular"
+      },
+      {
+        "start": 1002.56,
+        "duration": 4.56,
+        "start_formatted": "16:42",
+        "text": "response terminology. Everything has"
+      },
+      {
+        "start": 1004.839,
+        "duration": 4.881,
+        "start_formatted": "16:44",
+        "text": "relevant citations. Next, it talks about"
+      },
+      {
+        "start": 1007.12,
+        "duration": 4.68,
+        "start_formatted": "16:47",
+        "text": "molecular drivers of this leukemia with"
+      },
+      {
+        "start": 1009.72,
+        "duration": 3.72,
+        "start_formatted": "16:49",
+        "text": "a very thorough table. It even gives me"
+      },
+      {
+        "start": 1011.8,
+        "duration": 3.68,
+        "start_formatted": "16:51",
+        "text": "a nice flowchart. Here's another"
+      },
+      {
+        "start": 1013.44,
+        "duration": 4.52,
+        "start_formatted": "16:53",
+        "text": "flowchart. And then next section is"
+      },
+      {
+        "start": 1015.48,
+        "duration": 4.52,
+        "start_formatted": "16:55",
+        "text": "evolution of targeted therapy. Again,"
+      },
+      {
+        "start": 1017.96,
+        "duration": 4.48,
+        "start_formatted": "16:57",
+        "text": "very thorough and comprehensive. The"
+      },
+      {
+        "start": 1020.0,
+        "duration": 4.64,
+        "start_formatted": "17:00",
+        "text": "thing I like about ChatGPT is it doesn't"
+      },
+      {
+        "start": 1022.44,
+        "duration": 4.24,
+        "start_formatted": "17:02",
+        "text": "ramble on and on like Gemini. It's very"
+      },
+      {
+        "start": 1024.64,
+        "duration": 4.319,
+        "start_formatted": "17:04",
+        "text": "short and concise and it only answers"
+      },
+      {
+        "start": 1026.68,
+        "duration": 4.639,
+        "start_formatted": "17:06",
+        "text": "exactly what you ask it. And then here"
+      },
+      {
+        "start": 1028.959,
+        "duration": 4.801,
+        "start_formatted": "17:08",
+        "text": "is section three, resistance mechanisms,"
+      },
+      {
+        "start": 1031.319,
+        "duration": 4.681,
+        "start_formatted": "17:11",
+        "text": "again with a very nice table jam-packed"
+      },
+      {
+        "start": 1033.76,
+        "duration": 4.04,
+        "start_formatted": "17:13",
+        "text": "with a ton of very useful information."
+      },
+      {
+        "start": 1036.0,
+        "duration": 3.88,
+        "start_formatted": "17:16",
+        "text": "And then afterwards, longitudinal"
+      },
+      {
+        "start": 1037.8,
+        "duration": 4.08,
+        "start_formatted": "17:17",
+        "text": "outcomes. Here are some frontline"
+      },
+      {
+        "start": 1039.88,
+        "duration": 4.319,
+        "start_formatted": "17:19",
+        "text": "studies. Again, a very nice table"
+      },
+      {
+        "start": 1041.88,
+        "duration": 4.28,
+        "start_formatted": "17:21",
+        "text": "breaking down the specs and results of"
+      },
+      {
+        "start": 1044.199,
+        "duration": 4.321,
+        "start_formatted": "17:24",
+        "text": "all these different studies, plus some"
+      },
+      {
+        "start": 1046.16,
+        "duration": 4.2,
+        "start_formatted": "17:26",
+        "text": "additional figures. And then afterwards,"
+      },
+      {
+        "start": 1048.52,
+        "duration": 4.28,
+        "start_formatted": "17:28",
+        "text": "the next section is third generation and"
+      },
+      {
+        "start": 1050.36,
+        "duration": 4.4,
+        "start_formatted": "17:30",
+        "text": "later line longitudinal outcomes, again"
+      },
+      {
+        "start": 1052.8,
+        "duration": 3.76,
+        "start_formatted": "17:32",
+        "text": "with a very thorough table. And then"
+      },
+      {
+        "start": 1054.76,
+        "duration": 4.0,
+        "start_formatted": "17:34",
+        "text": "finally, it ends with some overall"
+      },
+      {
+        "start": 1056.56,
+        "duration": 4.4,
+        "start_formatted": "17:36",
+        "text": "conclusions. Now, when you open up"
+      },
+      {
+        "start": 1058.76,
+        "duration": 4.36,
+        "start_formatted": "17:38",
+        "text": "ChatGPT today, you might have noticed a"
+      },
+      {
+        "start": 1060.96,
+        "duration": 4.44,
+        "start_formatted": "17:40",
+        "text": "new tab called work. This is actually"
+      },
+      {
+        "start": 1063.12,
+        "duration": 4.28,
+        "start_formatted": "17:43",
+        "text": "super powerful. This lets you use GPT"
+      },
+      {
+        "start": 1065.4,
+        "duration": 4.2,
+        "start_formatted": "17:45",
+        "text": "more like an agent rather than just a"
+      },
+      {
+        "start": 1067.4,
+        "duration": 4.12,
+        "start_formatted": "17:47",
+        "text": "regular chat interface where it answers"
+      },
+      {
+        "start": 1069.6,
+        "duration": 4.16,
+        "start_formatted": "17:49",
+        "text": "simple questions. So, with work, you can"
+      },
+      {
+        "start": 1071.52,
+        "duration": 4.52,
+        "start_formatted": "17:51",
+        "text": "link to your files and folders in"
+      },
+      {
+        "start": 1073.76,
+        "duration": 4.68,
+        "start_formatted": "17:53",
+        "text": "various platforms like Slack, GitHub,"
+      },
+      {
+        "start": 1076.04,
+        "duration": 4.12,
+        "start_formatted": "17:56",
+        "text": "Google Drive, Google Workspace, etc. And"
+      },
+      {
+        "start": 1078.44,
+        "duration": 3.52,
+        "start_formatted": "17:58",
+        "text": "you can get an agent to work on these"
+      },
+      {
+        "start": 1080.16,
+        "duration": 3.84,
+        "start_formatted": "18:00",
+        "text": "files or carry out a workflow"
+      },
+      {
+        "start": 1081.96,
+        "duration": 4.36,
+        "start_formatted": "18:01",
+        "text": "autonomously. This is great for like"
+      },
+      {
+        "start": 1084.0,
+        "duration": 3.92,
+        "start_formatted": "18:04",
+        "text": "creating presentations or spreadsheets,"
+      },
+      {
+        "start": 1086.32,
+        "duration": 3.84,
+        "start_formatted": "18:06",
+        "text": "analyzing data, synthesizing"
+      },
+      {
+        "start": 1087.92,
+        "duration": 3.88,
+        "start_formatted": "18:07",
+        "text": "information, etc. Now, it's a bit beyond"
+      },
+      {
+        "start": 1090.16,
+        "duration": 4.0,
+        "start_formatted": "18:10",
+        "text": "the scope of this tutorial, but let's"
+      },
+      {
+        "start": 1091.8,
+        "duration": 5.12,
+        "start_formatted": "18:11",
+        "text": "just do a quick example where I get it"
+      },
+      {
+        "start": 1094.16,
+        "duration": 5.2,
+        "start_formatted": "18:14",
+        "text": "to fetch the Q1 2026 earnings reports"
+      },
+      {
+        "start": 1096.92,
+        "duration": 4.24,
+        "start_formatted": "18:16",
+        "text": "from Alphabet, Nvidia, and Amazon and"
+      },
+      {
+        "start": 1099.36,
+        "duration": 4.16,
+        "start_formatted": "18:19",
+        "text": "create a slideshow comparing their"
+      },
+      {
+        "start": 1101.16,
+        "duration": 6.12,
+        "start_formatted": "18:21",
+        "text": "financials and future outlook. And then,"
+      },
+      {
+        "start": 1103.52,
+        "duration": 6.24,
+        "start_formatted": "18:23",
+        "text": "I'm going to set this to 5.6 Soul Ultra"
+      },
+      {
+        "start": 1107.28,
+        "duration": 5.2,
+        "start_formatted": "18:27",
+        "text": "and then press run. It worked for 26"
+      },
+      {
+        "start": 1109.76,
+        "duration": 4.28,
+        "start_formatted": "18:29",
+        "text": "minutes. Again, 5.6 Soul, especially the"
+      },
+      {
+        "start": 1112.48,
+        "duration": 3.96,
+        "start_formatted": "18:32",
+        "text": "extra high or ultra modes, are"
+      },
+      {
+        "start": 1114.04,
+        "duration": 4.8,
+        "start_formatted": "18:34",
+        "text": "incredibly slow, but they get the work"
+      },
+      {
+        "start": 1116.44,
+        "duration": 4.6,
+        "start_formatted": "18:36",
+        "text": "done. After all this research and data"
+      },
+      {
+        "start": 1118.84,
+        "duration": 4.28,
+        "start_formatted": "18:38",
+        "text": "synthesis, it gives me this final"
+      },
+      {
+        "start": 1121.04,
+        "duration": 3.92,
+        "start_formatted": "18:41",
+        "text": "presentation. So, let me pull this up."
+      },
+      {
+        "start": 1123.12,
+        "duration": 3.84,
+        "start_formatted": "18:43",
+        "text": "And as you can see, this is very"
+      },
+      {
+        "start": 1124.96,
+        "duration": 3.72,
+        "start_formatted": "18:44",
+        "text": "comprehensive. Here's the revenue growth"
+      },
+      {
+        "start": 1126.96,
+        "duration": 3.52,
+        "start_formatted": "18:46",
+        "text": "and operating margin for all three"
+      },
+      {
+        "start": 1128.68,
+        "duration": 4.32,
+        "start_formatted": "18:48",
+        "text": "companies. And then, here's the next"
+      },
+      {
+        "start": 1130.48,
+        "duration": 4.32,
+        "start_formatted": "18:50",
+        "text": "slide. Here are some additional metrics"
+      },
+      {
+        "start": 1133.0,
+        "duration": 4.36,
+        "start_formatted": "18:53",
+        "text": "for all three companies. Here is"
+      },
+      {
+        "start": 1134.8,
+        "duration": 4.6,
+        "start_formatted": "18:54",
+        "text": "investment gains, then CAPEX. Just from"
+      },
+      {
+        "start": 1137.36,
+        "duration": 4.12,
+        "start_formatted": "18:57",
+        "text": "an initial scan of this, the data and"
+      },
+      {
+        "start": 1139.4,
+        "duration": 3.92,
+        "start_formatted": "18:59",
+        "text": "conclusions that it draws from this are"
+      },
+      {
+        "start": 1141.48,
+        "duration": 3.68,
+        "start_formatted": "19:01",
+        "text": "actually very insightful. Here, you can"
+      },
+      {
+        "start": 1143.32,
+        "duration": 3.84,
+        "start_formatted": "19:03",
+        "text": "see it deep diving into Alphabet's"
+      },
+      {
+        "start": 1145.16,
+        "duration": 4.44,
+        "start_formatted": "19:05",
+        "text": "financials. And then, here's a deep dive"
+      },
+      {
+        "start": 1147.16,
+        "duration": 4.48,
+        "start_formatted": "19:07",
+        "text": "on Amazon. And then finally, Nvidia. And"
+      },
+      {
+        "start": 1149.6,
+        "duration": 4.08,
+        "start_formatted": "19:09",
+        "text": "then, here's the forward outlook for all"
+      },
+      {
+        "start": 1151.64,
+        "duration": 4.36,
+        "start_formatted": "19:11",
+        "text": "three companies. Very interesting"
+      },
+      {
+        "start": 1153.68,
+        "duration": 4.24,
+        "start_formatted": "19:13",
+        "text": "insights and conclusions. So, that's the"
+      },
+      {
+        "start": 1156.0,
+        "duration": 3.8,
+        "start_formatted": "19:16",
+        "text": "full presentation. As you can see, it"
+      },
+      {
+        "start": 1157.92,
+        "duration": 4.12,
+        "start_formatted": "19:17",
+        "text": "looks very professional. All right, next"
+      },
+      {
+        "start": 1159.8,
+        "duration": 4.04,
+        "start_formatted": "19:19",
+        "text": "let's go over some specs, performance,"
+      },
+      {
+        "start": 1162.04,
+        "duration": 3.48,
+        "start_formatted": "19:22",
+        "text": "and benchmarks. Now, as with most"
+      },
+      {
+        "start": 1163.84,
+        "duration": 3.8,
+        "start_formatted": "19:23",
+        "text": "frontier models out there, this is"
+      },
+      {
+        "start": 1165.52,
+        "duration": 4.2,
+        "start_formatted": "19:25",
+        "text": "especially designed for agentic coding"
+      },
+      {
+        "start": 1167.64,
+        "duration": 4.2,
+        "start_formatted": "19:27",
+        "text": "and reasoning and autonomously doing"
+      },
+      {
+        "start": 1169.72,
+        "duration": 4.84,
+        "start_formatted": "19:29",
+        "text": "some really long horizon tasks that"
+      },
+      {
+        "start": 1171.84,
+        "duration": 4.56,
+        "start_formatted": "19:31",
+        "text": "require multiple steps or hours of work."
+      },
+      {
+        "start": 1174.56,
+        "duration": 4.24,
+        "start_formatted": "19:34",
+        "text": "This can keep working and working for"
+      },
+      {
+        "start": 1176.4,
+        "duration": 4.44,
+        "start_formatted": "19:36",
+        "text": "hours until it achieves your specified"
+      },
+      {
+        "start": 1178.8,
+        "duration": 3.88,
+        "start_formatted": "19:38",
+        "text": "goal. And if you look at this agent's"
+      },
+      {
+        "start": 1180.84,
+        "duration": 4.04,
+        "start_formatted": "19:40",
+        "text": "last exam benchmark, and this is a"
+      },
+      {
+        "start": 1182.68,
+        "duration": 4.4,
+        "start_formatted": "19:42",
+        "text": "benchmark that tests an AI model's"
+      },
+      {
+        "start": 1184.88,
+        "duration": 4.72,
+        "start_formatted": "19:44",
+        "text": "ability to perform some really long"
+      },
+      {
+        "start": 1187.08,
+        "duration": 5.96,
+        "start_formatted": "19:47",
+        "text": "professional work tasks. As you can see,"
+      },
+      {
+        "start": 1189.6,
+        "duration": 5.56,
+        "start_formatted": "19:49",
+        "text": "the largest GPT-5.6 Soul was not only"
+      },
+      {
+        "start": 1193.04,
+        "duration": 4.2,
+        "start_formatted": "19:53",
+        "text": "able to achieve the highest score, but"
+      },
+      {
+        "start": 1195.16,
+        "duration": 4.36,
+        "start_formatted": "19:55",
+        "text": "also at a much cheaper price point"
+      },
+      {
+        "start": 1197.24,
+        "duration": 4.44,
+        "start_formatted": "19:57",
+        "text": "compared to Claude Opus and Claude"
+      },
+      {
+        "start": 1199.52,
+        "duration": 4.08,
+        "start_formatted": "19:59",
+        "text": "Fable, which is all the way down here."
+      },
+      {
+        "start": 1201.68,
+        "duration": 4.04,
+        "start_formatted": "20:01",
+        "text": "This is incredibly expensive and not"
+      },
+      {
+        "start": 1203.6,
+        "duration": 3.76,
+        "start_formatted": "20:03",
+        "text": "even as performant. And similarly, if"
+      },
+      {
+        "start": 1205.72,
+        "duration": 4.2,
+        "start_formatted": "20:05",
+        "text": "you look at this agentic coding"
+      },
+      {
+        "start": 1207.36,
+        "duration": 5.8,
+        "start_formatted": "20:07",
+        "text": "benchmark, you can see that the largest"
+      },
+      {
+        "start": 1209.92,
+        "duration": 5.36,
+        "start_formatted": "20:09",
+        "text": "GPT-5.6 Soul at max level or even just"
+      },
+      {
+        "start": 1213.16,
+        "duration": 4.56,
+        "start_formatted": "20:13",
+        "text": "the extra high level is still able to"
+      },
+      {
+        "start": 1215.28,
+        "duration": 5.0,
+        "start_formatted": "20:15",
+        "text": "outperform Claude Fable, which is over"
+      },
+      {
+        "start": 1217.72,
+        "duration": 4.96,
+        "start_formatted": "20:17",
+        "text": "here. Not only is Claude Fable less"
+      },
+      {
+        "start": 1220.28,
+        "duration": 4.2,
+        "start_formatted": "20:20",
+        "text": "performant, but also more expensive. In"
+      },
+      {
+        "start": 1222.68,
+        "duration": 3.56,
+        "start_formatted": "20:22",
+        "text": "terms of this benchmark, GeneBench,"
+      },
+      {
+        "start": 1224.48,
+        "duration": 3.92,
+        "start_formatted": "20:24",
+        "text": "which tests the model's ability on long"
+      },
+      {
+        "start": 1226.24,
+        "duration": 5.92,
+        "start_formatted": "20:26",
+        "text": "horizon genomics tasks, you can see that"
+      },
+      {
+        "start": 1228.4,
+        "duration": 6.52,
+        "start_formatted": "20:28",
+        "text": "GPT-5.6 Soul by far outperforms Claude"
+      },
+      {
+        "start": 1232.16,
+        "duration": 4.88,
+        "start_formatted": "20:32",
+        "text": "Opus 4.8. And keep in mind, Fable is not"
+      },
+      {
+        "start": 1234.92,
+        "duration": 4.28,
+        "start_formatted": "20:34",
+        "text": "on here because if you've watched my"
+      },
+      {
+        "start": 1237.04,
+        "duration": 4.8,
+        "start_formatted": "20:37",
+        "text": "previous review on Claude Fable, it just"
+      },
+      {
+        "start": 1239.2,
+        "duration": 5.0,
+        "start_formatted": "20:39",
+        "text": "outright refuses to answer any biology"
+      },
+      {
+        "start": 1241.84,
+        "duration": 4.4,
+        "start_formatted": "20:41",
+        "text": "or cybersecurity related questions. It"
+      },
+      {
+        "start": 1244.2,
+        "duration": 3.76,
+        "start_formatted": "20:44",
+        "text": "has like really strict guardrails. So,"
+      },
+      {
+        "start": 1246.24,
+        "duration": 4.44,
+        "start_formatted": "20:46",
+        "text": "it's pretty nerfed. Whereas, you don't"
+      },
+      {
+        "start": 1247.96,
+        "duration": 4.32,
+        "start_formatted": "20:47",
+        "text": "really get such nerfing with GPT-5.6."
+      },
+      {
+        "start": 1250.68,
+        "duration": 4.64,
+        "start_formatted": "20:50",
+        "text": "So, especially if you need a frontier"
+      },
+      {
+        "start": 1252.28,
+        "duration": 4.72,
+        "start_formatted": "20:52",
+        "text": "model in like biology, GPT-5.6 is"
+      },
+      {
+        "start": 1255.32,
+        "duration": 4.6,
+        "start_formatted": "20:55",
+        "text": "currently the best option. The crazy"
+      },
+      {
+        "start": 1257.0,
+        "duration": 5.0,
+        "start_formatted": "20:57",
+        "text": "thing is here it says GPT-5.6 was used"
+      },
+      {
+        "start": 1259.92,
+        "duration": 3.92,
+        "start_formatted": "20:59",
+        "text": "to accelerate OpenAI's internal"
+      },
+      {
+        "start": 1262.0,
+        "duration": 3.92,
+        "start_formatted": "21:02",
+        "text": "research. They use it across the"
+      },
+      {
+        "start": 1263.84,
+        "duration": 4.6,
+        "start_formatted": "21:03",
+        "text": "development loop. And as a result, it"
+      },
+      {
+        "start": 1265.92,
+        "duration": 4.48,
+        "start_formatted": "21:05",
+        "text": "really helps accelerate their R&D. This"
+      },
+      {
+        "start": 1268.44,
+        "duration": 4.04,
+        "start_formatted": "21:08",
+        "text": "is not surprising. Open AI and probably"
+      },
+      {
+        "start": 1270.4,
+        "duration": 4.88,
+        "start_formatted": "21:10",
+        "text": "the other frontier AI labs already have"
+      },
+      {
+        "start": 1272.48,
+        "duration": 4.48,
+        "start_formatted": "21:12",
+        "text": "a form of recursive R&D loop where they"
+      },
+      {
+        "start": 1275.28,
+        "duration": 4.2,
+        "start_formatted": "21:15",
+        "text": "just get the current generation of AI"
+      },
+      {
+        "start": 1276.96,
+        "duration": 4.92,
+        "start_formatted": "21:16",
+        "text": "models to help develop, design, and"
+      },
+      {
+        "start": 1279.48,
+        "duration": 4.08,
+        "start_formatted": "21:19",
+        "text": "create the next generation of AI models."
+      },
+      {
+        "start": 1281.88,
+        "duration": 3.4,
+        "start_formatted": "21:21",
+        "text": "And this process is only going to"
+      },
+      {
+        "start": 1283.56,
+        "duration": 3.28,
+        "start_formatted": "21:23",
+        "text": "accelerate more and more. Now, if you"
+      },
+      {
+        "start": 1285.28,
+        "duration": 3.32,
+        "start_formatted": "21:25",
+        "text": "look at an independent leaderboard"
+      },
+      {
+        "start": 1286.84,
+        "duration": 5.08,
+        "start_formatted": "21:26",
+        "text": "called Artificial Analysis, you can see"
+      },
+      {
+        "start": 1288.6,
+        "duration": 6.24,
+        "start_formatted": "21:28",
+        "text": "that interestingly, GPT 5.6 Soul Max is"
+      },
+      {
+        "start": 1291.92,
+        "duration": 4.36,
+        "start_formatted": "21:31",
+        "text": "still one point behind Claude Fable 5."
+      },
+      {
+        "start": 1294.84,
+        "duration": 4.24,
+        "start_formatted": "21:34",
+        "text": "However, if you look at the average"
+      },
+      {
+        "start": 1296.28,
+        "duration": 4.68,
+        "start_formatted": "21:36",
+        "text": "price, it is way less expensive than"
+      },
+      {
+        "start": 1299.08,
+        "duration": 3.2,
+        "start_formatted": "21:39",
+        "text": "Claude Fable, like less than half the"
+      },
+      {
+        "start": 1300.96,
+        "duration": 3.52,
+        "start_formatted": "21:40",
+        "text": "price. So, this is way more"
+      },
+      {
+        "start": 1302.28,
+        "duration": 4.32,
+        "start_formatted": "21:42",
+        "text": "cost-efficient compared to Claude Fable."
+      },
+      {
+        "start": 1304.48,
+        "duration": 3.84,
+        "start_formatted": "21:44",
+        "text": "Now, here's a really important metric,"
+      },
+      {
+        "start": 1306.6,
+        "duration": 4.08,
+        "start_formatted": "21:46",
+        "text": "which is the Omniscience hallucination"
+      },
+      {
+        "start": 1308.32,
+        "duration": 4.56,
+        "start_formatted": "21:48",
+        "text": "rate. This measures how often the model"
+      },
+      {
+        "start": 1310.68,
+        "duration": 5.44,
+        "start_formatted": "21:50",
+        "text": "hallucinates. And as you can see, GPT"
+      },
+      {
+        "start": 1312.88,
+        "duration": 6.0,
+        "start_formatted": "21:52",
+        "text": "5.6 Soul Max is all the way over here at"
+      },
+      {
+        "start": 1316.12,
+        "duration": 5.04,
+        "start_formatted": "21:56",
+        "text": "89%. So, this hallucinates way more"
+      },
+      {
+        "start": 1318.88,
+        "duration": 5.8,
+        "start_formatted": "21:58",
+        "text": "often compared to Claude Fable, which is"
+      },
+      {
+        "start": 1321.16,
+        "duration": 7.44,
+        "start_formatted": "22:01",
+        "text": "only 55% and open-source GLM 5.2, which"
+      },
+      {
+        "start": 1324.68,
+        "duration": 6.24,
+        "start_formatted": "22:04",
+        "text": "is only 28%. Now, this 89% doesn't mean"
+      },
+      {
+        "start": 1328.6,
+        "duration": 4.56,
+        "start_formatted": "22:08",
+        "text": "that it hallucinates 89% of the time on"
+      },
+      {
+        "start": 1330.92,
+        "duration": 4.28,
+        "start_formatted": "22:10",
+        "text": "average. This only means it hallucinates"
+      },
+      {
+        "start": 1333.16,
+        "duration": 4.28,
+        "start_formatted": "22:13",
+        "text": "89% of the questions from this"
+      },
+      {
+        "start": 1335.2,
+        "duration": 4.2,
+        "start_formatted": "22:15",
+        "text": "benchmark. Just in, we also have the"
+      },
+      {
+        "start": 1337.44,
+        "duration": 3.88,
+        "start_formatted": "22:17",
+        "text": "official results from this other"
+      },
+      {
+        "start": 1339.4,
+        "duration": 3.8,
+        "start_formatted": "22:19",
+        "text": "leaderboard called Deep We. This is"
+      },
+      {
+        "start": 1341.32,
+        "duration": 4.2,
+        "start_formatted": "22:21",
+        "text": "quite an accurate measure of how good an"
+      },
+      {
+        "start": 1343.2,
+        "duration": 4.08,
+        "start_formatted": "22:23",
+        "text": "AI model is at long horizon software"
+      },
+      {
+        "start": 1345.52,
+        "duration": 5.4,
+        "start_formatted": "22:25",
+        "text": "engineering tasks. And if you scroll"
+      },
+      {
+        "start": 1347.28,
+        "duration": 5.68,
+        "start_formatted": "22:27",
+        "text": "down, as you can see, GPT 5.6 Soul Max"
+      },
+      {
+        "start": 1350.92,
+        "duration": 4.12,
+        "start_formatted": "22:30",
+        "text": "even beats Claude Fable 5. It's"
+      },
+      {
+        "start": 1352.96,
+        "duration": 3.88,
+        "start_formatted": "22:32",
+        "text": "currently ranked number one in this Deep"
+      },
+      {
+        "start": 1355.04,
+        "duration": 3.84,
+        "start_formatted": "22:35",
+        "text": "We leaderboard. However, keep in mind"
+      },
+      {
+        "start": 1356.84,
+        "duration": 4.68,
+        "start_formatted": "22:36",
+        "text": "that the confidence intervals still"
+      },
+      {
+        "start": 1358.88,
+        "duration": 4.96,
+        "start_formatted": "22:38",
+        "text": "overlap Claude Fable 5, so it's not"
+      },
+      {
+        "start": 1361.52,
+        "duration": 3.92,
+        "start_formatted": "22:41",
+        "text": "technically a significant difference."
+      },
+      {
+        "start": 1363.84,
+        "duration": 4.36,
+        "start_formatted": "22:43",
+        "text": "However, you can see that the average"
+      },
+      {
+        "start": 1365.44,
+        "duration": 5.04,
+        "start_formatted": "22:45",
+        "text": "cost and the output tokens are way lower"
+      },
+      {
+        "start": 1368.2,
+        "duration": 4.36,
+        "start_formatted": "22:48",
+        "text": "than Claude Fable 5. So, not only is"
+      },
+      {
+        "start": 1370.48,
+        "duration": 3.92,
+        "start_formatted": "22:50",
+        "text": "this more performant, but it also is a"
+      },
+      {
+        "start": 1372.56,
+        "duration": 4.4,
+        "start_formatted": "22:52",
+        "text": "lot more efficient. And if you look at"
+      },
+      {
+        "start": 1374.4,
+        "duration": 5.96,
+        "start_formatted": "22:54",
+        "text": "this Arc AGI 2 leaderboard, you can see"
+      },
+      {
+        "start": 1376.96,
+        "duration": 5.36,
+        "start_formatted": "22:56",
+        "text": "that GPT 5.6 also outperforms Claude"
+      },
+      {
+        "start": 1380.36,
+        "duration": 3.96,
+        "start_formatted": "23:00",
+        "text": "Opus, which is all the way down here."
+      },
+      {
+        "start": 1382.32,
+        "duration": 4.48,
+        "start_formatted": "23:02",
+        "text": "Not only is this more performant, but"
+      },
+      {
+        "start": 1384.32,
+        "duration": 3.8,
+        "start_formatted": "23:04",
+        "text": "also cheaper than the Claude models."
+      },
+      {
+        "start": 1386.8,
+        "duration": 3.6,
+        "start_formatted": "23:06",
+        "text": "Now, if you're not familiar with"
+      },
+      {
+        "start": 1388.12,
+        "duration": 4.76,
+        "start_formatted": "23:08",
+        "text": "Arc-Agi-2, this basically tests an AI"
+      },
+      {
+        "start": 1390.4,
+        "duration": 4.52,
+        "start_formatted": "23:10",
+        "text": "model's ability to solve these visual"
+      },
+      {
+        "start": 1392.88,
+        "duration": 3.92,
+        "start_formatted": "23:12",
+        "text": "puzzles. For example, it's first given a"
+      },
+      {
+        "start": 1394.92,
+        "duration": 3.92,
+        "start_formatted": "23:14",
+        "text": "question and answer pair. So, in this"
+      },
+      {
+        "start": 1396.8,
+        "duration": 4.04,
+        "start_formatted": "23:16",
+        "text": "example, the answer is you need to color"
+      },
+      {
+        "start": 1398.84,
+        "duration": 3.96,
+        "start_formatted": "23:18",
+        "text": "these blobs based on how many holes it"
+      },
+      {
+        "start": 1400.84,
+        "duration": 4.52,
+        "start_formatted": "23:20",
+        "text": "has. Well, the AI has to kind of figure"
+      },
+      {
+        "start": 1402.8,
+        "duration": 4.48,
+        "start_formatted": "23:22",
+        "text": "this out or learn this on the fly and"
+      },
+      {
+        "start": 1405.36,
+        "duration": 4.36,
+        "start_formatted": "23:25",
+        "text": "then apply this new pattern in its"
+      },
+      {
+        "start": 1407.28,
+        "duration": 4.24,
+        "start_formatted": "23:27",
+        "text": "response. It's actually really hard for"
+      },
+      {
+        "start": 1409.72,
+        "duration": 3.72,
+        "start_formatted": "23:29",
+        "text": "current AI models to do this because"
+      },
+      {
+        "start": 1411.52,
+        "duration": 3.96,
+        "start_formatted": "23:31",
+        "text": "once they're finished training, their"
+      },
+      {
+        "start": 1413.44,
+        "duration": 3.52,
+        "start_formatted": "23:33",
+        "text": "model weights are fixed. Technically"
+      },
+      {
+        "start": 1415.48,
+        "duration": 3.44,
+        "start_formatted": "23:35",
+        "text": "speaking, they can't really learn new"
+      },
+      {
+        "start": 1416.96,
+        "duration": 6.92,
+        "start_formatted": "23:36",
+        "text": "things after training. But apparently,"
+      },
+      {
+        "start": 1418.92,
+        "duration": 4.96,
+        "start_formatted": "23:38",
+        "text": "for Arc-Agi-2, whopping 92.5%"
+      },
+      {
+        "start": 1425.32,
+        "duration": 3.92,
+        "start_formatted": "23:45",
+        "text": "demonstrating its kind of emergent"
+      },
+      {
+        "start": 1427.16,
+        "duration": 3.96,
+        "start_formatted": "23:47",
+        "text": "ability to learn new things on the fly,"
+      },
+      {
+        "start": 1429.24,
+        "duration": 3.92,
+        "start_formatted": "23:49",
+        "text": "which is really important. Now, that's"
+      },
+      {
+        "start": 1431.12,
+        "duration": 4.36,
+        "start_formatted": "23:51",
+        "text": "just Arc-Agi-2. If you look at"
+      },
+      {
+        "start": 1433.16,
+        "duration": 3.88,
+        "start_formatted": "23:53",
+        "text": "Arc-Agi-3, which is even harder, you can"
+      },
+      {
+        "start": 1435.48,
+        "duration": 3.84,
+        "start_formatted": "23:55",
+        "text": "see that the rest of the frontier"
+      },
+      {
+        "start": 1437.04,
+        "duration": 5.16,
+        "start_formatted": "23:57",
+        "text": "models, including Opus and Gemini, are"
+      },
+      {
+        "start": 1439.32,
+        "duration": 6.04,
+        "start_formatted": "23:59",
+        "text": "all the way down here at less than 1%."
+      },
+      {
+        "start": 1442.2,
+        "duration": 5.76,
+        "start_formatted": "24:02",
+        "text": "But surprisingly, GPT-5.6 Soul Max"
+      },
+      {
+        "start": 1445.36,
+        "duration": 4.32,
+        "start_formatted": "24:05",
+        "text": "scores almost 8%, which is really"
+      },
+      {
+        "start": 1447.96,
+        "duration": 4.4,
+        "start_formatted": "24:07",
+        "text": "impressive. So, these models have a"
+      },
+      {
+        "start": 1449.68,
+        "duration": 5.04,
+        "start_formatted": "24:09",
+        "text": "really strong emergent ability to learn"
+      },
+      {
+        "start": 1452.36,
+        "duration": 4.68,
+        "start_formatted": "24:12",
+        "text": "new patterns or things on the fly. Now,"
+      },
+      {
+        "start": 1454.72,
+        "duration": 4.12,
+        "start_formatted": "24:14",
+        "text": "if you look at Live Bench by Abacus AI,"
+      },
+      {
+        "start": 1457.04,
+        "duration": 4.48,
+        "start_formatted": "24:17",
+        "text": "then you can see that the largest"
+      },
+      {
+        "start": 1458.84,
+        "duration": 5.12,
+        "start_formatted": "24:18",
+        "text": "GPT-5.6 Soul at Max Effort does"
+      },
+      {
+        "start": 1461.52,
+        "duration": 4.08,
+        "start_formatted": "24:21",
+        "text": "outperform Claude Fable 5, which is all"
+      },
+      {
+        "start": 1463.96,
+        "duration": 3.6,
+        "start_formatted": "24:23",
+        "text": "the way in fourth place. It's"
+      },
+      {
+        "start": 1465.6,
+        "duration": 3.84,
+        "start_formatted": "24:25",
+        "text": "particularly good in terms of reasoning,"
+      },
+      {
+        "start": 1467.56,
+        "duration": 3.8,
+        "start_formatted": "24:27",
+        "text": "agent decoding, mathematics, and"
+      },
+      {
+        "start": 1469.44,
+        "duration": 3.88,
+        "start_formatted": "24:29",
+        "text": "language. Finally, let's talk about"
+      },
+      {
+        "start": 1471.36,
+        "duration": 4.28,
+        "start_formatted": "24:31",
+        "text": "where and how to use it. So, here it"
+      },
+      {
+        "start": 1473.32,
+        "duration": 5.44,
+        "start_formatted": "24:33",
+        "text": "says they're rolling GPT-5.6 out in the"
+      },
+      {
+        "start": 1475.64,
+        "duration": 5.72,
+        "start_formatted": "24:35",
+        "text": "next 24 hours on the online ChatGPT"
+      },
+      {
+        "start": 1478.76,
+        "duration": 6.52,
+        "start_formatted": "24:38",
+        "text": "platform. Currently, only paid users can"
+      },
+      {
+        "start": 1481.36,
+        "duration": 6.0,
+        "start_formatted": "24:41",
+        "text": "use GPT-5.6. But for ChatGPT Work and"
+      },
+      {
+        "start": 1485.28,
+        "duration": 4.52,
+        "start_formatted": "24:45",
+        "text": "Codex, which you can download for free,"
+      },
+      {
+        "start": 1487.36,
+        "duration": 3.96,
+        "start_formatted": "24:47",
+        "text": "note that even free users have access to"
+      },
+      {
+        "start": 1489.8,
+        "duration": 3.64,
+        "start_formatted": "24:49",
+        "text": "GPT-5.6,"
+      },
+      {
+        "start": 1491.32,
+        "duration": 4.4,
+        "start_formatted": "24:51",
+        "text": "but only the medium Terra model. Paid"
+      },
+      {
+        "start": 1493.44,
+        "duration": 4.4,
+        "start_formatted": "24:53",
+        "text": "users have access to all three models,"
+      },
+      {
+        "start": 1495.72,
+        "duration": 4.52,
+        "start_formatted": "24:55",
+        "text": "Soul, Terra, and Luna, and they can also"
+      },
+      {
+        "start": 1497.84,
+        "duration": 4.44,
+        "start_formatted": "24:57",
+        "text": "set an effort for each. So, for example,"
+      },
+      {
+        "start": 1500.24,
+        "duration": 3.84,
+        "start_formatted": "25:00",
+        "text": "for me, you can see that for each model,"
+      },
+      {
+        "start": 1502.28,
+        "duration": 5.16,
+        "start_formatted": "25:02",
+        "text": "I can set the effort level all the way"
+      },
+      {
+        "start": 1504.08,
+        "duration": 5.72,
+        "start_formatted": "25:04",
+        "text": "to Ultra. And currently, GPT 5.6 is also"
+      },
+      {
+        "start": 1507.44,
+        "duration": 5.52,
+        "start_formatted": "25:07",
+        "text": "available via API. So, that sums up my"
+      },
+      {
+        "start": 1509.8,
+        "duration": 4.76,
+        "start_formatted": "25:09",
+        "text": "review of GPT 5.6. This is definitely"
+      },
+      {
+        "start": 1512.96,
+        "duration": 3.08,
+        "start_formatted": "25:12",
+        "text": "one of the smartest models you can use"
+      },
+      {
+        "start": 1514.56,
+        "duration": 4.0,
+        "start_formatted": "25:14",
+        "text": "right now, and it's way more"
+      },
+      {
+        "start": 1516.04,
+        "duration": 4.88,
+        "start_formatted": "25:16",
+        "text": "cost-efficient and faster than Claude"
+      },
+      {
+        "start": 1518.56,
+        "duration": 4.2,
+        "start_formatted": "25:18",
+        "text": "Fable 5. It seems to require very"
+      },
+      {
+        "start": 1520.92,
+        "duration": 4.12,
+        "start_formatted": "25:20",
+        "text": "minimal hand-holding. It can just get"
+      },
+      {
+        "start": 1522.76,
+        "duration": 3.76,
+        "start_formatted": "25:22",
+        "text": "things done and work for hours and hours"
+      },
+      {
+        "start": 1525.04,
+        "duration": 3.16,
+        "start_formatted": "25:25",
+        "text": "to achieve your goal. Let me know in the"
+      },
+      {
+        "start": 1526.52,
+        "duration": 3.96,
+        "start_formatted": "25:26",
+        "text": "comments what you think of this. As"
+      },
+      {
+        "start": 1528.2,
+        "duration": 5.16,
+        "start_formatted": "25:28",
+        "text": "always, I will be on the lookout for the"
+      },
+      {
+        "start": 1530.48,
+        "duration": 4.92,
+        "start_formatted": "25:30",
+        "text": "top AI news and tools to share with you."
+      },
+      {
+        "start": 1533.36,
+        "duration": 4.0,
+        "start_formatted": "25:33",
+        "text": "So, if you enjoyed this video, remember"
+      },
+      {
+        "start": 1535.4,
+        "duration": 4.32,
+        "start_formatted": "25:35",
+        "text": "to like, share, subscribe, and stay"
+      },
+      {
+        "start": 1537.36,
+        "duration": 4.16,
+        "start_formatted": "25:37",
+        "text": "tuned for more content. Also, there's"
+      },
+      {
+        "start": 1539.72,
+        "duration": 4.16,
+        "start_formatted": "25:39",
+        "text": "just so much happening in the world of"
+      },
+      {
+        "start": 1541.52,
+        "duration": 4.88,
+        "start_formatted": "25:41",
+        "text": "AI every week, I can't possibly cover"
+      },
+      {
+        "start": 1543.88,
+        "duration": 4.84,
+        "start_formatted": "25:43",
+        "text": "everything on my YouTube channel. So, to"
+      },
+      {
+        "start": 1546.4,
+        "duration": 4.96,
+        "start_formatted": "25:46",
+        "text": "really stay up-to-date with all that's"
+      },
+      {
+        "start": 1548.72,
+        "duration": 4.96,
+        "start_formatted": "25:48",
+        "text": "going on in AI, be sure to subscribe to"
+      },
+      {
+        "start": 1551.36,
+        "duration": 4.24,
+        "start_formatted": "25:51",
+        "text": "my free weekly newsletter. The link to"
+      },
+      {
+        "start": 1553.68,
+        "duration": 4.04,
+        "start_formatted": "25:53",
+        "text": "that will be in the description below."
+      },
+      {
+        "start": 1555.6,
+        "duration": 4.8,
+        "start_formatted": "25:55",
+        "text": "Thanks for watching, and I'll see you in"
+      },
+      {
+        "start": 1557.72,
+        "duration": 2.68,
+        "start_formatted": "25:57",
+        "text": "the next one."
+      }
+    ],
+    "full_text": "GPT-5.6 is here and this is an absolute beast. In this video, we're going to go over all the impressive things that it can do and where and how to use it and of course we're also going to go over its specs and performance against other competitor models. Let's jump right in. Thanks to HubSpot for sponsoring this video. All right, so just in OpenAI releases GPT-5.6. This is their latest most intelligent family of models. In fact, this consists of three different models. There's GPT-5.6 Soul which is the largest and most performant variant. This is also the most expensive. And then Terra is in the middle and then we have Luna which is the smallest model so it's the fastest but also less intelligent. First of all, it's important to note that for all these frontier models, they can already handle simple stuff like writing emails, summarizing things, writing essays, or doing research for you. So in this video, I'm not even going to show you such tests. It's way too easy. I'm going to push its limits on some much harder stuff. Now for this latest GPT-5.6, you could use this using the online ChatGPT platform, but it doesn't really do it justice. Especially if you're working on something that requires using multiple files or tools or multiple steps. It's much better to use GPT-5.6 with any genic framework or a harness like Codex. In fact, they've kind of redesigned the Codex app to just be called the ChatGPT desktop app. You can download this for free for whatever operating system you're using and it looks like this. It's pretty similar to the online ChatGPT, but with this you can basically get multiple agents to work on multiple files and folders on your computer at once. You can also save skills to be reused later or even schedule automations. So definitely give the Codex app a try. It's free for you to use. All right, let's start off with a really complex prompt already. I'm going to get it to make a web app where there's going to be an anime girl who can talk to me >> or which I can chat with using voice. There should be an anime girl who I can talk to use GPT image to make multiple images of this character with mouth movements so you can stitch them together into animations. And then here I got it to use Google's Gemini real-time voice model. So what I did was I just went to Google's AI studio and then clicked on real time and then I chose this one cuz it's a bit cheaper and then I'm going to choose this voice and then at the top here I simply click on get code and then I'm going to copy this and then paste the code in here for it to refer to. And then down here I also give it my API key and then I wrote the character should be animated with lip sync so that it looks like she's speaking of the audio. And then for the model I'm going to use the largest 5.6 soul and set this to the maximum thinking mode which is ultra. Let's click run. All right, so that took it 17 minutes and you can see here it's using GPT image to generate this avatar with different mouth movements. And it told me to run this with my API key and then open this URL. So let me do that really quickly. And here's the interface. Let's see if this works. I'm going to press on start voice chat. Hello, can you hear me? >> Loud and clear. Welcome to our little corner of the stars. Are you ready for some stargazing or maybe a story? >> Can you tell me a joke? >> Why did the star break up with the moon? Because it said the moon was just going through too many phases. Pretty cheesy, right? Got a better one for me? >> So there you go. Here is a fully functioning anime girl which I can talk to in real time. It was able to code up all of this in just one prompt and everything just works. I didn't even need to send any follow-up prompts or correct it any further. Really impressive. Next, let's test its physics understanding. So I'm going to get it to simulate liquid splashes with adjustable gravity and light settings. Make it visually stunning. And to make it even more difficult, I want it to allow me to control movements using hand tracking via webcam. And here's the key. Do not use 3js or any other external libraries with, you know, pre-rendered physics animations. It needs to code up everything from scratch. Again, I'm going to use 5.6 Soul Ultra and then press generate. So, it worked for 12 minutes and that was it. I didn't need to prompt it further. I didn't run into any errors. Everything just works. All right, so here is the interface. You can see the liquid does look pretty accurate. I can adjust these different settings like flow energy, brush radius, gravity vector, viscosity, vorticity. I can change the colors here. So, here are some additional colors. And here is where I can turn on my webcam to start hand tracking. So, let's click on this. So, now it's pulling up my webcam and tracking my hand. Very cool. So, I can draw all over this canvas. Let me change the colors a bit. And then over here, I can also change the key direction as you can see here. Also, the light's intensity and also liquid gloss and the bloom or basically the glow effect. Very nice. Everything just works in one prompt. That's the beauty of GPT 5.6, especially the largest Soul model with, you know, extra high or ultra thinking. It usually gets everything right from just one prompt. There's very minimal hand holding and you don't really need to prompt it further. Now, because GPT 5.6 is designed for agentic use, it can autonomously call and use various tools to complete a workflow. So, let's test its ability to do exactly that. I'm going to give it a product page. This is the landing page of ByteDance's latest image model Sea Dream 5 Pro. And I want to get GPT to create a promo video about this product. We're going to use Gemini TTS to include a voiceover. And then we're also going to use an open source tool called HyperFrames to create the animation. I'm not even going to tell it how to install it. I'm only going to link to this GitHub repo. So, it needs to scroll down and look at the instructions and figure out how to set this up itself. And then here are more specs, so it should be 16:9, around a minute long, include actual images, demo images or videos from the product page. And then use this existing audio as the background music. And then afterwards, I just pasted some documentation on how to actually use Gemini TTS. Plus down here, I give it my API key so it can actually use Gemini TTS to generate the voiceover. And that's pretty much it. Let's press generate. All right, so that took a painfully long time. It took 30 minutes to actually generate the video. There were some elements that were overlapping such as some text or images on other images. So, I added a follow-up prompt, make sure no elements overlap, and then it re-rendered the video and here's our final result. >> What if image generation could think like a creative partner, >> [music] >> not just make a picture? Meet SeaDream 5.0 Pro, ByteDance Seed's multimodal image model for advanced reasoning, efficient creation, and professional production. Mark [music] the space, sketch the idea, or annotate the change. SeaDream responds with precise edits while the rest of the frame stays intact. It can even separate a finished image into editable layers. Need more than a beautiful frame? >> [music] >> Build information-dense infographics, product layouts, storyboards, and interfaces with detail that holds up. Push realism further [music] with authentic light, shadow, skin texture, and cinematic composition. Take the same workflow global with native prompting and image generation across a dozen widely used languages. >> [snorts] >> From first concept to final campaign, SeaDream 5.0 Pro gives creators more control, more clarity, and more room to explore. Beyond generation, it understands design. >> As you can see, the video still looks pretty bad. There are some places where the text is kind of overlapping with the image. It's not really placed nicely. The letter spacing is also sometimes messed up. So, in terms of creating professional visual content, it is still lacking. You've probably heard how useful ChatGPT can be at work, but if you're not quite sure how to actually use it beyond asking random questions, this is the ultimate guide for you. Check out how to use ChatGPT at work by HubSpot. I've put it in the description below for you to access for free. This guide walks you through how ChatGPT actually works, what it's good at, and how to stop treating it like a simple chatbot and start using it like a real productivity assistant. It starts with a simple breakdown of AI and ChatGPT, so even if you're new to this, you'll understand what's happening behind the scenes. Then, it shows you practical ways to use ChatGPT at work from drafting emails and doing research to sales, lead gen, customer support, marketing, and product management. My favorite part is the section on creating better prompts. It breaks down how to give ChatGPT the right context, the right task, and the right details so you get sharper, more useful responses instead of vague or generic answers. It even includes advanced techniques like iterative prompting and asking GPT to help improve your own prompts. It also includes a free doc, 100 ways to try ChatGPT today. You can access it for free using the link in the description below. Thanks to HubSpot for sponsoring this video. All right, next let's see how good it is at making music. So, here's my prompt. Make a DAW interface with these instruments. For each instrument, there should be a piano roll interface where I can drag and drop notes on the timeline. Each track should have pan, volume, and other standard settings. Add play, pause, and other settings. Put everything in a standalone HTML file. Make sure it loads efficiently on a regular web browser. And then, by default, show a powerful expressive 32-bar song. Include effects automation, panning, and make sure everything is mastered well. Again, I'm going to set this to 5.6 so ultra and then press run. All right, so it worked for 11 minutes, but when I tested it, it kind of sounded robotic without much variation, so I wrote add more variation and creativity. You can add more instruments if necessary. Add risers and drops, add volume and effects automation for the tracks, add more width, make it sound amazing. So, it worked for an additional 12 minutes and here's the final result. >> [music] [music] [music] [music] [music] [music] [music] >> So, it just keeps looping after that, but overall not bad for just two prompts. It was able to add some really cool transitions like risers and symbols and drops. It's able to include and orchestrate all these instruments together into one fairly coherent song. It's not going to win a Grammy. It still doesn't sound like a professional human-made track, but it does seem to be better than what I got from the other Frontier models. Next, let's see how good it is at rendering 3D scenes. So, I'm going to upload this image. It's a pretty complicated image with a ton of different elements. And then for the prompt, I just wrote create a beautiful 3D animated scene from this image, use a single HTML file. And that's pretty much it. So, it worked for 11 minutes, and afterwards, it did give me a simple render. However, it was quite simple and not really detailed. So, I wrote add more details and make it look exactly like the reference image. And afterwards, here is our result. As you can see, it doesn't look exactly like the reference image. The tables and the chairs and the walls aren't really in the right place. But again, this is a really tricky image, and none of the other top models, including Claude Fable, were able to get this completely correct. What I do like about this is that all the objects are very coherent from the start, such as the legs of the chairs and the tables, plus the screens and the keyboards. Most of the objects do look coherent. Next, let's see how good it is at making math animations. Here, the prompt is create a beautiful Manim animation where Fourier epicycles draw a butterfly, etc., etc. Save the output as MP4. Now, for those of you who don't know, Manim is basically a tool to create math animations, but I don't even have this installed yet. It needs to search for the Manim GitHub repo and figure out how to install this in my folder and run it. Anyways, let's click run. Now, it Again, 5.6 Sol is super slow, so it worked for 19 minutes. It did output a video file of the animation, but the butterfly looked way too simple, so I prompted it further to make it look better and even more complicated. But the butterfly still looked pretty ugly, so I wrote make the markings on the butterfly even more beautiful and accurate. And then it worked for an additional 17 minutes, and here is our final animation. And as you can see, this animation is really complex. It contains a ton of these Fourier circles connected together in order to draw this really complex butterfly shape. I did the same test with the open-source GLM 5.2, but the animation from GPT 5.6 does look a bit better. I especially like the outlines on the butterfly wings. So, those are some tests on the Codex desktop app, but you can also use the new GPT 5.6 directly on the online chat GPT. So, in the model drop-down, you should see a version of GPT 5.6 depending on which plan you have. Since I'm on the pro plan, I do have access to 5.6 soul. And for intelligence, I can select all the way up to pro level, which is the highest. In my next test, let's see if it can identify cancer. So, I'm going to paste in this image of six different scans and then ask it to identify the types of tumors in each of the six images, if any. Let's press generate and see if it can get this correct. All right, so it thought for 18 minutes, and here is its answer. For all scans in the top row, it just identified them as hemorrhages and not tumors, which is not correct. All images here actually contain a type of tumor. And then for bottom center, it identified this as craniopharyngioma, which is also not correct. And then for the bottom right, it also said this is not a tumor, which is wrong. It completely failed this test. However, I still appreciate that it actually tried to answer this, whereas for Claude Fable, it will just outright refuse to answer any biology-related questions. All right, it's time for your favorite test, finding the frog. So, I'm going to upload this image, and there's a frog hidden somewhere in this image. Now, I'm not even going to say that there's a frog in this image. I'm going to ask GPT if there's any animal in this image, and if so, identify it and circle it. Again, I'm going to use 5.6 and then pro. Let's see if it can get this correct. All right, so it worked for 13 minutes and it said yes, there is a camouflaged frog near the left edge of the image. I circled it in red. Now, if I click on viewed the circled animal, it circled the frog here, which is not correct. So, unfortunately, it failed the frog test. Note that Claude Fable 5 is the only model so far that was able to successfully find the frog. I'm actually surprised that GPT-5.6 couldn't find it because it should have better vision capabilities than Claude Fable. Now, let's be nice to it and give it a second chance. This time, I'm going to upload this image and there's an animal hidden somewhere in this image. And then I'm going to write the same prompt, is there any animal in this image? If so, identify it and circle it. All right, for this prompt, it took a ridiculously long time. It worked for 27 minutes and it identified that there's a well-camouflaged toad near the center of the image. Now, actually, where it's circled is correct, but this is definitely not a toad. So, it only got it half correct. All right, next, let's also test its ability to do deep research. So, here's my prompt, describe the molecular drivers of this type of leukemia, include relevant tables and visualizations. So, a very deep and technical medical research report. Let's see its response. So, this worked for 31 minutes and here is what we got. Here it gives me a nice table on some molecular response terminology. Everything has relevant citations. Next, it talks about molecular drivers of this leukemia with a very thorough table. It even gives me a nice flowchart. Here's another flowchart. And then next section is evolution of targeted therapy. Again, very thorough and comprehensive. The thing I like about ChatGPT is it doesn't ramble on and on like Gemini. It's very short and concise and it only answers exactly what you ask it. And then here is section three, resistance mechanisms, again with a very nice table jam-packed with a ton of very useful information. And then afterwards, longitudinal outcomes. Here are some frontline studies. Again, a very nice table breaking down the specs and results of all these different studies, plus some additional figures. And then afterwards, the next section is third generation and later line longitudinal outcomes, again with a very thorough table. And then finally, it ends with some overall conclusions. Now, when you open up ChatGPT today, you might have noticed a new tab called work. This is actually super powerful. This lets you use GPT more like an agent rather than just a regular chat interface where it answers simple questions. So, with work, you can link to your files and folders in various platforms like Slack, GitHub, Google Drive, Google Workspace, etc. And you can get an agent to work on these files or carry out a workflow autonomously. This is great for like creating presentations or spreadsheets, analyzing data, synthesizing information, etc. Now, it's a bit beyond the scope of this tutorial, but let's just do a quick example where I get it to fetch the Q1 2026 earnings reports from Alphabet, Nvidia, and Amazon and create a slideshow comparing their financials and future outlook. And then, I'm going to set this to 5.6 Soul Ultra and then press run. It worked for 26 minutes. Again, 5.6 Soul, especially the extra high or ultra modes, are incredibly slow, but they get the work done. After all this research and data synthesis, it gives me this final presentation. So, let me pull this up. And as you can see, this is very comprehensive. Here's the revenue growth and operating margin for all three companies. And then, here's the next slide. Here are some additional metrics for all three companies. Here is investment gains, then CAPEX. Just from an initial scan of this, the data and conclusions that it draws from this are actually very insightful. Here, you can see it deep diving into Alphabet's financials. And then, here's a deep dive on Amazon. And then finally, Nvidia. And then, here's the forward outlook for all three companies. Very interesting insights and conclusions. So, that's the full presentation. As you can see, it looks very professional. All right, next let's go over some specs, performance, and benchmarks. Now, as with most frontier models out there, this is especially designed for agentic coding and reasoning and autonomously doing some really long horizon tasks that require multiple steps or hours of work. This can keep working and working for hours until it achieves your specified goal. And if you look at this agent's last exam benchmark, and this is a benchmark that tests an AI model's ability to perform some really long professional work tasks. As you can see, the largest GPT-5.6 Soul was not only able to achieve the highest score, but also at a much cheaper price point compared to Claude Opus and Claude Fable, which is all the way down here. This is incredibly expensive and not even as performant. And similarly, if you look at this agentic coding benchmark, you can see that the largest GPT-5.6 Soul at max level or even just the extra high level is still able to outperform Claude Fable, which is over here. Not only is Claude Fable less performant, but also more expensive. In terms of this benchmark, GeneBench, which tests the model's ability on long horizon genomics tasks, you can see that GPT-5.6 Soul by far outperforms Claude Opus 4.8. And keep in mind, Fable is not on here because if you've watched my previous review on Claude Fable, it just outright refuses to answer any biology or cybersecurity related questions. It has like really strict guardrails. So, it's pretty nerfed. Whereas, you don't really get such nerfing with GPT-5.6. So, especially if you need a frontier model in like biology, GPT-5.6 is currently the best option. The crazy thing is here it says GPT-5.6 was used to accelerate OpenAI's internal research. They use it across the development loop. And as a result, it really helps accelerate their R&D. This is not surprising. Open AI and probably the other frontier AI labs already have a form of recursive R&D loop where they just get the current generation of AI models to help develop, design, and create the next generation of AI models. And this process is only going to accelerate more and more. Now, if you look at an independent leaderboard called Artificial Analysis, you can see that interestingly, GPT 5.6 Soul Max is still one point behind Claude Fable 5. However, if you look at the average price, it is way less expensive than Claude Fable, like less than half the price. So, this is way more cost-efficient compared to Claude Fable. Now, here's a really important metric, which is the Omniscience hallucination rate. This measures how often the model hallucinates. And as you can see, GPT 5.6 Soul Max is all the way over here at 89%. So, this hallucinates way more often compared to Claude Fable, which is only 55% and open-source GLM 5.2, which is only 28%. Now, this 89% doesn't mean that it hallucinates 89% of the time on average. This only means it hallucinates 89% of the questions from this benchmark. Just in, we also have the official results from this other leaderboard called Deep We. This is quite an accurate measure of how good an AI model is at long horizon software engineering tasks. And if you scroll down, as you can see, GPT 5.6 Soul Max even beats Claude Fable 5. It's currently ranked number one in this Deep We leaderboard. However, keep in mind that the confidence intervals still overlap Claude Fable 5, so it's not technically a significant difference. However, you can see that the average cost and the output tokens are way lower than Claude Fable 5. So, not only is this more performant, but it also is a lot more efficient. And if you look at this Arc AGI 2 leaderboard, you can see that GPT 5.6 also outperforms Claude Opus, which is all the way down here. Not only is this more performant, but also cheaper than the Claude models. Now, if you're not familiar with Arc-Agi-2, this basically tests an AI model's ability to solve these visual puzzles. For example, it's first given a question and answer pair. So, in this example, the answer is you need to color these blobs based on how many holes it has. Well, the AI has to kind of figure this out or learn this on the fly and then apply this new pattern in its response. It's actually really hard for current AI models to do this because once they're finished training, their model weights are fixed. Technically speaking, they can't really learn new things after training. But apparently, for Arc-Agi-2, whopping 92.5% demonstrating its kind of emergent ability to learn new things on the fly, which is really important. Now, that's just Arc-Agi-2. If you look at Arc-Agi-3, which is even harder, you can see that the rest of the frontier models, including Opus and Gemini, are all the way down here at less than 1%. But surprisingly, GPT-5.6 Soul Max scores almost 8%, which is really impressive. So, these models have a really strong emergent ability to learn new patterns or things on the fly. Now, if you look at Live Bench by Abacus AI, then you can see that the largest GPT-5.6 Soul at Max Effort does outperform Claude Fable 5, which is all the way in fourth place. It's particularly good in terms of reasoning, agent decoding, mathematics, and language. Finally, let's talk about where and how to use it. So, here it says they're rolling GPT-5.6 out in the next 24 hours on the online ChatGPT platform. Currently, only paid users can use GPT-5.6. But for ChatGPT Work and Codex, which you can download for free, note that even free users have access to GPT-5.6, but only the medium Terra model. Paid users have access to all three models, Soul, Terra, and Luna, and they can also set an effort for each. So, for example, for me, you can see that for each model, I can set the effort level all the way to Ultra. And currently, GPT 5.6 is also available via API. So, that sums up my review of GPT 5.6. This is definitely one of the smartest models you can use right now, and it's way more cost-efficient and faster than Claude Fable 5. It seems to require very minimal hand-holding. It can just get things done and work for hours and hours to achieve your goal. Let me know in the comments what you think of this. As always, I will be on the lookout for the top AI news and tools to share with you. So, if you enjoyed this video, remember to like, share, subscribe, and stay tuned for more content. Also, there's just so much happening in the world of AI every week, I can't possibly cover everything on my YouTube channel. So, to really stay up-to-date with all that's going on in AI, be sure to subscribe to my free weekly newsletter. The link to that will be in the description below. Thanks for watching, and I'll see you in the next one.",
+    "word_count": 4603,
     "error": null
   }
 }

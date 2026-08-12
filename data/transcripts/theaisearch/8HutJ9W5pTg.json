@@ -14,10 +14,4037 @@
     "video_id": "8HutJ9W5pTg",
     "has_transcript": true,
     "language": "en",
-    "is_generated": false,
-    "segments": [],
-    "full_text": "Minimax H3 installation tutorial. How to run Minimax H3 in ComfyUI #ai #aitools #aivideo \n\nTry Minimax online https://hailuoai.pxf.io/0G19e3  \nGet 10% off your first subscription with code AISEARCH\n\nCheck out the Minimax API for 2K quality boost and prompt expansion:\nhttps://platform.minimax.io/subscribe/token-plan?tab=api-enterprise\n\nRESOURCES MENTIONED:\nMinimax H3 models: https://huggingface.co/Comfy-Org/MiniMax-H3\nWorkflows and files: https://docs.comfy.org/tutorials/video/minimax/minimax-h3\n\nComfyUI tutorial: https://youtu.be/g74Cq9Ip2ik\nWan2GP tutorial: https://youtu.be/KaQbt6NYrzY\nMinimax vs Seedance: https://youtu.be/RJT19JEug38\n\nSage attention wheels https://github.com/woct0rdho/SageAttention/releases\nKJ nodes https://github.com/kijai/ComfyUI-KJNodes\nSpectrum https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3\n\nMore on license https://huggingface.co/MiniMaxAI/MiniMax-H3/discussions/12\n\nHow to find your torch and cuda version: python.exe -c \"import torch; print(torch.__version__)\n\n\n00:00 Minimax H3 intro\n00:39 Demos\n01:26 Multimodal strengths\n03:27 How to install Minimax H3\n04:40 Downloading models\n06:57 Text to video\n08:24 Image to video\n09:30 Reference to video\n12:00 Video editing\n12:50 Audio reference\n14:20 How to speed up Minimax H3\n19:50 How to speed up ref to video\n20:19 How to run with low vram\n20:51 Training loras\n21:26 License\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
-    "word_count": 0,
+    "is_generated": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "duration": 3.96,
+        "start_formatted": "00:00",
+        "text": "We have a new open source video"
+      },
+      {
+        "start": 1.88,
+        "duration": 4.44,
+        "start_formatted": "00:01",
+        "text": "generator that you can run locally on"
+      },
+      {
+        "start": 3.96,
+        "duration": 4.64,
+        "start_formatted": "00:03",
+        "text": "your computer. It's called Min Max H3"
+      },
+      {
+        "start": 6.32,
+        "duration": 4.32,
+        "start_formatted": "00:06",
+        "text": "and this is by far the best one"
+      },
+      {
+        "start": 8.6,
+        "duration": 4.68,
+        "start_formatted": "00:08",
+        "text": "available. The best thing is you can"
+      },
+      {
+        "start": 10.64,
+        "duration": 5.16,
+        "start_formatted": "00:10",
+        "text": "even run this with as low as 5 to 6 GB"
+      },
+      {
+        "start": 13.28,
+        "duration": 4.12,
+        "start_formatted": "00:13",
+        "text": "of V RAM. Plus it has audio built in and"
+      },
+      {
+        "start": 15.8,
+        "duration": 3.56,
+        "start_formatted": "00:15",
+        "text": "it's insanely good at character"
+      },
+      {
+        "start": 17.4,
+        "duration": 3.52,
+        "start_formatted": "00:17",
+        "text": "consistency, world knowledge,"
+      },
+      {
+        "start": 19.36,
+        "duration": 3.84,
+        "start_formatted": "00:19",
+        "text": "instruction following, and even"
+      },
+      {
+        "start": 20.92,
+        "duration": 4.08,
+        "start_formatted": "00:20",
+        "text": "generating and syncing to music. It's"
+      },
+      {
+        "start": 23.2,
+        "duration": 3.76,
+        "start_formatted": "00:23",
+        "text": "just way better than any other open"
+      },
+      {
+        "start": 25.0,
+        "duration": 2.96,
+        "start_formatted": "00:25",
+        "text": "model we've seen so far. In this video"
+      },
+      {
+        "start": 26.96,
+        "duration": 3.28,
+        "start_formatted": "00:26",
+        "text": "we're going to go over all the"
+      },
+      {
+        "start": 27.96,
+        "duration": 3.6,
+        "start_formatted": "00:27",
+        "text": "incredible things that it can do. Plus"
+      },
+      {
+        "start": 30.24,
+        "duration": 3.56,
+        "start_formatted": "00:30",
+        "text": "of course I'm going to show you how to"
+      },
+      {
+        "start": 31.56,
+        "duration": 4.04,
+        "start_formatted": "00:31",
+        "text": "install it on your computer so you can"
+      },
+      {
+        "start": 33.8,
+        "duration": 4.64,
+        "start_formatted": "00:33",
+        "text": "run it for free and unlimited times"
+      },
+      {
+        "start": 35.6,
+        "duration": 4.32,
+        "start_formatted": "00:35",
+        "text": "offline. Let's jump right in. First of"
+      },
+      {
+        "start": 38.44,
+        "duration": 4.0,
+        "start_formatted": "00:38",
+        "text": "all, here are some ridiculous"
+      },
+      {
+        "start": 39.92,
+        "duration": 4.6,
+        "start_formatted": "00:39",
+        "text": "generations from the open source model."
+      },
+      {
+        "start": 42.44,
+        "duration": 3.8,
+        "start_formatted": "00:42",
+        "text": "As you can see it has a ton of existing"
+      },
+      {
+        "start": 44.52,
+        "duration": 3.72,
+        "start_formatted": "00:44",
+        "text": "knowledge built in. These were just"
+      },
+      {
+        "start": 46.24,
+        "duration": 3.72,
+        "start_formatted": "00:46",
+        "text": "generated with text prompts and no image"
+      },
+      {
+        "start": 48.24,
+        "duration": 3.88,
+        "start_formatted": "00:48",
+        "text": "references. But as you can see it can do"
+      },
+      {
+        "start": 49.96,
+        "duration": 5.04,
+        "start_formatted": "00:49",
+        "text": "cartoons, it knows all these different"
+      },
+      {
+        "start": 52.12,
+        "duration": 4.96,
+        "start_formatted": "00:52",
+        "text": "characters, TV shows, and movies. It has"
+      },
+      {
+        "start": 55.0,
+        "duration": 4.44,
+        "start_formatted": "00:55",
+        "text": "no problem doing regular scenes of"
+      },
+      {
+        "start": 57.08,
+        "duration": 4.52,
+        "start_formatted": "00:57",
+        "text": "people talking or moving or even high"
+      },
+      {
+        "start": 59.44,
+        "duration": 4.56,
+        "start_formatted": "00:59",
+        "text": "action scenes. It's really good at"
+      },
+      {
+        "start": 61.6,
+        "duration": 3.96,
+        "start_formatted": "01:01",
+        "text": "understanding even unusual actions or"
+      },
+      {
+        "start": 64.0,
+        "duration": 3.72,
+        "start_formatted": "01:04",
+        "text": "prompts. Here's another really tricky"
+      },
+      {
+        "start": 65.56,
+        "duration": 4.6,
+        "start_formatted": "01:05",
+        "text": "prompt of a realistic photo but with"
+      },
+      {
+        "start": 67.72,
+        "duration": 4.4,
+        "start_formatted": "01:07",
+        "text": "hand drawn animations. It's very tricky"
+      },
+      {
+        "start": 70.16,
+        "duration": 3.96,
+        "start_formatted": "01:10",
+        "text": "but as you can see it's able to follow"
+      },
+      {
+        "start": 72.12,
+        "duration": 3.4,
+        "start_formatted": "01:12",
+        "text": "this very well. So it's absolutely"
+      },
+      {
+        "start": 74.12,
+        "duration": 3.28,
+        "start_formatted": "01:14",
+        "text": "exceptional in terms of prompt"
+      },
+      {
+        "start": 75.52,
+        "duration": 3.76,
+        "start_formatted": "01:15",
+        "text": "understanding. It's also great at"
+      },
+      {
+        "start": 77.4,
+        "duration": 4.0,
+        "start_formatted": "01:17",
+        "text": "rendering different animation styles. So"
+      },
+      {
+        "start": 79.28,
+        "duration": 4.24,
+        "start_formatted": "01:19",
+        "text": "here's a clay mation example or here's"
+      },
+      {
+        "start": 81.4,
+        "duration": 4.2,
+        "start_formatted": "01:21",
+        "text": "an anime example. In fact the awesome"
+      },
+      {
+        "start": 83.52,
+        "duration": 4.32,
+        "start_formatted": "01:23",
+        "text": "thing about Min Max is that it's multi"
+      },
+      {
+        "start": 85.6,
+        "duration": 4.08,
+        "start_formatted": "01:25",
+        "text": "modal. So this can take in images,"
+      },
+      {
+        "start": 87.84,
+        "duration": 3.88,
+        "start_formatted": "01:27",
+        "text": "video, and even audio to use as"
+      },
+      {
+        "start": 89.68,
+        "duration": 4.32,
+        "start_formatted": "01:29",
+        "text": "references in its output. Here's an"
+      },
+      {
+        "start": 91.72,
+        "duration": 3.96,
+        "start_formatted": "01:31",
+        "text": "example where we can put these three"
+      },
+      {
+        "start": 94.0,
+        "duration": 4.44,
+        "start_formatted": "01:34",
+        "text": "anime characters together and as you can"
+      },
+      {
+        "start": 95.68,
+        "duration": 4.6,
+        "start_formatted": "01:35",
+        "text": "see it's able to render a video of them"
+      },
+      {
+        "start": 98.44,
+        "duration": 4.36,
+        "start_formatted": "01:38",
+        "text": "very consistently. Plus the jiggle"
+      },
+      {
+        "start": 100.28,
+        "duration": 4.48,
+        "start_formatted": "01:40",
+        "text": "physics are also top notch. Or here we"
+      },
+      {
+        "start": 102.8,
+        "duration": 4.08,
+        "start_formatted": "01:42",
+        "text": "can easily get it to create a commercial"
+      },
+      {
+        "start": 104.76,
+        "duration": 3.72,
+        "start_formatted": "01:44",
+        "text": "from these reference images. Here's"
+      },
+      {
+        "start": 106.88,
+        "duration": 4.2,
+        "start_formatted": "01:46",
+        "text": "another example where we can generate a"
+      },
+      {
+        "start": 108.48,
+        "duration": 5.08,
+        "start_formatted": "01:48",
+        "text": "commercial from just this reference of a"
+      },
+      {
+        "start": 111.08,
+        "duration": 4.44,
+        "start_formatted": "01:51",
+        "text": "Nike shoe. Or here's a short vampire"
+      },
+      {
+        "start": 113.56,
+        "duration": 5.44,
+        "start_formatted": "01:53",
+        "text": "romance drama with these two reference"
+      },
+      {
+        "start": 115.52,
+        "duration": 3.48,
+        "start_formatted": "01:55",
+        "text": "characters and this background."
+      },
+      {
+        "start": 120.12,
+        "duration": 2.6,
+        "start_formatted": "02:00",
+        "text": ">> Hello."
+      },
+      {
+        "start": 121.28,
+        "duration": 2.28,
+        "start_formatted": "02:01",
+        "text": ">> You should not be here."
+      },
+      {
+        "start": 122.72,
+        "duration": 2.8,
+        "start_formatted": "02:02",
+        "text": ">> Who are you?"
+      },
+      {
+        "start": 123.56,
+        "duration": 3.4,
+        "start_formatted": "02:03",
+        "text": ">> The man who owns this house."
+      },
+      {
+        "start": 125.52,
+        "duration": 3.599,
+        "start_formatted": "02:05",
+        "text": ">> You're not human."
+      },
+      {
+        "start": 126.96,
+        "duration": 3.96,
+        "start_formatted": "02:06",
+        "text": ">> And you smell like war."
+      },
+      {
+        "start": 129.119,
+        "duration": 2.801,
+        "start_formatted": "02:09",
+        "text": ">> I'm not afraid of you."
+      },
+      {
+        "start": 130.92,
+        "duration": 2.6,
+        "start_formatted": "02:10",
+        "text": ">> Then you should be."
+      },
+      {
+        "start": 131.92,
+        "duration": 3.6,
+        "start_formatted": "02:11",
+        "text": ">> It also seems to be very good at"
+      },
+      {
+        "start": 133.52,
+        "duration": 3.6,
+        "start_formatted": "02:13",
+        "text": "generating text and interfaces. So,"
+      },
+      {
+        "start": 135.52,
+        "duration": 3.439,
+        "start_formatted": "02:15",
+        "text": "here's an example where I upload a"
+      },
+      {
+        "start": 137.12,
+        "duration": 3.92,
+        "start_formatted": "02:17",
+        "text": "screenshot from this website and it's"
+      },
+      {
+        "start": 138.959,
+        "duration": 4.561,
+        "start_formatted": "02:18",
+        "text": "able to make an animation from this very"
+      },
+      {
+        "start": 141.04,
+        "duration": 4.52,
+        "start_formatted": "02:21",
+        "text": "well. This is also surprisingly good at"
+      },
+      {
+        "start": 143.52,
+        "duration": 4.08,
+        "start_formatted": "02:23",
+        "text": "creating gameplay scenes. We can just"
+      },
+      {
+        "start": 145.56,
+        "duration": 3.92,
+        "start_formatted": "02:25",
+        "text": "upload a screenshot of this first-person"
+      },
+      {
+        "start": 147.6,
+        "duration": 3.88,
+        "start_formatted": "02:27",
+        "text": "shooter and get it to generate some"
+      },
+      {
+        "start": 149.48,
+        "duration": 4.04,
+        "start_formatted": "02:29",
+        "text": "footage of the game. So, this can"
+      },
+      {
+        "start": 151.48,
+        "duration": 3.88,
+        "start_formatted": "02:31",
+        "text": "potentially be very useful for game"
+      },
+      {
+        "start": 153.52,
+        "duration": 3.96,
+        "start_formatted": "02:33",
+        "text": "design and ideation. Here's a more"
+      },
+      {
+        "start": 155.36,
+        "duration": 3.48,
+        "start_formatted": "02:35",
+        "text": "complicated example where I can upload a"
+      },
+      {
+        "start": 157.48,
+        "duration": 4.6,
+        "start_formatted": "02:37",
+        "text": "video of this man walking down the"
+      },
+      {
+        "start": 158.84,
+        "duration": 4.84,
+        "start_formatted": "02:38",
+        "text": "street plus some voxel image references"
+      },
+      {
+        "start": 162.08,
+        "duration": 3.56,
+        "start_formatted": "02:42",
+        "text": "and it's able to transform the scene"
+      },
+      {
+        "start": 163.68,
+        "duration": 3.68,
+        "start_formatted": "02:43",
+        "text": "with these voxel elements. Or here's"
+      },
+      {
+        "start": 165.64,
+        "duration": 3.88,
+        "start_formatted": "02:45",
+        "text": "another example where we can copy all"
+      },
+      {
+        "start": 167.36,
+        "duration": 4.4,
+        "start_formatted": "02:47",
+        "text": "the actions from a reference video on to"
+      },
+      {
+        "start": 169.52,
+        "duration": 4.6,
+        "start_formatted": "02:49",
+        "text": "a new video with different characters"
+      },
+      {
+        "start": 171.76,
+        "duration": 4.56,
+        "start_formatted": "02:51",
+        "text": "based on a reference image. You can also"
+      },
+      {
+        "start": 174.12,
+        "duration": 3.96,
+        "start_formatted": "02:54",
+        "text": "add or remove characters and objects in"
+      },
+      {
+        "start": 176.32,
+        "duration": 3.6,
+        "start_formatted": "02:56",
+        "text": "an existing video, as you can see from"
+      },
+      {
+        "start": 178.08,
+        "duration": 3.32,
+        "start_formatted": "02:58",
+        "text": "this example. It's able to understand"
+      },
+      {
+        "start": 179.92,
+        "duration": 3.319,
+        "start_formatted": "02:59",
+        "text": "and detect one of these characters and"
+      },
+      {
+        "start": 181.4,
+        "duration": 3.44,
+        "start_formatted": "03:01",
+        "text": "make a clone of them. Or here's another"
+      },
+      {
+        "start": 183.239,
+        "duration": 4.121,
+        "start_formatted": "03:03",
+        "text": "example where we can prompt it to"
+      },
+      {
+        "start": 184.84,
+        "duration": 4.64,
+        "start_formatted": "03:04",
+        "text": "replace the scenery with this image"
+      },
+      {
+        "start": 187.36,
+        "duration": 4.72,
+        "start_formatted": "03:07",
+        "text": "after the person opens the blinds. And"
+      },
+      {
+        "start": 189.48,
+        "duration": 4.64,
+        "start_formatted": "03:09",
+        "text": "it's able to execute this flawlessly."
+      },
+      {
+        "start": 192.08,
+        "duration": 4.6,
+        "start_formatted": "03:12",
+        "text": "It's basically like an open-source"
+      },
+      {
+        "start": 194.12,
+        "duration": 4.04,
+        "start_formatted": "03:14",
+        "text": "Gemini Omni. So, those are some demos of"
+      },
+      {
+        "start": 196.68,
+        "duration": 3.6,
+        "start_formatted": "03:16",
+        "text": "all the incredible things that it can"
+      },
+      {
+        "start": 198.16,
+        "duration": 5.2,
+        "start_formatted": "03:18",
+        "text": "do. Hopefully, this gives you a sense of"
+      },
+      {
+        "start": 200.28,
+        "duration": 4.44,
+        "start_formatted": "03:20",
+        "text": "how flexible and powerful MiniMax is. I"
+      },
+      {
+        "start": 203.36,
+        "duration": 3.84,
+        "start_formatted": "03:23",
+        "text": "really can't believe they're just"
+      },
+      {
+        "start": 204.72,
+        "duration": 4.44,
+        "start_formatted": "03:24",
+        "text": "open-sourcing this for us for free."
+      },
+      {
+        "start": 207.2,
+        "duration": 4.16,
+        "start_formatted": "03:27",
+        "text": "Anyway, next let's go over how to"
+      },
+      {
+        "start": 209.16,
+        "duration": 4.32,
+        "start_formatted": "03:29",
+        "text": "install this. So, in this video, we are"
+      },
+      {
+        "start": 211.36,
+        "duration": 4.599,
+        "start_formatted": "03:31",
+        "text": "going to use a platform called ComfyUI"
+      },
+      {
+        "start": 213.48,
+        "duration": 4.56,
+        "start_formatted": "03:33",
+        "text": "to run MiniMax H3. This is one of the"
+      },
+      {
+        "start": 215.959,
+        "duration": 3.641,
+        "start_formatted": "03:35",
+        "text": "most popular platforms for running"
+      },
+      {
+        "start": 218.04,
+        "duration": 4.08,
+        "start_formatted": "03:38",
+        "text": "open-source image, video, and audio"
+      },
+      {
+        "start": 219.6,
+        "duration": 4.08,
+        "start_formatted": "03:39",
+        "text": "generators locally on your computer. So,"
+      },
+      {
+        "start": 222.12,
+        "duration": 3.68,
+        "start_formatted": "03:42",
+        "text": "if you're not familiar with ComfyUI,"
+      },
+      {
+        "start": 223.68,
+        "duration": 4.4,
+        "start_formatted": "03:43",
+        "text": "definitely see this video first where I"
+      },
+      {
+        "start": 225.8,
+        "duration": 4.32,
+        "start_formatted": "03:45",
+        "text": "go over how to install and use it. Now,"
+      },
+      {
+        "start": 228.08,
+        "duration": 3.76,
+        "start_formatted": "03:48",
+        "text": "assuming you do have ComfyUI, the first"
+      },
+      {
+        "start": 230.12,
+        "duration": 3.4,
+        "start_formatted": "03:50",
+        "text": "thing you should do is within your"
+      },
+      {
+        "start": 231.84,
+        "duration": 4.32,
+        "start_formatted": "03:51",
+        "text": "comfyUI folder, double click on this"
+      },
+      {
+        "start": 233.52,
+        "duration": 5.2,
+        "start_formatted": "03:53",
+        "text": "update folder, and then run this update"
+      },
+      {
+        "start": 236.16,
+        "duration": 4.48,
+        "start_formatted": "03:56",
+        "text": "comfyUI.bat file. This will update your"
+      },
+      {
+        "start": 238.72,
+        "duration": 4.2,
+        "start_formatted": "03:58",
+        "text": "comfy to the latest version. All right,"
+      },
+      {
+        "start": 240.64,
+        "duration": 4.0,
+        "start_formatted": "04:00",
+        "text": "after updating, it says press any key to"
+      },
+      {
+        "start": 242.92,
+        "duration": 3.76,
+        "start_formatted": "04:02",
+        "text": "continue, and it'll just automatically"
+      },
+      {
+        "start": 244.64,
+        "duration": 3.92,
+        "start_formatted": "04:04",
+        "text": "exit the terminal. Next, we can start up"
+      },
+      {
+        "start": 246.68,
+        "duration": 4.279,
+        "start_formatted": "04:06",
+        "text": "comfyUI. All right, after opening up"
+      },
+      {
+        "start": 248.56,
+        "duration": 5.04,
+        "start_formatted": "04:08",
+        "text": "comfyUI, simply click on templates on"
+      },
+      {
+        "start": 250.959,
+        "duration": 4.921,
+        "start_formatted": "04:10",
+        "text": "the left sidebar, and then search for"
+      },
+      {
+        "start": 253.6,
+        "duration": 4.8,
+        "start_formatted": "04:13",
+        "text": "Minimax at the top, and you should be"
+      },
+      {
+        "start": 255.88,
+        "duration": 4.44,
+        "start_formatted": "04:15",
+        "text": "able to see a few different workflows."
+      },
+      {
+        "start": 258.4,
+        "duration": 4.2,
+        "start_formatted": "04:18",
+        "text": "Now, in case you don't see these"
+      },
+      {
+        "start": 260.32,
+        "duration": 3.96,
+        "start_formatted": "04:20",
+        "text": "workflows for whatever reason, I'll also"
+      },
+      {
+        "start": 262.6,
+        "duration": 4.24,
+        "start_formatted": "04:22",
+        "text": "link to this page in the description"
+      },
+      {
+        "start": 264.28,
+        "duration": 4.16,
+        "start_formatted": "04:24",
+        "text": "below, where you can manually download"
+      },
+      {
+        "start": 266.84,
+        "duration": 3.64,
+        "start_formatted": "04:26",
+        "text": "the workflow and then just drag and drop"
+      },
+      {
+        "start": 268.44,
+        "duration": 3.92,
+        "start_formatted": "04:28",
+        "text": "it onto your comfyUI interface. Note"
+      },
+      {
+        "start": 270.48,
+        "duration": 3.56,
+        "start_formatted": "04:30",
+        "text": "that some of these have the API tag,"
+      },
+      {
+        "start": 272.36,
+        "duration": 3.2,
+        "start_formatted": "04:32",
+        "text": "which means you're actually running"
+      },
+      {
+        "start": 274.04,
+        "duration": 3.48,
+        "start_formatted": "04:34",
+        "text": "Minimax from the cloud instead of"
+      },
+      {
+        "start": 275.56,
+        "duration": 3.72,
+        "start_formatted": "04:35",
+        "text": "locally, so ignore those ones. What we"
+      },
+      {
+        "start": 277.52,
+        "duration": 3.92,
+        "start_formatted": "04:37",
+        "text": "are going to focus on are these bottom"
+      },
+      {
+        "start": 279.28,
+        "duration": 4.28,
+        "start_formatted": "04:39",
+        "text": "ones: text to video, image to video, and"
+      },
+      {
+        "start": 281.44,
+        "duration": 4.0,
+        "start_formatted": "04:41",
+        "text": "reference to video. Let's go over text"
+      },
+      {
+        "start": 283.56,
+        "duration": 4.2,
+        "start_formatted": "04:43",
+        "text": "to video first. So, let me click on this"
+      },
+      {
+        "start": 285.44,
+        "duration": 4.6,
+        "start_formatted": "04:45",
+        "text": "to open up the workflow, and here it"
+      },
+      {
+        "start": 287.76,
+        "duration": 4.88,
+        "start_formatted": "04:47",
+        "text": "says it has found two errors. So, let's"
+      },
+      {
+        "start": 290.04,
+        "duration": 4.44,
+        "start_formatted": "04:50",
+        "text": "view the details, and here it says it's"
+      },
+      {
+        "start": 292.64,
+        "duration": 3.6,
+        "start_formatted": "04:52",
+        "text": "missing some models. So, first of all,"
+      },
+      {
+        "start": 294.48,
+        "duration": 3.84,
+        "start_formatted": "04:54",
+        "text": "we need to download all the models for"
+      },
+      {
+        "start": 296.24,
+        "duration": 4.04,
+        "start_formatted": "04:56",
+        "text": "this to work. So, I will link to this"
+      },
+      {
+        "start": 298.32,
+        "duration": 3.16,
+        "start_formatted": "04:58",
+        "text": "page in the description below, and you"
+      },
+      {
+        "start": 300.28,
+        "duration": 2.8,
+        "start_formatted": "05:00",
+        "text": "just got to click into each of these"
+      },
+      {
+        "start": 301.48,
+        "duration": 3.72,
+        "start_formatted": "05:01",
+        "text": "folders and download the appropriate"
+      },
+      {
+        "start": 303.08,
+        "duration": 4.12,
+        "start_formatted": "05:03",
+        "text": "model for your computer. Let's click"
+      },
+      {
+        "start": 305.2,
+        "duration": 5.08,
+        "start_formatted": "05:05",
+        "text": "into diffusion models first, and here"
+      },
+      {
+        "start": 307.2,
+        "duration": 5.32,
+        "start_formatted": "05:07",
+        "text": "this first Minimax model called FL2VA,"
+      },
+      {
+        "start": 310.28,
+        "duration": 4.32,
+        "start_formatted": "05:10",
+        "text": "this is basically for text video and"
+      },
+      {
+        "start": 312.52,
+        "duration": 4.36,
+        "start_formatted": "05:12",
+        "text": "image to video. And then, this bottom"
+      },
+      {
+        "start": 314.6,
+        "duration": 3.72,
+        "start_formatted": "05:14",
+        "text": "one, Ref2VA, this is for reference to"
+      },
+      {
+        "start": 316.88,
+        "duration": 3.56,
+        "start_formatted": "05:16",
+        "text": "video. So, I'm going to show you some"
+      },
+      {
+        "start": 318.32,
+        "duration": 3.72,
+        "start_formatted": "05:18",
+        "text": "text video and image to video examples"
+      },
+      {
+        "start": 320.44,
+        "duration": 4.0,
+        "start_formatted": "05:20",
+        "text": "first. So, we're going to download one"
+      },
+      {
+        "start": 322.04,
+        "duration": 4.44,
+        "start_formatted": "05:22",
+        "text": "of these ones. Now, the full model is 66"
+      },
+      {
+        "start": 324.44,
+        "duration": 4.0,
+        "start_formatted": "05:24",
+        "text": "GB, which would probably not fit for"
+      },
+      {
+        "start": 326.48,
+        "duration": 4.28,
+        "start_formatted": "05:26",
+        "text": "most of you. There's also an INT8"
+      },
+      {
+        "start": 328.44,
+        "duration": 4.76,
+        "start_formatted": "05:28",
+        "text": "version, which is 34 GB, and then a"
+      },
+      {
+        "start": 330.76,
+        "duration": 4.76,
+        "start_formatted": "05:30",
+        "text": "pruned FP8 version or a pruned INT8"
+      },
+      {
+        "start": 333.2,
+        "duration": 4.16,
+        "start_formatted": "05:33",
+        "text": "version, which is 21 GB. The nice thing"
+      },
+      {
+        "start": 335.52,
+        "duration": 4.96,
+        "start_formatted": "05:35",
+        "text": "is some users have reported that these"
+      },
+      {
+        "start": 337.36,
+        "duration": 5.32,
+        "start_formatted": "05:37",
+        "text": "models work on as low as just 12 GB of"
+      },
+      {
+        "start": 340.48,
+        "duration": 3.68,
+        "start_formatted": "05:40",
+        "text": "VRAM. And if you have even lower VRAM,"
+      },
+      {
+        "start": 342.68,
+        "duration": 3.4,
+        "start_formatted": "05:42",
+        "text": "don't worry, I'll show you some other"
+      },
+      {
+        "start": 344.16,
+        "duration": 4.32,
+        "start_formatted": "05:44",
+        "text": "options you can use later in the video."
+      },
+      {
+        "start": 346.08,
+        "duration": 4.24,
+        "start_formatted": "05:46",
+        "text": "Now, note that the largest full model is"
+      },
+      {
+        "start": 348.48,
+        "duration": 3.68,
+        "start_formatted": "05:48",
+        "text": "the highest quality, and as it gets more"
+      },
+      {
+        "start": 350.32,
+        "duration": 3.6,
+        "start_formatted": "05:50",
+        "text": "compressed, there is some sacrifice in"
+      },
+      {
+        "start": 352.16,
+        "duration": 3.32,
+        "start_formatted": "05:52",
+        "text": "quality, but it's still very good."
+      },
+      {
+        "start": 353.92,
+        "duration": 3.6,
+        "start_formatted": "05:53",
+        "text": "Anyways, download the version that works"
+      },
+      {
+        "start": 355.48,
+        "duration": 4.0,
+        "start_formatted": "05:55",
+        "text": "on your hardware. Since I have a more"
+      },
+      {
+        "start": 357.52,
+        "duration": 4.88,
+        "start_formatted": "05:57",
+        "text": "recent Nvidia GPU, I'm going to download"
+      },
+      {
+        "start": 359.48,
+        "duration": 5.6,
+        "start_formatted": "05:59",
+        "text": "this FP8 one. And this goes in ComfyUI,"
+      },
+      {
+        "start": 362.4,
+        "duration": 4.52,
+        "start_formatted": "06:02",
+        "text": "in models, and then in diffusion models."
+      },
+      {
+        "start": 365.08,
+        "duration": 3.84,
+        "start_formatted": "06:05",
+        "text": "Let's click save. All right, afterwards,"
+      },
+      {
+        "start": 366.92,
+        "duration": 3.96,
+        "start_formatted": "06:06",
+        "text": "let's go back to the root folder, and"
+      },
+      {
+        "start": 368.92,
+        "duration": 3.76,
+        "start_formatted": "06:08",
+        "text": "then next we also need to download a"
+      },
+      {
+        "start": 370.88,
+        "duration": 3.96,
+        "start_formatted": "06:10",
+        "text": "text encoder. So, this uses"
+      },
+      {
+        "start": 372.68,
+        "duration": 4.2,
+        "start_formatted": "06:12",
+        "text": "Qwen-3-VL-32B"
+      },
+      {
+        "start": 374.84,
+        "duration": 3.92,
+        "start_formatted": "06:14",
+        "text": "as the text encoder. Again, you are"
+      },
+      {
+        "start": 376.88,
+        "duration": 3.4,
+        "start_formatted": "06:16",
+        "text": "given three different versions with"
+      },
+      {
+        "start": 378.76,
+        "duration": 3.48,
+        "start_formatted": "06:18",
+        "text": "different compression. Choose the one"
+      },
+      {
+        "start": 380.28,
+        "duration": 3.48,
+        "start_formatted": "06:20",
+        "text": "that would fit on your device. Now, for"
+      },
+      {
+        "start": 382.24,
+        "duration": 3.48,
+        "start_formatted": "06:22",
+        "text": "the text encoder, this doesn't have to"
+      },
+      {
+        "start": 383.76,
+        "duration": 3.44,
+        "start_formatted": "06:23",
+        "text": "fit on your VRAM. This can also just fit"
+      },
+      {
+        "start": 385.72,
+        "duration": 3.0,
+        "start_formatted": "06:25",
+        "text": "on your RAM. Anyways, this is what I'm"
+      },
+      {
+        "start": 387.2,
+        "duration": 3.92,
+        "start_formatted": "06:27",
+        "text": "going to download, so let's click on"
+      },
+      {
+        "start": 388.72,
+        "duration": 4.92,
+        "start_formatted": "06:28",
+        "text": "download. And this goes in ComfyUI, in"
+      },
+      {
+        "start": 391.12,
+        "duration": 4.56,
+        "start_formatted": "06:31",
+        "text": "models, and then text encoders. Let's"
+      },
+      {
+        "start": 393.64,
+        "duration": 4.2,
+        "start_formatted": "06:33",
+        "text": "click save. All right, finally, we also"
+      },
+      {
+        "start": 395.68,
+        "duration": 3.68,
+        "start_formatted": "06:35",
+        "text": "need to download the VAE. So, let's"
+      },
+      {
+        "start": 397.84,
+        "duration": 3.6,
+        "start_formatted": "06:37",
+        "text": "click on this, and then we need to"
+      },
+      {
+        "start": 399.36,
+        "duration": 4.24,
+        "start_formatted": "06:39",
+        "text": "download both the audio VAE and the"
+      },
+      {
+        "start": 401.44,
+        "duration": 4.92,
+        "start_formatted": "06:41",
+        "text": "video VAE. So, let's proceed to download"
+      },
+      {
+        "start": 403.6,
+        "duration": 5.28,
+        "start_formatted": "06:43",
+        "text": "both. Both of these go in ComfyUI, in"
+      },
+      {
+        "start": 406.36,
+        "duration": 4.559,
+        "start_formatted": "06:46",
+        "text": "models, and then VAE. Let me also"
+      },
+      {
+        "start": 408.88,
+        "duration": 3.88,
+        "start_formatted": "06:48",
+        "text": "download the second one in the same"
+      },
+      {
+        "start": 410.919,
+        "duration": 3.601,
+        "start_formatted": "06:50",
+        "text": "folder. All right, after downloading"
+      },
+      {
+        "start": 412.76,
+        "duration": 5.04,
+        "start_formatted": "06:52",
+        "text": "everything, let's go back to our"
+      },
+      {
+        "start": 414.52,
+        "duration": 5.16,
+        "start_formatted": "06:54",
+        "text": "workflow, and let's press R to refresh"
+      },
+      {
+        "start": 417.8,
+        "duration": 3.4,
+        "start_formatted": "06:57",
+        "text": "our model list, and then over here is"
+      },
+      {
+        "start": 419.68,
+        "duration": 3.44,
+        "start_formatted": "06:59",
+        "text": "where we can open up each of these"
+      },
+      {
+        "start": 421.2,
+        "duration": 4.24,
+        "start_formatted": "07:01",
+        "text": "drop-downs to select the model that we"
+      },
+      {
+        "start": 423.12,
+        "duration": 4.04,
+        "start_formatted": "07:03",
+        "text": "just downloaded. So, for example, for"
+      },
+      {
+        "start": 425.44,
+        "duration": 4.12,
+        "start_formatted": "07:05",
+        "text": "the UNet, I'm going to select this"
+      },
+      {
+        "start": 427.16,
+        "duration": 5.92,
+        "start_formatted": "07:07",
+        "text": "MiniMax FP8. For the clip name, I'm"
+      },
+      {
+        "start": 429.56,
+        "duration": 5.6,
+        "start_formatted": "07:09",
+        "text": "going to select Qwen-3-VL-32B."
+      },
+      {
+        "start": 433.08,
+        "duration": 4.36,
+        "start_formatted": "07:13",
+        "text": "And then for VAE, I'm going to select"
+      },
+      {
+        "start": 435.16,
+        "duration": 3.92,
+        "start_formatted": "07:15",
+        "text": "this one. For audio, let's go with this"
+      },
+      {
+        "start": 437.44,
+        "duration": 3.32,
+        "start_formatted": "07:17",
+        "text": "one. And that's pretty much it. It"
+      },
+      {
+        "start": 439.08,
+        "duration": 3.44,
+        "start_formatted": "07:19",
+        "text": "should remove all the errors and the red"
+      },
+      {
+        "start": 440.76,
+        "duration": 3.159,
+        "start_formatted": "07:20",
+        "text": "outline from this node. And then"
+      },
+      {
+        "start": 442.52,
+        "duration": 3.48,
+        "start_formatted": "07:22",
+        "text": "afterwards, here are some additional"
+      },
+      {
+        "start": 443.919,
+        "duration": 4.201,
+        "start_formatted": "07:23",
+        "text": "settings you can set. So, you can choose"
+      },
+      {
+        "start": 446.0,
+        "duration": 4.52,
+        "start_formatted": "07:26",
+        "text": "from all these different aspect ratios."
+      },
+      {
+        "start": 448.12,
+        "duration": 5.24,
+        "start_formatted": "07:28",
+        "text": "For megapixels, you can refer to this"
+      },
+      {
+        "start": 450.52,
+        "duration": 5.28,
+        "start_formatted": "07:30",
+        "text": "table over here. So, for a 480p video,"
+      },
+      {
+        "start": 453.36,
+        "duration": 4.4,
+        "start_formatted": "07:33",
+        "text": "it'll be 0.4 megapixels. And you can set"
+      },
+      {
+        "start": 455.8,
+        "duration": 3.88,
+        "start_formatted": "07:35",
+        "text": "the duration over here. Now, if you"
+      },
+      {
+        "start": 457.76,
+        "duration": 3.8,
+        "start_formatted": "07:37",
+        "text": "click on this button to expand this"
+      },
+      {
+        "start": 459.68,
+        "duration": 3.88,
+        "start_formatted": "07:39",
+        "text": "workflow, notice that it actually looks"
+      },
+      {
+        "start": 461.56,
+        "duration": 4.08,
+        "start_formatted": "07:41",
+        "text": "like this. And here are some additional"
+      },
+      {
+        "start": 463.56,
+        "duration": 3.84,
+        "start_formatted": "07:43",
+        "text": "settings you can set like the sampler"
+      },
+      {
+        "start": 465.64,
+        "duration": 3.44,
+        "start_formatted": "07:45",
+        "text": "and the scheduler, which are basically"
+      },
+      {
+        "start": 467.4,
+        "duration": 3.08,
+        "start_formatted": "07:47",
+        "text": "the algorithms used to generate the"
+      },
+      {
+        "start": 469.08,
+        "duration": 3.2,
+        "start_formatted": "07:49",
+        "text": "video. I would just leave this at the"
+      },
+      {
+        "start": 470.48,
+        "duration": 3.56,
+        "start_formatted": "07:50",
+        "text": "default, and then this is the number of"
+      },
+      {
+        "start": 472.28,
+        "duration": 3.08,
+        "start_formatted": "07:52",
+        "text": "steps it takes to generate the video."
+      },
+      {
+        "start": 474.04,
+        "duration": 3.32,
+        "start_formatted": "07:54",
+        "text": "Again, I would just leave this at the"
+      },
+      {
+        "start": 475.36,
+        "duration": 3.56,
+        "start_formatted": "07:55",
+        "text": "default of 20 steps for now. All right,"
+      },
+      {
+        "start": 477.36,
+        "duration": 3.76,
+        "start_formatted": "07:57",
+        "text": "so to collapse the workflow, simply"
+      },
+      {
+        "start": 478.92,
+        "duration": 4.36,
+        "start_formatted": "07:58",
+        "text": "click on the parent component up here,"
+      },
+      {
+        "start": 481.12,
+        "duration": 3.68,
+        "start_formatted": "08:01",
+        "text": "which takes you back to this compressed"
+      },
+      {
+        "start": 483.28,
+        "duration": 2.96,
+        "start_formatted": "08:03",
+        "text": "workflow. And that's pretty much it."
+      },
+      {
+        "start": 484.8,
+        "duration": 3.6,
+        "start_formatted": "08:04",
+        "text": "Let's press run. All right, so that"
+      },
+      {
+        "start": 486.24,
+        "duration": 4.32,
+        "start_formatted": "08:06",
+        "text": "wasn't too bad. It took around a minute"
+      },
+      {
+        "start": 488.4,
+        "duration": 5.92,
+        "start_formatted": "08:08",
+        "text": "per second, and here's the generation."
+      },
+      {
+        "start": 490.56,
+        "duration": 3.76,
+        "start_formatted": "08:10",
+        "text": "Notice that this has audio built in."
+      },
+      {
+        "start": 495.185,
+        "duration": 2.02,
+        "start_formatted": "08:15",
+        "text": ">> [music]"
+      },
+      {
+        "start": 497.68,
+        "duration": 3.64,
+        "start_formatted": "08:17",
+        "text": ">> And note that this is automatically"
+      },
+      {
+        "start": 499.04,
+        "duration": 4.2,
+        "start_formatted": "08:19",
+        "text": "saved in your video folder within the"
+      },
+      {
+        "start": 501.32,
+        "duration": 3.96,
+        "start_formatted": "08:21",
+        "text": "output folder. All right, so that's text"
+      },
+      {
+        "start": 503.24,
+        "duration": 4.04,
+        "start_formatted": "08:23",
+        "text": "to video. Next, let's go over an image"
+      },
+      {
+        "start": 505.28,
+        "duration": 3.88,
+        "start_formatted": "08:25",
+        "text": "to video example. So, again, let me pull"
+      },
+      {
+        "start": 507.28,
+        "duration": 3.88,
+        "start_formatted": "08:27",
+        "text": "up templates and then search for Min"
+      },
+      {
+        "start": 509.16,
+        "duration": 3.52,
+        "start_formatted": "08:29",
+        "text": "Max, and then let's select this one,"
+      },
+      {
+        "start": 511.16,
+        "duration": 3.68,
+        "start_formatted": "08:31",
+        "text": "image to video. Again, make sure you"
+      },
+      {
+        "start": 512.68,
+        "duration": 4.32,
+        "start_formatted": "08:32",
+        "text": "select the one that does not have an API"
+      },
+      {
+        "start": 514.84,
+        "duration": 3.56,
+        "start_formatted": "08:34",
+        "text": "tag. So, the workflow will look like"
+      },
+      {
+        "start": 517.0,
+        "duration": 3.039,
+        "start_formatted": "08:37",
+        "text": "this. Now, since we've already"
+      },
+      {
+        "start": 518.4,
+        "duration": 3.0,
+        "start_formatted": "08:38",
+        "text": "downloaded the models from the previous"
+      },
+      {
+        "start": 520.039,
+        "duration": 3.161,
+        "start_formatted": "08:40",
+        "text": "step, we just need to load the models"
+      },
+      {
+        "start": 521.4,
+        "duration": 3.439,
+        "start_formatted": "08:41",
+        "text": "down here. Let me select the model that"
+      },
+      {
+        "start": 523.2,
+        "duration": 4.72,
+        "start_formatted": "08:43",
+        "text": "I downloaded. For the text encoder,"
+      },
+      {
+        "start": 524.839,
+        "duration": 5.0,
+        "start_formatted": "08:44",
+        "text": "it'll be Qwen VL 32B, and after"
+      },
+      {
+        "start": 527.92,
+        "duration": 3.64,
+        "start_formatted": "08:47",
+        "text": "selecting the models, this red outline"
+      },
+      {
+        "start": 529.839,
+        "duration": 4.561,
+        "start_formatted": "08:49",
+        "text": "should be gone. And then here's where we"
+      },
+      {
+        "start": 531.56,
+        "duration": 4.72,
+        "start_formatted": "08:51",
+        "text": "upload an image. So, let me upload this"
+      },
+      {
+        "start": 534.4,
+        "duration": 4.6,
+        "start_formatted": "08:54",
+        "text": "image, and then for the aspect ratio,"
+      },
+      {
+        "start": 536.28,
+        "duration": 5.68,
+        "start_formatted": "08:56",
+        "text": "let's set it to 16:9, and then again at"
+      },
+      {
+        "start": 539.0,
+        "duration": 5.36,
+        "start_formatted": "08:59",
+        "text": "480p. You can also choose the method on"
+      },
+      {
+        "start": 541.96,
+        "duration": 3.56,
+        "start_formatted": "09:01",
+        "text": "how you want to rescale the image. For"
+      },
+      {
+        "start": 544.36,
+        "duration": 3.479,
+        "start_formatted": "09:04",
+        "text": "me, I just tend to leave it at the"
+      },
+      {
+        "start": 545.52,
+        "duration": 4.04,
+        "start_formatted": "09:05",
+        "text": "default of nearest exact, which works"
+      },
+      {
+        "start": 547.839,
+        "duration": 3.801,
+        "start_formatted": "09:07",
+        "text": "very well. And then again, over here, I"
+      },
+      {
+        "start": 549.56,
+        "duration": 3.56,
+        "start_formatted": "09:09",
+        "text": "can set the duration. And let me just"
+      },
+      {
+        "start": 551.64,
+        "duration": 3.52,
+        "start_formatted": "09:11",
+        "text": "add a simple prompt here, and that's"
+      },
+      {
+        "start": 553.12,
+        "duration": 3.76,
+        "start_formatted": "09:13",
+        "text": "pretty much it. Let's press run. All"
+      },
+      {
+        "start": 555.16,
+        "duration": 3.84,
+        "start_formatted": "09:15",
+        "text": "right, so that again took around 5"
+      },
+      {
+        "start": 556.88,
+        "duration": 5.08,
+        "start_formatted": "09:16",
+        "text": "minutes, so around a minute per second."
+      },
+      {
+        "start": 559.0,
+        "duration": 2.96,
+        "start_formatted": "09:19",
+        "text": "Here's the result."
+      },
+      {
+        "start": 565.56,
+        "duration": 5.0,
+        "start_formatted": "09:25",
+        "text": "All right, so that's image to video."
+      },
+      {
+        "start": 567.8,
+        "duration": 5.36,
+        "start_formatted": "09:27",
+        "text": "Next, let's go over the third and final"
+      },
+      {
+        "start": 570.56,
+        "duration": 4.76,
+        "start_formatted": "09:30",
+        "text": "workflow, which is reference to video."
+      },
+      {
+        "start": 573.16,
+        "duration": 4.08,
+        "start_formatted": "09:33",
+        "text": "This is the most powerful workflow you"
+      },
+      {
+        "start": 575.32,
+        "duration": 4.32,
+        "start_formatted": "09:35",
+        "text": "can use. So, let me first click into the"
+      },
+      {
+        "start": 577.24,
+        "duration": 4.68,
+        "start_formatted": "09:37",
+        "text": "workflow, and once you click into it,"
+      },
+      {
+        "start": 579.64,
+        "duration": 5.32,
+        "start_formatted": "09:39",
+        "text": "again, you might see some errors and"
+      },
+      {
+        "start": 581.92,
+        "duration": 5.04,
+        "start_formatted": "09:41",
+        "text": "missing models. So, let's go ahead and"
+      },
+      {
+        "start": 584.96,
+        "duration": 4.16,
+        "start_formatted": "09:44",
+        "text": "fix all these red outlines. Now, for"
+      },
+      {
+        "start": 586.96,
+        "duration": 4.0,
+        "start_formatted": "09:46",
+        "text": "this reference to video workflow, for"
+      },
+      {
+        "start": 589.12,
+        "duration": 4.68,
+        "start_formatted": "09:49",
+        "text": "the load diffusion model, make sure you"
+      },
+      {
+        "start": 590.96,
+        "duration": 5.48,
+        "start_formatted": "09:50",
+        "text": "download one of these four models. The"
+      },
+      {
+        "start": 593.8,
+        "duration": 4.76,
+        "start_formatted": "09:53",
+        "text": "lowest prune versions are like 21 GB,"
+      },
+      {
+        "start": 596.44,
+        "duration": 4.68,
+        "start_formatted": "09:56",
+        "text": "and some users have reported to even"
+      },
+      {
+        "start": 598.56,
+        "duration": 4.4,
+        "start_formatted": "09:58",
+        "text": "successfully run this on as low as 12 GB"
+      },
+      {
+        "start": 601.12,
+        "duration": 3.72,
+        "start_formatted": "10:01",
+        "text": "of VRAM. Anyways, for me, I'm going to"
+      },
+      {
+        "start": 602.96,
+        "duration": 3.44,
+        "start_formatted": "10:02",
+        "text": "download this FP8 version, so let's"
+      },
+      {
+        "start": 604.84,
+        "duration": 4.0,
+        "start_formatted": "10:04",
+        "text": "click download, and this goes in"
+      },
+      {
+        "start": 606.4,
+        "duration": 4.92,
+        "start_formatted": "10:06",
+        "text": "ComfyUI, in models, and then in"
+      },
+      {
+        "start": 608.84,
+        "duration": 4.28,
+        "start_formatted": "10:08",
+        "text": "diffusion models. Let's click save. All"
+      },
+      {
+        "start": 611.32,
+        "duration": 4.64,
+        "start_formatted": "10:11",
+        "text": "right, so afterwards, back here, let's"
+      },
+      {
+        "start": 613.12,
+        "duration": 4.92,
+        "start_formatted": "10:13",
+        "text": "press R to refresh our model list, and"
+      },
+      {
+        "start": 615.96,
+        "duration": 4.48,
+        "start_formatted": "10:15",
+        "text": "then in this drop down, I can select"
+      },
+      {
+        "start": 618.04,
+        "duration": 4.84,
+        "start_formatted": "10:18",
+        "text": "this ref to video model. And then"
+      },
+      {
+        "start": 620.44,
+        "duration": 5.24,
+        "start_formatted": "10:20",
+        "text": "afterwards, for load clip, we can just"
+      },
+      {
+        "start": 622.88,
+        "duration": 4.68,
+        "start_formatted": "10:22",
+        "text": "select the Gemma 32B model, which I"
+      },
+      {
+        "start": 625.68,
+        "duration": 3.84,
+        "start_formatted": "10:25",
+        "text": "downloaded for the previous workflow."
+      },
+      {
+        "start": 627.56,
+        "duration": 3.88,
+        "start_formatted": "10:27",
+        "text": "And then for the video and audio VAE,"
+      },
+      {
+        "start": 629.52,
+        "duration": 4.04,
+        "start_formatted": "10:29",
+        "text": "looks like it has already selected these"
+      },
+      {
+        "start": 631.44,
+        "duration": 4.68,
+        "start_formatted": "10:31",
+        "text": "by default. All right, so the model"
+      },
+      {
+        "start": 633.56,
+        "duration": 4.84,
+        "start_formatted": "10:33",
+        "text": "selection is done. Next, let's go over"
+      },
+      {
+        "start": 636.12,
+        "duration": 5.0,
+        "start_formatted": "10:36",
+        "text": "the workflow. So, what reference to"
+      },
+      {
+        "start": 638.4,
+        "duration": 5.36,
+        "start_formatted": "10:38",
+        "text": "video does is this can take in images or"
+      },
+      {
+        "start": 641.12,
+        "duration": 5.12,
+        "start_formatted": "10:41",
+        "text": "even video or audio to use as input. Let"
+      },
+      {
+        "start": 643.76,
+        "duration": 4.68,
+        "start_formatted": "10:43",
+        "text": "me first show you an image example. So,"
+      },
+      {
+        "start": 646.24,
+        "duration": 5.2,
+        "start_formatted": "10:46",
+        "text": "over here is where you can plug in"
+      },
+      {
+        "start": 648.44,
+        "duration": 4.92,
+        "start_formatted": "10:48",
+        "text": "multiple images over here for it to use"
+      },
+      {
+        "start": 651.44,
+        "duration": 4.28,
+        "start_formatted": "10:51",
+        "text": "as a reference. Now, by default, this"
+      },
+      {
+        "start": 653.36,
+        "duration": 4.28,
+        "start_formatted": "10:53",
+        "text": "workflow has two load image nodes. If"
+      },
+      {
+        "start": 655.72,
+        "duration": 4.56,
+        "start_formatted": "10:55",
+        "text": "you just need one, you can just simply"
+      },
+      {
+        "start": 657.64,
+        "duration": 5.0,
+        "start_formatted": "10:57",
+        "text": "click on this and press control B to"
+      },
+      {
+        "start": 660.28,
+        "duration": 4.08,
+        "start_formatted": "11:00",
+        "text": "bypass it to just load one image. But"
+      },
+      {
+        "start": 662.64,
+        "duration": 4.199,
+        "start_formatted": "11:02",
+        "text": "for me, I'm going to show you an example"
+      },
+      {
+        "start": 664.36,
+        "duration": 4.44,
+        "start_formatted": "11:04",
+        "text": "of two images, so let me un-bypass this,"
+      },
+      {
+        "start": 666.839,
+        "duration": 3.321,
+        "start_formatted": "11:06",
+        "text": "and then let me upload some images. All"
+      },
+      {
+        "start": 668.8,
+        "duration": 3.8,
+        "start_formatted": "11:08",
+        "text": "right, so I'm going to upload this"
+      },
+      {
+        "start": 670.16,
+        "duration": 4.679,
+        "start_formatted": "11:10",
+        "text": "character plus this car, and then down"
+      },
+      {
+        "start": 672.6,
+        "duration": 4.48,
+        "start_formatted": "11:12",
+        "text": "here is where I would enter the prompt."
+      },
+      {
+        "start": 674.839,
+        "duration": 3.801,
+        "start_formatted": "11:14",
+        "text": "Note how you would refer to your"
+      },
+      {
+        "start": 677.08,
+        "duration": 3.04,
+        "start_formatted": "11:17",
+        "text": "attachments in the prompt. So, you would"
+      },
+      {
+        "start": 678.64,
+        "duration": 3.28,
+        "start_formatted": "11:18",
+        "text": "type something like picture one or"
+      },
+      {
+        "start": 680.12,
+        "duration": 4.4,
+        "start_formatted": "11:20",
+        "text": "picture two. All right, so here's my"
+      },
+      {
+        "start": 681.92,
+        "duration": 4.36,
+        "start_formatted": "11:21",
+        "text": "prompt. The woman in picture one walking"
+      },
+      {
+        "start": 684.52,
+        "duration": 3.6,
+        "start_formatted": "11:24",
+        "text": "to the side of the car in picture two,"
+      },
+      {
+        "start": 686.28,
+        "duration": 4.4,
+        "start_formatted": "11:26",
+        "text": "she opens the door and gets in the car"
+      },
+      {
+        "start": 688.12,
+        "duration": 4.48,
+        "start_formatted": "11:28",
+        "text": "in a dark, misty forest at night. Here's"
+      },
+      {
+        "start": 690.68,
+        "duration": 3.2,
+        "start_formatted": "11:30",
+        "text": "where you would select the aspect ratio."
+      },
+      {
+        "start": 692.6,
+        "duration": 3.12,
+        "start_formatted": "11:32",
+        "text": "So, again, you can choose from all these"
+      },
+      {
+        "start": 693.88,
+        "duration": 3.96,
+        "start_formatted": "11:33",
+        "text": "different aspect ratios, and here's"
+      },
+      {
+        "start": 695.72,
+        "duration": 4.52,
+        "start_formatted": "11:35",
+        "text": "where you can choose the resolution. So"
+      },
+      {
+        "start": 697.84,
+        "duration": 5.48,
+        "start_formatted": "11:37",
+        "text": "you can refer to this table over here."
+      },
+      {
+        "start": 700.24,
+        "duration": 4.64,
+        "start_formatted": "11:40",
+        "text": "0.4 megapixels is roughly 480p. And then"
+      },
+      {
+        "start": 703.32,
+        "duration": 3.24,
+        "start_formatted": "11:43",
+        "text": "here is where you would select the"
+      },
+      {
+        "start": 704.88,
+        "duration": 3.88,
+        "start_formatted": "11:44",
+        "text": "duration of the video. So right now it's"
+      },
+      {
+        "start": 706.56,
+        "duration": 4.2,
+        "start_formatted": "11:46",
+        "text": "set at 5 seconds. And that's pretty much"
+      },
+      {
+        "start": 708.76,
+        "duration": 4.543,
+        "start_formatted": "11:48",
+        "text": "it. Let's press run. All right, and"
+      },
+      {
+        "start": 710.76,
+        "duration": 4.563,
+        "start_formatted": "11:50",
+        "text": "afterwards here is our result."
+      },
+      {
+        "start": 713.303,
+        "duration": 2.02,
+        "start_formatted": "11:53",
+        "text": ">> [music]"
+      },
+      {
+        "start": 718.0,
+        "duration": 3.8,
+        "start_formatted": "11:58",
+        "text": ">> All right, now instead of just using two"
+      },
+      {
+        "start": 719.8,
+        "duration": 4.56,
+        "start_formatted": "11:59",
+        "text": "images, let me show you an example where"
+      },
+      {
+        "start": 721.8,
+        "duration": 4.12,
+        "start_formatted": "12:01",
+        "text": "we can upload a reference video instead."
+      },
+      {
+        "start": 724.36,
+        "duration": 3.96,
+        "start_formatted": "12:04",
+        "text": "So I'm going to get rid of this load"
+      },
+      {
+        "start": 725.92,
+        "duration": 4.64,
+        "start_formatted": "12:05",
+        "text": "image node, and double click anywhere on"
+      },
+      {
+        "start": 728.32,
+        "duration": 4.52,
+        "start_formatted": "12:08",
+        "text": "the canvas, and then search for load"
+      },
+      {
+        "start": 730.56,
+        "duration": 4.36,
+        "start_formatted": "12:10",
+        "text": "video. Now this one load video by comfy"
+      },
+      {
+        "start": 732.84,
+        "duration": 4.64,
+        "start_formatted": "12:12",
+        "text": "essentials does not work. You'll need to"
+      },
+      {
+        "start": 734.92,
+        "duration": 4.8,
+        "start_formatted": "12:14",
+        "text": "use this load video upload node instead."
+      },
+      {
+        "start": 737.48,
+        "duration": 4.76,
+        "start_formatted": "12:17",
+        "text": "So let's put this over here, and then"
+      },
+      {
+        "start": 739.72,
+        "duration": 5.04,
+        "start_formatted": "12:19",
+        "text": "let me upload this green screen video."
+      },
+      {
+        "start": 742.24,
+        "duration": 5.56,
+        "start_formatted": "12:22",
+        "text": "And then let's connect this to the ref"
+      },
+      {
+        "start": 744.76,
+        "duration": 5.08,
+        "start_formatted": "12:24",
+        "text": "video zero input up here. And for the"
+      },
+      {
+        "start": 747.8,
+        "duration": 3.64,
+        "start_formatted": "12:27",
+        "text": "format, I'm going to set it to none. And"
+      },
+      {
+        "start": 749.84,
+        "duration": 4.24,
+        "start_formatted": "12:29",
+        "text": "then for the image, let me change this"
+      },
+      {
+        "start": 751.44,
+        "duration": 3.84,
+        "start_formatted": "12:31",
+        "text": "to a dark background like this. For my"
+      },
+      {
+        "start": 754.08,
+        "duration": 2.88,
+        "start_formatted": "12:34",
+        "text": "prompt, I'm going to write replace the"
+      },
+      {
+        "start": 755.28,
+        "duration": 4.12,
+        "start_formatted": "12:35",
+        "text": "background in video one with the dark"
+      },
+      {
+        "start": 756.96,
+        "duration": 4.24,
+        "start_formatted": "12:36",
+        "text": "bamboo forest in photo one. And that's"
+      },
+      {
+        "start": 759.4,
+        "duration": 5.0,
+        "start_formatted": "12:39",
+        "text": "pretty much it. Let's press run. All"
+      },
+      {
+        "start": 761.2,
+        "duration": 3.2,
+        "start_formatted": "12:41",
+        "text": "right, here's our result."
+      },
+      {
+        "start": 767.52,
+        "duration": 3.92,
+        "start_formatted": "12:47",
+        "text": "Now instead of video, you can also"
+      },
+      {
+        "start": 769.2,
+        "duration": 4.68,
+        "start_formatted": "12:49",
+        "text": "upload audio. In fact, its audio and"
+      },
+      {
+        "start": 771.44,
+        "duration": 5.0,
+        "start_formatted": "12:51",
+        "text": "music understanding is amazing. So let"
+      },
+      {
+        "start": 773.88,
+        "duration": 4.2,
+        "start_formatted": "12:53",
+        "text": "me get rid of this load video node, and"
+      },
+      {
+        "start": 776.44,
+        "duration": 4.0,
+        "start_formatted": "12:56",
+        "text": "next let me click anywhere on the"
+      },
+      {
+        "start": 778.08,
+        "duration": 4.12,
+        "start_formatted": "12:58",
+        "text": "canvas, and search for load audio. And"
+      },
+      {
+        "start": 780.44,
+        "duration": 3.84,
+        "start_formatted": "13:00",
+        "text": "we need to use this one load audio"
+      },
+      {
+        "start": 782.2,
+        "duration": 4.04,
+        "start_formatted": "13:02",
+        "text": "upload. So let me click on this and add"
+      },
+      {
+        "start": 784.28,
+        "duration": 4.349,
+        "start_formatted": "13:04",
+        "text": "it anywhere here. And for the audio, let"
+      },
+      {
+        "start": 786.24,
+        "duration": 4.409,
+        "start_formatted": "13:06",
+        "text": "me upload this track."
+      },
+      {
+        "start": 788.629,
+        "duration": 2.02,
+        "start_formatted": "13:08",
+        "text": ">> [music and singing]"
+      },
+      {
+        "start": 797.144,
+        "duration": 3.985,
+        "start_formatted": "13:17",
+        "text": "[music]"
+      },
+      {
+        "start": 799.109,
+        "duration": 2.02,
+        "start_formatted": "13:19",
+        "text": "[singing]"
+      },
+      {
+        "start": 802.8,
+        "duration": 5.32,
+        "start_formatted": "13:22",
+        "text": ">> All right, so afterwards let's drag this"
+      },
+      {
+        "start": 805.44,
+        "duration": 5.08,
+        "start_formatted": "13:25",
+        "text": "to the reference audio node over here."
+      },
+      {
+        "start": 808.12,
+        "duration": 4.64,
+        "start_formatted": "13:28",
+        "text": "For the duration, this should be 14"
+      },
+      {
+        "start": 810.52,
+        "duration": 4.6,
+        "start_formatted": "13:30",
+        "text": "seconds. And then for the image, let's"
+      },
+      {
+        "start": 812.76,
+        "duration": 4.12,
+        "start_formatted": "13:32",
+        "text": "upload this image of a woman singing."
+      },
+      {
+        "start": 815.12,
+        "duration": 5.08,
+        "start_formatted": "13:35",
+        "text": "Now, because this is 14 seconds, let me"
+      },
+      {
+        "start": 816.88,
+        "duration": 4.72,
+        "start_formatted": "13:36",
+        "text": "also set the duration to around 14"
+      },
+      {
+        "start": 820.2,
+        "duration": 3.28,
+        "start_formatted": "13:40",
+        "text": "seconds. And then for the prompt, I'm"
+      },
+      {
+        "start": 821.6,
+        "duration": 4.8,
+        "start_formatted": "13:41",
+        "text": "going to write a music video of photo"
+      },
+      {
+        "start": 823.48,
+        "duration": 4.92,
+        "start_formatted": "13:43",
+        "text": "one singing this song, audio one. She is"
+      },
+      {
+        "start": 826.4,
+        "duration": 4.08,
+        "start_formatted": "13:46",
+        "text": "singing passionately on a windy cliff."
+      },
+      {
+        "start": 828.4,
+        "duration": 3.8,
+        "start_formatted": "13:48",
+        "text": "Her hair is blowing in the wind. Let's"
+      },
+      {
+        "start": 830.48,
+        "duration": 3.344,
+        "start_formatted": "13:50",
+        "text": "press run. All right, and here's the"
+      },
+      {
+        "start": 832.2,
+        "duration": 3.644,
+        "start_formatted": "13:52",
+        "text": "result."
+      },
+      {
+        "start": 833.824,
+        "duration": 2.02,
+        "start_formatted": "13:53",
+        "text": ">> [music and singing]"
+      },
+      {
+        "start": 839.064,
+        "duration": 2.02,
+        "start_formatted": "13:59",
+        "text": "[music]"
+      },
+      {
+        "start": 843.649,
+        "duration": 2.02,
+        "start_formatted": "14:03",
+        "text": "[music and singing]"
+      },
+      {
+        "start": 847.68,
+        "duration": 3.12,
+        "start_formatted": "14:07",
+        "text": ">> So, as you can see, you can easily"
+      },
+      {
+        "start": 849.08,
+        "duration": 3.56,
+        "start_formatted": "14:09",
+        "text": "create music videos from this. In fact,"
+      },
+      {
+        "start": 850.8,
+        "duration": 3.56,
+        "start_formatted": "14:10",
+        "text": "this is a pretty bad example. You can"
+      },
+      {
+        "start": 852.64,
+        "duration": 3.32,
+        "start_formatted": "14:12",
+        "text": "probably prompt it further and add more"
+      },
+      {
+        "start": 854.36,
+        "duration": 3.52,
+        "start_formatted": "14:14",
+        "text": "elements and different transitions and"
+      },
+      {
+        "start": 855.96,
+        "duration": 3.88,
+        "start_formatted": "14:15",
+        "text": "cuts to make this even more epic. All"
+      },
+      {
+        "start": 857.88,
+        "duration": 3.36,
+        "start_formatted": "14:17",
+        "text": "right, so that sums up how you can use"
+      },
+      {
+        "start": 859.84,
+        "duration": 3.6,
+        "start_formatted": "14:19",
+        "text": "all these different inputs including"
+      },
+      {
+        "start": 861.24,
+        "duration": 4.08,
+        "start_formatted": "14:21",
+        "text": "images, video, and audio using this"
+      },
+      {
+        "start": 863.44,
+        "duration": 3.36,
+        "start_formatted": "14:23",
+        "text": "reference to video workflow. All right,"
+      },
+      {
+        "start": 865.32,
+        "duration": 3.6,
+        "start_formatted": "14:25",
+        "text": "next let me show you how to speed up"
+      },
+      {
+        "start": 866.8,
+        "duration": 4.64,
+        "start_formatted": "14:26",
+        "text": "your generations even more. Now, like I"
+      },
+      {
+        "start": 868.92,
+        "duration": 4.6,
+        "start_formatted": "14:28",
+        "text": "said, at least for me, the base int8 or"
+      },
+      {
+        "start": 871.44,
+        "duration": 3.8,
+        "start_formatted": "14:31",
+        "text": "fp8 model can generate at around 1"
+      },
+      {
+        "start": 873.52,
+        "duration": 3.64,
+        "start_formatted": "14:33",
+        "text": "minute per second. However, there are"
+      },
+      {
+        "start": 875.24,
+        "duration": 4.48,
+        "start_formatted": "14:35",
+        "text": "many hacks you can use to speed this up"
+      },
+      {
+        "start": 877.16,
+        "duration": 4.4,
+        "start_formatted": "14:37",
+        "text": "by like 30 to 40%. So, I'll link to this"
+      },
+      {
+        "start": 879.72,
+        "duration": 4.08,
+        "start_formatted": "14:39",
+        "text": "page in the description below. The first"
+      },
+      {
+        "start": 881.56,
+        "duration": 4.44,
+        "start_formatted": "14:41",
+        "text": "thing you need to do is to download Sage"
+      },
+      {
+        "start": 883.8,
+        "duration": 3.84,
+        "start_formatted": "14:43",
+        "text": "Attention. Now, it's kind of a pain, but"
+      },
+      {
+        "start": 886.0,
+        "duration": 3.56,
+        "start_formatted": "14:46",
+        "text": "I'll make this as beginner-friendly as"
+      },
+      {
+        "start": 887.64,
+        "duration": 3.44,
+        "start_formatted": "14:47",
+        "text": "possible. So, in order to download Sage"
+      },
+      {
+        "start": 889.56,
+        "duration": 3.48,
+        "start_formatted": "14:49",
+        "text": "Attention, you need to download the"
+      },
+      {
+        "start": 891.08,
+        "duration": 4.32,
+        "start_formatted": "14:51",
+        "text": "version that matches your PyTorch and"
+      },
+      {
+        "start": 893.04,
+        "duration": 4.36,
+        "start_formatted": "14:53",
+        "text": "CUDA version. So, to check your PyTorch"
+      },
+      {
+        "start": 895.4,
+        "duration": 3.56,
+        "start_formatted": "14:55",
+        "text": "version, in your ComfyUI folder, note"
+      },
+      {
+        "start": 897.4,
+        "duration": 3.32,
+        "start_formatted": "14:57",
+        "text": "that I'm using the Windows portable"
+      },
+      {
+        "start": 898.96,
+        "duration": 3.4,
+        "start_formatted": "14:58",
+        "text": "version, you should see this Python"
+      },
+      {
+        "start": 900.72,
+        "duration": 3.52,
+        "start_formatted": "15:00",
+        "text": "embedded folder. So, double-click on"
+      },
+      {
+        "start": 902.36,
+        "duration": 5.04,
+        "start_formatted": "15:02",
+        "text": "this, and then at the top here, type in"
+      },
+      {
+        "start": 904.24,
+        "duration": 5.28,
+        "start_formatted": "15:04",
+        "text": "cmd to open your Python embedded folder"
+      },
+      {
+        "start": 907.4,
+        "duration": 3.84,
+        "start_formatted": "15:07",
+        "text": "up in your command prompt. And you just"
+      },
+      {
+        "start": 909.52,
+        "duration": 4.08,
+        "start_formatted": "15:09",
+        "text": "need to paste in this line here. I'll"
+      },
+      {
+        "start": 911.24,
+        "duration": 3.96,
+        "start_formatted": "15:11",
+        "text": "put this in the description or a comment"
+      },
+      {
+        "start": 913.6,
+        "duration": 3.84,
+        "start_formatted": "15:13",
+        "text": "so you can just easily copy and paste"
+      },
+      {
+        "start": 915.2,
+        "duration": 4.28,
+        "start_formatted": "15:15",
+        "text": "it. But basically, this uses Python to"
+      },
+      {
+        "start": 917.44,
+        "duration": 3.68,
+        "start_formatted": "15:17",
+        "text": "run this snippet of code. It imports"
+      },
+      {
+        "start": 919.48,
+        "duration": 4.44,
+        "start_formatted": "15:19",
+        "text": "torch, and then it prints out the"
+      },
+      {
+        "start": 921.12,
+        "duration": 5.32,
+        "start_formatted": "15:21",
+        "text": "version of torch. So, let's press enter"
+      },
+      {
+        "start": 923.92,
+        "duration": 6.52,
+        "start_formatted": "15:23",
+        "text": "and you can see here I am using torch"
+      },
+      {
+        "start": 926.44,
+        "duration": 5.84,
+        "start_formatted": "15:26",
+        "text": "version 2.6 and it's using CUDA 12.4."
+      },
+      {
+        "start": 930.44,
+        "duration": 3.84,
+        "start_formatted": "15:30",
+        "text": "And one thing I forgot to mention is you"
+      },
+      {
+        "start": 932.28,
+        "duration": 4.08,
+        "start_formatted": "15:32",
+        "text": "also need to figure out the Python"
+      },
+      {
+        "start": 934.28,
+        "duration": 3.92,
+        "start_formatted": "15:34",
+        "text": "version that ComfyUI uses. So, again, in"
+      },
+      {
+        "start": 936.36,
+        "duration": 4.08,
+        "start_formatted": "15:36",
+        "text": "your Python embedded folder at the top"
+      },
+      {
+        "start": 938.2,
+        "duration": 4.4,
+        "start_formatted": "15:38",
+        "text": "here, type in CMD to open this up in"
+      },
+      {
+        "start": 940.44,
+        "duration": 5.32,
+        "start_formatted": "15:40",
+        "text": "command prompt and then type in"
+      },
+      {
+        "start": 942.6,
+        "duration": 6.36,
+        "start_formatted": "15:42",
+        "text": "So, you can see"
+      },
+      {
+        "start": 945.76,
+        "duration": 5.24,
+        "start_formatted": "15:45",
+        "text": "for me I'm using Python version 3.11."
+      },
+      {
+        "start": 948.96,
+        "duration": 4.48,
+        "start_formatted": "15:48",
+        "text": "All right. So, now that you have your"
+      },
+      {
+        "start": 951.0,
+        "duration": 4.84,
+        "start_formatted": "15:51",
+        "text": "PyTorch and CUDA and Python versions,"
+      },
+      {
+        "start": 953.44,
+        "duration": 4.0,
+        "start_formatted": "15:53",
+        "text": "simply click on this page, which I will"
+      },
+      {
+        "start": 955.84,
+        "duration": 3.68,
+        "start_formatted": "15:55",
+        "text": "also link to in the description below,"
+      },
+      {
+        "start": 957.44,
+        "duration": 3.92,
+        "start_formatted": "15:57",
+        "text": "and over here simply look for this"
+      },
+      {
+        "start": 959.52,
+        "duration": 3.76,
+        "start_formatted": "15:59",
+        "text": "SageAttention that fits your CUDA"
+      },
+      {
+        "start": 961.36,
+        "duration": 3.68,
+        "start_formatted": "16:01",
+        "text": "version plus your torch version plus"
+      },
+      {
+        "start": 963.28,
+        "duration": 3.32,
+        "start_formatted": "16:03",
+        "text": "your Python version. Once you found the"
+      },
+      {
+        "start": 965.04,
+        "duration": 3.4,
+        "start_formatted": "16:05",
+        "text": "right one, simply click on it to"
+      },
+      {
+        "start": 966.6,
+        "duration": 3.76,
+        "start_formatted": "16:06",
+        "text": "download it to wherever you want. All"
+      },
+      {
+        "start": 968.44,
+        "duration": 4.12,
+        "start_formatted": "16:08",
+        "text": "right. After downloading the pre-built"
+      },
+      {
+        "start": 970.36,
+        "duration": 4.52,
+        "start_formatted": "16:10",
+        "text": "SageAttention wheel, you can just"
+      },
+      {
+        "start": 972.56,
+        "duration": 3.8,
+        "start_formatted": "16:12",
+        "text": "install the wheel using pip install in"
+      },
+      {
+        "start": 974.88,
+        "duration": 3.48,
+        "start_formatted": "16:14",
+        "text": "your terminal. If you do have the"
+      },
+      {
+        "start": 976.36,
+        "duration": 4.04,
+        "start_formatted": "16:16",
+        "text": "Windows portable version, then simply"
+      },
+      {
+        "start": 978.36,
+        "duration": 4.08,
+        "start_formatted": "16:18",
+        "text": "click into your Python embedded folder"
+      },
+      {
+        "start": 980.4,
+        "duration": 3.92,
+        "start_formatted": "16:20",
+        "text": "and then at the top here type in CMD to"
+      },
+      {
+        "start": 982.44,
+        "duration": 4.52,
+        "start_formatted": "16:22",
+        "text": "open this up in command prompt. And then"
+      },
+      {
+        "start": 984.32,
+        "duration": 4.76,
+        "start_formatted": "16:24",
+        "text": "afterwards, we need to type python.exe"
+      },
+      {
+        "start": 986.96,
+        "duration": 4.16,
+        "start_formatted": "16:26",
+        "text": "{dash} m pip install. Then you would"
+      },
+      {
+        "start": 989.08,
+        "duration": 4.2,
+        "start_formatted": "16:29",
+        "text": "basically copy the path to your"
+      },
+      {
+        "start": 991.12,
+        "duration": 3.64,
+        "start_formatted": "16:31",
+        "text": "downloaded file and paste it in here."
+      },
+      {
+        "start": 993.28,
+        "duration": 3.68,
+        "start_formatted": "16:33",
+        "text": "So, after pressing enter, it should"
+      },
+      {
+        "start": 994.76,
+        "duration": 4.28,
+        "start_formatted": "16:34",
+        "text": "proceed to install SageAttention for"
+      },
+      {
+        "start": 996.96,
+        "duration": 3.6,
+        "start_formatted": "16:36",
+        "text": "your system. Now, for me I see this"
+      },
+      {
+        "start": 999.04,
+        "duration": 3.44,
+        "start_formatted": "16:39",
+        "text": "message because I already have it"
+      },
+      {
+        "start": 1000.56,
+        "duration": 4.12,
+        "start_formatted": "16:40",
+        "text": "installed. The next step is you also"
+      },
+      {
+        "start": 1002.48,
+        "duration": 4.359,
+        "start_formatted": "16:42",
+        "text": "need to install KJ nodes. So, I'll link"
+      },
+      {
+        "start": 1004.68,
+        "duration": 3.92,
+        "start_formatted": "16:44",
+        "text": "to this page in the description below."
+      },
+      {
+        "start": 1006.839,
+        "duration": 3.681,
+        "start_formatted": "16:46",
+        "text": "Here are the instructions on how to"
+      },
+      {
+        "start": 1008.6,
+        "duration": 3.96,
+        "start_formatted": "16:48",
+        "text": "install this. The first step is to clone"
+      },
+      {
+        "start": 1010.52,
+        "duration": 3.92,
+        "start_formatted": "16:50",
+        "text": "this repo into the custom nodes folder."
+      },
+      {
+        "start": 1012.56,
+        "duration": 4.36,
+        "start_formatted": "16:52",
+        "text": "So, going back into our ComfyUI folder,"
+      },
+      {
+        "start": 1014.44,
+        "duration": 5.28,
+        "start_formatted": "16:54",
+        "text": "simply click on ComfyUI and then custom"
+      },
+      {
+        "start": 1016.92,
+        "duration": 5.04,
+        "start_formatted": "16:56",
+        "text": "nodes and then at the top type in CMD to"
+      },
+      {
+        "start": 1019.72,
+        "duration": 4.4,
+        "start_formatted": "16:59",
+        "text": "open your custom nodes folder in command"
+      },
+      {
+        "start": 1021.96,
+        "duration": 3.52,
+        "start_formatted": "17:01",
+        "text": "prompt. Afterwards, on this KJ nodes"
+      },
+      {
+        "start": 1024.12,
+        "duration": 4.199,
+        "start_formatted": "17:04",
+        "text": "page I'm going to click on this green"
+      },
+      {
+        "start": 1025.48,
+        "duration": 4.52,
+        "start_formatted": "17:05",
+        "text": "button and then copy this URL and then"
+      },
+      {
+        "start": 1028.319,
+        "duration": 4.241,
+        "start_formatted": "17:08",
+        "text": "back in my terminal I'm going to type in"
+      },
+      {
+        "start": 1030.0,
+        "duration": 4.6,
+        "start_formatted": "17:10",
+        "text": "git clone and then paste the URL in"
+      },
+      {
+        "start": 1032.56,
+        "duration": 4.36,
+        "start_formatted": "17:12",
+        "text": "here. So, this is going to proceed to"
+      },
+      {
+        "start": 1034.6,
+        "duration": 4.12,
+        "start_formatted": "17:14",
+        "text": "clone this repository into a folder"
+      },
+      {
+        "start": 1036.92,
+        "duration": 3.24,
+        "start_formatted": "17:16",
+        "text": "within your custom nodes folder. And"
+      },
+      {
+        "start": 1038.72,
+        "duration": 3.92,
+        "start_formatted": "17:18",
+        "text": "then afterwards, you also need to"
+      },
+      {
+        "start": 1040.16,
+        "duration": 4.2,
+        "start_formatted": "17:20",
+        "text": "install the dependencies for this. So,"
+      },
+      {
+        "start": 1042.64,
+        "duration": 3.439,
+        "start_formatted": "17:22",
+        "text": "in your ComfyUI Windows portable root"
+      },
+      {
+        "start": 1044.36,
+        "duration": 3.719,
+        "start_formatted": "17:24",
+        "text": "folder, at the top here, simply type in"
+      },
+      {
+        "start": 1046.079,
+        "duration": 4.081,
+        "start_formatted": "17:26",
+        "text": "CMD to open this folder up in your"
+      },
+      {
+        "start": 1048.079,
+        "duration": 4.321,
+        "start_formatted": "17:28",
+        "text": "terminal, and then copy and paste this"
+      },
+      {
+        "start": 1050.16,
+        "duration": 4.68,
+        "start_formatted": "17:30",
+        "text": "line into here. So, this is going to"
+      },
+      {
+        "start": 1052.4,
+        "duration": 4.76,
+        "start_formatted": "17:32",
+        "text": "proceed to install all the requirements"
+      },
+      {
+        "start": 1054.84,
+        "duration": 4.92,
+        "start_formatted": "17:34",
+        "text": "for KJ nodes. All right, that's all you"
+      },
+      {
+        "start": 1057.16,
+        "duration": 4.16,
+        "start_formatted": "17:37",
+        "text": "need to do. Simply restart ComfyUI, and"
+      },
+      {
+        "start": 1059.76,
+        "duration": 3.56,
+        "start_formatted": "17:39",
+        "text": "after restarting, let me show you how to"
+      },
+      {
+        "start": 1061.32,
+        "duration": 4.12,
+        "start_formatted": "17:41",
+        "text": "apply this to either the text-to-video"
+      },
+      {
+        "start": 1063.32,
+        "duration": 3.76,
+        "start_formatted": "17:43",
+        "text": "workflow or the image-to-video workflow."
+      },
+      {
+        "start": 1065.44,
+        "duration": 3.52,
+        "start_formatted": "17:45",
+        "text": "It's exactly the same thing. Again, the"
+      },
+      {
+        "start": 1067.08,
+        "duration": 4.44,
+        "start_formatted": "17:47",
+        "text": "workflow looks like this. Simply click"
+      },
+      {
+        "start": 1068.96,
+        "duration": 4.28,
+        "start_formatted": "17:48",
+        "text": "on this corner to expand the workflow,"
+      },
+      {
+        "start": 1071.52,
+        "duration": 3.76,
+        "start_formatted": "17:51",
+        "text": "and what you need to do to speed this up"
+      },
+      {
+        "start": 1073.24,
+        "duration": 4.56,
+        "start_formatted": "17:53",
+        "text": "is to place some additional nodes after"
+      },
+      {
+        "start": 1075.28,
+        "duration": 4.4,
+        "start_formatted": "17:55",
+        "text": "this load diffusion model node. So, let"
+      },
+      {
+        "start": 1077.8,
+        "duration": 3.64,
+        "start_formatted": "17:57",
+        "text": "me double-click anywhere on the canvas"
+      },
+      {
+        "start": 1079.68,
+        "duration": 4.4,
+        "start_formatted": "17:59",
+        "text": "and search for patch, and you should see"
+      },
+      {
+        "start": 1081.44,
+        "duration": 4.88,
+        "start_formatted": "18:01",
+        "text": "this patch sage attention node after"
+      },
+      {
+        "start": 1084.08,
+        "duration": 4.08,
+        "start_formatted": "18:04",
+        "text": "you've downloaded the KJ nodes. So, let"
+      },
+      {
+        "start": 1086.32,
+        "duration": 4.08,
+        "start_formatted": "18:06",
+        "text": "me select this and place it onto the"
+      },
+      {
+        "start": 1088.16,
+        "duration": 4.44,
+        "start_formatted": "18:08",
+        "text": "canvas. And for this sage attention"
+      },
+      {
+        "start": 1090.4,
+        "duration": 4.08,
+        "start_formatted": "18:10",
+        "text": "setting, let's set it to auto. And we"
+      },
+      {
+        "start": 1092.6,
+        "duration": 4.0,
+        "start_formatted": "18:12",
+        "text": "basically need to connect the model to"
+      },
+      {
+        "start": 1094.48,
+        "duration": 3.96,
+        "start_formatted": "18:14",
+        "text": "here, and then connect the outputs to"
+      },
+      {
+        "start": 1096.6,
+        "duration": 4.12,
+        "start_formatted": "18:16",
+        "text": "where the model normally goes. In our"
+      },
+      {
+        "start": 1098.44,
+        "duration": 4.2,
+        "start_formatted": "18:18",
+        "text": "case, it would be the basic guider and"
+      },
+      {
+        "start": 1100.72,
+        "duration": 3.56,
+        "start_formatted": "18:20",
+        "text": "the basic scheduler. So, that's one way"
+      },
+      {
+        "start": 1102.64,
+        "duration": 4.76,
+        "start_formatted": "18:22",
+        "text": "on how you can speed up the generation"
+      },
+      {
+        "start": 1104.28,
+        "duration": 4.44,
+        "start_formatted": "18:24",
+        "text": "by like 20 to 30%. Another quick hack is"
+      },
+      {
+        "start": 1107.4,
+        "duration": 3.8,
+        "start_formatted": "18:27",
+        "text": "you can double-click anywhere on the"
+      },
+      {
+        "start": 1108.72,
+        "duration": 4.24,
+        "start_formatted": "18:28",
+        "text": "canvas and then type in easy cache, and"
+      },
+      {
+        "start": 1111.2,
+        "duration": 3.12,
+        "start_formatted": "18:31",
+        "text": "you just need to select this one, easy"
+      },
+      {
+        "start": 1112.96,
+        "duration": 3.04,
+        "start_formatted": "18:32",
+        "text": "cache, which should already be"
+      },
+      {
+        "start": 1114.32,
+        "duration": 3.88,
+        "start_formatted": "18:34",
+        "text": "available. This is part of the default"
+      },
+      {
+        "start": 1116.0,
+        "duration": 4.32,
+        "start_formatted": "18:36",
+        "text": "Comfy nodes. So, let's put this anywhere"
+      },
+      {
+        "start": 1118.2,
+        "duration": 4.6,
+        "start_formatted": "18:38",
+        "text": "on the canvas, and this basically can go"
+      },
+      {
+        "start": 1120.32,
+        "duration": 4.76,
+        "start_formatted": "18:40",
+        "text": "in between these two nodes. So, let me"
+      },
+      {
+        "start": 1122.8,
+        "duration": 4.48,
+        "start_formatted": "18:42",
+        "text": "reconnect the model to here, and then"
+      },
+      {
+        "start": 1125.08,
+        "duration": 4.08,
+        "start_formatted": "18:45",
+        "text": "reconnect the output to here. So, by"
+      },
+      {
+        "start": 1127.28,
+        "duration": 3.72,
+        "start_formatted": "18:47",
+        "text": "adding this additional easy cache node,"
+      },
+      {
+        "start": 1129.16,
+        "duration": 4.24,
+        "start_formatted": "18:49",
+        "text": "it can also speed up the generation by"
+      },
+      {
+        "start": 1131.0,
+        "duration": 4.32,
+        "start_formatted": "18:51",
+        "text": "an additional 5 to 10%. And you can"
+      },
+      {
+        "start": 1133.4,
+        "duration": 3.84,
+        "start_formatted": "18:53",
+        "text": "stack both of these together. Here's"
+      },
+      {
+        "start": 1135.32,
+        "duration": 4.08,
+        "start_formatted": "18:55",
+        "text": "another hack on how you can speed this"
+      },
+      {
+        "start": 1137.24,
+        "duration": 4.04,
+        "start_formatted": "18:57",
+        "text": "up even further. So, here's another node"
+      },
+      {
+        "start": 1139.4,
+        "duration": 4.6,
+        "start_formatted": "18:59",
+        "text": "called ComfyUI Spectrum, and this is"
+      },
+      {
+        "start": 1141.28,
+        "duration": 4.32,
+        "start_formatted": "19:01",
+        "text": "specifically designed for MiniMax H3. If"
+      },
+      {
+        "start": 1144.0,
+        "duration": 3.36,
+        "start_formatted": "19:04",
+        "text": "you scroll down a bit, here is how you"
+      },
+      {
+        "start": 1145.6,
+        "duration": 3.76,
+        "start_formatted": "19:05",
+        "text": "can install this. So, simply go into"
+      },
+      {
+        "start": 1147.36,
+        "duration": 4.2,
+        "start_formatted": "19:07",
+        "text": "your custom nodes folder, and then at"
+      },
+      {
+        "start": 1149.36,
+        "duration": 3.92,
+        "start_formatted": "19:09",
+        "text": "the top here, type in CMD to open this"
+      },
+      {
+        "start": 1151.56,
+        "duration": 4.44,
+        "start_formatted": "19:11",
+        "text": "up in command prompt. And then"
+      },
+      {
+        "start": 1153.28,
+        "duration": 4.4,
+        "start_formatted": "19:13",
+        "text": "afterwards, I will copy this line and"
+      },
+      {
+        "start": 1156.0,
+        "duration": 3.56,
+        "start_formatted": "19:16",
+        "text": "paste it in here. And this is going to"
+      },
+      {
+        "start": 1157.68,
+        "duration": 3.8,
+        "start_formatted": "19:17",
+        "text": "clone the repo into our custom nodes"
+      },
+      {
+        "start": 1159.56,
+        "duration": 4.52,
+        "start_formatted": "19:19",
+        "text": "folder. All right. Now, after restarting"
+      },
+      {
+        "start": 1161.48,
+        "duration": 4.96,
+        "start_formatted": "19:21",
+        "text": "ComfyUI, simply double-click anywhere on"
+      },
+      {
+        "start": 1164.08,
+        "duration": 4.64,
+        "start_formatted": "19:24",
+        "text": "the canvas and then search for spectrum"
+      },
+      {
+        "start": 1166.44,
+        "duration": 5.12,
+        "start_formatted": "19:26",
+        "text": "apply and you should see spectrum apply"
+      },
+      {
+        "start": 1168.72,
+        "duration": 4.64,
+        "start_formatted": "19:28",
+        "text": "Minimax H3. So, simply add this node to"
+      },
+      {
+        "start": 1171.56,
+        "duration": 4.08,
+        "start_formatted": "19:31",
+        "text": "the canvas and you can put this anywhere"
+      },
+      {
+        "start": 1173.36,
+        "duration": 5.44,
+        "start_formatted": "19:33",
+        "text": "before the basic guider and basic"
+      },
+      {
+        "start": 1175.64,
+        "duration": 5.08,
+        "start_formatted": "19:35",
+        "text": "scheduler. So, let's just link it over"
+      },
+      {
+        "start": 1178.8,
+        "duration": 3.32,
+        "start_formatted": "19:38",
+        "text": "here. So, here are three different"
+      },
+      {
+        "start": 1180.72,
+        "duration": 2.88,
+        "start_formatted": "19:40",
+        "text": "methods you can use to speed up your"
+      },
+      {
+        "start": 1182.12,
+        "duration": 3.76,
+        "start_formatted": "19:42",
+        "text": "generation. So, that's how you can speed"
+      },
+      {
+        "start": 1183.6,
+        "duration": 4.24,
+        "start_formatted": "19:43",
+        "text": "up text to video and image to video."
+      },
+      {
+        "start": 1185.88,
+        "duration": 3.4,
+        "start_formatted": "19:45",
+        "text": "Now, the reference to video workflow"
+      },
+      {
+        "start": 1187.84,
+        "duration": 3.2,
+        "start_formatted": "19:47",
+        "text": "looks a bit different, right? It looks"
+      },
+      {
+        "start": 1189.28,
+        "duration": 4.08,
+        "start_formatted": "19:49",
+        "text": "like this. But, it's the same logic. So,"
+      },
+      {
+        "start": 1191.04,
+        "duration": 4.4,
+        "start_formatted": "19:51",
+        "text": "we basically need to add the nodes after"
+      },
+      {
+        "start": 1193.36,
+        "duration": 4.2,
+        "start_formatted": "19:53",
+        "text": "this load diffusion model. So, let me"
+      },
+      {
+        "start": 1195.44,
+        "duration": 4.6,
+        "start_formatted": "19:55",
+        "text": "show you that really quickly. I'm going"
+      },
+      {
+        "start": 1197.56,
+        "duration": 4.04,
+        "start_formatted": "19:57",
+        "text": "to search for batch stage attention and"
+      },
+      {
+        "start": 1200.04,
+        "duration": 3.0,
+        "start_formatted": "20:00",
+        "text": "then add it here. I'm going to connect"
+      },
+      {
+        "start": 1201.6,
+        "duration": 4.8,
+        "start_formatted": "20:01",
+        "text": "the model to here and then connect the"
+      },
+      {
+        "start": 1203.04,
+        "duration": 5.0,
+        "start_formatted": "20:03",
+        "text": "outputs to basic guider and basic"
+      },
+      {
+        "start": 1206.4,
+        "duration": 4.52,
+        "start_formatted": "20:06",
+        "text": "scheduler. And then afterwards, let's"
+      },
+      {
+        "start": 1208.04,
+        "duration": 5.28,
+        "start_formatted": "20:08",
+        "text": "also add easy cash and then put it"
+      },
+      {
+        "start": 1210.92,
+        "duration": 4.32,
+        "start_formatted": "20:10",
+        "text": "between these two nodes. So, that's how"
+      },
+      {
+        "start": 1213.32,
+        "duration": 3.84,
+        "start_formatted": "20:13",
+        "text": "you can also speed up the reference to"
+      },
+      {
+        "start": 1215.24,
+        "duration": 4.12,
+        "start_formatted": "20:15",
+        "text": "video workflow. All right. Now, like I"
+      },
+      {
+        "start": 1217.16,
+        "duration": 4.72,
+        "start_formatted": "20:17",
+        "text": "said, the pruned models are reported to"
+      },
+      {
+        "start": 1219.36,
+        "duration": 4.48,
+        "start_formatted": "20:19",
+        "text": "even work on 12 GB of VRAM. But, if you"
+      },
+      {
+        "start": 1221.88,
+        "duration": 4.6,
+        "start_formatted": "20:21",
+        "text": "have even lower VRAM, well, you can use"
+      },
+      {
+        "start": 1223.84,
+        "duration": 5.4,
+        "start_formatted": "20:23",
+        "text": "another platform called 1 to GP. Here,"
+      },
+      {
+        "start": 1226.48,
+        "duration": 6.48,
+        "start_formatted": "20:26",
+        "text": "the author says that you can run Minimax"
+      },
+      {
+        "start": 1229.24,
+        "duration": 5.76,
+        "start_formatted": "20:29",
+        "text": "H3 with as low as 5 GB of VRAM at 480p"
+      },
+      {
+        "start": 1232.96,
+        "duration": 3.76,
+        "start_formatted": "20:32",
+        "text": "resolution. So, that's some insane"
+      },
+      {
+        "start": 1235.0,
+        "duration": 4.0,
+        "start_formatted": "20:35",
+        "text": "optimization. Now, I've already gone"
+      },
+      {
+        "start": 1236.72,
+        "duration": 4.36,
+        "start_formatted": "20:36",
+        "text": "over how to install 1 to GP in a"
+      },
+      {
+        "start": 1239.0,
+        "duration": 4.04,
+        "start_formatted": "20:39",
+        "text": "previous tutorial. It's basically the"
+      },
+      {
+        "start": 1241.08,
+        "duration": 3.68,
+        "start_formatted": "20:41",
+        "text": "same instructions as before. So, I'll"
+      },
+      {
+        "start": 1243.04,
+        "duration": 3.76,
+        "start_formatted": "20:43",
+        "text": "link to this page in the description"
+      },
+      {
+        "start": 1244.76,
+        "duration": 4.44,
+        "start_formatted": "20:44",
+        "text": "below if you're interested in installing"
+      },
+      {
+        "start": 1246.8,
+        "duration": 4.56,
+        "start_formatted": "20:46",
+        "text": "1 to GP. Now, it's still quite early."
+      },
+      {
+        "start": 1249.2,
+        "duration": 4.36,
+        "start_formatted": "20:49",
+        "text": "They've only released Minimax H3 for a"
+      },
+      {
+        "start": 1251.36,
+        "duration": 4.16,
+        "start_formatted": "20:51",
+        "text": "few days, but we already have lower"
+      },
+      {
+        "start": 1253.56,
+        "duration": 4.2,
+        "start_formatted": "20:53",
+        "text": "support for this. If you're not familiar"
+      },
+      {
+        "start": 1255.52,
+        "duration": 4.28,
+        "start_formatted": "20:55",
+        "text": "with the term lower, this is basically a"
+      },
+      {
+        "start": 1257.76,
+        "duration": 4.8,
+        "start_formatted": "20:57",
+        "text": "fine-tuned model which allows you to"
+      },
+      {
+        "start": 1259.8,
+        "duration": 5.08,
+        "start_formatted": "20:59",
+        "text": "generate a certain character or style or"
+      },
+      {
+        "start": 1262.56,
+        "duration": 4.2,
+        "start_formatted": "21:02",
+        "text": "action or effect. The awesome thing is"
+      },
+      {
+        "start": 1264.88,
+        "duration": 4.16,
+        "start_formatted": "21:04",
+        "text": "one of the best toolkits for training"
+      },
+      {
+        "start": 1266.76,
+        "duration": 4.8,
+        "start_formatted": "21:06",
+        "text": "Laura's called the Austras AI toolkit"
+      },
+      {
+        "start": 1269.04,
+        "duration": 5.4,
+        "start_formatted": "21:09",
+        "text": "has already added support for Minimax"
+      },
+      {
+        "start": 1271.56,
+        "duration": 5.2,
+        "start_formatted": "21:11",
+        "text": "H3. So, you can use this to train your"
+      },
+      {
+        "start": 1274.44,
+        "duration": 4.0,
+        "start_formatted": "21:14",
+        "text": "own Minimax H3 Laura's. Now, this is"
+      },
+      {
+        "start": 1276.76,
+        "duration": 3.24,
+        "start_formatted": "21:16",
+        "text": "quite technical and beyond the scope of"
+      },
+      {
+        "start": 1278.44,
+        "duration": 3.88,
+        "start_formatted": "21:18",
+        "text": "this tutorial, but if you are"
+      },
+      {
+        "start": 1280.0,
+        "duration": 4.16,
+        "start_formatted": "21:20",
+        "text": "interested, I will link to this page in"
+      },
+      {
+        "start": 1282.32,
+        "duration": 3.8,
+        "start_formatted": "21:22",
+        "text": "the description below. Finally, it's"
+      },
+      {
+        "start": 1284.16,
+        "duration": 4.36,
+        "start_formatted": "21:24",
+        "text": "important to also talk about the"
+      },
+      {
+        "start": 1286.12,
+        "duration": 4.88,
+        "start_formatted": "21:26",
+        "text": "licensing of this. So, note that this is"
+      },
+      {
+        "start": 1288.52,
+        "duration": 4.24,
+        "start_formatted": "21:28",
+        "text": "extremely permissive. Here it says you"
+      },
+      {
+        "start": 1291.0,
+        "duration": 4.12,
+        "start_formatted": "21:31",
+        "text": "can basically use this for anything you"
+      },
+      {
+        "start": 1292.76,
+        "duration": 4.08,
+        "start_formatted": "21:32",
+        "text": "want including commercial usage as long"
+      },
+      {
+        "start": 1295.12,
+        "duration": 4.68,
+        "start_formatted": "21:35",
+        "text": "as your commercial products and services"
+      },
+      {
+        "start": 1296.84,
+        "duration": 5.28,
+        "start_formatted": "21:36",
+        "text": "do not generate more than 20 million USD"
+      },
+      {
+        "start": 1299.8,
+        "duration": 3.76,
+        "start_formatted": "21:39",
+        "text": "or equivalent in yearly revenue. If it"
+      },
+      {
+        "start": 1302.12,
+        "duration": 3.6,
+        "start_formatted": "21:42",
+        "text": "does, then you'll need to contact them"
+      },
+      {
+        "start": 1303.56,
+        "duration": 4.04,
+        "start_formatted": "21:43",
+        "text": "to work out an agreement. However, note"
+      },
+      {
+        "start": 1305.72,
+        "duration": 5.64,
+        "start_formatted": "21:45",
+        "text": "that all these territories including the"
+      },
+      {
+        "start": 1307.6,
+        "duration": 6.04,
+        "start_formatted": "21:47",
+        "text": "EU, UK, Korea, and the US are excluded"
+      },
+      {
+        "start": 1311.36,
+        "duration": 4.2,
+        "start_formatted": "21:51",
+        "text": "from this Minimax community license. If"
+      },
+      {
+        "start": 1313.64,
+        "duration": 4.64,
+        "start_formatted": "21:53",
+        "text": "you are in one of these places, you"
+      },
+      {
+        "start": 1315.56,
+        "duration": 5.44,
+        "start_formatted": "21:55",
+        "text": "cannot use or run or modify this open"
+      },
+      {
+        "start": 1318.28,
+        "duration": 5.16,
+        "start_formatted": "21:58",
+        "text": "model or its outputs unless you apply"
+      },
+      {
+        "start": 1321.0,
+        "duration": 4.52,
+        "start_formatted": "22:01",
+        "text": "for a separate license. Now, this might"
+      },
+      {
+        "start": 1323.44,
+        "duration": 4.04,
+        "start_formatted": "22:03",
+        "text": "sound extremely restrictive, but it's"
+      },
+      {
+        "start": 1325.52,
+        "duration": 4.04,
+        "start_formatted": "22:05",
+        "text": "not. They just want to be legally safe"
+      },
+      {
+        "start": 1327.48,
+        "duration": 4.04,
+        "start_formatted": "22:07",
+        "text": "because they are facing lawsuits from"
+      },
+      {
+        "start": 1329.56,
+        "duration": 3.84,
+        "start_formatted": "22:09",
+        "text": "like I think Disney and some other"
+      },
+      {
+        "start": 1331.52,
+        "duration": 4.16,
+        "start_formatted": "22:11",
+        "text": "companies. I mean, these places are"
+      },
+      {
+        "start": 1333.4,
+        "duration": 3.92,
+        "start_formatted": "22:13",
+        "text": "basically legal landmines, so they got"
+      },
+      {
+        "start": 1335.68,
+        "duration": 3.44,
+        "start_formatted": "22:15",
+        "text": "to be cautious. The nice thing is it's"
+      },
+      {
+        "start": 1337.32,
+        "duration": 4.04,
+        "start_formatted": "22:17",
+        "text": "actually fairly easy for you to just"
+      },
+      {
+        "start": 1339.12,
+        "duration": 4.16,
+        "start_formatted": "22:19",
+        "text": "fill out this form and get approved, so"
+      },
+      {
+        "start": 1341.36,
+        "duration": 4.56,
+        "start_formatted": "22:21",
+        "text": "you can actually run the model if you're"
+      },
+      {
+        "start": 1343.28,
+        "duration": 3.84,
+        "start_formatted": "22:23",
+        "text": "located in any of those places. In fact,"
+      },
+      {
+        "start": 1345.92,
+        "duration": 3.24,
+        "start_formatted": "22:25",
+        "text": "I'll link to this page in the"
+      },
+      {
+        "start": 1347.12,
+        "duration": 3.76,
+        "start_formatted": "22:27",
+        "text": "description below where it explains more"
+      },
+      {
+        "start": 1349.16,
+        "duration": 3.32,
+        "start_formatted": "22:29",
+        "text": "about why they are doing this. And if"
+      },
+      {
+        "start": 1350.88,
+        "duration": 3.36,
+        "start_formatted": "22:30",
+        "text": "you scroll down a bit here, it contains"
+      },
+      {
+        "start": 1352.48,
+        "duration": 3.44,
+        "start_formatted": "22:32",
+        "text": "the application form which you can fill"
+      },
+      {
+        "start": 1354.24,
+        "duration": 3.4,
+        "start_formatted": "22:34",
+        "text": "out so you can actually use this if"
+      },
+      {
+        "start": 1355.92,
+        "duration": 3.92,
+        "start_formatted": "22:35",
+        "text": "you're in the US or the other excluded"
+      },
+      {
+        "start": 1357.64,
+        "duration": 5.12,
+        "start_formatted": "22:37",
+        "text": "places. All right, so that sums up my"
+      },
+      {
+        "start": 1359.84,
+        "duration": 5.52,
+        "start_formatted": "22:39",
+        "text": "installation tutorial of Minimax H3."
+      },
+      {
+        "start": 1362.76,
+        "duration": 5.16,
+        "start_formatted": "22:42",
+        "text": "This is by far the best and most"
+      },
+      {
+        "start": 1365.36,
+        "duration": 4.32,
+        "start_formatted": "22:45",
+        "text": "flexible open-source image generator you"
+      },
+      {
+        "start": 1367.92,
+        "duration": 3.64,
+        "start_formatted": "22:47",
+        "text": "can use right now. It's incredibly"
+      },
+      {
+        "start": 1369.68,
+        "duration": 3.96,
+        "start_formatted": "22:49",
+        "text": "knowledgeable. It can generate all these"
+      },
+      {
+        "start": 1371.56,
+        "duration": 4.32,
+        "start_formatted": "22:51",
+        "text": "different characters and art styles and"
+      },
+      {
+        "start": 1373.64,
+        "duration": 3.92,
+        "start_formatted": "22:53",
+        "text": "different actions. It's amazing at"
+      },
+      {
+        "start": 1375.88,
+        "duration": 4.32,
+        "start_formatted": "22:55",
+        "text": "following your prompt plus its"
+      },
+      {
+        "start": 1377.56,
+        "duration": 3.92,
+        "start_formatted": "22:57",
+        "text": "multimodal capabilities are a godsend."
+      },
+      {
+        "start": 1380.2,
+        "duration": 3.24,
+        "start_formatted": "23:00",
+        "text": "Let me know in the comments what you"
+      },
+      {
+        "start": 1381.48,
+        "duration": 3.8,
+        "start_formatted": "23:01",
+        "text": "think of this, what other cool or"
+      },
+      {
+        "start": 1383.44,
+        "duration": 3.84,
+        "start_formatted": "23:03",
+        "text": "impressive things were you able to get"
+      },
+      {
+        "start": 1385.28,
+        "duration": 4.04,
+        "start_formatted": "23:05",
+        "text": "it to generate. If you run into any"
+      },
+      {
+        "start": 1387.28,
+        "duration": 4.16,
+        "start_formatted": "23:07",
+        "text": "errors with the installation, welcome to"
+      },
+      {
+        "start": 1389.32,
+        "duration": 3.64,
+        "start_formatted": "23:09",
+        "text": "copy and paste the exact error message"
+      },
+      {
+        "start": 1391.44,
+        "duration": 3.2,
+        "start_formatted": "23:11",
+        "text": "that you see in the comments below and"
+      },
+      {
+        "start": 1392.96,
+        "duration": 4.28,
+        "start_formatted": "23:12",
+        "text": "I'll try to help you troubleshoot as"
+      },
+      {
+        "start": 1394.64,
+        "duration": 5.32,
+        "start_formatted": "23:14",
+        "text": "much as possible. As always, I will be"
+      },
+      {
+        "start": 1397.24,
+        "duration": 4.64,
+        "start_formatted": "23:17",
+        "text": "on the lookout for the top AI news and"
+      },
+      {
+        "start": 1399.96,
+        "duration": 3.8,
+        "start_formatted": "23:19",
+        "text": "tools to share with you. So, if you"
+      },
+      {
+        "start": 1401.88,
+        "duration": 4.04,
+        "start_formatted": "23:21",
+        "text": "enjoyed this video, remember to like,"
+      },
+      {
+        "start": 1403.76,
+        "duration": 4.76,
+        "start_formatted": "23:23",
+        "text": "share, subscribe, and stay tuned for"
+      },
+      {
+        "start": 1405.92,
+        "duration": 4.48,
+        "start_formatted": "23:25",
+        "text": "more content. Also, there's just so much"
+      },
+      {
+        "start": 1408.52,
+        "duration": 4.28,
+        "start_formatted": "23:28",
+        "text": "happening in the world of AI every week."
+      },
+      {
+        "start": 1410.4,
+        "duration": 4.6,
+        "start_formatted": "23:30",
+        "text": "I can't possibly cover everything on my"
+      },
+      {
+        "start": 1412.8,
+        "duration": 4.52,
+        "start_formatted": "23:32",
+        "text": "YouTube channel. So, to really stay"
+      },
+      {
+        "start": 1415.0,
+        "duration": 5.0,
+        "start_formatted": "23:35",
+        "text": "up-to-date with all that's going on in"
+      },
+      {
+        "start": 1417.32,
+        "duration": 4.6,
+        "start_formatted": "23:37",
+        "text": "AI, be sure to subscribe to my free"
+      },
+      {
+        "start": 1420.0,
+        "duration": 3.92,
+        "start_formatted": "23:40",
+        "text": "weekly newsletter. The link to that will"
+      },
+      {
+        "start": 1421.92,
+        "duration": 4.04,
+        "start_formatted": "23:41",
+        "text": "be in the description below. Thanks for"
+      },
+      {
+        "start": 1423.92,
+        "duration": 4.36,
+        "start_formatted": "23:43",
+        "text": "watching and I'll see you in the next"
+      },
+      {
+        "start": 1425.96,
+        "duration": 2.32,
+        "start_formatted": "23:45",
+        "text": "one."
+      }
+    ],
+    "full_text": "We have a new open source video generator that you can run locally on your computer. It's called Min Max H3 and this is by far the best one available. The best thing is you can even run this with as low as 5 to 6 GB of V RAM. Plus it has audio built in and it's insanely good at character consistency, world knowledge, instruction following, and even generating and syncing to music. It's just way better than any other open model we've seen so far. In this video we're going to go over all the incredible things that it can do. Plus of course I'm going to show you how to install it on your computer so you can run it for free and unlimited times offline. Let's jump right in. First of all, here are some ridiculous generations from the open source model. As you can see it has a ton of existing knowledge built in. These were just generated with text prompts and no image references. But as you can see it can do cartoons, it knows all these different characters, TV shows, and movies. It has no problem doing regular scenes of people talking or moving or even high action scenes. It's really good at understanding even unusual actions or prompts. Here's another really tricky prompt of a realistic photo but with hand drawn animations. It's very tricky but as you can see it's able to follow this very well. So it's absolutely exceptional in terms of prompt understanding. It's also great at rendering different animation styles. So here's a clay mation example or here's an anime example. In fact the awesome thing about Min Max is that it's multi modal. So this can take in images, video, and even audio to use as references in its output. Here's an example where we can put these three anime characters together and as you can see it's able to render a video of them very consistently. Plus the jiggle physics are also top notch. Or here we can easily get it to create a commercial from these reference images. Here's another example where we can generate a commercial from just this reference of a Nike shoe. Or here's a short vampire romance drama with these two reference characters and this background. >> Hello. >> You should not be here. >> Who are you? >> The man who owns this house. >> You're not human. >> And you smell like war. >> I'm not afraid of you. >> Then you should be. >> It also seems to be very good at generating text and interfaces. So, here's an example where I upload a screenshot from this website and it's able to make an animation from this very well. This is also surprisingly good at creating gameplay scenes. We can just upload a screenshot of this first-person shooter and get it to generate some footage of the game. So, this can potentially be very useful for game design and ideation. Here's a more complicated example where I can upload a video of this man walking down the street plus some voxel image references and it's able to transform the scene with these voxel elements. Or here's another example where we can copy all the actions from a reference video on to a new video with different characters based on a reference image. You can also add or remove characters and objects in an existing video, as you can see from this example. It's able to understand and detect one of these characters and make a clone of them. Or here's another example where we can prompt it to replace the scenery with this image after the person opens the blinds. And it's able to execute this flawlessly. It's basically like an open-source Gemini Omni. So, those are some demos of all the incredible things that it can do. Hopefully, this gives you a sense of how flexible and powerful MiniMax is. I really can't believe they're just open-sourcing this for us for free. Anyway, next let's go over how to install this. So, in this video, we are going to use a platform called ComfyUI to run MiniMax H3. This is one of the most popular platforms for running open-source image, video, and audio generators locally on your computer. So, if you're not familiar with ComfyUI, definitely see this video first where I go over how to install and use it. Now, assuming you do have ComfyUI, the first thing you should do is within your comfyUI folder, double click on this update folder, and then run this update comfyUI.bat file. This will update your comfy to the latest version. All right, after updating, it says press any key to continue, and it'll just automatically exit the terminal. Next, we can start up comfyUI. All right, after opening up comfyUI, simply click on templates on the left sidebar, and then search for Minimax at the top, and you should be able to see a few different workflows. Now, in case you don't see these workflows for whatever reason, I'll also link to this page in the description below, where you can manually download the workflow and then just drag and drop it onto your comfyUI interface. Note that some of these have the API tag, which means you're actually running Minimax from the cloud instead of locally, so ignore those ones. What we are going to focus on are these bottom ones: text to video, image to video, and reference to video. Let's go over text to video first. So, let me click on this to open up the workflow, and here it says it has found two errors. So, let's view the details, and here it says it's missing some models. So, first of all, we need to download all the models for this to work. So, I will link to this page in the description below, and you just got to click into each of these folders and download the appropriate model for your computer. Let's click into diffusion models first, and here this first Minimax model called FL2VA, this is basically for text video and image to video. And then, this bottom one, Ref2VA, this is for reference to video. So, I'm going to show you some text video and image to video examples first. So, we're going to download one of these ones. Now, the full model is 66 GB, which would probably not fit for most of you. There's also an INT8 version, which is 34 GB, and then a pruned FP8 version or a pruned INT8 version, which is 21 GB. The nice thing is some users have reported that these models work on as low as just 12 GB of VRAM. And if you have even lower VRAM, don't worry, I'll show you some other options you can use later in the video. Now, note that the largest full model is the highest quality, and as it gets more compressed, there is some sacrifice in quality, but it's still very good. Anyways, download the version that works on your hardware. Since I have a more recent Nvidia GPU, I'm going to download this FP8 one. And this goes in ComfyUI, in models, and then in diffusion models. Let's click save. All right, afterwards, let's go back to the root folder, and then next we also need to download a text encoder. So, this uses Qwen-3-VL-32B as the text encoder. Again, you are given three different versions with different compression. Choose the one that would fit on your device. Now, for the text encoder, this doesn't have to fit on your VRAM. This can also just fit on your RAM. Anyways, this is what I'm going to download, so let's click on download. And this goes in ComfyUI, in models, and then text encoders. Let's click save. All right, finally, we also need to download the VAE. So, let's click on this, and then we need to download both the audio VAE and the video VAE. So, let's proceed to download both. Both of these go in ComfyUI, in models, and then VAE. Let me also download the second one in the same folder. All right, after downloading everything, let's go back to our workflow, and let's press R to refresh our model list, and then over here is where we can open up each of these drop-downs to select the model that we just downloaded. So, for example, for the UNet, I'm going to select this MiniMax FP8. For the clip name, I'm going to select Qwen-3-VL-32B. And then for VAE, I'm going to select this one. For audio, let's go with this one. And that's pretty much it. It should remove all the errors and the red outline from this node. And then afterwards, here are some additional settings you can set. So, you can choose from all these different aspect ratios. For megapixels, you can refer to this table over here. So, for a 480p video, it'll be 0.4 megapixels. And you can set the duration over here. Now, if you click on this button to expand this workflow, notice that it actually looks like this. And here are some additional settings you can set like the sampler and the scheduler, which are basically the algorithms used to generate the video. I would just leave this at the default, and then this is the number of steps it takes to generate the video. Again, I would just leave this at the default of 20 steps for now. All right, so to collapse the workflow, simply click on the parent component up here, which takes you back to this compressed workflow. And that's pretty much it. Let's press run. All right, so that wasn't too bad. It took around a minute per second, and here's the generation. Notice that this has audio built in. >> [music] >> And note that this is automatically saved in your video folder within the output folder. All right, so that's text to video. Next, let's go over an image to video example. So, again, let me pull up templates and then search for Min Max, and then let's select this one, image to video. Again, make sure you select the one that does not have an API tag. So, the workflow will look like this. Now, since we've already downloaded the models from the previous step, we just need to load the models down here. Let me select the model that I downloaded. For the text encoder, it'll be Qwen VL 32B, and after selecting the models, this red outline should be gone. And then here's where we upload an image. So, let me upload this image, and then for the aspect ratio, let's set it to 16:9, and then again at 480p. You can also choose the method on how you want to rescale the image. For me, I just tend to leave it at the default of nearest exact, which works very well. And then again, over here, I can set the duration. And let me just add a simple prompt here, and that's pretty much it. Let's press run. All right, so that again took around 5 minutes, so around a minute per second. Here's the result. All right, so that's image to video. Next, let's go over the third and final workflow, which is reference to video. This is the most powerful workflow you can use. So, let me first click into the workflow, and once you click into it, again, you might see some errors and missing models. So, let's go ahead and fix all these red outlines. Now, for this reference to video workflow, for the load diffusion model, make sure you download one of these four models. The lowest prune versions are like 21 GB, and some users have reported to even successfully run this on as low as 12 GB of VRAM. Anyways, for me, I'm going to download this FP8 version, so let's click download, and this goes in ComfyUI, in models, and then in diffusion models. Let's click save. All right, so afterwards, back here, let's press R to refresh our model list, and then in this drop down, I can select this ref to video model. And then afterwards, for load clip, we can just select the Gemma 32B model, which I downloaded for the previous workflow. And then for the video and audio VAE, looks like it has already selected these by default. All right, so the model selection is done. Next, let's go over the workflow. So, what reference to video does is this can take in images or even video or audio to use as input. Let me first show you an image example. So, over here is where you can plug in multiple images over here for it to use as a reference. Now, by default, this workflow has two load image nodes. If you just need one, you can just simply click on this and press control B to bypass it to just load one image. But for me, I'm going to show you an example of two images, so let me un-bypass this, and then let me upload some images. All right, so I'm going to upload this character plus this car, and then down here is where I would enter the prompt. Note how you would refer to your attachments in the prompt. So, you would type something like picture one or picture two. All right, so here's my prompt. The woman in picture one walking to the side of the car in picture two, she opens the door and gets in the car in a dark, misty forest at night. Here's where you would select the aspect ratio. So, again, you can choose from all these different aspect ratios, and here's where you can choose the resolution. So you can refer to this table over here. 0.4 megapixels is roughly 480p. And then here is where you would select the duration of the video. So right now it's set at 5 seconds. And that's pretty much it. Let's press run. All right, and afterwards here is our result. >> [music] >> All right, now instead of just using two images, let me show you an example where we can upload a reference video instead. So I'm going to get rid of this load image node, and double click anywhere on the canvas, and then search for load video. Now this one load video by comfy essentials does not work. You'll need to use this load video upload node instead. So let's put this over here, and then let me upload this green screen video. And then let's connect this to the ref video zero input up here. And for the format, I'm going to set it to none. And then for the image, let me change this to a dark background like this. For my prompt, I'm going to write replace the background in video one with the dark bamboo forest in photo one. And that's pretty much it. Let's press run. All right, here's our result. Now instead of video, you can also upload audio. In fact, its audio and music understanding is amazing. So let me get rid of this load video node, and next let me click anywhere on the canvas, and search for load audio. And we need to use this one load audio upload. So let me click on this and add it anywhere here. And for the audio, let me upload this track. >> [music and singing] [music] [singing] >> All right, so afterwards let's drag this to the reference audio node over here. For the duration, this should be 14 seconds. And then for the image, let's upload this image of a woman singing. Now, because this is 14 seconds, let me also set the duration to around 14 seconds. And then for the prompt, I'm going to write a music video of photo one singing this song, audio one. She is singing passionately on a windy cliff. Her hair is blowing in the wind. Let's press run. All right, and here's the result. >> [music and singing] [music] [music and singing] >> So, as you can see, you can easily create music videos from this. In fact, this is a pretty bad example. You can probably prompt it further and add more elements and different transitions and cuts to make this even more epic. All right, so that sums up how you can use all these different inputs including images, video, and audio using this reference to video workflow. All right, next let me show you how to speed up your generations even more. Now, like I said, at least for me, the base int8 or fp8 model can generate at around 1 minute per second. However, there are many hacks you can use to speed this up by like 30 to 40%. So, I'll link to this page in the description below. The first thing you need to do is to download Sage Attention. Now, it's kind of a pain, but I'll make this as beginner-friendly as possible. So, in order to download Sage Attention, you need to download the version that matches your PyTorch and CUDA version. So, to check your PyTorch version, in your ComfyUI folder, note that I'm using the Windows portable version, you should see this Python embedded folder. So, double-click on this, and then at the top here, type in cmd to open your Python embedded folder up in your command prompt. And you just need to paste in this line here. I'll put this in the description or a comment so you can just easily copy and paste it. But basically, this uses Python to run this snippet of code. It imports torch, and then it prints out the version of torch. So, let's press enter and you can see here I am using torch version 2.6 and it's using CUDA 12.4. And one thing I forgot to mention is you also need to figure out the Python version that ComfyUI uses. So, again, in your Python embedded folder at the top here, type in CMD to open this up in command prompt and then type in So, you can see for me I'm using Python version 3.11. All right. So, now that you have your PyTorch and CUDA and Python versions, simply click on this page, which I will also link to in the description below, and over here simply look for this SageAttention that fits your CUDA version plus your torch version plus your Python version. Once you found the right one, simply click on it to download it to wherever you want. All right. After downloading the pre-built SageAttention wheel, you can just install the wheel using pip install in your terminal. If you do have the Windows portable version, then simply click into your Python embedded folder and then at the top here type in CMD to open this up in command prompt. And then afterwards, we need to type python.exe {dash} m pip install. Then you would basically copy the path to your downloaded file and paste it in here. So, after pressing enter, it should proceed to install SageAttention for your system. Now, for me I see this message because I already have it installed. The next step is you also need to install KJ nodes. So, I'll link to this page in the description below. Here are the instructions on how to install this. The first step is to clone this repo into the custom nodes folder. So, going back into our ComfyUI folder, simply click on ComfyUI and then custom nodes and then at the top type in CMD to open your custom nodes folder in command prompt. Afterwards, on this KJ nodes page I'm going to click on this green button and then copy this URL and then back in my terminal I'm going to type in git clone and then paste the URL in here. So, this is going to proceed to clone this repository into a folder within your custom nodes folder. And then afterwards, you also need to install the dependencies for this. So, in your ComfyUI Windows portable root folder, at the top here, simply type in CMD to open this folder up in your terminal, and then copy and paste this line into here. So, this is going to proceed to install all the requirements for KJ nodes. All right, that's all you need to do. Simply restart ComfyUI, and after restarting, let me show you how to apply this to either the text-to-video workflow or the image-to-video workflow. It's exactly the same thing. Again, the workflow looks like this. Simply click on this corner to expand the workflow, and what you need to do to speed this up is to place some additional nodes after this load diffusion model node. So, let me double-click anywhere on the canvas and search for patch, and you should see this patch sage attention node after you've downloaded the KJ nodes. So, let me select this and place it onto the canvas. And for this sage attention setting, let's set it to auto. And we basically need to connect the model to here, and then connect the outputs to where the model normally goes. In our case, it would be the basic guider and the basic scheduler. So, that's one way on how you can speed up the generation by like 20 to 30%. Another quick hack is you can double-click anywhere on the canvas and then type in easy cache, and you just need to select this one, easy cache, which should already be available. This is part of the default Comfy nodes. So, let's put this anywhere on the canvas, and this basically can go in between these two nodes. So, let me reconnect the model to here, and then reconnect the output to here. So, by adding this additional easy cache node, it can also speed up the generation by an additional 5 to 10%. And you can stack both of these together. Here's another hack on how you can speed this up even further. So, here's another node called ComfyUI Spectrum, and this is specifically designed for MiniMax H3. If you scroll down a bit, here is how you can install this. So, simply go into your custom nodes folder, and then at the top here, type in CMD to open this up in command prompt. And then afterwards, I will copy this line and paste it in here. And this is going to clone the repo into our custom nodes folder. All right. Now, after restarting ComfyUI, simply double-click anywhere on the canvas and then search for spectrum apply and you should see spectrum apply Minimax H3. So, simply add this node to the canvas and you can put this anywhere before the basic guider and basic scheduler. So, let's just link it over here. So, here are three different methods you can use to speed up your generation. So, that's how you can speed up text to video and image to video. Now, the reference to video workflow looks a bit different, right? It looks like this. But, it's the same logic. So, we basically need to add the nodes after this load diffusion model. So, let me show you that really quickly. I'm going to search for batch stage attention and then add it here. I'm going to connect the model to here and then connect the outputs to basic guider and basic scheduler. And then afterwards, let's also add easy cash and then put it between these two nodes. So, that's how you can also speed up the reference to video workflow. All right. Now, like I said, the pruned models are reported to even work on 12 GB of VRAM. But, if you have even lower VRAM, well, you can use another platform called 1 to GP. Here, the author says that you can run Minimax H3 with as low as 5 GB of VRAM at 480p resolution. So, that's some insane optimization. Now, I've already gone over how to install 1 to GP in a previous tutorial. It's basically the same instructions as before. So, I'll link to this page in the description below if you're interested in installing 1 to GP. Now, it's still quite early. They've only released Minimax H3 for a few days, but we already have lower support for this. If you're not familiar with the term lower, this is basically a fine-tuned model which allows you to generate a certain character or style or action or effect. The awesome thing is one of the best toolkits for training Laura's called the Austras AI toolkit has already added support for Minimax H3. So, you can use this to train your own Minimax H3 Laura's. Now, this is quite technical and beyond the scope of this tutorial, but if you are interested, I will link to this page in the description below. Finally, it's important to also talk about the licensing of this. So, note that this is extremely permissive. Here it says you can basically use this for anything you want including commercial usage as long as your commercial products and services do not generate more than 20 million USD or equivalent in yearly revenue. If it does, then you'll need to contact them to work out an agreement. However, note that all these territories including the EU, UK, Korea, and the US are excluded from this Minimax community license. If you are in one of these places, you cannot use or run or modify this open model or its outputs unless you apply for a separate license. Now, this might sound extremely restrictive, but it's not. They just want to be legally safe because they are facing lawsuits from like I think Disney and some other companies. I mean, these places are basically legal landmines, so they got to be cautious. The nice thing is it's actually fairly easy for you to just fill out this form and get approved, so you can actually run the model if you're located in any of those places. In fact, I'll link to this page in the description below where it explains more about why they are doing this. And if you scroll down a bit here, it contains the application form which you can fill out so you can actually use this if you're in the US or the other excluded places. All right, so that sums up my installation tutorial of Minimax H3. This is by far the best and most flexible open-source image generator you can use right now. It's incredibly knowledgeable. It can generate all these different characters and art styles and different actions. It's amazing at following your prompt plus its multimodal capabilities are a godsend. Let me know in the comments what you think of this, what other cool or impressive things were you able to get it to generate. If you run into any errors with the installation, welcome to copy and paste the exact error message that you see in the comments below and I'll try to help you troubleshoot as much as possible. As always, I will be on the lookout for the top AI news and tools to share with you. So, if you enjoyed this video, remember to like, share, subscribe, and stay tuned for more content. Also, there's just so much happening in the world of AI every week. I can't possibly cover everything on my YouTube channel. So, to really stay up-to-date with all that's going on in AI, be sure to subscribe to my free weekly newsletter. The link to that will be in the description below. Thanks for watching and I'll see you in the next one.",
+    "word_count": 4665,
     "error": null
   }
 }

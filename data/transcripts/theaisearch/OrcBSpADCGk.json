@@ -14,10 +14,4685 @@
     "video_id": "OrcBSpADCGk",
     "has_transcript": true,
     "language": "en",
-    "is_generated": false,
-    "segments": [],
-    "full_text": "HUGE AI NEWS: Deepseek V4 Flash, Seedance 2.5, Minimax H3, Kimi K3 & more #ai #ainews #aitools #aivideo #agi\nThanks to our sponsor Higgsfield. Try Seedance 2.0 4K today https://higgsfield.ai/s/theaisearch-BTFzlL\n\n00:00 AI news intro\n00:46 ID V2V\n01:47 Crisper Whisper\n04:08 Deepseek V4 Flash 0731\n06:28 Redesign\n07:43 Kimi K3 open sourced\n09:16 Instella\n11:01 Ideogram obj remover\n12:04 Higgsfield\n13:39 Inkling Small\n15:33 Prism\n16:46 Seedance 2.5\n19:04 Minimax H3 \n22:10 Gemini Robotics 2\n24:04 Wonder\n25:19 Gemini voice typing\n26:26 Phi Zero\n\nID V2V https://eyeline-labs.github.io/ID-V2V/ \nCrisper Whisper https://nyra-labs.com/crisperwhisper \nDeepseek V4 Flash 0731 https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731\nDSpark explainer: https://youtu.be/J0D7qV3nl7w\nRedesign https://github.com/jintae-00/ReDesign \nKimi K3 https://huggingface.co/moonshotai/Kimi-K3\nAttention Residuals explainer https://youtu.be/2IfAVV7ewO0\nInstella https://rocm.blogs.amd.com/artificial-intelligence/instella-moe/README.html\nIdeogram obj remover https://ideogram.ai/apps/object-remover\nInkling Small https://huggingface.co/thinkingmachines/Inkling-Small\nPrism https://lsh3163.github.io/prism/\nSeedance 2.5 https://seed.bytedance.com/en/seedance2_5 \nMinimax H3 https://www.minimax.io/blog/minimax-h3 \nGemini Robotics 2 https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ \nWonder https://wonder-world-model.github.io/ \nGemini voice typing https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/ \nPhi Zero https://phi-zero.github.io/ \n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
-    "word_count": 0,
+    "is_generated": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "duration": 7.48,
+        "start_formatted": "00:00",
+        "text": "AI never sleeps and this week has been"
+      },
+      {
+        "start": 3.68,
+        "duration": 6.0,
+        "start_formatted": "00:03",
+        "text": "absolutely insane. ByteDance releases"
+      },
+      {
+        "start": 7.48,
+        "duration": 5.08,
+        "start_formatted": "00:07",
+        "text": "the best video model out there, Seed"
+      },
+      {
+        "start": 9.68,
+        "duration": 5.44,
+        "start_formatted": "00:09",
+        "text": "Dance 2.5. MiniMax also releases their"
+      },
+      {
+        "start": 12.56,
+        "duration": 4.04,
+        "start_formatted": "00:12",
+        "text": "best video model, MiniMax H3. And the"
+      },
+      {
+        "start": 15.12,
+        "duration": 4.04,
+        "start_formatted": "00:15",
+        "text": "awesome thing is this will be open"
+      },
+      {
+        "start": 16.6,
+        "duration": 4.84,
+        "start_formatted": "00:16",
+        "text": "source. Deep Seek releases their newest"
+      },
+      {
+        "start": 19.16,
+        "duration": 5.36,
+        "start_formatted": "00:19",
+        "text": "model and they pulled off the impossible"
+      },
+      {
+        "start": 21.44,
+        "duration": 5.36,
+        "start_formatted": "00:21",
+        "text": "again. It's as good as GLM and Opus but"
+      },
+      {
+        "start": 24.52,
+        "duration": 4.28,
+        "start_formatted": "00:24",
+        "text": "like a hundred times cheaper and way"
+      },
+      {
+        "start": 26.8,
+        "duration": 4.64,
+        "start_formatted": "00:26",
+        "text": "smaller. We have a new open source model"
+      },
+      {
+        "start": 28.8,
+        "duration": 5.2,
+        "start_formatted": "00:28",
+        "text": "that's trained entirely on AMD chips,"
+      },
+      {
+        "start": 31.44,
+        "duration": 4.4,
+        "start_formatted": "00:31",
+        "text": "not Nvidia. This AI can turn an image"
+      },
+      {
+        "start": 34.0,
+        "duration": 4.12,
+        "start_formatted": "00:34",
+        "text": "into transparent layers which you can"
+      },
+      {
+        "start": 35.84,
+        "duration": 4.44,
+        "start_formatted": "00:35",
+        "text": "edit further. We have some new video"
+      },
+      {
+        "start": 38.12,
+        "duration": 4.4,
+        "start_formatted": "00:38",
+        "text": "world models which you can interact with"
+      },
+      {
+        "start": 40.28,
+        "duration": 4.88,
+        "start_formatted": "00:40",
+        "text": "in real time. Google releases their"
+      },
+      {
+        "start": 42.52,
+        "duration": 5.44,
+        "start_formatted": "00:42",
+        "text": "latest robotics model and a lot more. So"
+      },
+      {
+        "start": 45.16,
+        "duration": 5.16,
+        "start_formatted": "00:45",
+        "text": "let's jump right in. First up, Netflix"
+      },
+      {
+        "start": 47.96,
+        "duration": 4.92,
+        "start_formatted": "00:47",
+        "text": "releases a really cool open source AI"
+      },
+      {
+        "start": 50.32,
+        "duration": 5.24,
+        "start_formatted": "00:50",
+        "text": "called IDV2V. In the simplest sense,"
+      },
+      {
+        "start": 52.88,
+        "duration": 4.92,
+        "start_formatted": "00:52",
+        "text": "this can basically change the style of"
+      },
+      {
+        "start": 55.56,
+        "duration": 4.2,
+        "start_formatted": "00:55",
+        "text": "the scene without affecting the identity"
+      },
+      {
+        "start": 57.8,
+        "duration": 3.92,
+        "start_formatted": "00:57",
+        "text": "or the movement of the characters. So"
+      },
+      {
+        "start": 59.76,
+        "duration": 4.4,
+        "start_formatted": "00:59",
+        "text": "you can just plug in an existing video"
+      },
+      {
+        "start": 61.72,
+        "duration": 4.24,
+        "start_formatted": "01:01",
+        "text": "and then edit one keyframe to show the"
+      },
+      {
+        "start": 64.16,
+        "duration": 4.16,
+        "start_formatted": "01:04",
+        "text": "new look you want and then the system"
+      },
+      {
+        "start": 65.96,
+        "duration": 4.44,
+        "start_formatted": "01:05",
+        "text": "will spread that style across the entire"
+      },
+      {
+        "start": 68.32,
+        "duration": 4.48,
+        "start_formatted": "01:08",
+        "text": "video. So you can change things like the"
+      },
+      {
+        "start": 70.4,
+        "duration": 4.52,
+        "start_formatted": "01:10",
+        "text": "background, lighting, clothing, or"
+      },
+      {
+        "start": 72.8,
+        "duration": 3.64,
+        "start_formatted": "01:12",
+        "text": "overall style while keeping the face and"
+      },
+      {
+        "start": 74.92,
+        "duration": 4.04,
+        "start_formatted": "01:14",
+        "text": "expressions and movements of the"
+      },
+      {
+        "start": 76.44,
+        "duration": 4.24,
+        "start_formatted": "01:16",
+        "text": "character the same as the original clip."
+      },
+      {
+        "start": 78.96,
+        "duration": 3.48,
+        "start_formatted": "01:18",
+        "text": "Now at the top of the page, if you click"
+      },
+      {
+        "start": 80.68,
+        "duration": 3.4,
+        "start_formatted": "01:20",
+        "text": "on this GitHub button and you scroll"
+      },
+      {
+        "start": 82.44,
+        "duration": 3.8,
+        "start_formatted": "01:22",
+        "text": "down a bit, here it contains all the"
+      },
+      {
+        "start": 84.08,
+        "duration": 4.4,
+        "start_formatted": "01:24",
+        "text": "instructions on how to download and run"
+      },
+      {
+        "start": 86.24,
+        "duration": 4.12,
+        "start_formatted": "01:26",
+        "text": "this locally on your computer. Notice"
+      },
+      {
+        "start": 88.48,
+        "duration": 4.8,
+        "start_formatted": "01:28",
+        "text": "that this can generate videos of up to"
+      },
+      {
+        "start": 90.36,
+        "duration": 5.28,
+        "start_formatted": "01:30",
+        "text": "720p and this is pretty huge. So the"
+      },
+      {
+        "start": 93.28,
+        "duration": 4.6,
+        "start_formatted": "01:33",
+        "text": "main model is like almost 80 gigabytes"
+      },
+      {
+        "start": 95.64,
+        "duration": 4.12,
+        "start_formatted": "01:35",
+        "text": "in size. So this would only fit on like"
+      },
+      {
+        "start": 97.88,
+        "duration": 3.6,
+        "start_formatted": "01:37",
+        "text": "really high-end consumer hardware. But"
+      },
+      {
+        "start": 99.76,
+        "duration": 3.32,
+        "start_formatted": "01:39",
+        "text": "hopefully there will be more compressed"
+      },
+      {
+        "start": 101.48,
+        "duration": 3.16,
+        "start_formatted": "01:41",
+        "text": "versions of this in the future. If"
+      },
+      {
+        "start": 103.08,
+        "duration": 3.32,
+        "start_formatted": "01:43",
+        "text": "you're interested in reading further,"
+      },
+      {
+        "start": 104.64,
+        "duration": 3.92,
+        "start_formatted": "01:44",
+        "text": "I'll link to this main page in the"
+      },
+      {
+        "start": 106.4,
+        "duration": 4.0,
+        "start_formatted": "01:46",
+        "text": "description below. Also this week we"
+      },
+      {
+        "start": 108.56,
+        "duration": 3.72,
+        "start_formatted": "01:48",
+        "text": "have a new open source transcription"
+      },
+      {
+        "start": 110.4,
+        "duration": 4.24,
+        "start_formatted": "01:50",
+        "text": "tool which is really powerful. It's"
+      },
+      {
+        "start": 112.28,
+        "duration": 4.72,
+        "start_formatted": "01:52",
+        "text": "called Whisper Whisper 2 and this can"
+      },
+      {
+        "start": 114.64,
+        "duration": 4.92,
+        "start_formatted": "01:54",
+        "text": "basically take any audio and turn it"
+      },
+      {
+        "start": 117.0,
+        "duration": 4.76,
+        "start_formatted": "01:57",
+        "text": "into text like this. The cool thing is"
+      },
+      {
+        "start": 119.56,
+        "duration": 4.24,
+        "start_formatted": "01:59",
+        "text": "this actually has two different outputs."
+      },
+      {
+        "start": 121.76,
+        "duration": 4.12,
+        "start_formatted": "02:01",
+        "text": "If you turn on the verbatim mode, this"
+      },
+      {
+        "start": 123.8,
+        "duration": 4.12,
+        "start_formatted": "02:03",
+        "text": "includes everything including stutters,"
+      },
+      {
+        "start": 125.88,
+        "duration": 4.599,
+        "start_formatted": "02:05",
+        "text": "hesitations, laughter, or other meta"
+      },
+      {
+        "start": 127.92,
+        "duration": 4.88,
+        "start_formatted": "02:07",
+        "text": "tags, plus repeats like this. Now,"
+      },
+      {
+        "start": 130.479,
+        "duration": 4.241,
+        "start_formatted": "02:10",
+        "text": "alternatively, you can also turn on the"
+      },
+      {
+        "start": 132.8,
+        "duration": 4.04,
+        "start_formatted": "02:12",
+        "text": "intended mode, which would get rid of"
+      },
+      {
+        "start": 134.72,
+        "duration": 4.44,
+        "start_formatted": "02:14",
+        "text": "all these hesitations and meta tags and"
+      },
+      {
+        "start": 136.84,
+        "duration": 4.4,
+        "start_formatted": "02:16",
+        "text": "give you the fully polished transcript."
+      },
+      {
+        "start": 139.16,
+        "duration": 4.16,
+        "start_formatted": "02:19",
+        "text": "So, a super flexible tool. Not only"
+      },
+      {
+        "start": 141.24,
+        "duration": 4.24,
+        "start_formatted": "02:21",
+        "text": "that, but this also gives you precise"
+      },
+      {
+        "start": 143.32,
+        "duration": 3.8,
+        "start_formatted": "02:23",
+        "text": "word level timing. In fact, let's try"
+      },
+      {
+        "start": 145.48,
+        "duration": 3.52,
+        "start_formatted": "02:25",
+        "text": "this out. They've already released a"
+      },
+      {
+        "start": 147.12,
+        "duration": 3.76,
+        "start_formatted": "02:27",
+        "text": "free hugging face space for you to try"
+      },
+      {
+        "start": 149.0,
+        "duration": 4.72,
+        "start_formatted": "02:29",
+        "text": "this out online. Here is where you can"
+      },
+      {
+        "start": 150.88,
+        "duration": 4.52,
+        "start_formatted": "02:30",
+        "text": "upload any audio. So, let's upload this"
+      },
+      {
+        "start": 153.72,
+        "duration": 2.88,
+        "start_formatted": "02:33",
+        "text": "one. We are going to generate this in"
+      },
+      {
+        "start": 155.4,
+        "duration": 3.559,
+        "start_formatted": "02:35",
+        "text": "verbatim mode."
+      },
+      {
+        "start": 156.6,
+        "duration": 5.28,
+        "start_formatted": "02:36",
+        "text": ">> However, due to the slow communication"
+      },
+      {
+        "start": 158.959,
+        "duration": 5.881,
+        "start_formatted": "02:38",
+        "text": "channels, styles in the West could lag"
+      },
+      {
+        "start": 161.88,
+        "duration": 5.079,
+        "start_formatted": "02:41",
+        "text": "behind by 25 to 30 years."
+      },
+      {
+        "start": 164.84,
+        "duration": 3.8,
+        "start_formatted": "02:44",
+        "text": ">> All right, so that was the audio and as"
+      },
+      {
+        "start": 166.959,
+        "duration": 4.081,
+        "start_formatted": "02:46",
+        "text": "you can see, the transcript is indeed"
+      },
+      {
+        "start": 168.64,
+        "duration": 4.6,
+        "start_formatted": "02:48",
+        "text": "correct and it also gives you the start"
+      },
+      {
+        "start": 171.04,
+        "duration": 3.68,
+        "start_formatted": "02:51",
+        "text": "and end times for each word. Or here's"
+      },
+      {
+        "start": 173.24,
+        "duration": 2.68,
+        "start_formatted": "02:53",
+        "text": "another example. Let me play you the"
+      },
+      {
+        "start": 174.72,
+        "duration": 4.239,
+        "start_formatted": "02:54",
+        "text": "audio first."
+      },
+      {
+        "start": 175.92,
+        "duration": 5.16,
+        "start_formatted": "02:55",
+        "text": ">> And so, my fellow Americans,"
+      },
+      {
+        "start": 178.959,
+        "duration": 4.921,
+        "start_formatted": "02:58",
+        "text": "ask not"
+      },
+      {
+        "start": 181.08,
+        "duration": 5.84,
+        "start_formatted": "03:01",
+        "text": "what your country can do for you,"
+      },
+      {
+        "start": 183.88,
+        "duration": 4.96,
+        "start_formatted": "03:03",
+        "text": "ask what you can do for your country."
+      },
+      {
+        "start": 186.92,
+        "duration": 3.84,
+        "start_formatted": "03:06",
+        "text": ">> And as you can see, it's able to provide"
+      },
+      {
+        "start": 188.84,
+        "duration": 4.119,
+        "start_formatted": "03:08",
+        "text": "me the transcript here, plus the timing"
+      },
+      {
+        "start": 190.76,
+        "duration": 3.88,
+        "start_formatted": "03:10",
+        "text": "for each word. Now, this supports all"
+      },
+      {
+        "start": 192.959,
+        "duration": 3.761,
+        "start_formatted": "03:12",
+        "text": "these different languages as you can see"
+      },
+      {
+        "start": 194.64,
+        "duration": 4.24,
+        "start_formatted": "03:14",
+        "text": "here, and if you look at this self-made"
+      },
+      {
+        "start": 196.72,
+        "duration": 4.6,
+        "start_formatted": "03:16",
+        "text": "benchmark, then Crisper Whisper 2 is"
+      },
+      {
+        "start": 198.88,
+        "duration": 4.68,
+        "start_formatted": "03:18",
+        "text": "indeed even better than 11 Labs or some"
+      },
+      {
+        "start": 201.32,
+        "duration": 4.24,
+        "start_formatted": "03:21",
+        "text": "other leading transcription tools. And"
+      },
+      {
+        "start": 203.56,
+        "duration": 4.08,
+        "start_formatted": "03:23",
+        "text": "if you look at this benchmark on word"
+      },
+      {
+        "start": 205.56,
+        "duration": 4.08,
+        "start_formatted": "03:25",
+        "text": "level timestamps, then as you can see,"
+      },
+      {
+        "start": 207.64,
+        "duration": 3.879,
+        "start_formatted": "03:27",
+        "text": "Crisper Whisper also contains the least"
+      },
+      {
+        "start": 209.64,
+        "duration": 3.68,
+        "start_formatted": "03:29",
+        "text": "amount of errors. The awesome thing is"
+      },
+      {
+        "start": 211.519,
+        "duration": 3.321,
+        "start_formatted": "03:31",
+        "text": "they've released the models to this. So,"
+      },
+      {
+        "start": 213.32,
+        "duration": 3.04,
+        "start_formatted": "03:33",
+        "text": "if you click on this button, they've"
+      },
+      {
+        "start": 214.84,
+        "duration": 4.399,
+        "start_formatted": "03:34",
+        "text": "released four different models in this"
+      },
+      {
+        "start": 216.36,
+        "duration": 5.56,
+        "start_formatted": "03:36",
+        "text": "family. The smallest one is 0.2 billion"
+      },
+      {
+        "start": 219.239,
+        "duration": 4.681,
+        "start_formatted": "03:39",
+        "text": "parameters, and this is less than 500"
+      },
+      {
+        "start": 221.92,
+        "duration": 4.0,
+        "start_formatted": "03:41",
+        "text": "megabytes in size, so you can easily fit"
+      },
+      {
+        "start": 223.92,
+        "duration": 4.319,
+        "start_formatted": "03:43",
+        "text": "this on most consumer devices. You don't"
+      },
+      {
+        "start": 225.92,
+        "duration": 5.0,
+        "start_formatted": "03:45",
+        "text": "even need a GPU. And then, the largest"
+      },
+      {
+        "start": 228.239,
+        "duration": 4.801,
+        "start_formatted": "03:48",
+        "text": "one is 2 billion parameters. This one is"
+      },
+      {
+        "start": 230.92,
+        "duration": 3.92,
+        "start_formatted": "03:50",
+        "text": "3 gigabytes in size, which is still"
+      },
+      {
+        "start": 233.04,
+        "duration": 3.8,
+        "start_formatted": "03:53",
+        "text": "fairly tiny. You should be able to fit"
+      },
+      {
+        "start": 234.84,
+        "duration": 4.36,
+        "start_formatted": "03:54",
+        "text": "this in most GPUs. And then if you"
+      },
+      {
+        "start": 236.84,
+        "duration": 4.52,
+        "start_formatted": "03:56",
+        "text": "scroll down the Hugging Face page here,"
+      },
+      {
+        "start": 239.2,
+        "duration": 4.6,
+        "start_formatted": "03:59",
+        "text": "it contains all the instructions on how"
+      },
+      {
+        "start": 241.36,
+        "duration": 4.2,
+        "start_formatted": "04:01",
+        "text": "to download and run this locally on your"
+      },
+      {
+        "start": 243.8,
+        "duration": 3.6,
+        "start_formatted": "04:03",
+        "text": "computer. If you're interested in"
+      },
+      {
+        "start": 245.56,
+        "duration": 4.32,
+        "start_formatted": "04:05",
+        "text": "reading further, I'll link to this main"
+      },
+      {
+        "start": 247.4,
+        "duration": 5.0,
+        "start_formatted": "04:07",
+        "text": "page in the description below. Also this"
+      },
+      {
+        "start": 249.88,
+        "duration": 4.52,
+        "start_formatted": "04:09",
+        "text": "week, the Goat DeepSeek is back with"
+      },
+      {
+        "start": 252.4,
+        "duration": 4.119,
+        "start_formatted": "04:12",
+        "text": "another mind-blowing model. They just"
+      },
+      {
+        "start": 254.4,
+        "duration": 4.28,
+        "start_formatted": "04:14",
+        "text": "released the latest version of DeepSeek"
+      },
+      {
+        "start": 256.519,
+        "duration": 5.041,
+        "start_formatted": "04:16",
+        "text": "V4 Flash, and even though this is a"
+      },
+      {
+        "start": 258.68,
+        "duration": 4.96,
+        "start_formatted": "04:18",
+        "text": "flash model, it even performs as good as"
+      },
+      {
+        "start": 261.56,
+        "duration": 5.04,
+        "start_formatted": "04:21",
+        "text": "some of the full open-source models out"
+      },
+      {
+        "start": 263.64,
+        "duration": 6.16,
+        "start_formatted": "04:23",
+        "text": "there, including MiniMax M3, and it's"
+      },
+      {
+        "start": 266.6,
+        "duration": 5.16,
+        "start_formatted": "04:26",
+        "text": "just one point below JLM 5.2. This"
+      },
+      {
+        "start": 269.8,
+        "duration": 4.24,
+        "start_formatted": "04:29",
+        "text": "scores way higher than even the previous"
+      },
+      {
+        "start": 271.76,
+        "duration": 4.32,
+        "start_formatted": "04:31",
+        "text": "DeepSeek V4 Pro version, and as you can"
+      },
+      {
+        "start": 274.04,
+        "duration": 4.76,
+        "start_formatted": "04:34",
+        "text": "see it's like 10 points above the"
+      },
+      {
+        "start": 276.08,
+        "duration": 5.28,
+        "start_formatted": "04:36",
+        "text": "previous DeepSeek V4 Flash. What an"
+      },
+      {
+        "start": 278.8,
+        "duration": 4.52,
+        "start_formatted": "04:38",
+        "text": "insane upgrade. Note that here it says"
+      },
+      {
+        "start": 281.36,
+        "duration": 4.52,
+        "start_formatted": "04:41",
+        "text": "it has the same model structure as"
+      },
+      {
+        "start": 283.32,
+        "duration": 4.08,
+        "start_formatted": "04:43",
+        "text": "DeepSeek V4 Flash DSpark. In fact, this"
+      },
+      {
+        "start": 285.88,
+        "duration": 3.28,
+        "start_formatted": "04:45",
+        "text": "is a really important architecture"
+      },
+      {
+        "start": 287.4,
+        "duration": 3.92,
+        "start_formatted": "04:47",
+        "text": "breakthrough, which helped it improve"
+      },
+      {
+        "start": 289.16,
+        "duration": 4.72,
+        "start_formatted": "04:49",
+        "text": "efficiency and throughput by a huge"
+      },
+      {
+        "start": 291.32,
+        "duration": 4.96,
+        "start_formatted": "04:51",
+        "text": "amount. I did a full explainer video on"
+      },
+      {
+        "start": 293.88,
+        "duration": 4.039,
+        "start_formatted": "04:53",
+        "text": "DSpark, so definitely see this video if"
+      },
+      {
+        "start": 296.28,
+        "duration": 3.76,
+        "start_formatted": "04:56",
+        "text": "you're interested in learning more. If"
+      },
+      {
+        "start": 297.919,
+        "duration": 3.601,
+        "start_formatted": "04:57",
+        "text": "you look at these benchmarks on agentic"
+      },
+      {
+        "start": 300.04,
+        "duration": 3.2,
+        "start_formatted": "05:00",
+        "text": "coding, software engineering, and"
+      },
+      {
+        "start": 301.52,
+        "duration": 4.48,
+        "start_formatted": "05:01",
+        "text": "cybersecurity, you can see that it"
+      },
+      {
+        "start": 303.24,
+        "duration": 4.76,
+        "start_formatted": "05:03",
+        "text": "absolutely clobbers the previous V4 Pro"
+      },
+      {
+        "start": 306.0,
+        "duration": 6.4,
+        "start_formatted": "05:06",
+        "text": "version. And for some instances, it even"
+      },
+      {
+        "start": 308.0,
+        "duration": 7.2,
+        "start_formatted": "05:08",
+        "text": "beats or matches JLM 5.2 or Opus 4.8."
+      },
+      {
+        "start": 312.4,
+        "duration": 6.32,
+        "start_formatted": "05:12",
+        "text": "Keep in mind this is like 70% smaller"
+      },
+      {
+        "start": 315.2,
+        "duration": 6.28,
+        "start_formatted": "05:15",
+        "text": "than JLM 5.2, and it's also 100 times"
+      },
+      {
+        "start": 318.72,
+        "duration": 5.0,
+        "start_formatted": "05:18",
+        "text": "cheaper than Claude Opus. DeepSeek V4"
+      },
+      {
+        "start": 321.48,
+        "duration": 4.96,
+        "start_formatted": "05:21",
+        "text": "Flash costs around 3 cents per million"
+      },
+      {
+        "start": 323.72,
+        "duration": 4.96,
+        "start_formatted": "05:23",
+        "text": "tokens, making it by far the cheapest"
+      },
+      {
+        "start": 326.44,
+        "duration": 4.0,
+        "start_formatted": "05:26",
+        "text": "model at Frontier Intelligence. And if"
+      },
+      {
+        "start": 328.68,
+        "duration": 4.44,
+        "start_formatted": "05:28",
+        "text": "you look all the way on the other side,"
+      },
+      {
+        "start": 330.44,
+        "duration": 4.84,
+        "start_formatted": "05:30",
+        "text": "GPT 5.6 and Claude Opus and Claude Fable"
+      },
+      {
+        "start": 333.12,
+        "duration": 4.88,
+        "start_formatted": "05:33",
+        "text": "are all the way over here. So in terms"
+      },
+      {
+        "start": 335.28,
+        "duration": 4.8,
+        "start_formatted": "05:35",
+        "text": "of performance versus cost, this is by"
+      },
+      {
+        "start": 338.0,
+        "duration": 4.24,
+        "start_formatted": "05:38",
+        "text": "far the best option to use. It's just"
+      },
+      {
+        "start": 340.08,
+        "duration": 4.2,
+        "start_formatted": "05:40",
+        "text": "incredibly efficient and just way"
+      },
+      {
+        "start": 342.24,
+        "duration": 4.08,
+        "start_formatted": "05:42",
+        "text": "cheaper than the other frontier models."
+      },
+      {
+        "start": 344.28,
+        "duration": 4.68,
+        "start_formatted": "05:44",
+        "text": "Now as expected from the Goat, they've"
+      },
+      {
+        "start": 346.32,
+        "duration": 4.24,
+        "start_formatted": "05:46",
+        "text": "also released the model to this already."
+      },
+      {
+        "start": 348.96,
+        "duration": 4.68,
+        "start_formatted": "05:48",
+        "text": "It's already out for you to download on"
+      },
+      {
+        "start": 350.56,
+        "duration": 5.12,
+        "start_formatted": "05:50",
+        "text": "Hugging Face and this is only 167 GB in"
+      },
+      {
+        "start": 353.64,
+        "duration": 4.56,
+        "start_formatted": "05:53",
+        "text": "size. So, this can easily fit on just"
+      },
+      {
+        "start": 355.68,
+        "duration": 4.4,
+        "start_formatted": "05:55",
+        "text": "like one DGX Spark. Now, because this is"
+      },
+      {
+        "start": 358.2,
+        "duration": 3.88,
+        "start_formatted": "05:58",
+        "text": "open source, the community has acted"
+      },
+      {
+        "start": 360.08,
+        "duration": 4.44,
+        "start_formatted": "06:00",
+        "text": "fast and for example, Unsloth has"
+      },
+      {
+        "start": 362.08,
+        "duration": 4.92,
+        "start_formatted": "06:02",
+        "text": "already released GGUF versions of this."
+      },
+      {
+        "start": 364.52,
+        "duration": 5.92,
+        "start_formatted": "06:04",
+        "text": "The crazy thing is the smallest one-bit"
+      },
+      {
+        "start": 367.0,
+        "duration": 5.16,
+        "start_formatted": "06:07",
+        "text": "version is only like 82.5 GB in size."
+      },
+      {
+        "start": 370.44,
+        "duration": 3.28,
+        "start_formatted": "06:10",
+        "text": "So, you can potentially fit this on just"
+      },
+      {
+        "start": 372.16,
+        "duration": 3.4,
+        "start_formatted": "06:12",
+        "text": "like one or two pieces of high-end"
+      },
+      {
+        "start": 373.72,
+        "duration": 5.52,
+        "start_formatted": "06:13",
+        "text": "hardware. And keep in mind, this has the"
+      },
+      {
+        "start": 375.56,
+        "duration": 5.4,
+        "start_formatted": "06:15",
+        "text": "intelligence of GLM 5.2 or Opus 4.8."
+      },
+      {
+        "start": 379.24,
+        "duration": 4.0,
+        "start_formatted": "06:19",
+        "text": "It's pretty crazy that you can now run"
+      },
+      {
+        "start": 380.96,
+        "duration": 3.8,
+        "start_formatted": "06:20",
+        "text": "this level of intelligence locally. If"
+      },
+      {
+        "start": 383.24,
+        "duration": 3.32,
+        "start_formatted": "06:23",
+        "text": "you're interested in reading further,"
+      },
+      {
+        "start": 384.76,
+        "duration": 3.96,
+        "start_formatted": "06:24",
+        "text": "I'll link to this main page in the"
+      },
+      {
+        "start": 386.56,
+        "duration": 4.8,
+        "start_formatted": "06:26",
+        "text": "description below. Also this week, we"
+      },
+      {
+        "start": 388.72,
+        "duration": 5.08,
+        "start_formatted": "06:28",
+        "text": "have quite a useful AI called Redesign."
+      },
+      {
+        "start": 391.36,
+        "duration": 4.44,
+        "start_formatted": "06:31",
+        "text": "This basically turns a flat image into"
+      },
+      {
+        "start": 393.8,
+        "duration": 3.96,
+        "start_formatted": "06:33",
+        "text": "layers. So, you can edit each component"
+      },
+      {
+        "start": 395.8,
+        "duration": 4.119,
+        "start_formatted": "06:35",
+        "text": "or move them around. And with this, you"
+      },
+      {
+        "start": 397.76,
+        "duration": 4.64,
+        "start_formatted": "06:37",
+        "text": "can customize or micro-edit certain"
+      },
+      {
+        "start": 399.919,
+        "duration": 4.761,
+        "start_formatted": "06:39",
+        "text": "things like recoloring the elements or"
+      },
+      {
+        "start": 402.4,
+        "duration": 4.84,
+        "start_formatted": "06:42",
+        "text": "repositioning certain things or changing"
+      },
+      {
+        "start": 404.68,
+        "duration": 4.32,
+        "start_formatted": "06:44",
+        "text": "the size of elements. So, think of this"
+      },
+      {
+        "start": 407.24,
+        "duration": 3.92,
+        "start_formatted": "06:47",
+        "text": "as like turning a screenshot back into"
+      },
+      {
+        "start": 409.0,
+        "duration": 4.08,
+        "start_formatted": "06:49",
+        "text": "something closer to a Figma or Photoshop"
+      },
+      {
+        "start": 411.16,
+        "duration": 4.0,
+        "start_formatted": "06:51",
+        "text": "project. Now, this actually orchestrates"
+      },
+      {
+        "start": 413.08,
+        "duration": 4.28,
+        "start_formatted": "06:53",
+        "text": "a ton of different AI tools at once. It"
+      },
+      {
+        "start": 415.16,
+        "duration": 4.44,
+        "start_formatted": "06:55",
+        "text": "uses PaddleOCR. In terms of generating"
+      },
+      {
+        "start": 417.36,
+        "duration": 3.88,
+        "start_formatted": "06:57",
+        "text": "the layers, it uses Kwen Image Layered,"
+      },
+      {
+        "start": 419.6,
+        "duration": 3.72,
+        "start_formatted": "06:59",
+        "text": "which I featured on my channel before."
+      },
+      {
+        "start": 421.24,
+        "duration": 4.4,
+        "start_formatted": "07:01",
+        "text": "And then for detecting and segmenting"
+      },
+      {
+        "start": 423.32,
+        "duration": 4.04,
+        "start_formatted": "07:03",
+        "text": "different elements, it uses Dino and SAM"
+      },
+      {
+        "start": 425.64,
+        "duration": 3.48,
+        "start_formatted": "07:05",
+        "text": "too. Now, according to these benchmarks,"
+      },
+      {
+        "start": 427.36,
+        "duration": 3.16,
+        "start_formatted": "07:07",
+        "text": "it seems like this new redesign even"
+      },
+      {
+        "start": 429.12,
+        "duration": 3.68,
+        "start_formatted": "07:09",
+        "text": "does better than some other"
+      },
+      {
+        "start": 430.52,
+        "duration": 3.88,
+        "start_formatted": "07:10",
+        "text": "image-to-layer generators like Kwen"
+      },
+      {
+        "start": 432.8,
+        "duration": 3.0,
+        "start_formatted": "07:12",
+        "text": "Image Layered. At the top of the page,"
+      },
+      {
+        "start": 434.4,
+        "duration": 3.56,
+        "start_formatted": "07:14",
+        "text": "they've released everything already. So,"
+      },
+      {
+        "start": 435.8,
+        "duration": 3.72,
+        "start_formatted": "07:15",
+        "text": "if you click on this code button and you"
+      },
+      {
+        "start": 437.96,
+        "duration": 3.56,
+        "start_formatted": "07:17",
+        "text": "scroll down a bit here, it contains all"
+      },
+      {
+        "start": 439.52,
+        "duration": 4.36,
+        "start_formatted": "07:19",
+        "text": "the instructions on how to download and"
+      },
+      {
+        "start": 441.52,
+        "duration": 4.2,
+        "start_formatted": "07:21",
+        "text": "run this locally on your computer. And"
+      },
+      {
+        "start": 443.88,
+        "duration": 4.32,
+        "start_formatted": "07:23",
+        "text": "this is actually fairly tiny at less"
+      },
+      {
+        "start": 445.72,
+        "duration": 5.24,
+        "start_formatted": "07:25",
+        "text": "than 4 GB in size. However, at least"
+      },
+      {
+        "start": 448.2,
+        "duration": 5.52,
+        "start_formatted": "07:28",
+        "text": "according to this base code, it also"
+      },
+      {
+        "start": 450.96,
+        "duration": 4.12,
+        "start_formatted": "07:30",
+        "text": "does require, apparently, an OpenAI API"
+      },
+      {
+        "start": 453.72,
+        "duration": 3.24,
+        "start_formatted": "07:33",
+        "text": "key. But you could tweak the code"
+      },
+      {
+        "start": 455.08,
+        "duration": 4.04,
+        "start_formatted": "07:35",
+        "text": "further to swap this out for a local"
+      },
+      {
+        "start": 456.96,
+        "duration": 3.72,
+        "start_formatted": "07:36",
+        "text": "model to run it completely for free. If"
+      },
+      {
+        "start": 459.12,
+        "duration": 3.4,
+        "start_formatted": "07:39",
+        "text": "you're interested in reading further,"
+      },
+      {
+        "start": 460.68,
+        "duration": 4.24,
+        "start_formatted": "07:40",
+        "text": "I'll link to this main page in the"
+      },
+      {
+        "start": 462.52,
+        "duration": 4.88,
+        "start_formatted": "07:42",
+        "text": "description below. Around 2 weeks ago,"
+      },
+      {
+        "start": 464.92,
+        "duration": 4.88,
+        "start_formatted": "07:44",
+        "text": "Moonshot AI released Kimiko 3, which is"
+      },
+      {
+        "start": 467.4,
+        "duration": 4.32,
+        "start_formatted": "07:47",
+        "text": "currently the most powerful open-source"
+      },
+      {
+        "start": 469.8,
+        "duration": 3.32,
+        "start_formatted": "07:49",
+        "text": "model you can use right now. Now, on"
+      },
+      {
+        "start": 471.72,
+        "duration": 3.72,
+        "start_formatted": "07:51",
+        "text": "their release page, they said that the"
+      },
+      {
+        "start": 473.12,
+        "duration": 5.52,
+        "start_formatted": "07:53",
+        "text": "model weights will be released on July"
+      },
+      {
+        "start": 475.44,
+        "duration": 6.0,
+        "start_formatted": "07:55",
+        "text": "27th. Well, as promised, this week, on"
+      },
+      {
+        "start": 478.64,
+        "duration": 5.04,
+        "start_formatted": "07:58",
+        "text": "July 27th, they released the full Kimiko"
+      },
+      {
+        "start": 481.44,
+        "duration": 4.68,
+        "start_formatted": "08:01",
+        "text": "3 model on Hugging Face. So, here are"
+      },
+      {
+        "start": 483.68,
+        "duration": 4.56,
+        "start_formatted": "08:03",
+        "text": "some specs. This is a massive 2.8"
+      },
+      {
+        "start": 486.12,
+        "duration": 3.92,
+        "start_formatted": "08:06",
+        "text": "trillion parameter mixture of experts"
+      },
+      {
+        "start": 488.24,
+        "duration": 3.4,
+        "start_formatted": "08:08",
+        "text": "model, so think of it as like a team of"
+      },
+      {
+        "start": 490.04,
+        "duration": 4.2,
+        "start_formatted": "08:10",
+        "text": "specialists working together at once."
+      },
+      {
+        "start": 491.64,
+        "duration": 4.279,
+        "start_formatted": "08:11",
+        "text": "And when you use it, only 104 billion of"
+      },
+      {
+        "start": 494.24,
+        "duration": 3.76,
+        "start_formatted": "08:14",
+        "text": "these parameters are active. For the"
+      },
+      {
+        "start": 495.919,
+        "duration": 4.041,
+        "start_formatted": "08:15",
+        "text": "architecture, it uses Kimiko delta"
+      },
+      {
+        "start": 498.0,
+        "duration": 3.88,
+        "start_formatted": "08:18",
+        "text": "attention and attention residuals, which"
+      },
+      {
+        "start": 499.96,
+        "duration": 3.24,
+        "start_formatted": "08:19",
+        "text": "were also designed by them. In fact, if"
+      },
+      {
+        "start": 501.88,
+        "duration": 2.96,
+        "start_formatted": "08:21",
+        "text": "you want to learn more about attention"
+      },
+      {
+        "start": 503.2,
+        "duration": 3.719,
+        "start_formatted": "08:23",
+        "text": "residuals, which is actually a really"
+      },
+      {
+        "start": 504.84,
+        "duration": 4.4,
+        "start_formatted": "08:24",
+        "text": "fascinating breakthrough, see this video"
+      },
+      {
+        "start": 506.919,
+        "duration": 4.681,
+        "start_formatted": "08:26",
+        "text": "to learn more. And also, this has vision"
+      },
+      {
+        "start": 509.24,
+        "duration": 4.84,
+        "start_formatted": "08:29",
+        "text": "capabilities natively baked in. And they"
+      },
+      {
+        "start": 511.6,
+        "duration": 4.119,
+        "start_formatted": "08:31",
+        "text": "used this Moon VIC vision encoder to"
+      },
+      {
+        "start": 514.08,
+        "duration": 3.519,
+        "start_formatted": "08:34",
+        "text": "make it happen. Now, if you click on"
+      },
+      {
+        "start": 515.719,
+        "duration": 4.361,
+        "start_formatted": "08:35",
+        "text": "files and versions, as expected with a"
+      },
+      {
+        "start": 517.599,
+        "duration": 5.641,
+        "start_formatted": "08:37",
+        "text": "2.8 trillion parameter model, this is"
+      },
+      {
+        "start": 520.08,
+        "duration": 5.04,
+        "start_formatted": "08:40",
+        "text": "like 1.56 terabytes in size. So, you're"
+      },
+      {
+        "start": 523.24,
+        "duration": 4.24,
+        "start_formatted": "08:43",
+        "text": "going to need to stack like multiple"
+      },
+      {
+        "start": 525.12,
+        "duration": 4.2,
+        "start_formatted": "08:45",
+        "text": "enterprise GPUs in order to run this."
+      },
+      {
+        "start": 527.48,
+        "duration": 4.2,
+        "start_formatted": "08:47",
+        "text": "However, because this is open-source,"
+      },
+      {
+        "start": 529.32,
+        "duration": 4.44,
+        "start_formatted": "08:49",
+        "text": "the community is already really quick to"
+      },
+      {
+        "start": 531.68,
+        "duration": 4.2,
+        "start_formatted": "08:51",
+        "text": "help quantize and compress this further."
+      },
+      {
+        "start": 533.76,
+        "duration": 4.92,
+        "start_formatted": "08:53",
+        "text": "So, for example, Unsloth released some"
+      },
+      {
+        "start": 535.88,
+        "duration": 6.36,
+        "start_formatted": "08:55",
+        "text": "compressed GGUF versions of Kimiko 3."
+      },
+      {
+        "start": 538.68,
+        "duration": 5.92,
+        "start_formatted": "08:58",
+        "text": "And the 1-bit version is only like 594"
+      },
+      {
+        "start": 542.24,
+        "duration": 4.8,
+        "start_formatted": "09:02",
+        "text": "GB. Still massive, but this is a really"
+      },
+      {
+        "start": 544.6,
+        "duration": 4.0,
+        "start_formatted": "09:04",
+        "text": "big drop from like 1.6 terabytes in"
+      },
+      {
+        "start": 547.04,
+        "duration": 3.64,
+        "start_formatted": "09:07",
+        "text": "size. Anyway, if you want to download"
+      },
+      {
+        "start": 548.6,
+        "duration": 4.76,
+        "start_formatted": "09:08",
+        "text": "this or check out the technical details,"
+      },
+      {
+        "start": 550.68,
+        "duration": 4.8,
+        "start_formatted": "09:10",
+        "text": "I will link to this Hugging Face page in"
+      },
+      {
+        "start": 553.36,
+        "duration": 5.36,
+        "start_formatted": "09:13",
+        "text": "the description below. Also this week,"
+      },
+      {
+        "start": 555.48,
+        "duration": 5.8,
+        "start_formatted": "09:15",
+        "text": "AMD releases their very own open-source"
+      },
+      {
+        "start": 558.72,
+        "duration": 5.08,
+        "start_formatted": "09:18",
+        "text": "model called Instella MoE. And this is"
+      },
+      {
+        "start": 561.28,
+        "duration": 4.76,
+        "start_formatted": "09:21",
+        "text": "quite a big deal. You see, Nvidia has"
+      },
+      {
+        "start": 563.8,
+        "duration": 4.28,
+        "start_formatted": "09:23",
+        "text": "basically dominated the AI space because"
+      },
+      {
+        "start": 566.04,
+        "duration": 4.32,
+        "start_formatted": "09:26",
+        "text": "most AI tools are built off of their"
+      },
+      {
+        "start": 568.08,
+        "duration": 5.24,
+        "start_formatted": "09:28",
+        "text": "CUDA platform. It's really hard to train"
+      },
+      {
+        "start": 570.36,
+        "duration": 5.64,
+        "start_formatted": "09:30",
+        "text": "and run AI models on non-CUDA chips. But"
+      },
+      {
+        "start": 573.32,
+        "duration": 5.24,
+        "start_formatted": "09:33",
+        "text": "here, AMD has trained this Instella"
+      },
+      {
+        "start": 576.0,
+        "duration": 4.76,
+        "start_formatted": "09:36",
+        "text": "mixture of experts model from scratch on"
+      },
+      {
+        "start": 578.56,
+        "duration": 4.36,
+        "start_formatted": "09:38",
+        "text": "their AMD Instinct and using the AMD"
+      },
+      {
+        "start": 580.76,
+        "duration": 4.08,
+        "start_formatted": "09:40",
+        "text": "Rockum software stack. First of all,"
+      },
+      {
+        "start": 582.92,
+        "duration": 4.2,
+        "start_formatted": "09:42",
+        "text": "here are some specs of this. So, this"
+      },
+      {
+        "start": 584.84,
+        "duration": 3.96,
+        "start_formatted": "09:44",
+        "text": "has 16 billion total parameters and this"
+      },
+      {
+        "start": 587.12,
+        "duration": 3.72,
+        "start_formatted": "09:47",
+        "text": "is a mixture of experts models. So,"
+      },
+      {
+        "start": 588.8,
+        "duration": 3.92,
+        "start_formatted": "09:48",
+        "text": "think of it as like a team of specialist"
+      },
+      {
+        "start": 590.84,
+        "duration": 4.44,
+        "start_formatted": "09:50",
+        "text": "AIs working together. So, when you use"
+      },
+      {
+        "start": 592.72,
+        "duration": 4.88,
+        "start_formatted": "09:52",
+        "text": "it, only 2.8 billion parameters are"
+      },
+      {
+        "start": 595.28,
+        "duration": 4.48,
+        "start_formatted": "09:55",
+        "text": "active, making it fairly efficient. The"
+      },
+      {
+        "start": 597.6,
+        "duration": 4.4,
+        "start_formatted": "09:57",
+        "text": "cool thing is this reportedly beats"
+      },
+      {
+        "start": 599.76,
+        "duration": 5.08,
+        "start_formatted": "09:59",
+        "text": "other similar-sized models, including"
+      },
+      {
+        "start": 602.0,
+        "duration": 5.12,
+        "start_formatted": "10:02",
+        "text": "Gemma 4E4B and a smaller version of Quen"
+      },
+      {
+        "start": 604.84,
+        "duration": 4.36,
+        "start_formatted": "10:04",
+        "text": "3.5. The awesome thing is they're not"
+      },
+      {
+        "start": 607.12,
+        "duration": 3.84,
+        "start_formatted": "10:07",
+        "text": "just releasing the final model, they're"
+      },
+      {
+        "start": 609.2,
+        "duration": 3.48,
+        "start_formatted": "10:09",
+        "text": "actually publishing the checkpoints from"
+      },
+      {
+        "start": 610.96,
+        "duration": 3.56,
+        "start_formatted": "10:10",
+        "text": "pre-training, mid-training, and all"
+      },
+      {
+        "start": 612.68,
+        "duration": 4.24,
+        "start_formatted": "10:12",
+        "text": "these subsequent stages, along with the"
+      },
+      {
+        "start": 614.52,
+        "duration": 4.32,
+        "start_formatted": "10:14",
+        "text": "training recipes and the code. It uses"
+      },
+      {
+        "start": 616.92,
+        "duration": 3.68,
+        "start_formatted": "10:16",
+        "text": "what they call a multi-head latent"
+      },
+      {
+        "start": 618.84,
+        "duration": 3.24,
+        "start_formatted": "10:18",
+        "text": "attention to make the attention and"
+      },
+      {
+        "start": 620.6,
+        "duration": 3.32,
+        "start_formatted": "10:20",
+        "text": "memory more efficient. And then they"
+      },
+      {
+        "start": 622.08,
+        "duration": 3.64,
+        "start_formatted": "10:22",
+        "text": "also use something called a far skip"
+      },
+      {
+        "start": 623.92,
+        "duration": 3.96,
+        "start_formatted": "10:23",
+        "text": "collective, which helps overlap"
+      },
+      {
+        "start": 625.72,
+        "duration": 4.2,
+        "start_formatted": "10:25",
+        "text": "communication and computation across"
+      },
+      {
+        "start": 627.88,
+        "duration": 4.32,
+        "start_formatted": "10:27",
+        "text": "GPUs. This is a bit technical, but on"
+      },
+      {
+        "start": 629.92,
+        "duration": 4.56,
+        "start_formatted": "10:29",
+        "text": "this page they document how exactly they"
+      },
+      {
+        "start": 632.2,
+        "duration": 4.0,
+        "start_formatted": "10:32",
+        "text": "did all these stages of training to"
+      },
+      {
+        "start": 634.48,
+        "duration": 3.88,
+        "start_formatted": "10:34",
+        "text": "create the model. And then if you click"
+      },
+      {
+        "start": 636.2,
+        "duration": 4.0,
+        "start_formatted": "10:36",
+        "text": "on this GitHub repo down here, it"
+      },
+      {
+        "start": 638.36,
+        "duration": 3.52,
+        "start_formatted": "10:38",
+        "text": "contains all the instructions on how to"
+      },
+      {
+        "start": 640.2,
+        "duration": 3.24,
+        "start_formatted": "10:40",
+        "text": "download and run this, as well as the"
+      },
+      {
+        "start": 641.88,
+        "duration": 3.44,
+        "start_formatted": "10:41",
+        "text": "training scripts. And then if you click"
+      },
+      {
+        "start": 643.44,
+        "duration": 3.56,
+        "start_formatted": "10:43",
+        "text": "on their hugging face repo, note that"
+      },
+      {
+        "start": 645.32,
+        "duration": 3.519,
+        "start_formatted": "10:45",
+        "text": "the final version after training on"
+      },
+      {
+        "start": 647.0,
+        "duration": 5.12,
+        "start_formatted": "10:47",
+        "text": "reinforcement learning, this is called"
+      },
+      {
+        "start": 648.839,
+        "duration": 5.201,
+        "start_formatted": "10:48",
+        "text": "Think and this is roughly 32 GB in size."
+      },
+      {
+        "start": 652.12,
+        "duration": 4.28,
+        "start_formatted": "10:52",
+        "text": "So, it's a medium-sized model, similar"
+      },
+      {
+        "start": 654.04,
+        "duration": 3.92,
+        "start_formatted": "10:54",
+        "text": "to Quen 3.6, which should be able to fit"
+      },
+      {
+        "start": 656.4,
+        "duration": 3.32,
+        "start_formatted": "10:56",
+        "text": "on high-end hardware. If you're"
+      },
+      {
+        "start": 657.96,
+        "duration": 3.68,
+        "start_formatted": "10:57",
+        "text": "interested in reading further, I'll link"
+      },
+      {
+        "start": 659.72,
+        "duration": 3.96,
+        "start_formatted": "10:59",
+        "text": "to this main page in the description"
+      },
+      {
+        "start": 661.64,
+        "duration": 4.16,
+        "start_formatted": "11:01",
+        "text": "below. Also this week, one of my"
+      },
+      {
+        "start": 663.68,
+        "duration": 3.96,
+        "start_formatted": "11:03",
+        "text": "favorite image generators, Audiogram,"
+      },
+      {
+        "start": 665.8,
+        "duration": 3.64,
+        "start_formatted": "11:05",
+        "text": "has released a new tool called object"
+      },
+      {
+        "start": 667.64,
+        "duration": 3.72,
+        "start_formatted": "11:07",
+        "text": "remover. And here's how it works. You"
+      },
+      {
+        "start": 669.44,
+        "duration": 3.12,
+        "start_formatted": "11:09",
+        "text": "can simply brush over the object that"
+      },
+      {
+        "start": 671.36,
+        "duration": 3.56,
+        "start_formatted": "11:11",
+        "text": "you want to remove and it'll"
+      },
+      {
+        "start": 672.56,
+        "duration": 4.04,
+        "start_formatted": "11:12",
+        "text": "automatically highlight that object and"
+      },
+      {
+        "start": 674.92,
+        "duration": 3.4,
+        "start_formatted": "11:14",
+        "text": "then remove it for you. It's as simple"
+      },
+      {
+        "start": 676.6,
+        "duration": 3.6,
+        "start_formatted": "11:16",
+        "text": "as that. Here are some other examples"
+      },
+      {
+        "start": 678.32,
+        "duration": 3.88,
+        "start_formatted": "11:18",
+        "text": "for your reference. So, we can select"
+      },
+      {
+        "start": 680.2,
+        "duration": 4.32,
+        "start_formatted": "11:20",
+        "text": "this bike and remove it and notice that"
+      },
+      {
+        "start": 682.2,
+        "duration": 4.28,
+        "start_formatted": "11:22",
+        "text": "it also removes the shadow of the bike."
+      },
+      {
+        "start": 684.52,
+        "duration": 4.04,
+        "start_formatted": "11:24",
+        "text": "Or here's another really tricky example"
+      },
+      {
+        "start": 686.48,
+        "duration": 3.359,
+        "start_formatted": "11:26",
+        "text": "where I want to remove this plant, but"
+      },
+      {
+        "start": 688.56,
+        "duration": 3.88,
+        "start_formatted": "11:28",
+        "text": "there's also a lamp that's kind of"
+      },
+      {
+        "start": 689.839,
+        "duration": 4.201,
+        "start_formatted": "11:29",
+        "text": "occluded plus some books in front of it."
+      },
+      {
+        "start": 692.44,
+        "duration": 3.76,
+        "start_formatted": "11:32",
+        "text": "But as you can see, it's able to remove"
+      },
+      {
+        "start": 694.04,
+        "duration": 4.16,
+        "start_formatted": "11:34",
+        "text": "the plant while also preserving the"
+      },
+      {
+        "start": 696.2,
+        "duration": 4.16,
+        "start_formatted": "11:36",
+        "text": "lights and the books. Plus, it also is"
+      },
+      {
+        "start": 698.2,
+        "duration": 4.0,
+        "start_formatted": "11:38",
+        "text": "able to remove the plant's reflection on"
+      },
+      {
+        "start": 700.36,
+        "duration": 3.56,
+        "start_formatted": "11:40",
+        "text": "the floor. And here's another example."
+      },
+      {
+        "start": 702.2,
+        "duration": 3.88,
+        "start_formatted": "11:42",
+        "text": "Now, at least according to this removal"
+      },
+      {
+        "start": 703.92,
+        "duration": 4.12,
+        "start_formatted": "11:43",
+        "text": "bench, you can see that Ideogram Object"
+      },
+      {
+        "start": 706.08,
+        "duration": 3.6,
+        "start_formatted": "11:46",
+        "text": "Remover has the lowest error rate"
+      },
+      {
+        "start": 708.04,
+        "duration": 4.2,
+        "start_formatted": "11:48",
+        "text": "compared to other models like Nano"
+      },
+      {
+        "start": 709.68,
+        "duration": 4.88,
+        "start_formatted": "11:49",
+        "text": "Banana 2 and GPT Image 2 Medium. So, if"
+      },
+      {
+        "start": 712.24,
+        "duration": 4.24,
+        "start_formatted": "11:52",
+        "text": "you're looking for a free object remover"
+      },
+      {
+        "start": 714.56,
+        "duration": 3.6,
+        "start_formatted": "11:54",
+        "text": "which you can run online, this is a nice"
+      },
+      {
+        "start": 716.48,
+        "duration": 3.56,
+        "start_formatted": "11:56",
+        "text": "option for you to use. You can sign up"
+      },
+      {
+        "start": 718.16,
+        "duration": 3.44,
+        "start_formatted": "11:58",
+        "text": "for free and you get some daily credits"
+      },
+      {
+        "start": 720.04,
+        "duration": 3.04,
+        "start_formatted": "12:00",
+        "text": "to run some generations. If you're"
+      },
+      {
+        "start": 721.6,
+        "duration": 3.0,
+        "start_formatted": "12:01",
+        "text": "interested, I'll link to this in the"
+      },
+      {
+        "start": 723.08,
+        "duration": 3.24,
+        "start_formatted": "12:03",
+        "text": "description below. If you want to"
+      },
+      {
+        "start": 724.6,
+        "duration": 3.32,
+        "start_formatted": "12:04",
+        "text": "supercharge your content creation,"
+      },
+      {
+        "start": 726.32,
+        "duration": 3.8,
+        "start_formatted": "12:06",
+        "text": "definitely check out Higgsfield, the"
+      },
+      {
+        "start": 727.92,
+        "duration": 4.64,
+        "start_formatted": "12:07",
+        "text": "sponsor of this video. Think of it as an"
+      },
+      {
+        "start": 730.12,
+        "duration": 4.4,
+        "start_formatted": "12:10",
+        "text": "all-in-one AI creation platform built"
+      },
+      {
+        "start": 732.56,
+        "duration": 3.6,
+        "start_formatted": "12:12",
+        "text": "specifically for creators. Instead of"
+      },
+      {
+        "start": 734.52,
+        "duration": 3.44,
+        "start_formatted": "12:14",
+        "text": "jumping between a bunch of different"
+      },
+      {
+        "start": 736.16,
+        "duration": 4.08,
+        "start_formatted": "12:16",
+        "text": "tools, Higgsfield gives you access to"
+      },
+      {
+        "start": 737.96,
+        "duration": 4.84,
+        "start_formatted": "12:17",
+        "text": "the world's leading models in one place,"
+      },
+      {
+        "start": 740.24,
+        "duration": 3.96,
+        "start_formatted": "12:20",
+        "text": "including Seed Dance, Kling, and more."
+      },
+      {
+        "start": 742.8,
+        "duration": 4.2,
+        "start_formatted": "12:22",
+        "text": "And they've just added the ability to"
+      },
+      {
+        "start": 744.2,
+        "duration": 4.84,
+        "start_formatted": "12:24",
+        "text": "generate 4K videos with Seed Dance 2.0,"
+      },
+      {
+        "start": 747.0,
+        "duration": 4.4,
+        "start_formatted": "12:27",
+        "text": "so you can generate ultra-sharp videos"
+      },
+      {
+        "start": 749.04,
+        "duration": 3.84,
+        "start_formatted": "12:29",
+        "text": "with incredible details. They're also"
+      },
+      {
+        "start": 751.4,
+        "duration": 4.04,
+        "start_formatted": "12:31",
+        "text": "going to roll out the best video"
+      },
+      {
+        "start": 752.88,
+        "duration": 4.959,
+        "start_formatted": "12:32",
+        "text": "generator out there, Seed Dance 2.5,"
+      },
+      {
+        "start": 755.44,
+        "duration": 4.28,
+        "start_formatted": "12:35",
+        "text": "very soon, so stay tuned for that. This"
+      },
+      {
+        "start": 757.839,
+        "duration": 4.121,
+        "start_formatted": "12:37",
+        "text": "supports multiple inputs, so you can"
+      },
+      {
+        "start": 759.72,
+        "duration": 4.32,
+        "start_formatted": "12:39",
+        "text": "combine text, images, video, and audio"
+      },
+      {
+        "start": 761.96,
+        "duration": 4.16,
+        "start_formatted": "12:41",
+        "text": "to control the final results more"
+      },
+      {
+        "start": 764.04,
+        "duration": 4.04,
+        "start_formatted": "12:44",
+        "text": "precisely. And using this in Higgsfield"
+      },
+      {
+        "start": 766.12,
+        "duration": 3.8,
+        "start_formatted": "12:46",
+        "text": "makes everything way easier. For"
+      },
+      {
+        "start": 768.08,
+        "duration": 3.48,
+        "start_formatted": "12:48",
+        "text": "example, they have Marketing Studio,"
+      },
+      {
+        "start": 769.92,
+        "duration": 3.6,
+        "start_formatted": "12:49",
+        "text": "which is really useful if you're making"
+      },
+      {
+        "start": 771.56,
+        "duration": 4.16,
+        "start_formatted": "12:51",
+        "text": "marketing content. You can paste a"
+      },
+      {
+        "start": 773.52,
+        "duration": 4.04,
+        "start_formatted": "12:53",
+        "text": "product link or upload a product image,"
+      },
+      {
+        "start": 775.72,
+        "duration": 4.56,
+        "start_formatted": "12:55",
+        "text": "and it can generate multiple ad formats"
+      },
+      {
+        "start": 777.56,
+        "duration": 5.0,
+        "start_formatted": "12:57",
+        "text": "in one workflow, like UGC videos,"
+      },
+      {
+        "start": 780.28,
+        "duration": 4.52,
+        "start_formatted": "13:00",
+        "text": "tutorials, unboxings, product reviews,"
+      },
+      {
+        "start": 782.56,
+        "duration": 4.36,
+        "start_formatted": "13:02",
+        "text": "and more. They also have Cinema Studio,"
+      },
+      {
+        "start": 784.8,
+        "duration": 4.12,
+        "start_formatted": "13:04",
+        "text": "which is built as a full end-to-end"
+      },
+      {
+        "start": 786.92,
+        "duration": 3.64,
+        "start_formatted": "13:06",
+        "text": "filmmaking pipeline. Instead of just"
+      },
+      {
+        "start": 788.92,
+        "duration": 3.96,
+        "start_formatted": "13:08",
+        "text": "typing a prompt and hoping the video"
+      },
+      {
+        "start": 790.56,
+        "duration": 4.36,
+        "start_formatted": "13:10",
+        "text": "looks good, Cinema Studio lets you plan"
+      },
+      {
+        "start": 792.88,
+        "duration": 4.48,
+        "start_formatted": "13:12",
+        "text": "scenes, control the camera, add specific"
+      },
+      {
+        "start": 794.92,
+        "duration": 4.44,
+        "start_formatted": "13:14",
+        "text": "characters, reduce locations, and keep"
+      },
+      {
+        "start": 797.36,
+        "duration": 4.28,
+        "start_formatted": "13:17",
+        "text": "everything consistent across the whole"
+      },
+      {
+        "start": 799.36,
+        "duration": 3.96,
+        "start_formatted": "13:19",
+        "text": "project. From idea to final output,"
+      },
+      {
+        "start": 801.64,
+        "duration": 3.92,
+        "start_formatted": "13:21",
+        "text": "Higgsfield gives you way more control"
+      },
+      {
+        "start": 803.32,
+        "duration": 4.36,
+        "start_formatted": "13:23",
+        "text": "over the whole creative process. Whether"
+      },
+      {
+        "start": 805.56,
+        "duration": 4.68,
+        "start_formatted": "13:25",
+        "text": "you're making ads, social videos, AI"
+      },
+      {
+        "start": 807.68,
+        "duration": 5.12,
+        "start_formatted": "13:27",
+        "text": "influencers, product launches, cinematic"
+      },
+      {
+        "start": 810.24,
+        "duration": 4.24,
+        "start_formatted": "13:30",
+        "text": "clips, or any other content, this is one"
+      },
+      {
+        "start": 812.8,
+        "duration": 3.96,
+        "start_formatted": "13:32",
+        "text": "of the easiest platforms to start"
+      },
+      {
+        "start": 814.48,
+        "duration": 4.36,
+        "start_formatted": "13:34",
+        "text": "creating with AI. Try Hicksfield today"
+      },
+      {
+        "start": 816.76,
+        "duration": 4.04,
+        "start_formatted": "13:36",
+        "text": "using the link in the description below."
+      },
+      {
+        "start": 818.84,
+        "duration": 3.96,
+        "start_formatted": "13:38",
+        "text": "Also this week, Thinking Machines, which"
+      },
+      {
+        "start": 820.8,
+        "duration": 4.96,
+        "start_formatted": "13:40",
+        "text": "is an AI lab that was started by"
+      },
+      {
+        "start": 822.8,
+        "duration": 4.92,
+        "start_formatted": "13:42",
+        "text": "OpenAI's former CTO, they just released"
+      },
+      {
+        "start": 825.76,
+        "duration": 4.16,
+        "start_formatted": "13:45",
+        "text": "a new open-source model called Inkling"
+      },
+      {
+        "start": 827.72,
+        "duration": 4.04,
+        "start_formatted": "13:47",
+        "text": "Small. Now, last week they released the"
+      },
+      {
+        "start": 829.92,
+        "duration": 3.64,
+        "start_formatted": "13:49",
+        "text": "full Inkling model, which is really"
+      },
+      {
+        "start": 831.76,
+        "duration": 4.12,
+        "start_formatted": "13:51",
+        "text": "good. This is an omnimodal model that"
+      },
+      {
+        "start": 833.56,
+        "duration": 4.28,
+        "start_formatted": "13:53",
+        "text": "can understand text, audio, images, and"
+      },
+      {
+        "start": 835.88,
+        "duration": 3.6,
+        "start_formatted": "13:55",
+        "text": "video. Well, this week they released a"
+      },
+      {
+        "start": 837.84,
+        "duration": 3.88,
+        "start_formatted": "13:57",
+        "text": "smaller version of this, which is"
+      },
+      {
+        "start": 839.48,
+        "duration": 4.96,
+        "start_formatted": "13:59",
+        "text": "roughly a quarter of the size. It's"
+      },
+      {
+        "start": 841.72,
+        "duration": 4.48,
+        "start_formatted": "14:01",
+        "text": "still pretty huge though at 276 billion"
+      },
+      {
+        "start": 844.44,
+        "duration": 3.84,
+        "start_formatted": "14:04",
+        "text": "total parameters, and when you use it,"
+      },
+      {
+        "start": 846.2,
+        "duration": 3.32,
+        "start_formatted": "14:06",
+        "text": "12 billion of these are active. And its"
+      },
+      {
+        "start": 848.28,
+        "duration": 3.56,
+        "start_formatted": "14:08",
+        "text": "performance is actually really"
+      },
+      {
+        "start": 849.52,
+        "duration": 4.68,
+        "start_formatted": "14:09",
+        "text": "impressive given the cost. So, the red"
+      },
+      {
+        "start": 851.84,
+        "duration": 4.4,
+        "start_formatted": "14:11",
+        "text": "line is Inkling Small. As you can see,"
+      },
+      {
+        "start": 854.2,
+        "duration": 4.2,
+        "start_formatted": "14:14",
+        "text": "it's able to actually achieve, in some"
+      },
+      {
+        "start": 856.24,
+        "duration": 4.44,
+        "start_formatted": "14:16",
+        "text": "cases, even higher performance than the"
+      },
+      {
+        "start": 858.4,
+        "duration": 3.72,
+        "start_formatted": "14:18",
+        "text": "full model, but using less compute. And"
+      },
+      {
+        "start": 860.68,
+        "duration": 3.56,
+        "start_formatted": "14:20",
+        "text": "then here's the performance of Inkling"
+      },
+      {
+        "start": 862.12,
+        "duration": 4.52,
+        "start_formatted": "14:22",
+        "text": "Small across these different benchmarks"
+      },
+      {
+        "start": 864.24,
+        "duration": 3.68,
+        "start_formatted": "14:24",
+        "text": "compared with DeepSeek V4 Flash. Note"
+      },
+      {
+        "start": 866.64,
+        "duration": 3.0,
+        "start_formatted": "14:26",
+        "text": "that this is the older version. They"
+      },
+      {
+        "start": 867.92,
+        "duration": 4.24,
+        "start_formatted": "14:27",
+        "text": "released a new version this week. And"
+      },
+      {
+        "start": 869.64,
+        "duration": 5.32,
+        "start_formatted": "14:29",
+        "text": "then also Gemini 3.5 Flash Lights and"
+      },
+      {
+        "start": 872.16,
+        "duration": 4.36,
+        "start_formatted": "14:32",
+        "text": "GPT-5.6 Luna. So, Inkling Small holds up"
+      },
+      {
+        "start": 874.96,
+        "duration": 3.6,
+        "start_formatted": "14:34",
+        "text": "pretty well, but as you can see, the"
+      },
+      {
+        "start": 876.52,
+        "duration": 4.56,
+        "start_formatted": "14:36",
+        "text": "main advantage of this is it also can"
+      },
+      {
+        "start": 878.56,
+        "duration": 4.52,
+        "start_formatted": "14:38",
+        "text": "take in audio, whereas the other models"
+      },
+      {
+        "start": 881.08,
+        "duration": 4.4,
+        "start_formatted": "14:41",
+        "text": "don't really perform so well in terms of"
+      },
+      {
+        "start": 883.08,
+        "duration": 4.32,
+        "start_formatted": "14:43",
+        "text": "audio capabilities. Now, on Artificial"
+      },
+      {
+        "start": 885.48,
+        "duration": 4.4,
+        "start_formatted": "14:45",
+        "text": "Analysis, you can see that Inkling Small"
+      },
+      {
+        "start": 887.4,
+        "duration": 4.52,
+        "start_formatted": "14:47",
+        "text": "is over here, just 1 point below the"
+      },
+      {
+        "start": 889.88,
+        "duration": 4.24,
+        "start_formatted": "14:49",
+        "text": "full Inkling model, so it is a lot more"
+      },
+      {
+        "start": 891.92,
+        "duration": 4.12,
+        "start_formatted": "14:51",
+        "text": "cost efficient. However, it's still"
+      },
+      {
+        "start": 894.12,
+        "duration": 3.56,
+        "start_formatted": "14:54",
+        "text": "behind some of the other similar-sized"
+      },
+      {
+        "start": 896.04,
+        "duration": 3.88,
+        "start_formatted": "14:56",
+        "text": "open-source models like the latest"
+      },
+      {
+        "start": 897.68,
+        "duration": 4.12,
+        "start_formatted": "14:57",
+        "text": "DeepSeek V4 Flash. So, in terms of"
+      },
+      {
+        "start": 899.92,
+        "duration": 4.16,
+        "start_formatted": "14:59",
+        "text": "intelligence, Inkling Small isn't the"
+      },
+      {
+        "start": 901.8,
+        "duration": 4.36,
+        "start_formatted": "15:01",
+        "text": "best, but I do like its multimodal"
+      },
+      {
+        "start": 904.08,
+        "duration": 4.12,
+        "start_formatted": "15:04",
+        "text": "capabilities, especially if you need an"
+      },
+      {
+        "start": 906.16,
+        "duration": 4.2,
+        "start_formatted": "15:06",
+        "text": "open-source model that can also analyze"
+      },
+      {
+        "start": 908.2,
+        "duration": 4.04,
+        "start_formatted": "15:08",
+        "text": "audio and images, then this would be one"
+      },
+      {
+        "start": 910.36,
+        "duration": 3.96,
+        "start_formatted": "15:10",
+        "text": "of the best options to use. The awesome"
+      },
+      {
+        "start": 912.24,
+        "duration": 4.2,
+        "start_formatted": "15:12",
+        "text": "thing is this is already out. So, if you"
+      },
+      {
+        "start": 914.32,
+        "duration": 3.72,
+        "start_formatted": "15:14",
+        "text": "click on this Hugging Face link, and you"
+      },
+      {
+        "start": 916.44,
+        "duration": 3.32,
+        "start_formatted": "15:16",
+        "text": "scroll down a bit, here it contains all"
+      },
+      {
+        "start": 918.04,
+        "duration": 3.92,
+        "start_formatted": "15:18",
+        "text": "the instructions on how to download"
+      },
+      {
+        "start": 919.76,
+        "duration": 4.2,
+        "start_formatted": "15:19",
+        "text": "this. Note that at over 200 billion"
+      },
+      {
+        "start": 921.96,
+        "duration": 5.44,
+        "start_formatted": "15:21",
+        "text": "parameters, this is still quite huge at"
+      },
+      {
+        "start": 923.96,
+        "duration": 5.88,
+        "start_formatted": "15:23",
+        "text": "532 GB in size. So, you'll need to stack"
+      },
+      {
+        "start": 927.4,
+        "duration": 4.32,
+        "start_formatted": "15:27",
+        "text": "like multiple DGX sparks in order to run"
+      },
+      {
+        "start": 929.84,
+        "duration": 4.0,
+        "start_formatted": "15:29",
+        "text": "this. If you're interested in reading"
+      },
+      {
+        "start": 931.72,
+        "duration": 4.2,
+        "start_formatted": "15:31",
+        "text": "further, I'll link to this main page in"
+      },
+      {
+        "start": 933.84,
+        "duration": 4.2,
+        "start_formatted": "15:33",
+        "text": "the description below. Also this week,"
+      },
+      {
+        "start": 935.92,
+        "duration": 4.8,
+        "start_formatted": "15:35",
+        "text": "we have a new system for robotics called"
+      },
+      {
+        "start": 938.04,
+        "duration": 4.84,
+        "start_formatted": "15:38",
+        "text": "Prism. This helps robots control their"
+      },
+      {
+        "start": 940.72,
+        "duration": 4.4,
+        "start_formatted": "15:40",
+        "text": "bodies and react to physical contact"
+      },
+      {
+        "start": 942.88,
+        "duration": 4.12,
+        "start_formatted": "15:42",
+        "text": "more effectively. So, what this does is"
+      },
+      {
+        "start": 945.12,
+        "duration": 4.72,
+        "start_formatted": "15:45",
+        "text": "it takes an ordinary robot sensor"
+      },
+      {
+        "start": 947.0,
+        "duration": 5.2,
+        "start_formatted": "15:47",
+        "text": "readings, images, or other instructions"
+      },
+      {
+        "start": 949.84,
+        "duration": 4.52,
+        "start_formatted": "15:49",
+        "text": "and it outputs the movement actions for"
+      },
+      {
+        "start": 952.2,
+        "duration": 3.76,
+        "start_formatted": "15:52",
+        "text": "the robot. And if you compare Prism with"
+      },
+      {
+        "start": 954.36,
+        "duration": 3.4,
+        "start_formatted": "15:54",
+        "text": "other similar algorithms, you can see"
+      },
+      {
+        "start": 955.96,
+        "duration": 3.44,
+        "start_formatted": "15:55",
+        "text": "that Prism has a much higher success"
+      },
+      {
+        "start": 957.76,
+        "duration": 3.32,
+        "start_formatted": "15:57",
+        "text": "rate, whereas the other ones are more"
+      },
+      {
+        "start": 959.4,
+        "duration": 3.4,
+        "start_formatted": "15:59",
+        "text": "likely to fail, especially when"
+      },
+      {
+        "start": 961.08,
+        "duration": 3.84,
+        "start_formatted": "16:01",
+        "text": "manipulating objects. Here are some"
+      },
+      {
+        "start": 962.8,
+        "duration": 4.32,
+        "start_formatted": "16:02",
+        "text": "additional examples for your reference."
+      },
+      {
+        "start": 964.92,
+        "duration": 4.08,
+        "start_formatted": "16:04",
+        "text": "You see, the problem is that the actions"
+      },
+      {
+        "start": 967.12,
+        "duration": 4.2,
+        "start_formatted": "16:07",
+        "text": "that robot takes shouldn't depend on"
+      },
+      {
+        "start": 969.0,
+        "duration": 4.6,
+        "start_formatted": "16:09",
+        "text": "just one metric alone. It should come"
+      },
+      {
+        "start": 971.32,
+        "duration": 4.84,
+        "start_formatted": "16:11",
+        "text": "from different measurements like force,"
+      },
+      {
+        "start": 973.6,
+        "duration": 4.52,
+        "start_formatted": "16:13",
+        "text": "velocity, contact, friction, joint"
+      },
+      {
+        "start": 976.16,
+        "duration": 3.32,
+        "start_formatted": "16:16",
+        "text": "angle, etc. Well, this algorithm"
+      },
+      {
+        "start": 978.12,
+        "duration": 3.32,
+        "start_formatted": "16:18",
+        "text": "basically looks at all of these"
+      },
+      {
+        "start": 979.48,
+        "duration": 4.12,
+        "start_formatted": "16:19",
+        "text": "combinations of different signals to"
+      },
+      {
+        "start": 981.44,
+        "duration": 4.32,
+        "start_formatted": "16:21",
+        "text": "help the robot make a more informed"
+      },
+      {
+        "start": 983.6,
+        "duration": 3.96,
+        "start_formatted": "16:23",
+        "text": "decision and action. And the results are"
+      },
+      {
+        "start": 985.76,
+        "duration": 3.64,
+        "start_formatted": "16:25",
+        "text": "surprisingly strong. So, you can see"
+      },
+      {
+        "start": 987.56,
+        "duration": 3.6,
+        "start_formatted": "16:27",
+        "text": "across these different metrics, this new"
+      },
+      {
+        "start": 989.4,
+        "duration": 4.04,
+        "start_formatted": "16:29",
+        "text": "Prism algorithm has a much higher"
+      },
+      {
+        "start": 991.16,
+        "duration": 3.679,
+        "start_formatted": "16:31",
+        "text": "success rate and lower error rate. Now,"
+      },
+      {
+        "start": 993.44,
+        "duration": 3.12,
+        "start_formatted": "16:33",
+        "text": "at the top of the page, they've already"
+      },
+      {
+        "start": 994.839,
+        "duration": 3.401,
+        "start_formatted": "16:34",
+        "text": "released the code to this. So, if you"
+      },
+      {
+        "start": 996.56,
+        "duration": 3.8,
+        "start_formatted": "16:36",
+        "text": "scroll down a bit here, it contains all"
+      },
+      {
+        "start": 998.24,
+        "duration": 4.0,
+        "start_formatted": "16:38",
+        "text": "the instructions on how to download and"
+      },
+      {
+        "start": 1000.36,
+        "duration": 3.68,
+        "start_formatted": "16:40",
+        "text": "run this yourself. If you're interested"
+      },
+      {
+        "start": 1002.24,
+        "duration": 4.32,
+        "start_formatted": "16:42",
+        "text": "in reading further, I'll link to this"
+      },
+      {
+        "start": 1004.04,
+        "duration": 4.28,
+        "start_formatted": "16:44",
+        "text": "main page in the description below. Also"
+      },
+      {
+        "start": 1006.56,
+        "duration": 4.08,
+        "start_formatted": "16:46",
+        "text": "this week, ByteDance releases what is"
+      },
+      {
+        "start": 1008.32,
+        "duration": 5.04,
+        "start_formatted": "16:48",
+        "text": "probably the best video model out there,"
+      },
+      {
+        "start": 1010.64,
+        "duration": 5.199,
+        "start_formatted": "16:50",
+        "text": "Seed Dance 2.5. By the way, their"
+      },
+      {
+        "start": 1013.36,
+        "duration": 4.56,
+        "start_formatted": "16:53",
+        "text": "previous model, Seed Dance 2, was"
+      },
+      {
+        "start": 1015.839,
+        "duration": 4.081,
+        "start_formatted": "16:55",
+        "text": "already the best video model out there."
+      },
+      {
+        "start": 1017.92,
+        "duration": 5.4,
+        "start_formatted": "16:57",
+        "text": "No other generator really comes close to"
+      },
+      {
+        "start": 1019.92,
+        "duration": 5.44,
+        "start_formatted": "16:59",
+        "text": "beating it. Well, Seed Dance 2.5 is even"
+      },
+      {
+        "start": 1023.32,
+        "duration": 3.879,
+        "start_formatted": "17:03",
+        "text": "better. It's incredibly good at"
+      },
+      {
+        "start": 1025.36,
+        "duration": 4.0,
+        "start_formatted": "17:05",
+        "text": "high-action fight scenes and character"
+      },
+      {
+        "start": 1027.199,
+        "duration": 4.321,
+        "start_formatted": "17:07",
+        "text": "consistency, as you can see from some of"
+      },
+      {
+        "start": 1029.36,
+        "duration": 4.719,
+        "start_formatted": "17:09",
+        "text": "these demos. The nice thing about it is"
+      },
+      {
+        "start": 1031.52,
+        "duration": 4.679,
+        "start_formatted": "17:11",
+        "text": "it's multimodal. So, you can input"
+      },
+      {
+        "start": 1034.079,
+        "duration": 4.24,
+        "start_formatted": "17:14",
+        "text": "reference videos for it to edit. Here's"
+      },
+      {
+        "start": 1036.199,
+        "duration": 4.0,
+        "start_formatted": "17:16",
+        "text": "an example where you can input a simple"
+      },
+      {
+        "start": 1038.319,
+        "duration": 3.88,
+        "start_formatted": "17:18",
+        "text": "3D scene like this and get it to"
+      },
+      {
+        "start": 1040.199,
+        "duration": 4.081,
+        "start_formatted": "17:20",
+        "text": "generate a full video that follows the"
+      },
+      {
+        "start": 1042.199,
+        "duration": 3.961,
+        "start_formatted": "17:22",
+        "text": "composition. Or you can upload an"
+      },
+      {
+        "start": 1044.28,
+        "duration": 3.64,
+        "start_formatted": "17:24",
+        "text": "existing video with a green screen and"
+      },
+      {
+        "start": 1046.16,
+        "duration": 4.12,
+        "start_formatted": "17:26",
+        "text": "get SeeDance to turn the scene into"
+      },
+      {
+        "start": 1047.92,
+        "duration": 4.68,
+        "start_formatted": "17:27",
+        "text": "something else. It's as easy as that."
+      },
+      {
+        "start": 1050.28,
+        "duration": 4.4,
+        "start_formatted": "17:30",
+        "text": "You can also input a storyboard like"
+      },
+      {
+        "start": 1052.6,
+        "duration": 4.0,
+        "start_formatted": "17:32",
+        "text": "this and easily get it to generate a"
+      },
+      {
+        "start": 1054.68,
+        "duration": 4.0,
+        "start_formatted": "17:34",
+        "text": "full video that follows all these"
+      },
+      {
+        "start": 1056.6,
+        "duration": 4.36,
+        "start_formatted": "17:36",
+        "text": "different shots. My favorite feature is"
+      },
+      {
+        "start": 1058.68,
+        "duration": 4.6,
+        "start_formatted": "17:38",
+        "text": "that this can generate videos of up to"
+      },
+      {
+        "start": 1060.96,
+        "duration": 4.12,
+        "start_formatted": "17:40",
+        "text": "30 seconds long. This enables you to do"
+      },
+      {
+        "start": 1063.28,
+        "duration": 4.56,
+        "start_formatted": "17:43",
+        "text": "a lot more, whereas the other models can"
+      },
+      {
+        "start": 1065.08,
+        "duration": 4.36,
+        "start_formatted": "17:45",
+        "text": "only do around 15 to 20 seconds max."
+      },
+      {
+        "start": 1067.84,
+        "duration": 4.12,
+        "start_formatted": "17:47",
+        "text": "Currently, this can only generate videos"
+      },
+      {
+        "start": 1069.44,
+        "duration": 4.56,
+        "start_formatted": "17:49",
+        "text": "of up to 720p, but they are going to"
+      },
+      {
+        "start": 1071.96,
+        "duration": 4.2,
+        "start_formatted": "17:51",
+        "text": "release the ability to generate 1080p"
+      },
+      {
+        "start": 1074.0,
+        "duration": 4.4,
+        "start_formatted": "17:54",
+        "text": "and 4K resolution videos in the near"
+      },
+      {
+        "start": 1076.16,
+        "duration": 4.64,
+        "start_formatted": "17:56",
+        "text": "future. Now, this can take up to 50"
+      },
+      {
+        "start": 1078.4,
+        "duration": 5.08,
+        "start_formatted": "17:58",
+        "text": "reference inputs including audio,"
+      },
+      {
+        "start": 1080.8,
+        "duration": 4.56,
+        "start_formatted": "18:00",
+        "text": "images, and video. So, it's incredibly"
+      },
+      {
+        "start": 1083.48,
+        "duration": 3.6,
+        "start_formatted": "18:03",
+        "text": "versatile. For example, I can upload all"
+      },
+      {
+        "start": 1085.36,
+        "duration": 3.64,
+        "start_formatted": "18:05",
+        "text": "these images and get it to incorporate"
+      },
+      {
+        "start": 1087.08,
+        "duration": 3.88,
+        "start_formatted": "18:07",
+        "text": "everything into the video. Now,"
+      },
+      {
+        "start": 1089.0,
+        "duration": 4.12,
+        "start_formatted": "18:09",
+        "text": "currently, this is already out for"
+      },
+      {
+        "start": 1090.96,
+        "duration": 4.12,
+        "start_formatted": "18:10",
+        "text": "certain countries on various ByteDance"
+      },
+      {
+        "start": 1093.12,
+        "duration": 4.4,
+        "start_formatted": "18:13",
+        "text": "platforms like Dreamina, but if you're"
+      },
+      {
+        "start": 1095.08,
+        "duration": 4.72,
+        "start_formatted": "18:15",
+        "text": "in the US, it's not available yet. Now,"
+      },
+      {
+        "start": 1097.52,
+        "duration": 4.96,
+        "start_formatted": "18:17",
+        "text": "this is one of the most expensive video"
+      },
+      {
+        "start": 1099.8,
+        "duration": 6.12,
+        "start_formatted": "18:19",
+        "text": "models to use. For example, a 10-second"
+      },
+      {
+        "start": 1102.48,
+        "duration": 5.56,
+        "start_formatted": "18:22",
+        "text": "clip would cost roughly 460 credits, and"
+      },
+      {
+        "start": 1105.92,
+        "duration": 4.52,
+        "start_formatted": "18:25",
+        "text": "at least currently in their Illumina"
+      },
+      {
+        "start": 1108.04,
+        "duration": 5.32,
+        "start_formatted": "18:28",
+        "text": "platform, you can top up 1,000 credits"
+      },
+      {
+        "start": 1110.44,
+        "duration": 4.44,
+        "start_formatted": "18:30",
+        "text": "for 10 bucks. So, 460 credits is roughly"
+      },
+      {
+        "start": 1113.36,
+        "duration": 3.04,
+        "start_formatted": "18:33",
+        "text": "$4.60."
+      },
+      {
+        "start": 1114.88,
+        "duration": 4.52,
+        "start_formatted": "18:34",
+        "text": "So, this is much more expensive than"
+      },
+      {
+        "start": 1116.4,
+        "duration": 5.0,
+        "start_formatted": "18:36",
+        "text": "MiniMax H3. Also note that API access is"
+      },
+      {
+        "start": 1119.4,
+        "duration": 3.8,
+        "start_formatted": "18:39",
+        "text": "not out yet. They're planning to roll"
+      },
+      {
+        "start": 1121.4,
+        "duration": 4.36,
+        "start_formatted": "18:41",
+        "text": "this out next week. But, here's the"
+      },
+      {
+        "start": 1123.2,
+        "duration": 4.52,
+        "start_formatted": "18:43",
+        "text": "thing. This is the best video model out"
+      },
+      {
+        "start": 1125.76,
+        "duration": 4.04,
+        "start_formatted": "18:45",
+        "text": "there, especially for high-action scenes"
+      },
+      {
+        "start": 1127.72,
+        "duration": 3.96,
+        "start_formatted": "18:47",
+        "text": "or scenes with tricky physics and"
+      },
+      {
+        "start": 1129.8,
+        "duration": 3.84,
+        "start_formatted": "18:49",
+        "text": "motion. This is still way cheaper than"
+      },
+      {
+        "start": 1131.68,
+        "duration": 3.64,
+        "start_formatted": "18:51",
+        "text": "filming everything yourself. Now, I'm"
+      },
+      {
+        "start": 1133.64,
+        "duration": 4.0,
+        "start_formatted": "18:53",
+        "text": "planning to do a full review video on"
+      },
+      {
+        "start": 1135.32,
+        "duration": 4.4,
+        "start_formatted": "18:55",
+        "text": "this very soon, probably tomorrow or the"
+      },
+      {
+        "start": 1137.64,
+        "duration": 3.6,
+        "start_formatted": "18:57",
+        "text": "day after that. So, stay tuned. If"
+      },
+      {
+        "start": 1139.72,
+        "duration": 3.32,
+        "start_formatted": "18:59",
+        "text": "you're interested in reading further,"
+      },
+      {
+        "start": 1141.24,
+        "duration": 3.8,
+        "start_formatted": "19:01",
+        "text": "I'll link to this main page in the"
+      },
+      {
+        "start": 1143.04,
+        "duration": 4.08,
+        "start_formatted": "19:03",
+        "text": "description below. Also this week,"
+      },
+      {
+        "start": 1145.04,
+        "duration": 4.6,
+        "start_formatted": "19:05",
+        "text": "MiniMax releases their latest model"
+      },
+      {
+        "start": 1147.12,
+        "duration": 4.76,
+        "start_formatted": "19:07",
+        "text": "MiniMax H3. By the way, this is the"
+      },
+      {
+        "start": 1149.64,
+        "duration": 4.48,
+        "start_formatted": "19:09",
+        "text": "company behind High Law. So, I think now"
+      },
+      {
+        "start": 1151.88,
+        "duration": 4.8,
+        "start_formatted": "19:11",
+        "text": "they're just rebranding HighLaw into the"
+      },
+      {
+        "start": 1154.12,
+        "duration": 5.28,
+        "start_formatted": "19:14",
+        "text": "MiniMax H series. Now, this is a super"
+      },
+      {
+        "start": 1156.68,
+        "duration": 4.68,
+        "start_formatted": "19:16",
+        "text": "powerful and flexible multimodal model,"
+      },
+      {
+        "start": 1159.4,
+        "duration": 4.44,
+        "start_formatted": "19:19",
+        "text": "which means you can input text, images,"
+      },
+      {
+        "start": 1161.36,
+        "duration": 4.68,
+        "start_formatted": "19:21",
+        "text": "video, and audio to use as references."
+      },
+      {
+        "start": 1163.84,
+        "duration": 4.16,
+        "start_formatted": "19:23",
+        "text": "And this can generate 2K resolution"
+      },
+      {
+        "start": 1166.04,
+        "duration": 3.88,
+        "start_formatted": "19:26",
+        "text": "videos, as you can see from this really"
+      },
+      {
+        "start": 1168.0,
+        "duration": 4.08,
+        "start_formatted": "19:28",
+        "text": "detailed example. Here's an example"
+      },
+      {
+        "start": 1169.92,
+        "duration": 4.28,
+        "start_formatted": "19:29",
+        "text": "where we can input these two images and"
+      },
+      {
+        "start": 1172.08,
+        "duration": 4.92,
+        "start_formatted": "19:32",
+        "text": "get it to generate a trailer, and here's"
+      },
+      {
+        "start": 1174.2,
+        "duration": 2.8,
+        "start_formatted": "19:34",
+        "text": "the result."
+      },
+      {
+        "start": 1184.56,
+        "duration": 3.36,
+        "start_formatted": "19:44",
+        "text": ">> It was waiting for me."
+      },
+      {
+        "start": 1188.28,
+        "duration": 4.72,
+        "start_formatted": "19:48",
+        "text": ">> Or here's another example where I can"
+      },
+      {
+        "start": 1190.08,
+        "duration": 5.44,
+        "start_formatted": "19:50",
+        "text": "input this storyboard plus this logo,"
+      },
+      {
+        "start": 1193.0,
+        "duration": 4.64,
+        "start_formatted": "19:53",
+        "text": "and then get it to make an ad for this"
+      },
+      {
+        "start": 1195.52,
+        "duration": 3.88,
+        "start_formatted": "19:55",
+        "text": "luxury handbag based on the storyboard"
+      },
+      {
+        "start": 1197.64,
+        "duration": 4.298,
+        "start_formatted": "19:57",
+        "text": "and logo. And here's the complete"
+      },
+      {
+        "start": 1199.4,
+        "duration": 4.558,
+        "start_formatted": "19:59",
+        "text": "commercial."
+      },
+      {
+        "start": 1201.938,
+        "duration": 2.02,
+        "start_formatted": "20:01",
+        "text": ">> [music]"
+      },
+      {
+        "start": 1207.833,
+        "duration": 2.02,
+        "start_formatted": "20:07",
+        "text": "[music]"
+      },
+      {
+        "start": 1213.073,
+        "duration": 2.02,
+        "start_formatted": "20:13",
+        "text": "[music]"
+      },
+      {
+        "start": 1215.2,
+        "duration": 3.72,
+        "start_formatted": "20:15",
+        "text": ">> Here's an even more impressive example"
+      },
+      {
+        "start": 1216.8,
+        "duration": 4.2,
+        "start_formatted": "20:16",
+        "text": "where we can input images of this bold"
+      },
+      {
+        "start": 1218.92,
+        "duration": 3.72,
+        "start_formatted": "20:18",
+        "text": "red and blue comic strip effect, and"
+      },
+      {
+        "start": 1221.0,
+        "duration": 3.72,
+        "start_formatted": "20:21",
+        "text": "it's able to create a very nice video"
+      },
+      {
+        "start": 1222.64,
+        "duration": 4.28,
+        "start_formatted": "20:22",
+        "text": "from this. Now, because this can take a"
+      },
+      {
+        "start": 1224.72,
+        "duration": 4.48,
+        "start_formatted": "20:24",
+        "text": "video, you can also input a green screen"
+      },
+      {
+        "start": 1226.92,
+        "duration": 4.0,
+        "start_formatted": "20:26",
+        "text": "video like this plus the background"
+      },
+      {
+        "start": 1229.2,
+        "duration": 3.36,
+        "start_formatted": "20:29",
+        "text": "which you want to use and easily add"
+      },
+      {
+        "start": 1230.92,
+        "duration": 4.12,
+        "start_formatted": "20:30",
+        "text": "that to the scene. Or here's another"
+      },
+      {
+        "start": 1232.56,
+        "duration": 4.48,
+        "start_formatted": "20:32",
+        "text": "example with audio. I'm going to input"
+      },
+      {
+        "start": 1235.04,
+        "duration": 5.544,
+        "start_formatted": "20:35",
+        "text": "this audio track which was made from the"
+      },
+      {
+        "start": 1237.04,
+        "duration": 5.564,
+        "start_formatted": "20:37",
+        "text": "open-source music generator a step"
+      },
+      {
+        "start": 1240.584,
+        "duration": 2.02,
+        "start_formatted": "20:40",
+        "text": ">> [music]"
+      },
+      {
+        "start": 1242.88,
+        "duration": 3.96,
+        "start_formatted": "20:42",
+        "text": ">> And then I'm going to upload this image"
+      },
+      {
+        "start": 1244.72,
+        "duration": 4.6,
+        "start_formatted": "20:44",
+        "text": "of some random K-pop group and also a"
+      },
+      {
+        "start": 1246.84,
+        "duration": 4.08,
+        "start_formatted": "20:46",
+        "text": "few reference panels of some text, and"
+      },
+      {
+        "start": 1249.32,
+        "duration": 4.2,
+        "start_formatted": "20:49",
+        "text": "let's get it to make an MV from this"
+      },
+      {
+        "start": 1250.92,
+        "duration": 4.84,
+        "start_formatted": "20:50",
+        "text": "song. Show these K-pop members from this"
+      },
+      {
+        "start": 1253.52,
+        "duration": 4.36,
+        "start_formatted": "20:53",
+        "text": "image singing and dancing to the music."
+      },
+      {
+        "start": 1255.76,
+        "duration": 4.08,
+        "start_formatted": "20:55",
+        "text": "Add coarse grain, glitch effects, grunge"
+      },
+      {
+        "start": 1257.88,
+        "duration": 4.28,
+        "start_formatted": "20:57",
+        "text": "effects. Keep the edit fast and use hard"
+      },
+      {
+        "start": 1259.84,
+        "duration": 4.12,
+        "start_formatted": "20:59",
+        "text": "cuts only. Cuts should occur within 3"
+      },
+      {
+        "start": 1262.16,
+        "duration": 3.8,
+        "start_formatted": "21:02",
+        "text": "seconds based on the beat of the song."
+      },
+      {
+        "start": 1263.96,
+        "duration": 6.16,
+        "start_formatted": "21:03",
+        "text": "Use the typographic reference from my"
+      },
+      {
+        "start": 1265.96,
+        "duration": 4.16,
+        "start_formatted": "21:05",
+        "text": "second image. And here's the result."
+      },
+      {
+        "start": 1273.334,
+        "duration": 2.02,
+        "start_formatted": "21:13",
+        "text": ">> [music]"
+      },
+      {
+        "start": 1281.849,
+        "duration": 2.671,
+        "start_formatted": "21:21",
+        "text": "[music]"
+      },
+      {
+        "start": 1283.16,
+        "duration": 3.76,
+        "start_formatted": "21:23",
+        "text": ">> Currently, you can try this on their"
+      },
+      {
+        "start": 1284.52,
+        "duration": 4.2,
+        "start_formatted": "21:24",
+        "text": "online platform. It allows you to select"
+      },
+      {
+        "start": 1286.92,
+        "duration": 4.6,
+        "start_formatted": "21:26",
+        "text": "all these different aspect ratios and up"
+      },
+      {
+        "start": 1288.72,
+        "duration": 5.8,
+        "start_formatted": "21:28",
+        "text": "to 2K in resolution, and you can set"
+      },
+      {
+        "start": 1291.52,
+        "duration": 5.56,
+        "start_formatted": "21:31",
+        "text": "this up to 15 seconds. Now, if I select"
+      },
+      {
+        "start": 1294.52,
+        "duration": 5.56,
+        "start_formatted": "21:34",
+        "text": "10 seconds, note that it costs 120"
+      },
+      {
+        "start": 1297.08,
+        "duration": 6.0,
+        "start_formatted": "21:37",
+        "text": "credits, and similar to ByteDance, it"
+      },
+      {
+        "start": 1300.08,
+        "duration": 6.24,
+        "start_formatted": "21:40",
+        "text": "costs $10 to top up 1,000 credits. So,"
+      },
+      {
+        "start": 1303.08,
+        "duration": 5.44,
+        "start_formatted": "21:43",
+        "text": "120 credits is roughly $1.20, around"
+      },
+      {
+        "start": 1306.32,
+        "duration": 4.84,
+        "start_formatted": "21:46",
+        "text": "like three times cheaper than SeeDance"
+      },
+      {
+        "start": 1308.52,
+        "duration": 4.8,
+        "start_formatted": "21:48",
+        "text": "2.5. The really awesome thing is they"
+      },
+      {
+        "start": 1311.16,
+        "duration": 3.64,
+        "start_formatted": "21:51",
+        "text": "are actually going to open source this."
+      },
+      {
+        "start": 1313.32,
+        "duration": 3.52,
+        "start_formatted": "21:53",
+        "text": "They'll likely release the model"
+      },
+      {
+        "start": 1314.8,
+        "duration": 4.08,
+        "start_formatted": "21:54",
+        "text": "sometime next week, and I'll definitely"
+      },
+      {
+        "start": 1316.84,
+        "duration": 4.28,
+        "start_formatted": "21:56",
+        "text": "make a full review and installation"
+      },
+      {
+        "start": 1318.88,
+        "duration": 4.0,
+        "start_formatted": "21:58",
+        "text": "tutorial on this once it's out. So, stay"
+      },
+      {
+        "start": 1321.12,
+        "duration": 4.64,
+        "start_formatted": "22:01",
+        "text": "tuned for that. I think this is going to"
+      },
+      {
+        "start": 1322.88,
+        "duration": 4.56,
+        "start_formatted": "22:02",
+        "text": "be the best open video model For now, if"
+      },
+      {
+        "start": 1325.76,
+        "duration": 3.76,
+        "start_formatted": "22:05",
+        "text": "you're interested in trying this out, I"
+      },
+      {
+        "start": 1327.44,
+        "duration": 4.16,
+        "start_formatted": "22:07",
+        "text": "will link to this main release page in"
+      },
+      {
+        "start": 1329.52,
+        "duration": 3.84,
+        "start_formatted": "22:09",
+        "text": "the description below. Also this week,"
+      },
+      {
+        "start": 1331.6,
+        "duration": 4.56,
+        "start_formatted": "22:11",
+        "text": "Google DeepMind releases a really"
+      },
+      {
+        "start": 1333.36,
+        "duration": 5.84,
+        "start_formatted": "22:13",
+        "text": "exciting update for robotics. So, they"
+      },
+      {
+        "start": 1336.16,
+        "duration": 5.08,
+        "start_formatted": "22:16",
+        "text": "just introduced Gemini Robotics 2. This"
+      },
+      {
+        "start": 1339.2,
+        "duration": 4.24,
+        "start_formatted": "22:19",
+        "text": "is a new family of models designed to"
+      },
+      {
+        "start": 1341.24,
+        "duration": 4.0,
+        "start_formatted": "22:21",
+        "text": "control a robot from its feet all the"
+      },
+      {
+        "start": 1343.44,
+        "duration": 4.12,
+        "start_formatted": "22:23",
+        "text": "way to its fingertips. You see, the"
+      },
+      {
+        "start": 1345.24,
+        "duration": 4.28,
+        "start_formatted": "22:25",
+        "text": "previous Gemini Robotics model mainly"
+      },
+      {
+        "start": 1347.56,
+        "duration": 4.2,
+        "start_formatted": "22:27",
+        "text": "focused on upper body and table top"
+      },
+      {
+        "start": 1349.52,
+        "duration": 4.76,
+        "start_formatted": "22:29",
+        "text": "tasks, but this version can combine"
+      },
+      {
+        "start": 1351.76,
+        "duration": 4.36,
+        "start_formatted": "22:31",
+        "text": "walking, balancing, reaching, grasping,"
+      },
+      {
+        "start": 1354.28,
+        "duration": 4.36,
+        "start_formatted": "22:34",
+        "text": "and reasoning all in one continuous"
+      },
+      {
+        "start": 1356.12,
+        "duration": 5.04,
+        "start_formatted": "22:36",
+        "text": "sequence. For example, you can tell this"
+      },
+      {
+        "start": 1358.64,
+        "duration": 4.76,
+        "start_formatted": "22:38",
+        "text": "Apollo 2 humanoid robot to do a certain"
+      },
+      {
+        "start": 1361.16,
+        "duration": 3.72,
+        "start_formatted": "22:41",
+        "text": "action, and with this model as the"
+      },
+      {
+        "start": 1363.4,
+        "duration": 3.64,
+        "start_formatted": "22:43",
+        "text": "brain, it can understand the"
+      },
+      {
+        "start": 1364.88,
+        "duration": 3.84,
+        "start_formatted": "22:44",
+        "text": "instruction, locate the object, walk"
+      },
+      {
+        "start": 1367.04,
+        "duration": 4.24,
+        "start_formatted": "22:47",
+        "text": "towards it to pick it up, and then move"
+      },
+      {
+        "start": 1368.72,
+        "duration": 4.04,
+        "start_formatted": "22:48",
+        "text": "across the room to reach the target and"
+      },
+      {
+        "start": 1371.28,
+        "duration": 3.48,
+        "start_formatted": "22:51",
+        "text": "place the object in the correct"
+      },
+      {
+        "start": 1372.76,
+        "duration": 4.36,
+        "start_formatted": "22:52",
+        "text": "location. Now, they've actually released"
+      },
+      {
+        "start": 1374.76,
+        "duration": 4.4,
+        "start_formatted": "22:54",
+        "text": "three different models. The main one is"
+      },
+      {
+        "start": 1377.12,
+        "duration": 4.28,
+        "start_formatted": "22:57",
+        "text": "Gemini Robotics 2, and this is their"
+      },
+      {
+        "start": 1379.16,
+        "duration": 4.4,
+        "start_formatted": "22:59",
+        "text": "vision language action model. So, this"
+      },
+      {
+        "start": 1381.4,
+        "duration": 4.36,
+        "start_formatted": "23:01",
+        "text": "turns your natural language instructions"
+      },
+      {
+        "start": 1383.56,
+        "duration": 4.84,
+        "start_formatted": "23:03",
+        "text": "and the robot's vision via cameras on"
+      },
+      {
+        "start": 1385.76,
+        "duration": 4.68,
+        "start_formatted": "23:05",
+        "text": "its face into physical motor commands,"
+      },
+      {
+        "start": 1388.4,
+        "duration": 3.76,
+        "start_formatted": "23:08",
+        "text": "basically into actions that the robot"
+      },
+      {
+        "start": 1390.44,
+        "duration": 4.52,
+        "start_formatted": "23:10",
+        "text": "should carry out. And then they also"
+      },
+      {
+        "start": 1392.16,
+        "duration": 4.96,
+        "start_formatted": "23:12",
+        "text": "released Gemini Robotics ER2. So, this"
+      },
+      {
+        "start": 1394.96,
+        "duration": 3.56,
+        "start_formatted": "23:14",
+        "text": "is a higher-level reasoning system. This"
+      },
+      {
+        "start": 1397.12,
+        "duration": 3.8,
+        "start_formatted": "23:17",
+        "text": "is designed to understand the"
+      },
+      {
+        "start": 1398.52,
+        "duration": 4.52,
+        "start_formatted": "23:18",
+        "text": "environment, the room, plan tasks, and"
+      },
+      {
+        "start": 1400.92,
+        "duration": 4.04,
+        "start_formatted": "23:20",
+        "text": "then it's also designed to correct the"
+      },
+      {
+        "start": 1403.04,
+        "duration": 3.92,
+        "start_formatted": "23:23",
+        "text": "failure, and it can also coordinate with"
+      },
+      {
+        "start": 1404.96,
+        "duration": 4.52,
+        "start_formatted": "23:24",
+        "text": "multiple robots. And then there's Gemini"
+      },
+      {
+        "start": 1406.96,
+        "duration": 4.6,
+        "start_formatted": "23:26",
+        "text": "Robotics on device 2. This is a smaller"
+      },
+      {
+        "start": 1409.48,
+        "duration": 3.4,
+        "start_formatted": "23:29",
+        "text": "version that can run locally on a robot"
+      },
+      {
+        "start": 1411.56,
+        "duration": 2.88,
+        "start_formatted": "23:31",
+        "text": "without needing to connect to the"
+      },
+      {
+        "start": 1412.88,
+        "duration": 3.68,
+        "start_formatted": "23:32",
+        "text": "internet. So, this is a completely"
+      },
+      {
+        "start": 1414.44,
+        "duration": 4.44,
+        "start_formatted": "23:34",
+        "text": "offline model. The system also brings"
+      },
+      {
+        "start": 1416.56,
+        "duration": 4.04,
+        "start_formatted": "23:36",
+        "text": "much better hand control compared to the"
+      },
+      {
+        "start": 1418.88,
+        "duration": 4.44,
+        "start_formatted": "23:38",
+        "text": "previous version. As you can see, it's"
+      },
+      {
+        "start": 1420.6,
+        "duration": 4.6,
+        "start_formatted": "23:40",
+        "text": "able to perform a ton of tasks that"
+      },
+      {
+        "start": 1423.32,
+        "duration": 4.2,
+        "start_formatted": "23:43",
+        "text": "require a lot of dexterous finger"
+      },
+      {
+        "start": 1425.2,
+        "duration": 5.28,
+        "start_formatted": "23:45",
+        "text": "movements like unscrewing a light bulb"
+      },
+      {
+        "start": 1427.52,
+        "duration": 4.8,
+        "start_formatted": "23:47",
+        "text": "or tying a trash bag or sealing a Ziploc"
+      },
+      {
+        "start": 1430.48,
+        "duration": 4.92,
+        "start_formatted": "23:50",
+        "text": "bag. Now, at the bottom here, you can"
+      },
+      {
+        "start": 1432.32,
+        "duration": 5.32,
+        "start_formatted": "23:52",
+        "text": "actually try out Gemini Robotics 2 in AI"
+      },
+      {
+        "start": 1435.4,
+        "duration": 4.36,
+        "start_formatted": "23:55",
+        "text": "Studio, and you can also sign up for"
+      },
+      {
+        "start": 1437.64,
+        "duration": 3.84,
+        "start_formatted": "23:57",
+        "text": "their trusted tester program. If you're"
+      },
+      {
+        "start": 1439.76,
+        "duration": 3.64,
+        "start_formatted": "23:59",
+        "text": "interested in reading further, I'll link"
+      },
+      {
+        "start": 1441.48,
+        "duration": 3.88,
+        "start_formatted": "24:01",
+        "text": "to this main page in the description"
+      },
+      {
+        "start": 1443.4,
+        "duration": 4.12,
+        "start_formatted": "24:03",
+        "text": "below. Also this week, we have a new"
+      },
+      {
+        "start": 1445.36,
+        "duration": 4.04,
+        "start_formatted": "24:05",
+        "text": "video world model called Wonder. And"
+      },
+      {
+        "start": 1447.52,
+        "duration": 4.24,
+        "start_formatted": "24:07",
+        "text": "like other world models, this allows you"
+      },
+      {
+        "start": 1449.4,
+        "duration": 4.64,
+        "start_formatted": "24:09",
+        "text": "to generate an interactive world which"
+      },
+      {
+        "start": 1451.76,
+        "duration": 4.08,
+        "start_formatted": "24:11",
+        "text": "you can explore in real time. Notice"
+      },
+      {
+        "start": 1454.04,
+        "duration": 4.0,
+        "start_formatted": "24:14",
+        "text": "that this is just video, but you can"
+      },
+      {
+        "start": 1455.84,
+        "duration": 4.0,
+        "start_formatted": "24:15",
+        "text": "press all these keys here to navigate"
+      },
+      {
+        "start": 1458.04,
+        "duration": 3.16,
+        "start_formatted": "24:18",
+        "text": "around the scene. As you can see, this"
+      },
+      {
+        "start": 1459.84,
+        "duration": 3.32,
+        "start_formatted": "24:19",
+        "text": "works with a variety of different"
+      },
+      {
+        "start": 1461.2,
+        "duration": 4.12,
+        "start_formatted": "24:21",
+        "text": "environments and characters. So, here's"
+      },
+      {
+        "start": 1463.16,
+        "duration": 3.8,
+        "start_formatted": "24:23",
+        "text": "a more anime digital art example. The"
+      },
+      {
+        "start": 1465.32,
+        "duration": 3.6,
+        "start_formatted": "24:25",
+        "text": "quality is not perfect. There's still"
+      },
+      {
+        "start": 1466.96,
+        "duration": 3.72,
+        "start_formatted": "24:26",
+        "text": "some noise and inconsistencies around"
+      },
+      {
+        "start": 1468.92,
+        "duration": 3.64,
+        "start_formatted": "24:28",
+        "text": "the edges. And then here's an example of"
+      },
+      {
+        "start": 1470.68,
+        "duration": 3.96,
+        "start_formatted": "24:30",
+        "text": "another artistic style. And then here"
+      },
+      {
+        "start": 1472.56,
+        "duration": 4.2,
+        "start_formatted": "24:32",
+        "text": "are some realistic examples for your"
+      },
+      {
+        "start": 1474.64,
+        "duration": 4.08,
+        "start_formatted": "24:34",
+        "text": "reference. Now, the really cool thing is"
+      },
+      {
+        "start": 1476.76,
+        "duration": 4.04,
+        "start_formatted": "24:36",
+        "text": "instead of just inputting an image as"
+      },
+      {
+        "start": 1478.72,
+        "duration": 4.56,
+        "start_formatted": "24:38",
+        "text": "the starting frame, you can even input a"
+      },
+      {
+        "start": 1480.8,
+        "duration": 4.64,
+        "start_formatted": "24:40",
+        "text": "video as you can see in these demos."
+      },
+      {
+        "start": 1483.28,
+        "duration": 4.4,
+        "start_formatted": "24:43",
+        "text": "This will render the same movements as"
+      },
+      {
+        "start": 1485.44,
+        "duration": 4.08,
+        "start_formatted": "24:45",
+        "text": "the video, but it allows you to now walk"
+      },
+      {
+        "start": 1487.68,
+        "duration": 4.32,
+        "start_formatted": "24:47",
+        "text": "around the scene as if you're viewing"
+      },
+      {
+        "start": 1489.52,
+        "duration": 4.32,
+        "start_formatted": "24:49",
+        "text": "the video in 3D. Now, again, this is far"
+      },
+      {
+        "start": 1492.0,
+        "duration": 4.44,
+        "start_formatted": "24:52",
+        "text": "from perfect. There's a ton of noise and"
+      },
+      {
+        "start": 1493.84,
+        "duration": 4.04,
+        "start_formatted": "24:53",
+        "text": "artifacts with its generations, but this"
+      },
+      {
+        "start": 1496.44,
+        "duration": 2.92,
+        "start_formatted": "24:56",
+        "text": "is a pretty cool feature. And then"
+      },
+      {
+        "start": 1497.88,
+        "duration": 3.68,
+        "start_formatted": "24:57",
+        "text": "here's another example of a fight scene,"
+      },
+      {
+        "start": 1499.36,
+        "duration": 3.84,
+        "start_formatted": "24:59",
+        "text": "but you can like press these keys to"
+      },
+      {
+        "start": 1501.56,
+        "duration": 3.16,
+        "start_formatted": "25:01",
+        "text": "change the camera perspective and walk"
+      },
+      {
+        "start": 1503.2,
+        "duration": 3.72,
+        "start_formatted": "25:03",
+        "text": "around this scene. Now, at the top of"
+      },
+      {
+        "start": 1504.72,
+        "duration": 4.16,
+        "start_formatted": "25:04",
+        "text": "the page, it does say the code and the"
+      },
+      {
+        "start": 1506.92,
+        "duration": 3.36,
+        "start_formatted": "25:06",
+        "text": "models are coming soon. Now, this is"
+      },
+      {
+        "start": 1508.88,
+        "duration": 3.04,
+        "start_formatted": "25:08",
+        "text": "from Adobe, which haven't really"
+      },
+      {
+        "start": 1510.28,
+        "duration": 3.4,
+        "start_formatted": "25:10",
+        "text": "released anything, so hopefully they"
+      },
+      {
+        "start": 1511.92,
+        "duration": 3.44,
+        "start_formatted": "25:11",
+        "text": "will stick to their word and release the"
+      },
+      {
+        "start": 1513.68,
+        "duration": 3.88,
+        "start_formatted": "25:13",
+        "text": "model to this. For now, if you're"
+      },
+      {
+        "start": 1515.36,
+        "duration": 4.24,
+        "start_formatted": "25:15",
+        "text": "interested, I'll link to this main page"
+      },
+      {
+        "start": 1517.56,
+        "duration": 4.32,
+        "start_formatted": "25:17",
+        "text": "in the description below. Also this"
+      },
+      {
+        "start": 1519.6,
+        "duration": 4.16,
+        "start_formatted": "25:19",
+        "text": "week, Google has added a new voice"
+      },
+      {
+        "start": 1521.88,
+        "duration": 3.72,
+        "start_formatted": "25:21",
+        "text": "feature to the Gemini app. Now,"
+      },
+      {
+        "start": 1523.76,
+        "duration": 3.4,
+        "start_formatted": "25:23",
+        "text": "currently this is only for Mac OS."
+      },
+      {
+        "start": 1525.6,
+        "duration": 3.4,
+        "start_formatted": "25:25",
+        "text": "Hopefully, they will also release a"
+      },
+      {
+        "start": 1527.16,
+        "duration": 3.8,
+        "start_formatted": "25:27",
+        "text": "Windows version in the future. This is"
+      },
+      {
+        "start": 1529.0,
+        "duration": 4.04,
+        "start_formatted": "25:29",
+        "text": "basically an AI-powered writing and"
+      },
+      {
+        "start": 1530.96,
+        "duration": 4.52,
+        "start_formatted": "25:30",
+        "text": "editing tool. You simply hold down the"
+      },
+      {
+        "start": 1533.04,
+        "duration": 5.2,
+        "start_formatted": "25:33",
+        "text": "function key and speak naturally into"
+      },
+      {
+        "start": 1535.48,
+        "duration": 4.52,
+        "start_formatted": "25:35",
+        "text": "pretty much any application on your Mac,"
+      },
+      {
+        "start": 1538.24,
+        "duration": 3.76,
+        "start_formatted": "25:38",
+        "text": "and it will use Gemini as the"
+      },
+      {
+        "start": 1540.0,
+        "duration": 3.72,
+        "start_formatted": "25:40",
+        "text": "transcription model. It transcribes what"
+      },
+      {
+        "start": 1542.0,
+        "duration": 4.12,
+        "start_formatted": "25:42",
+        "text": "you say, and it also removes filler"
+      },
+      {
+        "start": 1543.72,
+        "duration": 4.0,
+        "start_formatted": "25:43",
+        "text": "words or mistakes or repeats. It also"
+      },
+      {
+        "start": 1546.12,
+        "duration": 3.44,
+        "start_formatted": "25:46",
+        "text": "understands when you correct yourself"
+      },
+      {
+        "start": 1547.72,
+        "duration": 3.8,
+        "start_formatted": "25:47",
+        "text": "halfway through a sentence. It's also"
+      },
+      {
+        "start": 1549.56,
+        "duration": 4.6,
+        "start_formatted": "25:49",
+        "text": "able to help you clean up formatting,"
+      },
+      {
+        "start": 1551.52,
+        "duration": 4.76,
+        "start_formatted": "25:51",
+        "text": "add the correct punctuation, etc. And it"
+      },
+      {
+        "start": 1554.16,
+        "duration": 4.4,
+        "start_formatted": "25:54",
+        "text": "inserts the text directly where your"
+      },
+      {
+        "start": 1556.28,
+        "duration": 5.08,
+        "start_formatted": "25:56",
+        "text": "cursor is located. So, it's very similar"
+      },
+      {
+        "start": 1558.56,
+        "duration": 4.92,
+        "start_formatted": "25:58",
+        "text": "to other AI dictation apps like Typeless"
+      },
+      {
+        "start": 1561.36,
+        "duration": 4.12,
+        "start_formatted": "26:01",
+        "text": "or Whisper Flow. You can also enable"
+      },
+      {
+        "start": 1563.48,
+        "duration": 3.96,
+        "start_formatted": "26:03",
+        "text": "Gemini reasoning, which gives the system"
+      },
+      {
+        "start": 1565.48,
+        "duration": 4.12,
+        "start_formatted": "26:05",
+        "text": "permission to perform more complex"
+      },
+      {
+        "start": 1567.44,
+        "duration": 3.92,
+        "start_formatted": "26:07",
+        "text": "tasks. For example, you can highlight"
+      },
+      {
+        "start": 1569.6,
+        "duration": 3.92,
+        "start_formatted": "26:09",
+        "text": "some documents and ask Gemini to"
+      },
+      {
+        "start": 1571.36,
+        "duration": 4.2,
+        "start_formatted": "26:11",
+        "text": "summarize the content. So, I think this"
+      },
+      {
+        "start": 1573.52,
+        "duration": 4.0,
+        "start_formatted": "26:13",
+        "text": "is a really useful tool. I hope they"
+      },
+      {
+        "start": 1575.56,
+        "duration": 4.16,
+        "start_formatted": "26:15",
+        "text": "roll it out to Windows and mobile"
+      },
+      {
+        "start": 1577.52,
+        "duration": 4.12,
+        "start_formatted": "26:17",
+        "text": "platforms as well. For now, if you have"
+      },
+      {
+        "start": 1579.72,
+        "duration": 3.92,
+        "start_formatted": "26:19",
+        "text": "a Mac and you're interested in learning"
+      },
+      {
+        "start": 1581.64,
+        "duration": 4.08,
+        "start_formatted": "26:21",
+        "text": "more, I'll link to this main release"
+      },
+      {
+        "start": 1583.64,
+        "duration": 4.52,
+        "start_formatted": "26:23",
+        "text": "page in the description below. Also this"
+      },
+      {
+        "start": 1585.72,
+        "duration": 4.48,
+        "start_formatted": "26:25",
+        "text": "week, we have a new AI called Phi-0."
+      },
+      {
+        "start": 1588.16,
+        "duration": 4.32,
+        "start_formatted": "26:28",
+        "text": "This is a new video world model built"
+      },
+      {
+        "start": 1590.2,
+        "duration": 4.56,
+        "start_formatted": "26:30",
+        "text": "around what the authors call physical"
+      },
+      {
+        "start": 1592.48,
+        "duration": 4.36,
+        "start_formatted": "26:32",
+        "text": "language. The main idea is that instead"
+      },
+      {
+        "start": 1594.76,
+        "duration": 4.28,
+        "start_formatted": "26:34",
+        "text": "of immediately generating the next video"
+      },
+      {
+        "start": 1596.84,
+        "duration": 4.48,
+        "start_formatted": "26:36",
+        "text": "frames, you get the model to first"
+      },
+      {
+        "start": 1599.04,
+        "duration": 4.08,
+        "start_formatted": "26:39",
+        "text": "reason about how everything should move"
+      },
+      {
+        "start": 1601.32,
+        "duration": 3.28,
+        "start_formatted": "26:41",
+        "text": "and change physically. Then it goes"
+      },
+      {
+        "start": 1603.12,
+        "duration": 3.56,
+        "start_formatted": "26:43",
+        "text": "through the video generator to actually"
+      },
+      {
+        "start": 1604.6,
+        "duration": 3.96,
+        "start_formatted": "26:44",
+        "text": "render those frames. And from that, it's"
+      },
+      {
+        "start": 1606.68,
+        "duration": 3.96,
+        "start_formatted": "26:46",
+        "text": "actually very good at predicting what"
+      },
+      {
+        "start": 1608.56,
+        "duration": 4.24,
+        "start_formatted": "26:48",
+        "text": "happens next. And so this has a variety"
+      },
+      {
+        "start": 1610.64,
+        "duration": 4.68,
+        "start_formatted": "26:50",
+        "text": "of applications. For example, you can"
+      },
+      {
+        "start": 1612.8,
+        "duration": 4.44,
+        "start_formatted": "26:52",
+        "text": "use this to generate interactive worlds."
+      },
+      {
+        "start": 1615.32,
+        "duration": 3.68,
+        "start_formatted": "26:55",
+        "text": "It can predict how the scene should move"
+      },
+      {
+        "start": 1617.24,
+        "duration": 4.36,
+        "start_formatted": "26:57",
+        "text": "if you press a certain combination of"
+      },
+      {
+        "start": 1619.0,
+        "duration": 4.6,
+        "start_formatted": "26:59",
+        "text": "keys. Or you can also use this to create"
+      },
+      {
+        "start": 1621.6,
+        "duration": 4.24,
+        "start_formatted": "27:01",
+        "text": "videos for autonomous driving. And the"
+      },
+      {
+        "start": 1623.6,
+        "duration": 4.32,
+        "start_formatted": "27:03",
+        "text": "same thing applies for creating videos"
+      },
+      {
+        "start": 1625.84,
+        "duration": 4.36,
+        "start_formatted": "27:05",
+        "text": "to train robots. And if you look at its"
+      },
+      {
+        "start": 1627.92,
+        "duration": 4.08,
+        "start_formatted": "27:07",
+        "text": "performance on physical coherence and"
+      },
+      {
+        "start": 1630.2,
+        "duration": 3.48,
+        "start_formatted": "27:10",
+        "text": "understanding, then you can see that on"
+      },
+      {
+        "start": 1632.0,
+        "duration": 3.68,
+        "start_formatted": "27:12",
+        "text": "average it even outperforms other"
+      },
+      {
+        "start": 1633.68,
+        "duration": 3.88,
+        "start_formatted": "27:13",
+        "text": "similar world models. Now, at the top of"
+      },
+      {
+        "start": 1635.68,
+        "duration": 3.84,
+        "start_formatted": "27:15",
+        "text": "the page they've released a code button"
+      },
+      {
+        "start": 1637.56,
+        "duration": 4.48,
+        "start_formatted": "27:17",
+        "text": "to this. And here it says the code is"
+      },
+      {
+        "start": 1639.52,
+        "duration": 4.08,
+        "start_formatted": "27:19",
+        "text": "coming soon. So, stay tuned for that. If"
+      },
+      {
+        "start": 1642.04,
+        "duration": 3.32,
+        "start_formatted": "27:22",
+        "text": "you're interested in reading further,"
+      },
+      {
+        "start": 1643.6,
+        "duration": 4.16,
+        "start_formatted": "27:23",
+        "text": "I'll link to this main page in the"
+      },
+      {
+        "start": 1645.36,
+        "duration": 5.36,
+        "start_formatted": "27:25",
+        "text": "description below. And that sums up all"
+      },
+      {
+        "start": 1647.76,
+        "duration": 4.44,
+        "start_formatted": "27:27",
+        "text": "the highlights in AI this week. Let me"
+      },
+      {
+        "start": 1650.72,
+        "duration": 3.32,
+        "start_formatted": "27:30",
+        "text": "know in the comments what you think of"
+      },
+      {
+        "start": 1652.2,
+        "duration": 3.96,
+        "start_formatted": "27:32",
+        "text": "all of this. Which piece of news was"
+      },
+      {
+        "start": 1654.04,
+        "duration": 4.92,
+        "start_formatted": "27:34",
+        "text": "your favorite? And which tool are you"
+      },
+      {
+        "start": 1656.16,
+        "duration": 5.08,
+        "start_formatted": "27:36",
+        "text": "most looking forward to trying out? As"
+      },
+      {
+        "start": 1658.96,
+        "duration": 5.12,
+        "start_formatted": "27:38",
+        "text": "always, I will be on the lookout for the"
+      },
+      {
+        "start": 1661.24,
+        "duration": 4.92,
+        "start_formatted": "27:41",
+        "text": "top AI news and tools to share with you."
+      },
+      {
+        "start": 1664.08,
+        "duration": 4.04,
+        "start_formatted": "27:44",
+        "text": "So, if you enjoyed this video, remember"
+      },
+      {
+        "start": 1666.16,
+        "duration": 4.32,
+        "start_formatted": "27:46",
+        "text": "to like, share, subscribe, and stay"
+      },
+      {
+        "start": 1668.12,
+        "duration": 4.12,
+        "start_formatted": "27:48",
+        "text": "tuned for more content. Also, there's"
+      },
+      {
+        "start": 1670.48,
+        "duration": 4.16,
+        "start_formatted": "27:50",
+        "text": "just so much happening in the world of"
+      },
+      {
+        "start": 1672.24,
+        "duration": 4.88,
+        "start_formatted": "27:52",
+        "text": "AI every week. I can't possibly cover"
+      },
+      {
+        "start": 1674.64,
+        "duration": 4.84,
+        "start_formatted": "27:54",
+        "text": "everything on my YouTube channel. So, to"
+      },
+      {
+        "start": 1677.12,
+        "duration": 5.0,
+        "start_formatted": "27:57",
+        "text": "really stay up-to-date with all that's"
+      },
+      {
+        "start": 1679.48,
+        "duration": 4.92,
+        "start_formatted": "27:59",
+        "text": "going on in AI, be sure to subscribe to"
+      },
+      {
+        "start": 1682.12,
+        "duration": 4.24,
+        "start_formatted": "28:02",
+        "text": "my free weekly newsletter. The link to"
+      },
+      {
+        "start": 1684.4,
+        "duration": 4.04,
+        "start_formatted": "28:04",
+        "text": "that will be in the description below."
+      },
+      {
+        "start": 1686.36,
+        "duration": 4.76,
+        "start_formatted": "28:06",
+        "text": "Thanks for watching, and I'll see you in"
+      },
+      {
+        "start": 1688.44,
+        "duration": 2.68,
+        "start_formatted": "28:08",
+        "text": "the next one."
+      }
+    ],
+    "full_text": "AI never sleeps and this week has been absolutely insane. ByteDance releases the best video model out there, Seed Dance 2.5. MiniMax also releases their best video model, MiniMax H3. And the awesome thing is this will be open source. Deep Seek releases their newest model and they pulled off the impossible again. It's as good as GLM and Opus but like a hundred times cheaper and way smaller. We have a new open source model that's trained entirely on AMD chips, not Nvidia. This AI can turn an image into transparent layers which you can edit further. We have some new video world models which you can interact with in real time. Google releases their latest robotics model and a lot more. So let's jump right in. First up, Netflix releases a really cool open source AI called IDV2V. In the simplest sense, this can basically change the style of the scene without affecting the identity or the movement of the characters. So you can just plug in an existing video and then edit one keyframe to show the new look you want and then the system will spread that style across the entire video. So you can change things like the background, lighting, clothing, or overall style while keeping the face and expressions and movements of the character the same as the original clip. Now at the top of the page, if you click on this GitHub button and you scroll down a bit, here it contains all the instructions on how to download and run this locally on your computer. Notice that this can generate videos of up to 720p and this is pretty huge. So the main model is like almost 80 gigabytes in size. So this would only fit on like really high-end consumer hardware. But hopefully there will be more compressed versions of this in the future. If you're interested in reading further, I'll link to this main page in the description below. Also this week we have a new open source transcription tool which is really powerful. It's called Whisper Whisper 2 and this can basically take any audio and turn it into text like this. The cool thing is this actually has two different outputs. If you turn on the verbatim mode, this includes everything including stutters, hesitations, laughter, or other meta tags, plus repeats like this. Now, alternatively, you can also turn on the intended mode, which would get rid of all these hesitations and meta tags and give you the fully polished transcript. So, a super flexible tool. Not only that, but this also gives you precise word level timing. In fact, let's try this out. They've already released a free hugging face space for you to try this out online. Here is where you can upload any audio. So, let's upload this one. We are going to generate this in verbatim mode. >> However, due to the slow communication channels, styles in the West could lag behind by 25 to 30 years. >> All right, so that was the audio and as you can see, the transcript is indeed correct and it also gives you the start and end times for each word. Or here's another example. Let me play you the audio first. >> And so, my fellow Americans, ask not what your country can do for you, ask what you can do for your country. >> And as you can see, it's able to provide me the transcript here, plus the timing for each word. Now, this supports all these different languages as you can see here, and if you look at this self-made benchmark, then Crisper Whisper 2 is indeed even better than 11 Labs or some other leading transcription tools. And if you look at this benchmark on word level timestamps, then as you can see, Crisper Whisper also contains the least amount of errors. The awesome thing is they've released the models to this. So, if you click on this button, they've released four different models in this family. The smallest one is 0.2 billion parameters, and this is less than 500 megabytes in size, so you can easily fit this on most consumer devices. You don't even need a GPU. And then, the largest one is 2 billion parameters. This one is 3 gigabytes in size, which is still fairly tiny. You should be able to fit this in most GPUs. And then if you scroll down the Hugging Face page here, it contains all the instructions on how to download and run this locally on your computer. If you're interested in reading further, I'll link to this main page in the description below. Also this week, the Goat DeepSeek is back with another mind-blowing model. They just released the latest version of DeepSeek V4 Flash, and even though this is a flash model, it even performs as good as some of the full open-source models out there, including MiniMax M3, and it's just one point below JLM 5.2. This scores way higher than even the previous DeepSeek V4 Pro version, and as you can see it's like 10 points above the previous DeepSeek V4 Flash. What an insane upgrade. Note that here it says it has the same model structure as DeepSeek V4 Flash DSpark. In fact, this is a really important architecture breakthrough, which helped it improve efficiency and throughput by a huge amount. I did a full explainer video on DSpark, so definitely see this video if you're interested in learning more. If you look at these benchmarks on agentic coding, software engineering, and cybersecurity, you can see that it absolutely clobbers the previous V4 Pro version. And for some instances, it even beats or matches JLM 5.2 or Opus 4.8. Keep in mind this is like 70% smaller than JLM 5.2, and it's also 100 times cheaper than Claude Opus. DeepSeek V4 Flash costs around 3 cents per million tokens, making it by far the cheapest model at Frontier Intelligence. And if you look all the way on the other side, GPT 5.6 and Claude Opus and Claude Fable are all the way over here. So in terms of performance versus cost, this is by far the best option to use. It's just incredibly efficient and just way cheaper than the other frontier models. Now as expected from the Goat, they've also released the model to this already. It's already out for you to download on Hugging Face and this is only 167 GB in size. So, this can easily fit on just like one DGX Spark. Now, because this is open source, the community has acted fast and for example, Unsloth has already released GGUF versions of this. The crazy thing is the smallest one-bit version is only like 82.5 GB in size. So, you can potentially fit this on just like one or two pieces of high-end hardware. And keep in mind, this has the intelligence of GLM 5.2 or Opus 4.8. It's pretty crazy that you can now run this level of intelligence locally. If you're interested in reading further, I'll link to this main page in the description below. Also this week, we have quite a useful AI called Redesign. This basically turns a flat image into layers. So, you can edit each component or move them around. And with this, you can customize or micro-edit certain things like recoloring the elements or repositioning certain things or changing the size of elements. So, think of this as like turning a screenshot back into something closer to a Figma or Photoshop project. Now, this actually orchestrates a ton of different AI tools at once. It uses PaddleOCR. In terms of generating the layers, it uses Kwen Image Layered, which I featured on my channel before. And then for detecting and segmenting different elements, it uses Dino and SAM too. Now, according to these benchmarks, it seems like this new redesign even does better than some other image-to-layer generators like Kwen Image Layered. At the top of the page, they've released everything already. So, if you click on this code button and you scroll down a bit here, it contains all the instructions on how to download and run this locally on your computer. And this is actually fairly tiny at less than 4 GB in size. However, at least according to this base code, it also does require, apparently, an OpenAI API key. But you could tweak the code further to swap this out for a local model to run it completely for free. If you're interested in reading further, I'll link to this main page in the description below. Around 2 weeks ago, Moonshot AI released Kimiko 3, which is currently the most powerful open-source model you can use right now. Now, on their release page, they said that the model weights will be released on July 27th. Well, as promised, this week, on July 27th, they released the full Kimiko 3 model on Hugging Face. So, here are some specs. This is a massive 2.8 trillion parameter mixture of experts model, so think of it as like a team of specialists working together at once. And when you use it, only 104 billion of these parameters are active. For the architecture, it uses Kimiko delta attention and attention residuals, which were also designed by them. In fact, if you want to learn more about attention residuals, which is actually a really fascinating breakthrough, see this video to learn more. And also, this has vision capabilities natively baked in. And they used this Moon VIC vision encoder to make it happen. Now, if you click on files and versions, as expected with a 2.8 trillion parameter model, this is like 1.56 terabytes in size. So, you're going to need to stack like multiple enterprise GPUs in order to run this. However, because this is open-source, the community is already really quick to help quantize and compress this further. So, for example, Unsloth released some compressed GGUF versions of Kimiko 3. And the 1-bit version is only like 594 GB. Still massive, but this is a really big drop from like 1.6 terabytes in size. Anyway, if you want to download this or check out the technical details, I will link to this Hugging Face page in the description below. Also this week, AMD releases their very own open-source model called Instella MoE. And this is quite a big deal. You see, Nvidia has basically dominated the AI space because most AI tools are built off of their CUDA platform. It's really hard to train and run AI models on non-CUDA chips. But here, AMD has trained this Instella mixture of experts model from scratch on their AMD Instinct and using the AMD Rockum software stack. First of all, here are some specs of this. So, this has 16 billion total parameters and this is a mixture of experts models. So, think of it as like a team of specialist AIs working together. So, when you use it, only 2.8 billion parameters are active, making it fairly efficient. The cool thing is this reportedly beats other similar-sized models, including Gemma 4E4B and a smaller version of Quen 3.5. The awesome thing is they're not just releasing the final model, they're actually publishing the checkpoints from pre-training, mid-training, and all these subsequent stages, along with the training recipes and the code. It uses what they call a multi-head latent attention to make the attention and memory more efficient. And then they also use something called a far skip collective, which helps overlap communication and computation across GPUs. This is a bit technical, but on this page they document how exactly they did all these stages of training to create the model. And then if you click on this GitHub repo down here, it contains all the instructions on how to download and run this, as well as the training scripts. And then if you click on their hugging face repo, note that the final version after training on reinforcement learning, this is called Think and this is roughly 32 GB in size. So, it's a medium-sized model, similar to Quen 3.6, which should be able to fit on high-end hardware. If you're interested in reading further, I'll link to this main page in the description below. Also this week, one of my favorite image generators, Audiogram, has released a new tool called object remover. And here's how it works. You can simply brush over the object that you want to remove and it'll automatically highlight that object and then remove it for you. It's as simple as that. Here are some other examples for your reference. So, we can select this bike and remove it and notice that it also removes the shadow of the bike. Or here's another really tricky example where I want to remove this plant, but there's also a lamp that's kind of occluded plus some books in front of it. But as you can see, it's able to remove the plant while also preserving the lights and the books. Plus, it also is able to remove the plant's reflection on the floor. And here's another example. Now, at least according to this removal bench, you can see that Ideogram Object Remover has the lowest error rate compared to other models like Nano Banana 2 and GPT Image 2 Medium. So, if you're looking for a free object remover which you can run online, this is a nice option for you to use. You can sign up for free and you get some daily credits to run some generations. If you're interested, I'll link to this in the description below. If you want to supercharge your content creation, definitely check out Higgsfield, the sponsor of this video. Think of it as an all-in-one AI creation platform built specifically for creators. Instead of jumping between a bunch of different tools, Higgsfield gives you access to the world's leading models in one place, including Seed Dance, Kling, and more. And they've just added the ability to generate 4K videos with Seed Dance 2.0, so you can generate ultra-sharp videos with incredible details. They're also going to roll out the best video generator out there, Seed Dance 2.5, very soon, so stay tuned for that. This supports multiple inputs, so you can combine text, images, video, and audio to control the final results more precisely. And using this in Higgsfield makes everything way easier. For example, they have Marketing Studio, which is really useful if you're making marketing content. You can paste a product link or upload a product image, and it can generate multiple ad formats in one workflow, like UGC videos, tutorials, unboxings, product reviews, and more. They also have Cinema Studio, which is built as a full end-to-end filmmaking pipeline. Instead of just typing a prompt and hoping the video looks good, Cinema Studio lets you plan scenes, control the camera, add specific characters, reduce locations, and keep everything consistent across the whole project. From idea to final output, Higgsfield gives you way more control over the whole creative process. Whether you're making ads, social videos, AI influencers, product launches, cinematic clips, or any other content, this is one of the easiest platforms to start creating with AI. Try Hicksfield today using the link in the description below. Also this week, Thinking Machines, which is an AI lab that was started by OpenAI's former CTO, they just released a new open-source model called Inkling Small. Now, last week they released the full Inkling model, which is really good. This is an omnimodal model that can understand text, audio, images, and video. Well, this week they released a smaller version of this, which is roughly a quarter of the size. It's still pretty huge though at 276 billion total parameters, and when you use it, 12 billion of these are active. And its performance is actually really impressive given the cost. So, the red line is Inkling Small. As you can see, it's able to actually achieve, in some cases, even higher performance than the full model, but using less compute. And then here's the performance of Inkling Small across these different benchmarks compared with DeepSeek V4 Flash. Note that this is the older version. They released a new version this week. And then also Gemini 3.5 Flash Lights and GPT-5.6 Luna. So, Inkling Small holds up pretty well, but as you can see, the main advantage of this is it also can take in audio, whereas the other models don't really perform so well in terms of audio capabilities. Now, on Artificial Analysis, you can see that Inkling Small is over here, just 1 point below the full Inkling model, so it is a lot more cost efficient. However, it's still behind some of the other similar-sized open-source models like the latest DeepSeek V4 Flash. So, in terms of intelligence, Inkling Small isn't the best, but I do like its multimodal capabilities, especially if you need an open-source model that can also analyze audio and images, then this would be one of the best options to use. The awesome thing is this is already out. So, if you click on this Hugging Face link, and you scroll down a bit, here it contains all the instructions on how to download this. Note that at over 200 billion parameters, this is still quite huge at 532 GB in size. So, you'll need to stack like multiple DGX sparks in order to run this. If you're interested in reading further, I'll link to this main page in the description below. Also this week, we have a new system for robotics called Prism. This helps robots control their bodies and react to physical contact more effectively. So, what this does is it takes an ordinary robot sensor readings, images, or other instructions and it outputs the movement actions for the robot. And if you compare Prism with other similar algorithms, you can see that Prism has a much higher success rate, whereas the other ones are more likely to fail, especially when manipulating objects. Here are some additional examples for your reference. You see, the problem is that the actions that robot takes shouldn't depend on just one metric alone. It should come from different measurements like force, velocity, contact, friction, joint angle, etc. Well, this algorithm basically looks at all of these combinations of different signals to help the robot make a more informed decision and action. And the results are surprisingly strong. So, you can see across these different metrics, this new Prism algorithm has a much higher success rate and lower error rate. Now, at the top of the page, they've already released the code to this. So, if you scroll down a bit here, it contains all the instructions on how to download and run this yourself. If you're interested in reading further, I'll link to this main page in the description below. Also this week, ByteDance releases what is probably the best video model out there, Seed Dance 2.5. By the way, their previous model, Seed Dance 2, was already the best video model out there. No other generator really comes close to beating it. Well, Seed Dance 2.5 is even better. It's incredibly good at high-action fight scenes and character consistency, as you can see from some of these demos. The nice thing about it is it's multimodal. So, you can input reference videos for it to edit. Here's an example where you can input a simple 3D scene like this and get it to generate a full video that follows the composition. Or you can upload an existing video with a green screen and get SeeDance to turn the scene into something else. It's as easy as that. You can also input a storyboard like this and easily get it to generate a full video that follows all these different shots. My favorite feature is that this can generate videos of up to 30 seconds long. This enables you to do a lot more, whereas the other models can only do around 15 to 20 seconds max. Currently, this can only generate videos of up to 720p, but they are going to release the ability to generate 1080p and 4K resolution videos in the near future. Now, this can take up to 50 reference inputs including audio, images, and video. So, it's incredibly versatile. For example, I can upload all these images and get it to incorporate everything into the video. Now, currently, this is already out for certain countries on various ByteDance platforms like Dreamina, but if you're in the US, it's not available yet. Now, this is one of the most expensive video models to use. For example, a 10-second clip would cost roughly 460 credits, and at least currently in their Illumina platform, you can top up 1,000 credits for 10 bucks. So, 460 credits is roughly $4.60. So, this is much more expensive than MiniMax H3. Also note that API access is not out yet. They're planning to roll this out next week. But, here's the thing. This is the best video model out there, especially for high-action scenes or scenes with tricky physics and motion. This is still way cheaper than filming everything yourself. Now, I'm planning to do a full review video on this very soon, probably tomorrow or the day after that. So, stay tuned. If you're interested in reading further, I'll link to this main page in the description below. Also this week, MiniMax releases their latest model MiniMax H3. By the way, this is the company behind High Law. So, I think now they're just rebranding HighLaw into the MiniMax H series. Now, this is a super powerful and flexible multimodal model, which means you can input text, images, video, and audio to use as references. And this can generate 2K resolution videos, as you can see from this really detailed example. Here's an example where we can input these two images and get it to generate a trailer, and here's the result. >> It was waiting for me. >> Or here's another example where I can input this storyboard plus this logo, and then get it to make an ad for this luxury handbag based on the storyboard and logo. And here's the complete commercial. >> [music] [music] [music] >> Here's an even more impressive example where we can input images of this bold red and blue comic strip effect, and it's able to create a very nice video from this. Now, because this can take a video, you can also input a green screen video like this plus the background which you want to use and easily add that to the scene. Or here's another example with audio. I'm going to input this audio track which was made from the open-source music generator a step >> [music] >> And then I'm going to upload this image of some random K-pop group and also a few reference panels of some text, and let's get it to make an MV from this song. Show these K-pop members from this image singing and dancing to the music. Add coarse grain, glitch effects, grunge effects. Keep the edit fast and use hard cuts only. Cuts should occur within 3 seconds based on the beat of the song. Use the typographic reference from my second image. And here's the result. >> [music] [music] >> Currently, you can try this on their online platform. It allows you to select all these different aspect ratios and up to 2K in resolution, and you can set this up to 15 seconds. Now, if I select 10 seconds, note that it costs 120 credits, and similar to ByteDance, it costs $10 to top up 1,000 credits. So, 120 credits is roughly $1.20, around like three times cheaper than SeeDance 2.5. The really awesome thing is they are actually going to open source this. They'll likely release the model sometime next week, and I'll definitely make a full review and installation tutorial on this once it's out. So, stay tuned for that. I think this is going to be the best open video model For now, if you're interested in trying this out, I will link to this main release page in the description below. Also this week, Google DeepMind releases a really exciting update for robotics. So, they just introduced Gemini Robotics 2. This is a new family of models designed to control a robot from its feet all the way to its fingertips. You see, the previous Gemini Robotics model mainly focused on upper body and table top tasks, but this version can combine walking, balancing, reaching, grasping, and reasoning all in one continuous sequence. For example, you can tell this Apollo 2 humanoid robot to do a certain action, and with this model as the brain, it can understand the instruction, locate the object, walk towards it to pick it up, and then move across the room to reach the target and place the object in the correct location. Now, they've actually released three different models. The main one is Gemini Robotics 2, and this is their vision language action model. So, this turns your natural language instructions and the robot's vision via cameras on its face into physical motor commands, basically into actions that the robot should carry out. And then they also released Gemini Robotics ER2. So, this is a higher-level reasoning system. This is designed to understand the environment, the room, plan tasks, and then it's also designed to correct the failure, and it can also coordinate with multiple robots. And then there's Gemini Robotics on device 2. This is a smaller version that can run locally on a robot without needing to connect to the internet. So, this is a completely offline model. The system also brings much better hand control compared to the previous version. As you can see, it's able to perform a ton of tasks that require a lot of dexterous finger movements like unscrewing a light bulb or tying a trash bag or sealing a Ziploc bag. Now, at the bottom here, you can actually try out Gemini Robotics 2 in AI Studio, and you can also sign up for their trusted tester program. If you're interested in reading further, I'll link to this main page in the description below. Also this week, we have a new video world model called Wonder. And like other world models, this allows you to generate an interactive world which you can explore in real time. Notice that this is just video, but you can press all these keys here to navigate around the scene. As you can see, this works with a variety of different environments and characters. So, here's a more anime digital art example. The quality is not perfect. There's still some noise and inconsistencies around the edges. And then here's an example of another artistic style. And then here are some realistic examples for your reference. Now, the really cool thing is instead of just inputting an image as the starting frame, you can even input a video as you can see in these demos. This will render the same movements as the video, but it allows you to now walk around the scene as if you're viewing the video in 3D. Now, again, this is far from perfect. There's a ton of noise and artifacts with its generations, but this is a pretty cool feature. And then here's another example of a fight scene, but you can like press these keys to change the camera perspective and walk around this scene. Now, at the top of the page, it does say the code and the models are coming soon. Now, this is from Adobe, which haven't really released anything, so hopefully they will stick to their word and release the model to this. For now, if you're interested, I'll link to this main page in the description below. Also this week, Google has added a new voice feature to the Gemini app. Now, currently this is only for Mac OS. Hopefully, they will also release a Windows version in the future. This is basically an AI-powered writing and editing tool. You simply hold down the function key and speak naturally into pretty much any application on your Mac, and it will use Gemini as the transcription model. It transcribes what you say, and it also removes filler words or mistakes or repeats. It also understands when you correct yourself halfway through a sentence. It's also able to help you clean up formatting, add the correct punctuation, etc. And it inserts the text directly where your cursor is located. So, it's very similar to other AI dictation apps like Typeless or Whisper Flow. You can also enable Gemini reasoning, which gives the system permission to perform more complex tasks. For example, you can highlight some documents and ask Gemini to summarize the content. So, I think this is a really useful tool. I hope they roll it out to Windows and mobile platforms as well. For now, if you have a Mac and you're interested in learning more, I'll link to this main release page in the description below. Also this week, we have a new AI called Phi-0. This is a new video world model built around what the authors call physical language. The main idea is that instead of immediately generating the next video frames, you get the model to first reason about how everything should move and change physically. Then it goes through the video generator to actually render those frames. And from that, it's actually very good at predicting what happens next. And so this has a variety of applications. For example, you can use this to generate interactive worlds. It can predict how the scene should move if you press a certain combination of keys. Or you can also use this to create videos for autonomous driving. And the same thing applies for creating videos to train robots. And if you look at its performance on physical coherence and understanding, then you can see that on average it even outperforms other similar world models. Now, at the top of the page they've released a code button to this. And here it says the code is coming soon. So, stay tuned for that. If you're interested in reading further, I'll link to this main page in the description below. And that sums up all the highlights in AI this week. Let me know in the comments what you think of all of this. Which piece of news was your favorite? And which tool are you most looking forward to trying out? As always, I will be on the lookout for the top AI news and tools to share with you. So, if you enjoyed this video, remember to like, share, subscribe, and stay tuned for more content. Also, there's just so much happening in the world of AI every week. I can't possibly cover everything on my YouTube channel. So, to really stay up-to-date with all that's going on in AI, be sure to subscribe to my free weekly newsletter. The link to that will be in the description below. Thanks for watching, and I'll see you in the next one.",
+    "word_count": 5238,
     "error": null
   }
 }

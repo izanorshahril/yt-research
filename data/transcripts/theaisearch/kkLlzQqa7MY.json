@@ -14,10 +14,5423 @@
     "video_id": "kkLlzQqa7MY",
     "has_transcript": true,
     "language": "en",
-    "is_generated": false,
-    "segments": [],
-    "full_text": "HUGE AI NEWS: Boogu Image, GLM 5.2, LTX2 Trainer, Midjourney Medical. \nThanks to our sponsor Higgsfield. Try it today: https://higgsfield.ai/s/seedance-2-0-theaisearch-GfUvtg\n#ai #ainews #aitools #aivideo #agi #singularity\n\nDreamX World https://amap-ml.github.io/DreamX_World/ \nPermaVid https://ys-imtech.github.io/projects/PermaVid/ \nOmniDirector https://ymlinfeng.github.io/OmniDirector.github.io/ \nBoogu Image https://boogu.org/ \nUME https://ume-exo.github.io/ \nLOGOS https://github.com/LOGOS-Hub/LOGOS\nLTX Trainer  https://github.com/Lightricks/LTX-2/tree/main/packages/ltx-trainer\nRecord and replay https://developers.openai.com/codex/record-and-replay\nAI chemist https://openai.com/index/ai-chemist-improves-reaction/\nGLM review: https://youtu.be/6d__WOpZswY \nGLM 5.2 GGUFs https://unsloth.ai/docs/models/glm-5.2 \nTelestyle V2 https://witcherofresearch.github.io/TeleStyleV2/ \nMidjourney Medical https://www.midjourney.com/medical\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n\n00:00 AI news intro\n00:50 DreamX World\n02:31 PermaVid\n03:56 OmniDirector\n05:48 Boogu Image\n08:44 UME\n10:00 LOGOS\n12:02 LTX Trainer \n13:17 Record and replay\n15:50 Table tennis robots\n17:52 AGIbot A3\n18:45 DroidUp Moya\n19:46 AI chemist\n21:47 GLM 5.2 GGUFs\n27:42 Telestyle V2\n29:19 Midjourney Medical",
-    "word_count": 0,
+    "is_generated": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "duration": 7.92,
+        "start_formatted": "00:00",
+        "text": "AI never sleeps and this week has been"
+      },
+      {
+        "start": 3.72,
+        "duration": 6.64,
+        "start_formatted": "00:03",
+        "text": "absolutely insane. Your full body robot"
+      },
+      {
+        "start": 7.92,
+        "duration": 5.32,
+        "start_formatted": "00:07",
+        "text": "waifu is coming soon. The new number one"
+      },
+      {
+        "start": 10.36,
+        "duration": 5.2,
+        "start_formatted": "00:10",
+        "text": "open source model GLM 5.2 takes the"
+      },
+      {
+        "start": 13.24,
+        "duration": 4.52,
+        "start_formatted": "00:13",
+        "text": "industry by storm and now you can even"
+      },
+      {
+        "start": 15.56,
+        "duration": 4.44,
+        "start_formatted": "00:15",
+        "text": "run this locally on high-end consumer"
+      },
+      {
+        "start": 17.76,
+        "duration": 4.8,
+        "start_formatted": "00:17",
+        "text": "devices. We have a new open source image"
+      },
+      {
+        "start": 20.0,
+        "duration": 4.72,
+        "start_formatted": "00:20",
+        "text": "model which can also edit images just"
+      },
+      {
+        "start": 22.56,
+        "duration": 4.12,
+        "start_formatted": "00:22",
+        "text": "like Nano banana. We also have a new"
+      },
+      {
+        "start": 24.72,
+        "duration": 4.08,
+        "start_formatted": "00:24",
+        "text": "open video editor that's super"
+      },
+      {
+        "start": 26.68,
+        "duration": 4.52,
+        "start_formatted": "00:26",
+        "text": "consistent. Midjourney, the image"
+      },
+      {
+        "start": 28.8,
+        "duration": 4.44,
+        "start_formatted": "00:28",
+        "text": "generation company, now turns into a spa"
+      },
+      {
+        "start": 31.2,
+        "duration": 4.28,
+        "start_formatted": "00:31",
+        "text": "hotel. Like seriously, we have an"
+      },
+      {
+        "start": 33.24,
+        "duration": 4.96,
+        "start_formatted": "00:33",
+        "text": "incredibly powerful and open source"
+      },
+      {
+        "start": 35.48,
+        "duration": 5.44,
+        "start_formatted": "00:35",
+        "text": "world generator. Alibaba releases an"
+      },
+      {
+        "start": 38.2,
+        "duration": 4.64,
+        "start_formatted": "00:38",
+        "text": "open unified model for science. It can"
+      },
+      {
+        "start": 40.92,
+        "duration": 4.68,
+        "start_formatted": "00:40",
+        "text": "understand things like proteins, small"
+      },
+      {
+        "start": 42.84,
+        "duration": 4.72,
+        "start_formatted": "00:42",
+        "text": "molecules, chemical reactions and more."
+      },
+      {
+        "start": 45.6,
+        "duration": 4.64,
+        "start_formatted": "00:45",
+        "text": "We have some ridiculous humanoid robot"
+      },
+      {
+        "start": 47.56,
+        "duration": 5.28,
+        "start_formatted": "00:47",
+        "text": "demos and a lot more. So let's jump"
+      },
+      {
+        "start": 50.24,
+        "duration": 5.48,
+        "start_formatted": "00:50",
+        "text": "right in. First up, we have a new world"
+      },
+      {
+        "start": 52.84,
+        "duration": 5.28,
+        "start_formatted": "00:52",
+        "text": "model called DreamXWorld. With just a"
+      },
+      {
+        "start": 55.72,
+        "duration": 5.0,
+        "start_formatted": "00:55",
+        "text": "prompt or reference images, this lets"
+      },
+      {
+        "start": 58.12,
+        "duration": 4.88,
+        "start_formatted": "00:58",
+        "text": "you create a world that can be explored,"
+      },
+      {
+        "start": 60.72,
+        "duration": 4.32,
+        "start_formatted": "01:00",
+        "text": "controlled, and changed with actions or"
+      },
+      {
+        "start": 63.0,
+        "duration": 4.12,
+        "start_formatted": "01:03",
+        "text": "event prompts. Basically, it takes in"
+      },
+      {
+        "start": 65.04,
+        "duration": 4.48,
+        "start_formatted": "01:05",
+        "text": "instructions like movements or camera"
+      },
+      {
+        "start": 67.12,
+        "duration": 4.52,
+        "start_formatted": "01:07",
+        "text": "control or events and outputs this"
+      },
+      {
+        "start": 69.52,
+        "duration": 4.08,
+        "start_formatted": "01:09",
+        "text": "environment which keeps updating and"
+      },
+      {
+        "start": 71.64,
+        "duration": 3.92,
+        "start_formatted": "01:11",
+        "text": "evolving over time. Notice that this is"
+      },
+      {
+        "start": 73.6,
+        "duration": 4.28,
+        "start_formatted": "01:13",
+        "text": "super flexible. This works with a ton of"
+      },
+      {
+        "start": 75.56,
+        "duration": 4.08,
+        "start_formatted": "01:15",
+        "text": "different subjects and environments. For"
+      },
+      {
+        "start": 77.88,
+        "duration": 4.72,
+        "start_formatted": "01:17",
+        "text": "example, you can even add this drone"
+      },
+      {
+        "start": 79.64,
+        "duration": 5.32,
+        "start_formatted": "01:19",
+        "text": "here or ride a motorcycle like this or"
+      },
+      {
+        "start": 82.6,
+        "duration": 4.72,
+        "start_formatted": "01:22",
+        "text": "drive a car or do a variety of different"
+      },
+      {
+        "start": 84.96,
+        "duration": 4.4,
+        "start_formatted": "01:24",
+        "text": "stuff. Now, what's interesting is that"
+      },
+      {
+        "start": 87.32,
+        "duration": 4.0,
+        "start_formatted": "01:27",
+        "text": "it's trained on a mix of Unreal Engine"
+      },
+      {
+        "start": 89.36,
+        "duration": 4.2,
+        "start_formatted": "01:29",
+        "text": "and gameplay data as well as real world"
+      },
+      {
+        "start": 91.32,
+        "duration": 4.68,
+        "start_formatted": "01:31",
+        "text": "videos. So it learns both realistic"
+      },
+      {
+        "start": 93.56,
+        "duration": 4.76,
+        "start_formatted": "01:33",
+        "text": "movement and more game-like interaction."
+      },
+      {
+        "start": 96.0,
+        "duration": 4.48,
+        "start_formatted": "01:36",
+        "text": "It can generate really long videos over"
+      },
+      {
+        "start": 98.32,
+        "duration": 4.56,
+        "start_formatted": "01:38",
+        "text": "hundreds of frames with persistent"
+      },
+      {
+        "start": 100.48,
+        "duration": 4.6,
+        "start_formatted": "01:40",
+        "text": "memory. So even if you look away and you"
+      },
+      {
+        "start": 102.88,
+        "duration": 3.68,
+        "start_formatted": "01:42",
+        "text": "look back, the scene remains consistent"
+      },
+      {
+        "start": 105.08,
+        "duration": 3.8,
+        "start_formatted": "01:45",
+        "text": "the whole time. Especially if you"
+      },
+      {
+        "start": 106.56,
+        "duration": 5.24,
+        "start_formatted": "01:46",
+        "text": "compare this with other similar models"
+      },
+      {
+        "start": 108.88,
+        "duration": 5.56,
+        "start_formatted": "01:48",
+        "text": "like Ling Bot World or HY World Play,"
+      },
+      {
+        "start": 111.8,
+        "duration": 4.52,
+        "start_formatted": "01:51",
+        "text": "then as you can see DreamXWorld is even"
+      },
+      {
+        "start": 114.44,
+        "duration": 4.08,
+        "start_formatted": "01:54",
+        "text": "more consistent. The awesome thing is"
+      },
+      {
+        "start": 116.32,
+        "duration": 3.64,
+        "start_formatted": "01:56",
+        "text": "they released this already. So if you"
+      },
+      {
+        "start": 118.52,
+        "duration": 3.32,
+        "start_formatted": "01:58",
+        "text": "scroll up to the top and you click on"
+      },
+      {
+        "start": 119.96,
+        "duration": 3.32,
+        "start_formatted": "01:59",
+        "text": "this code button and you scroll down a"
+      },
+      {
+        "start": 121.84,
+        "duration": 3.76,
+        "start_formatted": "02:01",
+        "text": "bit, here it contains all the"
+      },
+      {
+        "start": 123.28,
+        "duration": 4.88,
+        "start_formatted": "02:03",
+        "text": "instructions on how to download and run"
+      },
+      {
+        "start": 125.6,
+        "duration": 5.36,
+        "start_formatted": "02:05",
+        "text": "this locally on your computer. Note that"
+      },
+      {
+        "start": 128.16,
+        "duration": 4.84,
+        "start_formatted": "02:08",
+        "text": "this is based off of 12.2. There's a"
+      },
+      {
+        "start": 130.96,
+        "duration": 3.76,
+        "start_formatted": "02:10",
+        "text": "smaller 5 billion parameter version,"
+      },
+      {
+        "start": 133.0,
+        "duration": 3.48,
+        "start_formatted": "02:13",
+        "text": "which is what they released now, but"
+      },
+      {
+        "start": 134.72,
+        "duration": 4.32,
+        "start_formatted": "02:14",
+        "text": "they're also planning to release a"
+      },
+      {
+        "start": 136.48,
+        "duration": 4.72,
+        "start_formatted": "02:16",
+        "text": "larger and better quality 14B version in"
+      },
+      {
+        "start": 139.04,
+        "duration": 5.48,
+        "start_formatted": "02:19",
+        "text": "the future. Currently, this 5B version"
+      },
+      {
+        "start": 141.2,
+        "duration": 4.8,
+        "start_formatted": "02:21",
+        "text": "is fairly tiny at like 21 GB in size, so"
+      },
+      {
+        "start": 144.52,
+        "duration": 3.88,
+        "start_formatted": "02:24",
+        "text": "you should be able to fit this on both"
+      },
+      {
+        "start": 146.0,
+        "duration": 4.16,
+        "start_formatted": "02:26",
+        "text": "consumer devices. If you're interested"
+      },
+      {
+        "start": 148.4,
+        "duration": 4.12,
+        "start_formatted": "02:28",
+        "text": "in reading further, I'll link to this"
+      },
+      {
+        "start": 150.16,
+        "duration": 4.08,
+        "start_formatted": "02:30",
+        "text": "main page in the description below. Also"
+      },
+      {
+        "start": 152.52,
+        "duration": 4.12,
+        "start_formatted": "02:32",
+        "text": "this week, we have a new AI called"
+      },
+      {
+        "start": 154.24,
+        "duration": 4.92,
+        "start_formatted": "02:34",
+        "text": "Permavid. This is focused on one of the"
+      },
+      {
+        "start": 156.64,
+        "duration": 4.52,
+        "start_formatted": "02:36",
+        "text": "biggest problems in AI video editing,"
+      },
+      {
+        "start": 159.16,
+        "duration": 4.68,
+        "start_formatted": "02:39",
+        "text": "which is consistency. Right now, when"
+      },
+      {
+        "start": 161.16,
+        "duration": 4.92,
+        "start_formatted": "02:41",
+        "text": "you edit a generated video, for example,"
+      },
+      {
+        "start": 163.84,
+        "duration": 4.6,
+        "start_formatted": "02:43",
+        "text": "adding an object or replacing an object"
+      },
+      {
+        "start": 166.08,
+        "duration": 5.04,
+        "start_formatted": "02:46",
+        "text": "or changing the style of the video, the"
+      },
+      {
+        "start": 168.44,
+        "duration": 4.44,
+        "start_formatted": "02:48",
+        "text": "model often forgets the change later on."
+      },
+      {
+        "start": 171.12,
+        "duration": 3.88,
+        "start_formatted": "02:51",
+        "text": "So, it doesn't really have nice"
+      },
+      {
+        "start": 172.88,
+        "duration": 4.44,
+        "start_formatted": "02:52",
+        "text": "persistent memory, and its edits are not"
+      },
+      {
+        "start": 175.0,
+        "duration": 4.44,
+        "start_formatted": "02:55",
+        "text": "really consistent. But, Permavid tries"
+      },
+      {
+        "start": 177.32,
+        "duration": 4.68,
+        "start_formatted": "02:57",
+        "text": "to fix this by giving the video a better"
+      },
+      {
+        "start": 179.44,
+        "duration": 5.079,
+        "start_formatted": "02:59",
+        "text": "memory system. Think of it like two"
+      },
+      {
+        "start": 182.0,
+        "duration": 4.04,
+        "start_formatted": "03:02",
+        "text": "separate memory banks. One remembers"
+      },
+      {
+        "start": 184.519,
+        "duration": 3.561,
+        "start_formatted": "03:04",
+        "text": "what things look like, and the other"
+      },
+      {
+        "start": 186.04,
+        "duration": 4.199,
+        "start_formatted": "03:06",
+        "text": "remembers the 3D structure behind the"
+      },
+      {
+        "start": 188.08,
+        "duration": 4.0,
+        "start_formatted": "03:08",
+        "text": "scene. So, if you make a global edit"
+      },
+      {
+        "start": 190.239,
+        "duration": 4.441,
+        "start_formatted": "03:10",
+        "text": "like changing the whole style, it can"
+      },
+      {
+        "start": 192.08,
+        "duration": 4.52,
+        "start_formatted": "03:12",
+        "text": "keep the geometry stable while carrying"
+      },
+      {
+        "start": 194.68,
+        "duration": 4.16,
+        "start_formatted": "03:14",
+        "text": "the new look forward. And if you make a"
+      },
+      {
+        "start": 196.6,
+        "duration": 3.88,
+        "start_formatted": "03:16",
+        "text": "local edit like changing an object, it"
+      },
+      {
+        "start": 198.84,
+        "duration": 3.56,
+        "start_formatted": "03:18",
+        "text": "can remember that object while keeping"
+      },
+      {
+        "start": 200.48,
+        "duration": 3.56,
+        "start_formatted": "03:20",
+        "text": "the rest of the scene untouched. In"
+      },
+      {
+        "start": 202.4,
+        "duration": 3.559,
+        "start_formatted": "03:22",
+        "text": "other words, it separates appearance"
+      },
+      {
+        "start": 204.04,
+        "duration": 4.52,
+        "start_formatted": "03:24",
+        "text": "from structure, which makes long video"
+      },
+      {
+        "start": 205.959,
+        "duration": 4.201,
+        "start_formatted": "03:25",
+        "text": "edits much more stable over time. Now,"
+      },
+      {
+        "start": 208.56,
+        "duration": 3.32,
+        "start_formatted": "03:28",
+        "text": "at the top of the page, there's a code"
+      },
+      {
+        "start": 210.16,
+        "duration": 3.4,
+        "start_formatted": "03:30",
+        "text": "button, so if you click on this and you"
+      },
+      {
+        "start": 211.88,
+        "duration": 4.0,
+        "start_formatted": "03:31",
+        "text": "scroll down a bit, it contains all the"
+      },
+      {
+        "start": 213.56,
+        "duration": 4.6,
+        "start_formatted": "03:33",
+        "text": "instructions on how to download and run"
+      },
+      {
+        "start": 215.88,
+        "duration": 5.2,
+        "start_formatted": "03:35",
+        "text": "this locally on your computer. Note that"
+      },
+      {
+        "start": 218.16,
+        "duration": 5.4,
+        "start_formatted": "03:38",
+        "text": "this is 29 GB in size, and this uses"
+      },
+      {
+        "start": 221.08,
+        "duration": 3.92,
+        "start_formatted": "03:41",
+        "text": "12.1 and Vace as the base video"
+      },
+      {
+        "start": 223.56,
+        "duration": 4.24,
+        "start_formatted": "03:43",
+        "text": "generator. So, you'll need a high-end"
+      },
+      {
+        "start": 225.0,
+        "duration": 4.959,
+        "start_formatted": "03:45",
+        "text": "GPU to be able to fit everything. Plus,"
+      },
+      {
+        "start": 227.8,
+        "duration": 4.88,
+        "start_formatted": "03:47",
+        "text": "they also released the data set to this,"
+      },
+      {
+        "start": 229.959,
+        "duration": 4.441,
+        "start_formatted": "03:49",
+        "text": "which is like over 400 GB. If you're"
+      },
+      {
+        "start": 232.68,
+        "duration": 3.64,
+        "start_formatted": "03:52",
+        "text": "interested in reading further, I'll link"
+      },
+      {
+        "start": 234.4,
+        "duration": 4.32,
+        "start_formatted": "03:54",
+        "text": "to this main page in the description"
+      },
+      {
+        "start": 236.32,
+        "duration": 5.2,
+        "start_formatted": "03:56",
+        "text": "below. Also this week, we have a new AI"
+      },
+      {
+        "start": 238.72,
+        "duration": 5.32,
+        "start_formatted": "03:58",
+        "text": "from Kling called Omni Director. This is"
+      },
+      {
+        "start": 241.52,
+        "duration": 5.0,
+        "start_formatted": "04:01",
+        "text": "a system that allows you to clone the"
+      },
+      {
+        "start": 244.04,
+        "duration": 4.8,
+        "start_formatted": "04:04",
+        "text": "camera motion of a video onto another"
+      },
+      {
+        "start": 246.52,
+        "duration": 4.2,
+        "start_formatted": "04:06",
+        "text": "video. So here are some examples of this"
+      },
+      {
+        "start": 248.84,
+        "duration": 4.24,
+        "start_formatted": "04:08",
+        "text": "in action. This is really important"
+      },
+      {
+        "start": 250.72,
+        "duration": 4.56,
+        "start_formatted": "04:10",
+        "text": "because instead of just describing the"
+      },
+      {
+        "start": 253.08,
+        "duration": 4.96,
+        "start_formatted": "04:13",
+        "text": "camera movement with a text prompt like"
+      },
+      {
+        "start": 255.28,
+        "duration": 5.519,
+        "start_formatted": "04:15",
+        "text": "pan left or zoom in, instead you can now"
+      },
+      {
+        "start": 258.04,
+        "duration": 4.8,
+        "start_formatted": "04:18",
+        "text": "give it a reference video and it learns"
+      },
+      {
+        "start": 260.799,
+        "duration": 4.441,
+        "start_formatted": "04:20",
+        "text": "the camera behavior from that video."
+      },
+      {
+        "start": 262.84,
+        "duration": 5.36,
+        "start_formatted": "04:22",
+        "text": "Then it uses that to animate a new"
+      },
+      {
+        "start": 265.24,
+        "duration": 4.84,
+        "start_formatted": "04:25",
+        "text": "source image. So basically, the input is"
+      },
+      {
+        "start": 268.2,
+        "duration": 4.0,
+        "start_formatted": "04:28",
+        "text": "a reference video with camera motion"
+      },
+      {
+        "start": 270.08,
+        "duration": 4.8,
+        "start_formatted": "04:30",
+        "text": "plus a new image and it would generate a"
+      },
+      {
+        "start": 272.2,
+        "duration": 4.719,
+        "start_formatted": "04:32",
+        "text": "new video from that new image based on"
+      },
+      {
+        "start": 274.88,
+        "duration": 4.36,
+        "start_formatted": "04:34",
+        "text": "the camera movement. What's really cool"
+      },
+      {
+        "start": 276.919,
+        "duration": 5.161,
+        "start_formatted": "04:36",
+        "text": "is that it supports much more than just"
+      },
+      {
+        "start": 279.24,
+        "duration": 5.12,
+        "start_formatted": "04:39",
+        "text": "simple pans and tilts. It can also do"
+      },
+      {
+        "start": 282.08,
+        "duration": 4.64,
+        "start_formatted": "04:42",
+        "text": "quite dramatic aerial moves and diving"
+      },
+      {
+        "start": 284.36,
+        "duration": 5.0,
+        "start_formatted": "04:44",
+        "text": "motions, multi-shot sequences, and"
+      },
+      {
+        "start": 286.72,
+        "duration": 4.08,
+        "start_formatted": "04:46",
+        "text": "coherent transitions. For example, here"
+      },
+      {
+        "start": 289.36,
+        "duration": 3.52,
+        "start_formatted": "04:49",
+        "text": "notice that the reference video on the"
+      },
+      {
+        "start": 290.8,
+        "duration": 4.4,
+        "start_formatted": "04:50",
+        "text": "left is made of two different shots."
+      },
+      {
+        "start": 292.88,
+        "duration": 4.24,
+        "start_formatted": "04:52",
+        "text": "It's able to apply the same cut on the"
+      },
+      {
+        "start": 295.2,
+        "duration": 3.56,
+        "start_formatted": "04:55",
+        "text": "reference video. Here's another example"
+      },
+      {
+        "start": 297.12,
+        "duration": 4.36,
+        "start_formatted": "04:57",
+        "text": "where for the reference video, we have a"
+      },
+      {
+        "start": 298.76,
+        "duration": 4.96,
+        "start_formatted": "04:58",
+        "text": "third-person shot of the biker and then"
+      },
+      {
+        "start": 301.48,
+        "duration": 4.4,
+        "start_formatted": "05:01",
+        "text": "a first-person view of the biker. Well,"
+      },
+      {
+        "start": 303.72,
+        "duration": 4.4,
+        "start_formatted": "05:03",
+        "text": "it's able to apply the same thing to"
+      },
+      {
+        "start": 305.88,
+        "duration": 4.32,
+        "start_formatted": "05:05",
+        "text": "this eagle flying in the sky. And it's"
+      },
+      {
+        "start": 308.12,
+        "duration": 4.2,
+        "start_formatted": "05:08",
+        "text": "also able to separate this clip into"
+      },
+      {
+        "start": 310.2,
+        "duration": 4.32,
+        "start_formatted": "05:10",
+        "text": "multiple shots just like the reference"
+      },
+      {
+        "start": 312.32,
+        "duration": 4.52,
+        "start_formatted": "05:12",
+        "text": "video. Or here's another example where"
+      },
+      {
+        "start": 314.52,
+        "duration": 4.8,
+        "start_formatted": "05:14",
+        "text": "we can apply the exact camera movements"
+      },
+      {
+        "start": 316.84,
+        "duration": 4.92,
+        "start_formatted": "05:16",
+        "text": "from an ad onto a completely different"
+      },
+      {
+        "start": 319.32,
+        "duration": 4.36,
+        "start_formatted": "05:19",
+        "text": "video. The really cool thing is that"
+      },
+      {
+        "start": 321.76,
+        "duration": 4.2,
+        "start_formatted": "05:21",
+        "text": "this can even handle special techniques"
+      },
+      {
+        "start": 323.68,
+        "duration": 4.2,
+        "start_formatted": "05:23",
+        "text": "like dolly zooms or bullet time effects"
+      },
+      {
+        "start": 325.96,
+        "duration": 3.959,
+        "start_formatted": "05:25",
+        "text": "or lens distortions. So here's a bullet"
+      },
+      {
+        "start": 327.88,
+        "duration": 4.0,
+        "start_formatted": "05:27",
+        "text": "time effect and then here's a dolly zoom"
+      },
+      {
+        "start": 329.919,
+        "duration": 3.721,
+        "start_formatted": "05:29",
+        "text": "effect and here's some really wide fish"
+      },
+      {
+        "start": 331.88,
+        "duration": 4.0,
+        "start_formatted": "05:31",
+        "text": "eye distortion. It's able to understand"
+      },
+      {
+        "start": 333.64,
+        "duration": 4.04,
+        "start_formatted": "05:33",
+        "text": "this and apply it to the new video. Now"
+      },
+      {
+        "start": 335.88,
+        "duration": 3.52,
+        "start_formatted": "05:35",
+        "text": "at the top, they have released a code"
+      },
+      {
+        "start": 337.68,
+        "duration": 3.32,
+        "start_formatted": "05:37",
+        "text": "button, but currently they haven't"
+      },
+      {
+        "start": 339.4,
+        "duration": 3.519,
+        "start_formatted": "05:39",
+        "text": "released any code or models yet."
+      },
+      {
+        "start": 341.0,
+        "duration": 3.6,
+        "start_formatted": "05:41",
+        "text": "Hopefully they will open source this."
+      },
+      {
+        "start": 342.919,
+        "duration": 3.841,
+        "start_formatted": "05:42",
+        "text": "For now, if you're interested in reading"
+      },
+      {
+        "start": 344.6,
+        "duration": 4.44,
+        "start_formatted": "05:44",
+        "text": "further, I'll link to this main page in"
+      },
+      {
+        "start": 346.76,
+        "duration": 5.16,
+        "start_formatted": "05:46",
+        "text": "the description below. Also this week we"
+      },
+      {
+        "start": 349.04,
+        "duration": 5.24,
+        "start_formatted": "05:49",
+        "text": "have a very performant open source image"
+      },
+      {
+        "start": 351.92,
+        "duration": 4.92,
+        "start_formatted": "05:51",
+        "text": "generator and editor called Boo Goo"
+      },
+      {
+        "start": 354.28,
+        "duration": 5.12,
+        "start_formatted": "05:54",
+        "text": "Image. What a crazy name by the way. So"
+      },
+      {
+        "start": 356.84,
+        "duration": 5.48,
+        "start_formatted": "05:56",
+        "text": "this is an image model just like Nano"
+      },
+      {
+        "start": 359.4,
+        "duration": 5.04,
+        "start_formatted": "05:59",
+        "text": "Banana or GPT Image. Not only can this"
+      },
+      {
+        "start": 362.32,
+        "duration": 4.04,
+        "start_formatted": "06:02",
+        "text": "generate images using a text prompt, but"
+      },
+      {
+        "start": 364.44,
+        "duration": 3.8,
+        "start_formatted": "06:04",
+        "text": "this can also take in reference images"
+      },
+      {
+        "start": 366.36,
+        "duration": 3.6,
+        "start_formatted": "06:06",
+        "text": "and edit images. So here are some"
+      },
+      {
+        "start": 368.24,
+        "duration": 4.08,
+        "start_formatted": "06:08",
+        "text": "examples. You can see it's able to"
+      },
+      {
+        "start": 369.96,
+        "duration": 4.64,
+        "start_formatted": "06:09",
+        "text": "generate really photorealistic images"
+      },
+      {
+        "start": 372.32,
+        "duration": 4.4,
+        "start_formatted": "06:12",
+        "text": "like this. And it's also great at"
+      },
+      {
+        "start": 374.6,
+        "duration": 4.04,
+        "start_formatted": "06:14",
+        "text": "generating text and infographics and"
+      },
+      {
+        "start": 376.72,
+        "duration": 4.28,
+        "start_formatted": "06:16",
+        "text": "posters. So you can feed it a ton of"
+      },
+      {
+        "start": 378.64,
+        "duration": 4.68,
+        "start_formatted": "06:18",
+        "text": "instructions and text in your prompt and"
+      },
+      {
+        "start": 381.0,
+        "duration": 4.08,
+        "start_formatted": "06:21",
+        "text": "it's able to handle and generate all of"
+      },
+      {
+        "start": 383.32,
+        "duration": 3.48,
+        "start_formatted": "06:23",
+        "text": "these different components. Here are"
+      },
+      {
+        "start": 385.08,
+        "duration": 3.68,
+        "start_formatted": "06:25",
+        "text": "some additional examples for your"
+      },
+      {
+        "start": 386.8,
+        "duration": 4.28,
+        "start_formatted": "06:26",
+        "text": "reference. And it's also pretty good at"
+      },
+      {
+        "start": 388.76,
+        "duration": 4.76,
+        "start_formatted": "06:28",
+        "text": "handling anatomy. It has a really good"
+      },
+      {
+        "start": 391.08,
+        "duration": 5.24,
+        "start_formatted": "06:31",
+        "text": "world understanding of like different"
+      },
+      {
+        "start": 393.52,
+        "duration": 5.12,
+        "start_formatted": "06:33",
+        "text": "company logos or celebrities or even"
+      },
+      {
+        "start": 396.32,
+        "duration": 4.12,
+        "start_formatted": "06:36",
+        "text": "existing interfaces like Instagram or"
+      },
+      {
+        "start": 398.64,
+        "duration": 3.52,
+        "start_formatted": "06:38",
+        "text": "TikTok. So for example, you could get it"
+      },
+      {
+        "start": 400.44,
+        "duration": 4.08,
+        "start_formatted": "06:40",
+        "text": "to generate an Instagram profile"
+      },
+      {
+        "start": 402.16,
+        "duration": 4.08,
+        "start_formatted": "06:42",
+        "text": "screenshot like this. Pretty impressive."
+      },
+      {
+        "start": 404.52,
+        "duration": 3.48,
+        "start_formatted": "06:44",
+        "text": "Here if you look at their leaderboard"
+      },
+      {
+        "start": 406.24,
+        "duration": 4.08,
+        "start_formatted": "06:46",
+        "text": "called Boo Goo Arena, then here they"
+      },
+      {
+        "start": 408.0,
+        "duration": 4.32,
+        "start_formatted": "06:48",
+        "text": "claim that it does outperform existing"
+      },
+      {
+        "start": 410.32,
+        "duration": 4.28,
+        "start_formatted": "06:50",
+        "text": "open source image generators like Z"
+      },
+      {
+        "start": 412.32,
+        "duration": 4.84,
+        "start_formatted": "06:52",
+        "text": "Image or Kwan or Hi Dream. Same with"
+      },
+      {
+        "start": 414.6,
+        "duration": 4.64,
+        "start_formatted": "06:54",
+        "text": "image editing. So here they claim that"
+      },
+      {
+        "start": 417.16,
+        "duration": 4.96,
+        "start_formatted": "06:57",
+        "text": "it's even better than other image"
+      },
+      {
+        "start": 419.24,
+        "duration": 5.12,
+        "start_formatted": "06:59",
+        "text": "editors like Kwan Image Edit or Long Cat"
+      },
+      {
+        "start": 422.12,
+        "duration": 4.64,
+        "start_formatted": "07:02",
+        "text": "Image Edit. Although they didn't include"
+      },
+      {
+        "start": 424.36,
+        "duration": 4.96,
+        "start_formatted": "07:04",
+        "text": "Flux Client on this list. Now for my"
+      },
+      {
+        "start": 426.76,
+        "duration": 4.64,
+        "start_formatted": "07:06",
+        "text": "initial test, I actually did not find it"
+      },
+      {
+        "start": 429.32,
+        "duration": 4.36,
+        "start_formatted": "07:09",
+        "text": "as good as Z Image for photorealistic"
+      },
+      {
+        "start": 431.4,
+        "duration": 4.48,
+        "start_formatted": "07:11",
+        "text": "stuff. And it's not as good as Flux"
+      },
+      {
+        "start": 433.68,
+        "duration": 4.32,
+        "start_formatted": "07:13",
+        "text": "Client in terms of photo editing. Plus"
+      },
+      {
+        "start": 435.88,
+        "duration": 4.36,
+        "start_formatted": "07:15",
+        "text": "this does tend to generate slower than"
+      },
+      {
+        "start": 438.0,
+        "duration": 3.84,
+        "start_formatted": "07:18",
+        "text": "Flux. So that's why I'm on the fence of"
+      },
+      {
+        "start": 440.24,
+        "duration": 4.16,
+        "start_formatted": "07:20",
+        "text": "doing a full tutorial on it. I don't"
+      },
+      {
+        "start": 441.84,
+        "duration": 4.76,
+        "start_formatted": "07:21",
+        "text": "think the quality is as good as the best"
+      },
+      {
+        "start": 444.4,
+        "duration": 3.68,
+        "start_formatted": "07:24",
+        "text": "open image models out there right now."
+      },
+      {
+        "start": 446.6,
+        "duration": 3.36,
+        "start_formatted": "07:26",
+        "text": "If you scroll up to the top of the page,"
+      },
+      {
+        "start": 448.08,
+        "duration": 3.6,
+        "start_formatted": "07:28",
+        "text": "they have released a GitHub to this. So"
+      },
+      {
+        "start": 449.96,
+        "duration": 3.68,
+        "start_formatted": "07:29",
+        "text": "if you click on this button and you"
+      },
+      {
+        "start": 451.68,
+        "duration": 3.88,
+        "start_formatted": "07:31",
+        "text": "scroll down here, it contains all the"
+      },
+      {
+        "start": 453.64,
+        "duration": 4.32,
+        "start_formatted": "07:33",
+        "text": "instructions on how to download and run"
+      },
+      {
+        "start": 455.56,
+        "duration": 5.2,
+        "start_formatted": "07:35",
+        "text": "this locally on your computer. Plus"
+      },
+      {
+        "start": 457.96,
+        "duration": 5.04,
+        "start_formatted": "07:37",
+        "text": "support for ComfyUI is already here. The"
+      },
+      {
+        "start": 460.76,
+        "duration": 4.08,
+        "start_formatted": "07:40",
+        "text": "really awesome thing about this is it's"
+      },
+      {
+        "start": 463.0,
+        "duration": 3.68,
+        "start_formatted": "07:43",
+        "text": "under the Apache 2 license, which has"
+      },
+      {
+        "start": 464.84,
+        "duration": 3.68,
+        "start_formatted": "07:44",
+        "text": "very minimal restrictions. You can even"
+      },
+      {
+        "start": 466.68,
+        "duration": 4.12,
+        "start_formatted": "07:46",
+        "text": "use this for commercial purposes."
+      },
+      {
+        "start": 468.52,
+        "duration": 4.36,
+        "start_formatted": "07:48",
+        "text": "Whereas the best open image generator"
+      },
+      {
+        "start": 470.8,
+        "duration": 4.44,
+        "start_formatted": "07:50",
+        "text": "out there, Audiogram 4, has a quite"
+      },
+      {
+        "start": 472.88,
+        "duration": 4.36,
+        "start_formatted": "07:52",
+        "text": "restrictive non-commercial license. Same"
+      },
+      {
+        "start": 475.24,
+        "duration": 4.84,
+        "start_formatted": "07:55",
+        "text": "with the best open image editor out"
+      },
+      {
+        "start": 477.24,
+        "duration": 4.84,
+        "start_formatted": "07:57",
+        "text": "there, Flux Klein, it's also, I believe,"
+      },
+      {
+        "start": 480.08,
+        "duration": 3.88,
+        "start_formatted": "08:00",
+        "text": "under their own Flux license. So, this"
+      },
+      {
+        "start": 482.08,
+        "duration": 3.48,
+        "start_formatted": "08:02",
+        "text": "new Boogoo model is much more"
+      },
+      {
+        "start": 483.96,
+        "duration": 3.04,
+        "start_formatted": "08:03",
+        "text": "permissive. Note that there are two"
+      },
+      {
+        "start": 485.56,
+        "duration": 3.12,
+        "start_formatted": "08:05",
+        "text": "different types of models. There's a"
+      },
+      {
+        "start": 487.0,
+        "duration": 3.4,
+        "start_formatted": "08:07",
+        "text": "base model, which is just like"
+      },
+      {
+        "start": 488.68,
+        "duration": 4.239,
+        "start_formatted": "08:08",
+        "text": "text-to-image, and then there's an edit"
+      },
+      {
+        "start": 490.4,
+        "duration": 5.16,
+        "start_formatted": "08:10",
+        "text": "model, which is for editing images. Now,"
+      },
+      {
+        "start": 492.919,
+        "duration": 5.361,
+        "start_formatted": "08:12",
+        "text": "the full base model is 20 GB in size."
+      },
+      {
+        "start": 495.56,
+        "duration": 4.96,
+        "start_formatted": "08:15",
+        "text": "The FP8 version is a bit smaller at 10"
+      },
+      {
+        "start": 498.28,
+        "duration": 3.96,
+        "start_formatted": "08:18",
+        "text": "GB. They also have a turbo version,"
+      },
+      {
+        "start": 500.52,
+        "duration": 3.92,
+        "start_formatted": "08:20",
+        "text": "which allows you to generate images a"
+      },
+      {
+        "start": 502.24,
+        "duration": 4.28,
+        "start_formatted": "08:22",
+        "text": "lot faster at only four steps, but at"
+      },
+      {
+        "start": 504.44,
+        "duration": 3.76,
+        "start_formatted": "08:24",
+        "text": "the sacrifice of some quality. And then,"
+      },
+      {
+        "start": 506.52,
+        "duration": 3.48,
+        "start_formatted": "08:26",
+        "text": "in terms of image edit, they don't have"
+      },
+      {
+        "start": 508.2,
+        "duration": 4.959,
+        "start_formatted": "08:28",
+        "text": "a turbo version, they only have the full"
+      },
+      {
+        "start": 510.0,
+        "duration": 5.4,
+        "start_formatted": "08:30",
+        "text": "model, which is also 20 GB in size, and"
+      },
+      {
+        "start": 513.159,
+        "duration": 4.641,
+        "start_formatted": "08:33",
+        "text": "a compressed FP8 version, which is"
+      },
+      {
+        "start": 515.4,
+        "duration": 5.12,
+        "start_formatted": "08:35",
+        "text": "roughly 10 GB. You should be able to fit"
+      },
+      {
+        "start": 517.8,
+        "duration": 4.239,
+        "start_formatted": "08:37",
+        "text": "this on like medium-to-high-end GPUs. If"
+      },
+      {
+        "start": 520.52,
+        "duration": 3.28,
+        "start_formatted": "08:40",
+        "text": "you're interested in reading further,"
+      },
+      {
+        "start": 522.039,
+        "duration": 3.921,
+        "start_formatted": "08:42",
+        "text": "I'll link to this main page in the"
+      },
+      {
+        "start": 523.8,
+        "duration": 3.88,
+        "start_formatted": "08:43",
+        "text": "description below. Also this week, we"
+      },
+      {
+        "start": 525.96,
+        "duration": 4.32,
+        "start_formatted": "08:45",
+        "text": "have something called Universal"
+      },
+      {
+        "start": 527.68,
+        "duration": 5.6,
+        "start_formatted": "08:47",
+        "text": "Manipulation Exoskeleton built by"
+      },
+      {
+        "start": 530.28,
+        "duration": 5.559,
+        "start_formatted": "08:50",
+        "text": "Alibaba's Ant Group. As you can see from"
+      },
+      {
+        "start": 533.28,
+        "duration": 4.76,
+        "start_formatted": "08:53",
+        "text": "this video, this is a wearable robot"
+      },
+      {
+        "start": 535.839,
+        "duration": 4.481,
+        "start_formatted": "08:55",
+        "text": "control system for teaching robots how"
+      },
+      {
+        "start": 538.04,
+        "duration": 5.2,
+        "start_formatted": "08:58",
+        "text": "to move and handle real-world physical"
+      },
+      {
+        "start": 540.32,
+        "duration": 5.2,
+        "start_formatted": "09:00",
+        "text": "tasks. So, the human would wear this"
+      },
+      {
+        "start": 543.24,
+        "duration": 4.16,
+        "start_formatted": "09:03",
+        "text": "upper body exoskeleton, and this allows"
+      },
+      {
+        "start": 545.52,
+        "duration": 4.28,
+        "start_formatted": "09:05",
+        "text": "it to control a robot by cloning their"
+      },
+      {
+        "start": 547.4,
+        "duration": 5.04,
+        "start_formatted": "09:07",
+        "text": "exact movements. The system records both"
+      },
+      {
+        "start": 549.8,
+        "duration": 4.4,
+        "start_formatted": "09:09",
+        "text": "the arm motion and also the force or"
+      },
+      {
+        "start": 552.44,
+        "duration": 3.88,
+        "start_formatted": "09:12",
+        "text": "torque feedback. So, it doesn't just"
+      },
+      {
+        "start": 554.2,
+        "duration": 4.56,
+        "start_formatted": "09:14",
+        "text": "capture where or how the human moves,"
+      },
+      {
+        "start": 556.32,
+        "duration": 4.12,
+        "start_formatted": "09:16",
+        "text": "but also what the human feels when"
+      },
+      {
+        "start": 558.76,
+        "duration": 3.6,
+        "start_formatted": "09:18",
+        "text": "touching, pushing, pulling, or"
+      },
+      {
+        "start": 560.44,
+        "duration": 3.72,
+        "start_formatted": "09:20",
+        "text": "manipulating objects. And this is"
+      },
+      {
+        "start": 562.36,
+        "duration": 3.76,
+        "start_formatted": "09:22",
+        "text": "important because, especially with"
+      },
+      {
+        "start": 564.16,
+        "duration": 4.16,
+        "start_formatted": "09:24",
+        "text": "household robots, they need to deal with"
+      },
+      {
+        "start": 566.12,
+        "duration": 5.08,
+        "start_formatted": "09:26",
+        "text": "contact. They need to understand when"
+      },
+      {
+        "start": 568.32,
+        "duration": 4.76,
+        "start_formatted": "09:28",
+        "text": "something is stuck or heavy or blocked"
+      },
+      {
+        "start": 571.2,
+        "duration": 3.76,
+        "start_formatted": "09:31",
+        "text": "or hidden from view. So, these demos are"
+      },
+      {
+        "start": 573.08,
+        "duration": 4.08,
+        "start_formatted": "09:33",
+        "text": "very hands-on. So, with this, you can"
+      },
+      {
+        "start": 574.96,
+        "duration": 4.32,
+        "start_formatted": "09:34",
+        "text": "first demonstrate how to do a ton of"
+      },
+      {
+        "start": 577.16,
+        "duration": 4.04,
+        "start_formatted": "09:37",
+        "text": "different household tasks, and then"
+      },
+      {
+        "start": 579.28,
+        "duration": 4.08,
+        "start_formatted": "09:39",
+        "text": "afterwards it will be able to learn how"
+      },
+      {
+        "start": 581.2,
+        "duration": 4.16,
+        "start_formatted": "09:41",
+        "text": "to do these autonomously. So, here's the"
+      },
+      {
+        "start": 583.36,
+        "duration": 4.12,
+        "start_formatted": "09:43",
+        "text": "training process, and then afterwards"
+      },
+      {
+        "start": 585.36,
+        "duration": 4.24,
+        "start_formatted": "09:45",
+        "text": "the robot can just open the fridge and"
+      },
+      {
+        "start": 587.48,
+        "duration": 3.24,
+        "start_formatted": "09:47",
+        "text": "take out a can of Coke by itself."
+      },
+      {
+        "start": 589.6,
+        "duration": 2.72,
+        "start_formatted": "09:49",
+        "text": "Currently, they haven't released"
+      },
+      {
+        "start": 590.72,
+        "duration": 3.76,
+        "start_formatted": "09:50",
+        "text": "anything yet, but here it says the code"
+      },
+      {
+        "start": 592.32,
+        "duration": 3.84,
+        "start_formatted": "09:52",
+        "text": "is coming soon, so hopefully they will"
+      },
+      {
+        "start": 594.48,
+        "duration": 3.52,
+        "start_formatted": "09:54",
+        "text": "open source this. For now, if you're"
+      },
+      {
+        "start": 596.16,
+        "duration": 3.72,
+        "start_formatted": "09:56",
+        "text": "interested in reading further, I'll link"
+      },
+      {
+        "start": 598.0,
+        "duration": 4.48,
+        "start_formatted": "09:58",
+        "text": "to this main page in the description"
+      },
+      {
+        "start": 599.88,
+        "duration": 5.88,
+        "start_formatted": "09:59",
+        "text": "below. Also this week, the Tongyi Lab"
+      },
+      {
+        "start": 602.48,
+        "duration": 6.04,
+        "start_formatted": "10:02",
+        "text": "from Alibaba releases a really useful AI"
+      },
+      {
+        "start": 605.76,
+        "duration": 4.88,
+        "start_formatted": "10:05",
+        "text": "model for science. It's called Logos,"
+      },
+      {
+        "start": 608.52,
+        "duration": 3.96,
+        "start_formatted": "10:08",
+        "text": "which stands for language of generative"
+      },
+      {
+        "start": 610.64,
+        "duration": 4.12,
+        "start_formatted": "10:10",
+        "text": "objects, and here's some background on"
+      },
+      {
+        "start": 612.48,
+        "duration": 4.4,
+        "start_formatted": "10:12",
+        "text": "this idea. You see, science has many"
+      },
+      {
+        "start": 614.76,
+        "duration": 4.04,
+        "start_formatted": "10:14",
+        "text": "different domains or languages. For"
+      },
+      {
+        "start": 616.88,
+        "duration": 4.36,
+        "start_formatted": "10:16",
+        "text": "example, we have proteins, small"
+      },
+      {
+        "start": 618.8,
+        "duration": 4.92,
+        "start_formatted": "10:18",
+        "text": "molecules, materials, antibodies,"
+      },
+      {
+        "start": 621.24,
+        "duration": 4.96,
+        "start_formatted": "10:21",
+        "text": "reaction systems, and each domain has"
+      },
+      {
+        "start": 623.72,
+        "duration": 4.64,
+        "start_formatted": "10:23",
+        "text": "their own format. For example, a protein"
+      },
+      {
+        "start": 626.2,
+        "duration": 5.2,
+        "start_formatted": "10:26",
+        "text": "is built completely differently compared"
+      },
+      {
+        "start": 628.36,
+        "duration": 5.44,
+        "start_formatted": "10:28",
+        "text": "to a small molecule. Well, Logos is"
+      },
+      {
+        "start": 631.4,
+        "duration": 4.6,
+        "start_formatted": "10:31",
+        "text": "basically an AI model that tries to"
+      },
+      {
+        "start": 633.8,
+        "duration": 4.48,
+        "start_formatted": "10:33",
+        "text": "understand all of this in just one"
+      },
+      {
+        "start": 636.0,
+        "duration": 4.4,
+        "start_formatted": "10:36",
+        "text": "shared grammar. Think of it as like a"
+      },
+      {
+        "start": 638.28,
+        "duration": 4.24,
+        "start_formatted": "10:38",
+        "text": "unified model for understanding all"
+      },
+      {
+        "start": 640.4,
+        "duration": 4.24,
+        "start_formatted": "10:40",
+        "text": "these different domains. Now, in simple"
+      },
+      {
+        "start": 642.52,
+        "duration": 4.72,
+        "start_formatted": "10:42",
+        "text": "terms, it breaks data from all these"
+      },
+      {
+        "start": 644.64,
+        "duration": 4.48,
+        "start_formatted": "10:44",
+        "text": "different subjects down into tokens, and"
+      },
+      {
+        "start": 647.24,
+        "duration": 3.56,
+        "start_formatted": "10:47",
+        "text": "then they trained a model on that. Much"
+      },
+      {
+        "start": 649.12,
+        "duration": 3.96,
+        "start_formatted": "10:49",
+        "text": "like how a large language models turn"
+      },
+      {
+        "start": 650.8,
+        "duration": 3.8,
+        "start_formatted": "10:50",
+        "text": "words into tokens and then learn how to"
+      },
+      {
+        "start": 653.08,
+        "duration": 3.72,
+        "start_formatted": "10:53",
+        "text": "understand, predict, and generate"
+      },
+      {
+        "start": 654.6,
+        "duration": 3.8,
+        "start_formatted": "10:54",
+        "text": "natural language. So, without going into"
+      },
+      {
+        "start": 656.8,
+        "duration": 3.6,
+        "start_formatted": "10:56",
+        "text": "that much detail, it's essentially the"
+      },
+      {
+        "start": 658.4,
+        "duration": 4.8,
+        "start_formatted": "10:58",
+        "text": "same thing, but instead of training it"
+      },
+      {
+        "start": 660.4,
+        "duration": 5.16,
+        "start_formatted": "11:00",
+        "text": "on English, this model learns how to"
+      },
+      {
+        "start": 663.2,
+        "duration": 4.48,
+        "start_formatted": "11:03",
+        "text": "predict and generate across multiple"
+      },
+      {
+        "start": 665.56,
+        "duration": 4.279,
+        "start_formatted": "11:05",
+        "text": "scientific domains. This means the same"
+      },
+      {
+        "start": 667.68,
+        "duration": 4.4,
+        "start_formatted": "11:07",
+        "text": "framework can be used for things like"
+      },
+      {
+        "start": 669.839,
+        "duration": 4.321,
+        "start_formatted": "11:09",
+        "text": "designing proteins or antibodies,"
+      },
+      {
+        "start": 672.08,
+        "duration": 4.44,
+        "start_formatted": "11:12",
+        "text": "predicting binding sites, or generating"
+      },
+      {
+        "start": 674.16,
+        "duration": 3.56,
+        "start_formatted": "11:14",
+        "text": "materials, and so on and so forth. Now,"
+      },
+      {
+        "start": 676.52,
+        "duration": 2.84,
+        "start_formatted": "11:16",
+        "text": "they released a family of three"
+      },
+      {
+        "start": 677.72,
+        "duration": 3.44,
+        "start_formatted": "11:17",
+        "text": "different models. The largest is 8"
+      },
+      {
+        "start": 679.36,
+        "duration": 4.0,
+        "start_formatted": "11:19",
+        "text": "billion parameters, whereas the smallest"
+      },
+      {
+        "start": 681.16,
+        "duration": 3.92,
+        "start_formatted": "11:21",
+        "text": "is 1 billion. But as you can see, if you"
+      },
+      {
+        "start": 683.36,
+        "duration": 3.76,
+        "start_formatted": "11:23",
+        "text": "compare this with other similar"
+      },
+      {
+        "start": 685.08,
+        "duration": 4.12,
+        "start_formatted": "11:25",
+        "text": "competitors, this model is a lot more"
+      },
+      {
+        "start": 687.12,
+        "duration": 4.48,
+        "start_formatted": "11:27",
+        "text": "performant across all these different"
+      },
+      {
+        "start": 689.2,
+        "duration": 4.68,
+        "start_formatted": "11:29",
+        "text": "benchmarks, including ligand design and"
+      },
+      {
+        "start": 691.6,
+        "duration": 4.36,
+        "start_formatted": "11:31",
+        "text": "material generation and protein editing"
+      },
+      {
+        "start": 693.88,
+        "duration": 3.8,
+        "start_formatted": "11:33",
+        "text": "and antibody design. And the awesome"
+      },
+      {
+        "start": 695.96,
+        "duration": 3.56,
+        "start_formatted": "11:35",
+        "text": "thing is they released this. So, on this"
+      },
+      {
+        "start": 697.68,
+        "duration": 4.12,
+        "start_formatted": "11:37",
+        "text": "page, it contains all the instructions"
+      },
+      {
+        "start": 699.52,
+        "duration": 4.4,
+        "start_formatted": "11:39",
+        "text": "on how to download and run this locally"
+      },
+      {
+        "start": 701.8,
+        "duration": 4.44,
+        "start_formatted": "11:41",
+        "text": "on your computer. And this is under the"
+      },
+      {
+        "start": 703.92,
+        "duration": 4.12,
+        "start_formatted": "11:43",
+        "text": "Apache 2 license, which has very minimal"
+      },
+      {
+        "start": 706.24,
+        "duration": 3.68,
+        "start_formatted": "11:46",
+        "text": "restrictions. You can even use this for"
+      },
+      {
+        "start": 708.04,
+        "duration": 3.96,
+        "start_formatted": "11:48",
+        "text": "commercial purposes. If you look at the"
+      },
+      {
+        "start": 709.92,
+        "duration": 5.12,
+        "start_formatted": "11:49",
+        "text": "largest 8 billion parameter model, this"
+      },
+      {
+        "start": 712.0,
+        "duration": 4.36,
+        "start_formatted": "11:52",
+        "text": "is fairly tiny at only 16 GB in size."
+      },
+      {
+        "start": 715.04,
+        "duration": 3.2,
+        "start_formatted": "11:55",
+        "text": "So, you should be able to run this on"
+      },
+      {
+        "start": 716.36,
+        "duration": 4.24,
+        "start_formatted": "11:56",
+        "text": "like most consumer devices. If you're"
+      },
+      {
+        "start": 718.24,
+        "duration": 4.8,
+        "start_formatted": "11:58",
+        "text": "interested in reading further, I'll this"
+      },
+      {
+        "start": 720.6,
+        "duration": 5.36,
+        "start_formatted": "12:00",
+        "text": "main page in the description below. Also"
+      },
+      {
+        "start": 723.04,
+        "duration": 4.72,
+        "start_formatted": "12:03",
+        "text": "this week, we have LT X trainer 2, which"
+      },
+      {
+        "start": 725.96,
+        "duration": 4.56,
+        "start_formatted": "12:05",
+        "text": "is a training and fine-tuning package"
+      },
+      {
+        "start": 727.76,
+        "duration": 5.4,
+        "start_formatted": "12:07",
+        "text": "for the video model LT X. If you're not"
+      },
+      {
+        "start": 730.52,
+        "duration": 5.12,
+        "start_formatted": "12:10",
+        "text": "familiar with LT X, their latest 2.3"
+      },
+      {
+        "start": 733.16,
+        "duration": 4.88,
+        "start_formatted": "12:13",
+        "text": "model is like the leading open-source"
+      },
+      {
+        "start": 735.64,
+        "duration": 4.08,
+        "start_formatted": "12:15",
+        "text": "video model with audio natively built"
+      },
+      {
+        "start": 738.04,
+        "duration": 3.56,
+        "start_formatted": "12:18",
+        "text": "in. If you're interested in learning"
+      },
+      {
+        "start": 739.72,
+        "duration": 4.52,
+        "start_formatted": "12:19",
+        "text": "more, see this video for a full"
+      },
+      {
+        "start": 741.6,
+        "duration": 4.88,
+        "start_formatted": "12:21",
+        "text": "tutorial. Well, this week they released"
+      },
+      {
+        "start": 744.24,
+        "duration": 5.04,
+        "start_formatted": "12:24",
+        "text": "something called LT X 2 trainer, which"
+      },
+      {
+        "start": 746.48,
+        "duration": 5.56,
+        "start_formatted": "12:26",
+        "text": "allows you to train and fine-tune this"
+      },
+      {
+        "start": 749.28,
+        "duration": 5.24,
+        "start_formatted": "12:29",
+        "text": "LT X model. For example, if you want a"
+      },
+      {
+        "start": 752.04,
+        "duration": 5.36,
+        "start_formatted": "12:32",
+        "text": "model to consistently generate a certain"
+      },
+      {
+        "start": 754.52,
+        "duration": 5.24,
+        "start_formatted": "12:34",
+        "text": "character or object or VFX, you can plug"
+      },
+      {
+        "start": 757.4,
+        "duration": 4.76,
+        "start_formatted": "12:37",
+        "text": "your data through this to train a Laura"
+      },
+      {
+        "start": 759.76,
+        "duration": 4.72,
+        "start_formatted": "12:39",
+        "text": "from it. Now, this is a super flexible"
+      },
+      {
+        "start": 762.16,
+        "duration": 5.04,
+        "start_formatted": "12:42",
+        "text": "platform. It supports various workflows"
+      },
+      {
+        "start": 764.48,
+        "duration": 4.84,
+        "start_formatted": "12:44",
+        "text": "like extension, video inpainting and"
+      },
+      {
+        "start": 767.2,
+        "duration": 4.72,
+        "start_formatted": "12:47",
+        "text": "outpainting, as well as text to audio,"
+      },
+      {
+        "start": 769.32,
+        "duration": 4.88,
+        "start_formatted": "12:49",
+        "text": "audio extension or inpainting, video to"
+      },
+      {
+        "start": 771.92,
+        "duration": 4.96,
+        "start_formatted": "12:51",
+        "text": "video transformations. So, if you want"
+      },
+      {
+        "start": 774.2,
+        "duration": 4.84,
+        "start_formatted": "12:54",
+        "text": "to get LT X to create a really specific"
+      },
+      {
+        "start": 776.88,
+        "duration": 4.2,
+        "start_formatted": "12:56",
+        "text": "thing, whether it's a character or"
+      },
+      {
+        "start": 779.04,
+        "duration": 4.4,
+        "start_formatted": "12:59",
+        "text": "camera effect, or a certain style of"
+      },
+      {
+        "start": 781.08,
+        "duration": 4.759,
+        "start_formatted": "13:01",
+        "text": "transformation, this is the official way"
+      },
+      {
+        "start": 783.44,
+        "duration": 3.96,
+        "start_formatted": "13:03",
+        "text": "to fine-tune a model on that. Now, on"
+      },
+      {
+        "start": 785.839,
+        "duration": 3.321,
+        "start_formatted": "13:05",
+        "text": "this page, it contains a quick start"
+      },
+      {
+        "start": 787.4,
+        "duration": 3.32,
+        "start_formatted": "13:07",
+        "text": "guide plus the data set preparation"
+      },
+      {
+        "start": 789.16,
+        "duration": 3.64,
+        "start_formatted": "13:09",
+        "text": "instructions and everything else you"
+      },
+      {
+        "start": 790.72,
+        "duration": 3.84,
+        "start_formatted": "13:10",
+        "text": "need to know to run this. If you're"
+      },
+      {
+        "start": 792.8,
+        "duration": 3.64,
+        "start_formatted": "13:12",
+        "text": "interested in reading further, I'll link"
+      },
+      {
+        "start": 794.56,
+        "duration": 4.8,
+        "start_formatted": "13:14",
+        "text": "to this main page in the description"
+      },
+      {
+        "start": 796.44,
+        "duration": 5.24,
+        "start_formatted": "13:16",
+        "text": "below. Also this week, OpenAI releases a"
+      },
+      {
+        "start": 799.36,
+        "duration": 4.92,
+        "start_formatted": "13:19",
+        "text": "feature which I think is really useful."
+      },
+      {
+        "start": 801.68,
+        "duration": 4.36,
+        "start_formatted": "13:21",
+        "text": "It's called record and replay, and just"
+      },
+      {
+        "start": 804.28,
+        "duration": 3.6,
+        "start_formatted": "13:24",
+        "text": "like the name implies, here's how it"
+      },
+      {
+        "start": 806.04,
+        "duration": 4.16,
+        "start_formatted": "13:26",
+        "text": "works. You can just take a screen"
+      },
+      {
+        "start": 807.88,
+        "duration": 4.92,
+        "start_formatted": "13:27",
+        "text": "recording of you doing a certain task"
+      },
+      {
+        "start": 810.2,
+        "duration": 4.72,
+        "start_formatted": "13:30",
+        "text": "and then feed that video into Codex."
+      },
+      {
+        "start": 812.8,
+        "duration": 4.12,
+        "start_formatted": "13:32",
+        "text": "Codex watches and understands what you"
+      },
+      {
+        "start": 814.92,
+        "duration": 4.4,
+        "start_formatted": "13:34",
+        "text": "did and then turns that process into a"
+      },
+      {
+        "start": 816.92,
+        "duration": 3.2,
+        "start_formatted": "13:36",
+        "text": "reusable skill. So, here's a demo of how"
+      },
+      {
+        "start": 819.32,
+        "duration": 2.68,
+        "start_formatted": "13:39",
+        "text": "this works."
+      },
+      {
+        "start": 820.12,
+        "duration": 5.44,
+        "start_formatted": "13:40",
+        "text": ">> This time, I'm going to have Codex watch"
+      },
+      {
+        "start": 822.0,
+        "duration": 3.56,
+        "start_formatted": "13:42",
+        "text": "me so it can learn how we do it."
+      },
+      {
+        "start": 826.4,
+        "duration": 3.48,
+        "start_formatted": "13:46",
+        "text": "As I go, I pull in the title and"
+      },
+      {
+        "start": 828.08,
+        "duration": 3.56,
+        "start_formatted": "13:48",
+        "text": "description, add the thumbnail and"
+      },
+      {
+        "start": 829.88,
+        "duration": 4.32,
+        "start_formatted": "13:49",
+        "text": "English captions, and save the video as"
+      },
+      {
+        "start": 831.64,
+        "duration": 2.56,
+        "start_formatted": "13:51",
+        "text": "private."
+      },
+      {
+        "start": 848.16,
+        "duration": 3.44,
+        "start_formatted": "14:08",
+        "text": "When I'm done, Codex reviews the"
+      },
+      {
+        "start": 849.84,
+        "duration": 3.24,
+        "start_formatted": "14:09",
+        "text": "recording and turns what it learned into"
+      },
+      {
+        "start": 851.6,
+        "duration": 3.48,
+        "start_formatted": "14:11",
+        "text": "a skill."
+      },
+      {
+        "start": 853.08,
+        "duration": 3.88,
+        "start_formatted": "14:13",
+        "text": "It remembers where our metadata lives,"
+      },
+      {
+        "start": 855.08,
+        "duration": 4.16,
+        "start_formatted": "14:15",
+        "text": "how the upload package is organized, and"
+      },
+      {
+        "start": 856.96,
+        "duration": 3.76,
+        "start_formatted": "14:16",
+        "text": "how we add captions, save, and verify"
+      },
+      {
+        "start": 859.24,
+        "duration": 3.64,
+        "start_formatted": "14:19",
+        "text": "each upload."
+      },
+      {
+        "start": 860.72,
+        "duration": 4.28,
+        "start_formatted": "14:20",
+        "text": "Now, I'm going to open a fresh thread,"
+      },
+      {
+        "start": 862.88,
+        "duration": 5.0,
+        "start_formatted": "14:22",
+        "text": "attach the next video package, and ask"
+      },
+      {
+        "start": 865.0,
+        "duration": 2.88,
+        "start_formatted": "14:25",
+        "text": "Codex to handle it."
+      },
+      {
+        "start": 872.72,
+        "duration": 3.8,
+        "start_formatted": "14:32",
+        "text": "And now Codex handles this next one for"
+      },
+      {
+        "start": 874.24,
+        "duration": 2.28,
+        "start_formatted": "14:34",
+        "text": "me."
+      },
+      {
+        "start": 877.88,
+        "duration": 3.08,
+        "start_formatted": "14:37",
+        "text": "It matches the package to the right row"
+      },
+      {
+        "start": 879.32,
+        "duration": 3.6,
+        "start_formatted": "14:39",
+        "text": "in the spreadsheet, fills in the"
+      },
+      {
+        "start": 880.96,
+        "duration": 4.6,
+        "start_formatted": "14:40",
+        "text": "metadata, adds the thumbnail and English"
+      },
+      {
+        "start": 882.92,
+        "duration": 3.919,
+        "start_formatted": "14:42",
+        "text": "captions, uploads the video as private,"
+      },
+      {
+        "start": 885.56,
+        "duration": 3.04,
+        "start_formatted": "14:45",
+        "text": "and then verifies [music] everything was"
+      },
+      {
+        "start": 886.839,
+        "duration": 3.521,
+        "start_formatted": "14:46",
+        "text": "saved correctly."
+      },
+      {
+        "start": 888.6,
+        "duration": 3.52,
+        "start_formatted": "14:48",
+        "text": ">> You can see how powerful this is,"
+      },
+      {
+        "start": 890.36,
+        "duration": 4.0,
+        "start_formatted": "14:50",
+        "text": "especially for workflows where it's"
+      },
+      {
+        "start": 892.12,
+        "duration": 3.92,
+        "start_formatted": "14:52",
+        "text": "really hard to just describe with text."
+      },
+      {
+        "start": 894.36,
+        "duration": 3.32,
+        "start_formatted": "14:54",
+        "text": "Instead, you can just take a screen"
+      },
+      {
+        "start": 896.04,
+        "duration": 3.88,
+        "start_formatted": "14:56",
+        "text": "recording of you doing the entire"
+      },
+      {
+        "start": 897.68,
+        "duration": 4.4,
+        "start_formatted": "14:57",
+        "text": "workflow. This could be like filing an"
+      },
+      {
+        "start": 899.92,
+        "duration": 4.36,
+        "start_formatted": "14:59",
+        "text": "expense or booking something, publishing"
+      },
+      {
+        "start": 902.08,
+        "duration": 4.64,
+        "start_formatted": "15:02",
+        "text": "a video, whatever your workflow might"
+      },
+      {
+        "start": 904.28,
+        "duration": 4.6,
+        "start_formatted": "15:04",
+        "text": "be, you can just feed that recording of"
+      },
+      {
+        "start": 906.72,
+        "duration": 3.92,
+        "start_formatted": "15:06",
+        "text": "yourself doing it through Codex and it"
+      },
+      {
+        "start": 908.88,
+        "duration": 3.76,
+        "start_formatted": "15:08",
+        "text": "can create a skill which can be used"
+      },
+      {
+        "start": 910.64,
+        "duration": 4.32,
+        "start_formatted": "15:10",
+        "text": "again. Now, it doesn't work all of the"
+      },
+      {
+        "start": 912.64,
+        "duration": 4.0,
+        "start_formatted": "15:12",
+        "text": "time, so the catch is that it works best"
+      },
+      {
+        "start": 914.96,
+        "duration": 4.36,
+        "start_formatted": "15:14",
+        "text": "when the workflow is stable and the"
+      },
+      {
+        "start": 916.64,
+        "duration": 5.04,
+        "start_formatted": "15:16",
+        "text": "success criteria is clear. Currently, to"
+      },
+      {
+        "start": 919.32,
+        "duration": 5.56,
+        "start_formatted": "15:19",
+        "text": "say that this feature is only available"
+      },
+      {
+        "start": 921.68,
+        "duration": 5.52,
+        "start_formatted": "15:21",
+        "text": "on Mac OS with computer use enabled and"
+      },
+      {
+        "start": 924.88,
+        "duration": 4.6,
+        "start_formatted": "15:24",
+        "text": "it's currently not available in the EU"
+      },
+      {
+        "start": 927.2,
+        "duration": 3.72,
+        "start_formatted": "15:27",
+        "text": "or related areas. But, you know, this is"
+      },
+      {
+        "start": 929.48,
+        "duration": 3.64,
+        "start_formatted": "15:29",
+        "text": "a really useful feature. This makes"
+      },
+      {
+        "start": 930.92,
+        "duration": 4.28,
+        "start_formatted": "15:30",
+        "text": "automation feel less like randomly"
+      },
+      {
+        "start": 933.12,
+        "duration": 4.4,
+        "start_formatted": "15:33",
+        "text": "prompting an AI agent and hoping it gets"
+      },
+      {
+        "start": 935.2,
+        "duration": 4.16,
+        "start_formatted": "15:35",
+        "text": "it right to more like training an AI"
+      },
+      {
+        "start": 937.52,
+        "duration": 3.76,
+        "start_formatted": "15:37",
+        "text": "assistant by just demonstrating it"
+      },
+      {
+        "start": 939.36,
+        "duration": 4.32,
+        "start_formatted": "15:39",
+        "text": "yourself. Hopefully, they will also"
+      },
+      {
+        "start": 941.28,
+        "duration": 4.32,
+        "start_formatted": "15:41",
+        "text": "release this for the Windows Codex app"
+      },
+      {
+        "start": 943.68,
+        "duration": 3.76,
+        "start_formatted": "15:43",
+        "text": "in the future. If you're interested in"
+      },
+      {
+        "start": 945.6,
+        "duration": 4.0,
+        "start_formatted": "15:45",
+        "text": "reading further, I'll link to this main"
+      },
+      {
+        "start": 947.44,
+        "duration": 4.4,
+        "start_formatted": "15:47",
+        "text": "page in the description below."
+      },
+      {
+        "start": 949.6,
+        "duration": 4.88,
+        "start_formatted": "15:49",
+        "text": "In robotics news, this week we have an"
+      },
+      {
+        "start": 951.84,
+        "duration": 5.28,
+        "start_formatted": "15:51",
+        "text": "incredibly impressive demo from this"
+      },
+      {
+        "start": 954.48,
+        "duration": 4.8,
+        "start_formatted": "15:54",
+        "text": "autonomous table tennis robot called"
+      },
+      {
+        "start": 957.12,
+        "duration": 4.4,
+        "start_formatted": "15:57",
+        "text": "Ace. Now, we've had plenty of these"
+      },
+      {
+        "start": 959.28,
+        "duration": 5.16,
+        "start_formatted": "15:59",
+        "text": "table tennis robots before, but previous"
+      },
+      {
+        "start": 961.52,
+        "duration": 5.12,
+        "start_formatted": "16:01",
+        "text": "ones were pretty bad. This one actually"
+      },
+      {
+        "start": 964.44,
+        "duration": 4.76,
+        "start_formatted": "16:04",
+        "text": "played against a professional human"
+      },
+      {
+        "start": 966.64,
+        "duration": 5.6,
+        "start_formatted": "16:06",
+        "text": "player and it absolutely dominated the"
+      },
+      {
+        "start": 969.2,
+        "duration": 5.28,
+        "start_formatted": "16:09",
+        "text": "game. So, this robot is by Sony and as"
+      },
+      {
+        "start": 972.24,
+        "duration": 4.64,
+        "start_formatted": "16:12",
+        "text": "you can see, the impressive thing is, if"
+      },
+      {
+        "start": 974.48,
+        "duration": 4.36,
+        "start_formatted": "16:14",
+        "text": "you've ever played table tennis mildly"
+      },
+      {
+        "start": 976.88,
+        "duration": 3.8,
+        "start_formatted": "16:16",
+        "text": "seriously, you'll know it's not just"
+      },
+      {
+        "start": 978.84,
+        "duration": 4.16,
+        "start_formatted": "16:18",
+        "text": "like hitting the ball. It's actually"
+      },
+      {
+        "start": 980.68,
+        "duration": 4.4,
+        "start_formatted": "16:20",
+        "text": "entirely dictated by spin. So, like"
+      },
+      {
+        "start": 983.0,
+        "duration": 4.28,
+        "start_formatted": "16:23",
+        "text": "slicing the ball, there's top spin, back"
+      },
+      {
+        "start": 985.08,
+        "duration": 4.08,
+        "start_formatted": "16:25",
+        "text": "spin, side spin. The ball doesn't just"
+      },
+      {
+        "start": 987.28,
+        "duration": 4.32,
+        "start_formatted": "16:27",
+        "text": "bounce in a straight line. So, for a"
+      },
+      {
+        "start": 989.16,
+        "duration": 4.92,
+        "start_formatted": "16:29",
+        "text": "robot to actually successfully play"
+      },
+      {
+        "start": 991.6,
+        "duration": 4.68,
+        "start_formatted": "16:31",
+        "text": "against a pro player and return shots"
+      },
+      {
+        "start": 994.08,
+        "duration": 4.2,
+        "start_formatted": "16:34",
+        "text": "from a pro player, it needs to have"
+      },
+      {
+        "start": 996.28,
+        "duration": 4.08,
+        "start_formatted": "16:36",
+        "text": "real-time spin detection. It needs to"
+      },
+      {
+        "start": 998.28,
+        "duration": 4.76,
+        "start_formatted": "16:38",
+        "text": "have a vision system that calculates the"
+      },
+      {
+        "start": 1000.36,
+        "duration": 4.24,
+        "start_formatted": "16:40",
+        "text": "ball's rotations and the axis of spin in"
+      },
+      {
+        "start": 1003.04,
+        "duration": 3.84,
+        "start_formatted": "16:43",
+        "text": "like less than milliseconds just by"
+      },
+      {
+        "start": 1004.6,
+        "duration": 5.0,
+        "start_formatted": "16:44",
+        "text": "watching it. And then, it also needs to"
+      },
+      {
+        "start": 1006.88,
+        "duration": 4.2,
+        "start_formatted": "16:46",
+        "text": "know how to slice the ball and do these"
+      },
+      {
+        "start": 1009.6,
+        "duration": 3.44,
+        "start_formatted": "16:49",
+        "text": "different types of spins itself when it"
+      },
+      {
+        "start": 1011.08,
+        "duration": 3.92,
+        "start_formatted": "16:51",
+        "text": "hits the ball. This is much harder to"
+      },
+      {
+        "start": 1013.04,
+        "duration": 3.96,
+        "start_formatted": "16:53",
+        "text": "train compared with just getting a"
+      },
+      {
+        "start": 1015.0,
+        "duration": 4.44,
+        "start_formatted": "16:55",
+        "text": "paddle to hit the ball at any angle."
+      },
+      {
+        "start": 1017.0,
+        "duration": 3.92,
+        "start_formatted": "16:57",
+        "text": "Now, this robot doesn't have legs, so"
+      },
+      {
+        "start": 1019.44,
+        "duration": 4.04,
+        "start_formatted": "16:59",
+        "text": "this is mounted on a heavy-duty"
+      },
+      {
+        "start": 1020.92,
+        "duration": 4.76,
+        "start_formatted": "17:00",
+        "text": "motorized rail, but it has incredible"
+      },
+      {
+        "start": 1023.48,
+        "duration": 3.88,
+        "start_formatted": "17:03",
+        "text": "high-speed latency and actuations. It"
+      },
+      {
+        "start": 1025.68,
+        "duration": 4.2,
+        "start_formatted": "17:05",
+        "text": "has to like instantly move its entire"
+      },
+      {
+        "start": 1027.36,
+        "duration": 4.52,
+        "start_formatted": "17:07",
+        "text": "mass from left to right, also adjust its"
+      },
+      {
+        "start": 1029.88,
+        "duration": 4.28,
+        "start_formatted": "17:09",
+        "text": "arm's wrist angle and strike the ball"
+      },
+      {
+        "start": 1031.88,
+        "duration": 4.76,
+        "start_formatted": "17:11",
+        "text": "within a fraction of a second. Table"
+      },
+      {
+        "start": 1034.16,
+        "duration": 4.52,
+        "start_formatted": "17:14",
+        "text": "tennis is incredibly fast and it's even"
+      },
+      {
+        "start": 1036.64,
+        "duration": 4.559,
+        "start_formatted": "17:16",
+        "text": "faster when you play with a professional"
+      },
+      {
+        "start": 1038.68,
+        "duration": 4.639,
+        "start_formatted": "17:18",
+        "text": "human player. So, it needs to be able to"
+      },
+      {
+        "start": 1041.199,
+        "duration": 4.76,
+        "start_formatted": "17:21",
+        "text": "react to incoming balls almost"
+      },
+      {
+        "start": 1043.319,
+        "duration": 5.161,
+        "start_formatted": "17:23",
+        "text": "instantly. And you can see how it plays"
+      },
+      {
+        "start": 1045.959,
+        "duration": 4.921,
+        "start_formatted": "17:25",
+        "text": "is also really impressive. It like kind"
+      },
+      {
+        "start": 1048.48,
+        "duration": 5.24,
+        "start_formatted": "17:28",
+        "text": "of uses an adaptive strategy. It's not"
+      },
+      {
+        "start": 1050.88,
+        "duration": 4.96,
+        "start_formatted": "17:30",
+        "text": "just mindlessly or passively trying to"
+      },
+      {
+        "start": 1053.72,
+        "duration": 4.6,
+        "start_formatted": "17:33",
+        "text": "save balls or just hit the ball back. It"
+      },
+      {
+        "start": 1055.84,
+        "duration": 4.84,
+        "start_formatted": "17:35",
+        "text": "actively changes the ball's placement or"
+      },
+      {
+        "start": 1058.32,
+        "duration": 4.4,
+        "start_formatted": "17:38",
+        "text": "spin to force the human player into"
+      },
+      {
+        "start": 1060.68,
+        "duration": 4.16,
+        "start_formatted": "17:40",
+        "text": "making mistakes. It's like actively"
+      },
+      {
+        "start": 1062.72,
+        "duration": 4.24,
+        "start_formatted": "17:42",
+        "text": "trying to beat the human player. So, a"
+      },
+      {
+        "start": 1064.84,
+        "duration": 4.56,
+        "start_formatted": "17:44",
+        "text": "very impressive demo. This is like by"
+      },
+      {
+        "start": 1066.96,
+        "duration": 4.04,
+        "start_formatted": "17:46",
+        "text": "far the best robot we have right now in"
+      },
+      {
+        "start": 1069.4,
+        "duration": 4.2,
+        "start_formatted": "17:49",
+        "text": "terms of playing table tennis. Now,"
+      },
+      {
+        "start": 1071.0,
+        "duration": 5.88,
+        "start_formatted": "17:51",
+        "text": "speaking of table tennis, we also have"
+      },
+      {
+        "start": 1073.6,
+        "duration": 5.76,
+        "start_formatted": "17:53",
+        "text": "another demo, this time from the AGI-bot"
+      },
+      {
+        "start": 1076.88,
+        "duration": 4.56,
+        "start_formatted": "17:56",
+        "text": "A3, and this is able to also"
+      },
+      {
+        "start": 1079.36,
+        "duration": 4.2,
+        "start_formatted": "17:59",
+        "text": "autonomously play table tennis against a"
+      },
+      {
+        "start": 1081.44,
+        "duration": 5.08,
+        "start_formatted": "18:01",
+        "text": "human. Now, this is not as impressive as"
+      },
+      {
+        "start": 1083.56,
+        "duration": 5.2,
+        "start_formatted": "18:03",
+        "text": "the Sony demo from before. However, this"
+      },
+      {
+        "start": 1086.52,
+        "duration": 4.0,
+        "start_formatted": "18:06",
+        "text": "is just a humanoid robot designed to do"
+      },
+      {
+        "start": 1088.76,
+        "duration": 3.68,
+        "start_formatted": "18:08",
+        "text": "a ton of other stuff like manipulating"
+      },
+      {
+        "start": 1090.52,
+        "duration": 4.56,
+        "start_formatted": "18:10",
+        "text": "objects, walking up and down stairs,"
+      },
+      {
+        "start": 1092.44,
+        "duration": 4.6,
+        "start_formatted": "18:12",
+        "text": "moving things, etc. Plus, this looks"
+      },
+      {
+        "start": 1095.08,
+        "duration": 4.16,
+        "start_formatted": "18:15",
+        "text": "more like a human with two legs. So, not"
+      },
+      {
+        "start": 1097.04,
+        "duration": 4.68,
+        "start_formatted": "18:17",
+        "text": "only does it have to maintain balance of"
+      },
+      {
+        "start": 1099.24,
+        "duration": 4.68,
+        "start_formatted": "18:19",
+        "text": "its body, but also react to and hit the"
+      },
+      {
+        "start": 1101.72,
+        "duration": 4.52,
+        "start_formatted": "18:21",
+        "text": "ball in a matter of seconds. In fact,"
+      },
+      {
+        "start": 1103.92,
+        "duration": 4.76,
+        "start_formatted": "18:23",
+        "text": "they say this is powered by something"
+      },
+      {
+        "start": 1106.24,
+        "duration": 4.64,
+        "start_formatted": "18:26",
+        "text": "called the Spike Ping Pong algorithm by"
+      },
+      {
+        "start": 1108.68,
+        "duration": 4.2,
+        "start_formatted": "18:28",
+        "text": "the Peking University, and this allows"
+      },
+      {
+        "start": 1110.88,
+        "duration": 4.48,
+        "start_formatted": "18:30",
+        "text": "its vision response to be 10 times"
+      },
+      {
+        "start": 1112.88,
+        "duration": 4.44,
+        "start_formatted": "18:32",
+        "text": "faster and enables millimeter-level"
+      },
+      {
+        "start": 1115.36,
+        "duration": 4.2,
+        "start_formatted": "18:35",
+        "text": "precision for continuous rallies,"
+      },
+      {
+        "start": 1117.32,
+        "duration": 4.28,
+        "start_formatted": "18:37",
+        "text": "trajectory tracking, and whole-body"
+      },
+      {
+        "start": 1119.56,
+        "duration": 3.84,
+        "start_formatted": "18:39",
+        "text": "planning. Very impressive how it's"
+      },
+      {
+        "start": 1121.6,
+        "duration": 4.12,
+        "start_formatted": "18:41",
+        "text": "actually able to do this while"
+      },
+      {
+        "start": 1123.4,
+        "duration": 4.96,
+        "start_formatted": "18:43",
+        "text": "maintaining balance on two legs. Also,"
+      },
+      {
+        "start": 1125.72,
+        "duration": 5.6,
+        "start_formatted": "18:45",
+        "text": "this week we have a new full-body waifu"
+      },
+      {
+        "start": 1128.36,
+        "duration": 5.56,
+        "start_formatted": "18:48",
+        "text": "demo. So, this company called Droid Up"
+      },
+      {
+        "start": 1131.32,
+        "duration": 4.92,
+        "start_formatted": "18:51",
+        "text": "teases their full-body humanoid robot"
+      },
+      {
+        "start": 1133.92,
+        "duration": 4.8,
+        "start_formatted": "18:53",
+        "text": "called Moya. You can see that this"
+      },
+      {
+        "start": 1136.24,
+        "duration": 5.24,
+        "start_formatted": "18:56",
+        "text": "robot's face is moderately realistic."
+      },
+      {
+        "start": 1138.72,
+        "duration": 4.68,
+        "start_formatted": "18:58",
+        "text": "She can blink and tilt her head, and"
+      },
+      {
+        "start": 1141.48,
+        "duration": 4.12,
+        "start_formatted": "19:01",
+        "text": "even demonstrate some facial"
+      },
+      {
+        "start": 1143.4,
+        "duration": 4.4,
+        "start_formatted": "19:03",
+        "text": "expressions. And you can see how from"
+      },
+      {
+        "start": 1145.6,
+        "duration": 4.68,
+        "start_formatted": "19:05",
+        "text": "this demo this robot is intended for"
+      },
+      {
+        "start": 1147.8,
+        "duration": 4.48,
+        "start_formatted": "19:07",
+        "text": "companionship. It's also able to do some"
+      },
+      {
+        "start": 1150.28,
+        "duration": 4.0,
+        "start_formatted": "19:10",
+        "text": "chores, so it's like picking up this"
+      },
+      {
+        "start": 1152.28,
+        "duration": 3.96,
+        "start_formatted": "19:12",
+        "text": "bottle of orange juice and walking back"
+      },
+      {
+        "start": 1154.28,
+        "duration": 4.36,
+        "start_formatted": "19:14",
+        "text": "to the desk. It's even able to pour a"
+      },
+      {
+        "start": 1156.24,
+        "duration": 4.88,
+        "start_formatted": "19:16",
+        "text": "glass for the woman. Or this could also"
+      },
+      {
+        "start": 1158.64,
+        "duration": 4.72,
+        "start_formatted": "19:18",
+        "text": "be used for elderly care, as you can see"
+      },
+      {
+        "start": 1161.12,
+        "duration": 5.04,
+        "start_formatted": "19:21",
+        "text": "over here. Now, I would say her face"
+      },
+      {
+        "start": 1163.36,
+        "duration": 5.16,
+        "start_formatted": "19:23",
+        "text": "isn't as realistic as some of the other"
+      },
+      {
+        "start": 1166.16,
+        "duration": 4.64,
+        "start_formatted": "19:26",
+        "text": "waifu humanoids I featured before. The"
+      },
+      {
+        "start": 1168.52,
+        "duration": 4.96,
+        "start_formatted": "19:28",
+        "text": "face of this Moya one seems to be kind"
+      },
+      {
+        "start": 1170.8,
+        "duration": 4.68,
+        "start_formatted": "19:30",
+        "text": "of rigid and hard. Something just looks"
+      },
+      {
+        "start": 1173.48,
+        "duration": 4.48,
+        "start_formatted": "19:33",
+        "text": "off about this face. Maybe it's the"
+      },
+      {
+        "start": 1175.48,
+        "duration": 4.4,
+        "start_formatted": "19:35",
+        "text": "shape of the facial features as well."
+      },
+      {
+        "start": 1177.96,
+        "duration": 3.52,
+        "start_formatted": "19:37",
+        "text": "Something just doesn't really look"
+      },
+      {
+        "start": 1179.88,
+        "duration": 4.56,
+        "start_formatted": "19:39",
+        "text": "human. But if you're looking for a"
+      },
+      {
+        "start": 1181.48,
+        "duration": 5.12,
+        "start_formatted": "19:41",
+        "text": "full-body robot waifu, here's another"
+      },
+      {
+        "start": 1184.44,
+        "duration": 5.0,
+        "start_formatted": "19:44",
+        "text": "option to put on your radar. Also this"
+      },
+      {
+        "start": 1186.6,
+        "duration": 5.64,
+        "start_formatted": "19:46",
+        "text": "week, OpenAI showed a near-autonomous AI"
+      },
+      {
+        "start": 1189.44,
+        "duration": 5.12,
+        "start_formatted": "19:49",
+        "text": "chemist that actually improved a real"
+      },
+      {
+        "start": 1192.24,
+        "duration": 4.56,
+        "start_formatted": "19:52",
+        "text": "medicinal chemistry reaction. Not just"
+      },
+      {
+        "start": 1194.56,
+        "duration": 5.4,
+        "start_formatted": "19:54",
+        "text": "on paper, but in an actual lab"
+      },
+      {
+        "start": 1196.8,
+        "duration": 6.32,
+        "start_formatted": "19:56",
+        "text": "experiment. So the basic idea is this."
+      },
+      {
+        "start": 1199.96,
+        "duration": 5.32,
+        "start_formatted": "19:59",
+        "text": "They connected GPT to this Maria system,"
+      },
+      {
+        "start": 1203.12,
+        "duration": 5.04,
+        "start_formatted": "20:03",
+        "text": "which is like an AI chemistry platform"
+      },
+      {
+        "start": 1205.28,
+        "duration": 4.84,
+        "start_formatted": "20:05",
+        "text": "hooked into a high-throughput lab. And"
+      },
+      {
+        "start": 1208.16,
+        "duration": 4.4,
+        "start_formatted": "20:08",
+        "text": "they gave it a pretty open-ended goal."
+      },
+      {
+        "start": 1210.12,
+        "duration": 4.68,
+        "start_formatted": "20:10",
+        "text": "Find a way to improve an important class"
+      },
+      {
+        "start": 1212.56,
+        "duration": 4.0,
+        "start_formatted": "20:12",
+        "text": "of reactions. That's pretty much it. The"
+      },
+      {
+        "start": 1214.8,
+        "duration": 4.04,
+        "start_formatted": "20:14",
+        "text": "model came up with research ideas,"
+      },
+      {
+        "start": 1216.56,
+        "duration": 4.0,
+        "start_formatted": "20:16",
+        "text": "helped design the experiments, analyzed"
+      },
+      {
+        "start": 1218.84,
+        "duration": 3.72,
+        "start_formatted": "20:18",
+        "text": "the results, and even suggested"
+      },
+      {
+        "start": 1220.56,
+        "duration": 4.44,
+        "start_formatted": "20:20",
+        "text": "follow-up experiments while the human"
+      },
+      {
+        "start": 1222.56,
+        "duration": 4.52,
+        "start_formatted": "20:22",
+        "text": "chemist stayed in the loop for steering"
+      },
+      {
+        "start": 1225.0,
+        "duration": 4.48,
+        "start_formatted": "20:25",
+        "text": "corrections, and actually doing the lab"
+      },
+      {
+        "start": 1227.08,
+        "duration": 5.28,
+        "start_formatted": "20:27",
+        "text": "operations. Now, the reaction it focused"
+      },
+      {
+        "start": 1229.48,
+        "duration": 4.6,
+        "start_formatted": "20:29",
+        "text": "on is called the Chan-Lam reaction. This"
+      },
+      {
+        "start": 1232.36,
+        "duration": 4.08,
+        "start_formatted": "20:32",
+        "text": "is quite technical, but basically it's a"
+      },
+      {
+        "start": 1234.08,
+        "duration": 4.48,
+        "start_formatted": "20:34",
+        "text": "way to connect molecules by forming"
+      },
+      {
+        "start": 1236.44,
+        "duration": 4.64,
+        "start_formatted": "20:36",
+        "text": "carbon-nitrogen bonds. And this matters"
+      },
+      {
+        "start": 1238.56,
+        "duration": 4.28,
+        "start_formatted": "20:38",
+        "text": "because these kinds of bonds show up all"
+      },
+      {
+        "start": 1241.08,
+        "duration": 4.0,
+        "start_formatted": "20:41",
+        "text": "over medicinal chemistry. And the"
+      },
+      {
+        "start": 1242.84,
+        "duration": 4.88,
+        "start_formatted": "20:42",
+        "text": "specific challenge here was with the"
+      },
+      {
+        "start": 1245.08,
+        "duration": 5.2,
+        "start_formatted": "20:45",
+        "text": "sulfonamides, which are like useful"
+      },
+      {
+        "start": 1247.72,
+        "duration": 4.76,
+        "start_formatted": "20:47",
+        "text": "drug-like chemical groups. Now, in the"
+      },
+      {
+        "start": 1250.28,
+        "duration": 4.92,
+        "start_formatted": "20:50",
+        "text": "past this reaction has not worked very"
+      },
+      {
+        "start": 1252.48,
+        "duration": 4.68,
+        "start_formatted": "20:52",
+        "text": "well with them. So GPT suggested using"
+      },
+      {
+        "start": 1255.2,
+        "duration": 3.96,
+        "start_formatted": "20:55",
+        "text": "this oxidant called TEMPO as an"
+      },
+      {
+        "start": 1257.16,
+        "duration": 5.12,
+        "start_formatted": "20:57",
+        "text": "additive, and then after they tested"
+      },
+      {
+        "start": 1259.16,
+        "duration": 5.8,
+        "start_formatted": "20:59",
+        "text": "this at scale and found that indeed this"
+      },
+      {
+        "start": 1262.28,
+        "duration": 4.84,
+        "start_formatted": "21:02",
+        "text": "TEMPO additive significantly improved"
+      },
+      {
+        "start": 1264.96,
+        "duration": 4.6,
+        "start_formatted": "21:04",
+        "text": "the yield of that reaction. Here are"
+      },
+      {
+        "start": 1267.12,
+        "duration": 5.12,
+        "start_formatted": "21:07",
+        "text": "some further graphs showing how this new"
+      },
+      {
+        "start": 1269.56,
+        "duration": 5.0,
+        "start_formatted": "21:09",
+        "text": "tempo additive identified by GPT was"
+      },
+      {
+        "start": 1272.24,
+        "duration": 4.44,
+        "start_formatted": "21:12",
+        "text": "able to significantly outperform all"
+      },
+      {
+        "start": 1274.56,
+        "duration": 4.28,
+        "start_formatted": "21:14",
+        "text": "other oxidants. So, that's pretty cool."
+      },
+      {
+        "start": 1276.68,
+        "duration": 3.8,
+        "start_formatted": "21:16",
+        "text": "This is an AI system that can help move"
+      },
+      {
+        "start": 1278.84,
+        "duration": 3.88,
+        "start_formatted": "21:18",
+        "text": "through the scientific loop. It can"
+      },
+      {
+        "start": 1280.48,
+        "duration": 4.48,
+        "start_formatted": "21:20",
+        "text": "read, propose, test, analyze, and"
+      },
+      {
+        "start": 1282.72,
+        "duration": 4.36,
+        "start_formatted": "21:22",
+        "text": "refine. In chemistry, this is usually"
+      },
+      {
+        "start": 1284.96,
+        "duration": 4.12,
+        "start_formatted": "21:24",
+        "text": "really slow and expensive with a bunch"
+      },
+      {
+        "start": 1287.08,
+        "duration": 4.12,
+        "start_formatted": "21:27",
+        "text": "of dead ends. But, with the help of AI,"
+      },
+      {
+        "start": 1289.08,
+        "duration": 4.2,
+        "start_formatted": "21:29",
+        "text": "we can actually automate a ton of"
+      },
+      {
+        "start": 1291.2,
+        "duration": 4.4,
+        "start_formatted": "21:31",
+        "text": "different steps in this workflow. And"
+      },
+      {
+        "start": 1293.28,
+        "duration": 4.64,
+        "start_formatted": "21:33",
+        "text": "here they showed that it actually helped"
+      },
+      {
+        "start": 1295.6,
+        "duration": 4.2,
+        "start_formatted": "21:35",
+        "text": "make a genuine discovery in medicinal"
+      },
+      {
+        "start": 1297.92,
+        "duration": 4.48,
+        "start_formatted": "21:37",
+        "text": "chemistry. At the top here, they"
+      },
+      {
+        "start": 1299.8,
+        "duration": 4.48,
+        "start_formatted": "21:39",
+        "text": "released a full technical paper on this"
+      },
+      {
+        "start": 1302.4,
+        "duration": 3.6,
+        "start_formatted": "21:42",
+        "text": "with even more details. If you're"
+      },
+      {
+        "start": 1304.28,
+        "duration": 3.64,
+        "start_formatted": "21:44",
+        "text": "interested in reading further, I'll link"
+      },
+      {
+        "start": 1306.0,
+        "duration": 4.68,
+        "start_formatted": "21:46",
+        "text": "to this main page in the description"
+      },
+      {
+        "start": 1307.92,
+        "duration": 5.8,
+        "start_formatted": "21:47",
+        "text": "below. Also this week, by far the best"
+      },
+      {
+        "start": 1310.68,
+        "duration": 6.04,
+        "start_formatted": "21:50",
+        "text": "open model was released. It's called GLM"
+      },
+      {
+        "start": 1313.72,
+        "duration": 5.16,
+        "start_formatted": "21:53",
+        "text": "5.2. Now, this is from my favorite lab"
+      },
+      {
+        "start": 1316.72,
+        "duration": 3.72,
+        "start_formatted": "21:56",
+        "text": "ZAI. I've mentioned this countless times"
+      },
+      {
+        "start": 1318.88,
+        "duration": 3.6,
+        "start_formatted": "21:58",
+        "text": "on my channel before. I have high"
+      },
+      {
+        "start": 1320.44,
+        "duration": 4.2,
+        "start_formatted": "22:00",
+        "text": "expectations of them, but even this"
+      },
+      {
+        "start": 1322.48,
+        "duration": 4.96,
+        "start_formatted": "22:02",
+        "text": "release caught me by surprise. You see,"
+      },
+      {
+        "start": 1324.64,
+        "duration": 4.88,
+        "start_formatted": "22:04",
+        "text": "the previous model was just 5.1, so I"
+      },
+      {
+        "start": 1327.44,
+        "duration": 4.04,
+        "start_formatted": "22:07",
+        "text": "thought 5.2 would just be a tiny"
+      },
+      {
+        "start": 1329.52,
+        "duration": 4.16,
+        "start_formatted": "22:09",
+        "text": "upgrade, but it's actually much bigger"
+      },
+      {
+        "start": 1331.48,
+        "duration": 4.12,
+        "start_formatted": "22:11",
+        "text": "than I thought. I already did a full"
+      },
+      {
+        "start": 1333.68,
+        "duration": 4.4,
+        "start_formatted": "22:13",
+        "text": "review video on it this week with a ton"
+      },
+      {
+        "start": 1335.6,
+        "duration": 3.92,
+        "start_formatted": "22:15",
+        "text": "of impressive demos, so see this if you"
+      },
+      {
+        "start": 1338.08,
+        "duration": 3.12,
+        "start_formatted": "22:18",
+        "text": "want to learn more. I'm not going to"
+      },
+      {
+        "start": 1339.52,
+        "duration": 3.88,
+        "start_formatted": "22:19",
+        "text": "repeat anything from that video, but"
+      },
+      {
+        "start": 1341.2,
+        "duration": 3.92,
+        "start_formatted": "22:21",
+        "text": "after that was published, we have a ton"
+      },
+      {
+        "start": 1343.4,
+        "duration": 3.88,
+        "start_formatted": "22:23",
+        "text": "of new data on its performance on"
+      },
+      {
+        "start": 1345.12,
+        "duration": 4.16,
+        "start_formatted": "22:25",
+        "text": "various benchmarks and leaderboards. So,"
+      },
+      {
+        "start": 1347.28,
+        "duration": 5.2,
+        "start_formatted": "22:27",
+        "text": "let's go into some more detail. First of"
+      },
+      {
+        "start": 1349.28,
+        "duration": 5.16,
+        "start_formatted": "22:29",
+        "text": "all, GLM 5.2 is finally published on"
+      },
+      {
+        "start": 1352.48,
+        "duration": 3.88,
+        "start_formatted": "22:32",
+        "text": "Artificial Analysis. So, if you look at"
+      },
+      {
+        "start": 1354.44,
+        "duration": 3.76,
+        "start_formatted": "22:34",
+        "text": "their Intelligence Index, then you can"
+      },
+      {
+        "start": 1356.36,
+        "duration": 4.36,
+        "start_formatted": "22:36",
+        "text": "see it's among the best of the best"
+      },
+      {
+        "start": 1358.2,
+        "duration": 5.64,
+        "start_formatted": "22:38",
+        "text": "models out there, only behind the best"
+      },
+      {
+        "start": 1360.72,
+        "duration": 4.8,
+        "start_formatted": "22:40",
+        "text": "GPT and the best Claude. And it's by far"
+      },
+      {
+        "start": 1363.84,
+        "duration": 3.72,
+        "start_formatted": "22:43",
+        "text": "the best open model out there. I mean,"
+      },
+      {
+        "start": 1365.52,
+        "duration": 4.76,
+        "start_formatted": "22:45",
+        "text": "the gap between this and the next best"
+      },
+      {
+        "start": 1367.56,
+        "duration": 4.88,
+        "start_formatted": "22:47",
+        "text": "model MiniMax M3 is huge. And if you're"
+      },
+      {
+        "start": 1370.28,
+        "duration": 4.36,
+        "start_formatted": "22:50",
+        "text": "wondering about the new Kimikatsu 2.7"
+      },
+      {
+        "start": 1372.44,
+        "duration": 4.24,
+        "start_formatted": "22:52",
+        "text": "code that was also recently released,"
+      },
+      {
+        "start": 1374.64,
+        "duration": 3.8,
+        "start_formatted": "22:54",
+        "text": "that's all the way back here. Now,"
+      },
+      {
+        "start": 1376.68,
+        "duration": 3.88,
+        "start_formatted": "22:56",
+        "text": "what's even more impressive about this"
+      },
+      {
+        "start": 1378.44,
+        "duration": 4.16,
+        "start_formatted": "22:58",
+        "text": "is the price. So, even though it's close"
+      },
+      {
+        "start": 1380.56,
+        "duration": 5.52,
+        "start_formatted": "23:00",
+        "text": "to the level of the best GPT and the"
+      },
+      {
+        "start": 1382.6,
+        "duration": 6.72,
+        "start_formatted": "23:02",
+        "text": "best Opus, JLM 5.2 is way cheaper, like"
+      },
+      {
+        "start": 1386.08,
+        "duration": 5.92,
+        "start_formatted": "23:06",
+        "text": "half the cost of GPT 5.5 and five times"
+      },
+      {
+        "start": 1389.32,
+        "duration": 4.32,
+        "start_formatted": "23:09",
+        "text": "less than Claude Opus 4.8. So, if you're"
+      },
+      {
+        "start": 1392.0,
+        "duration": 4.2,
+        "start_formatted": "23:12",
+        "text": "looking for the most cost-efficient"
+      },
+      {
+        "start": 1393.64,
+        "duration": 5.28,
+        "start_formatted": "23:13",
+        "text": "option, which is just as performant, JLM"
+      },
+      {
+        "start": 1396.2,
+        "duration": 4.44,
+        "start_formatted": "23:16",
+        "text": "5.2 is definitely the best option. A few"
+      },
+      {
+        "start": 1398.92,
+        "duration": 3.8,
+        "start_formatted": "23:18",
+        "text": "other things to note here, if you look"
+      },
+      {
+        "start": 1400.64,
+        "duration": 4.12,
+        "start_formatted": "23:20",
+        "text": "at this artificial analysis on Mission's"
+      },
+      {
+        "start": 1402.72,
+        "duration": 5.32,
+        "start_formatted": "23:22",
+        "text": "hallucination rate, you can see that by"
+      },
+      {
+        "start": 1404.76,
+        "duration": 4.96,
+        "start_formatted": "23:24",
+        "text": "far JLM 5.2 has the lowest hallucination"
+      },
+      {
+        "start": 1408.04,
+        "duration": 4.04,
+        "start_formatted": "23:28",
+        "text": "rate compared to the other frontier"
+      },
+      {
+        "start": 1409.72,
+        "duration": 3.8,
+        "start_formatted": "23:29",
+        "text": "models. If you look at Opus 4.8, it's"
+      },
+      {
+        "start": 1412.08,
+        "duration": 4.12,
+        "start_formatted": "23:32",
+        "text": "all the way over here. And also note"
+      },
+      {
+        "start": 1413.52,
+        "duration": 5.76,
+        "start_formatted": "23:33",
+        "text": "that Claude Fable is over here, so JLM"
+      },
+      {
+        "start": 1416.2,
+        "duration": 5.8,
+        "start_formatted": "23:36",
+        "text": "5.2 hallucinates like 50% less than"
+      },
+      {
+        "start": 1419.28,
+        "duration": 4.76,
+        "start_formatted": "23:39",
+        "text": "Claude Fable. And then GPT 5.5 is all"
+      },
+      {
+        "start": 1422.0,
+        "duration": 4.48,
+        "start_formatted": "23:42",
+        "text": "the way over here. So, this hallucinates"
+      },
+      {
+        "start": 1424.04,
+        "duration": 5.4,
+        "start_formatted": "23:44",
+        "text": "like three to four times more than JLM"
+      },
+      {
+        "start": 1426.48,
+        "duration": 4.96,
+        "start_formatted": "23:46",
+        "text": "5.2. Notice that this 28% doesn't mean"
+      },
+      {
+        "start": 1429.44,
+        "duration": 4.52,
+        "start_formatted": "23:49",
+        "text": "it hallucinates 28% of the time on"
+      },
+      {
+        "start": 1431.44,
+        "duration": 3.92,
+        "start_formatted": "23:51",
+        "text": "average, it's just 28% of this"
+      },
+      {
+        "start": 1433.96,
+        "duration": 3.44,
+        "start_formatted": "23:53",
+        "text": "benchmark, which has really tricky"
+      },
+      {
+        "start": 1435.36,
+        "duration": 4.0,
+        "start_formatted": "23:55",
+        "text": "questions aimed to get the model to"
+      },
+      {
+        "start": 1437.4,
+        "duration": 4.0,
+        "start_formatted": "23:57",
+        "text": "hallucinate. So, if you're working in a"
+      },
+      {
+        "start": 1439.36,
+        "duration": 4.8,
+        "start_formatted": "23:59",
+        "text": "field that requires factually accurate"
+      },
+      {
+        "start": 1441.4,
+        "duration": 5.4,
+        "start_formatted": "24:01",
+        "text": "information like law or medicine, JLM"
+      },
+      {
+        "start": 1444.16,
+        "duration": 4.32,
+        "start_formatted": "24:04",
+        "text": "5.2 is actually the best frontier model"
+      },
+      {
+        "start": 1446.8,
+        "duration": 3.52,
+        "start_formatted": "24:06",
+        "text": "you can use right now. Now, some"
+      },
+      {
+        "start": 1448.48,
+        "duration": 4.32,
+        "start_formatted": "24:08",
+        "text": "doubters say that JLM might be"
+      },
+      {
+        "start": 1450.32,
+        "duration": 4.72,
+        "start_formatted": "24:10",
+        "text": "benchmarked, but here's a completely new"
+      },
+      {
+        "start": 1452.8,
+        "duration": 4.36,
+        "start_formatted": "24:12",
+        "text": "benchmark that didn't even exist before"
+      },
+      {
+        "start": 1455.04,
+        "duration": 4.24,
+        "start_formatted": "24:15",
+        "text": "JLM was released. So, artificial"
+      },
+      {
+        "start": 1457.16,
+        "duration": 4.8,
+        "start_formatted": "24:17",
+        "text": "analysis released this new benchmark"
+      },
+      {
+        "start": 1459.28,
+        "duration": 5.16,
+        "start_formatted": "24:19",
+        "text": "called AA briefcase, and this is their"
+      },
+      {
+        "start": 1461.96,
+        "duration": 4.68,
+        "start_formatted": "24:21",
+        "text": "new benchmark for testing models on long"
+      },
+      {
+        "start": 1464.44,
+        "duration": 4.32,
+        "start_formatted": "24:24",
+        "text": "horizon knowledge work tasks. So,"
+      },
+      {
+        "start": 1466.64,
+        "duration": 4.16,
+        "start_formatted": "24:26",
+        "text": "workflows or really complex projects"
+      },
+      {
+        "start": 1468.76,
+        "duration": 3.92,
+        "start_formatted": "24:28",
+        "text": "that need to be run for like many weeks,"
+      },
+      {
+        "start": 1470.8,
+        "duration": 4.24,
+        "start_formatted": "24:30",
+        "text": "and it's linked to many tasks and"
+      },
+      {
+        "start": 1472.68,
+        "duration": 4.2,
+        "start_formatted": "24:32",
+        "text": "thousands of input source files. These"
+      },
+      {
+        "start": 1475.04,
+        "duration": 3.88,
+        "start_formatted": "24:35",
+        "text": "were built by industry experts, and"
+      },
+      {
+        "start": 1476.88,
+        "duration": 4.84,
+        "start_formatted": "24:36",
+        "text": "after testing all these frontier models,"
+      },
+      {
+        "start": 1478.92,
+        "duration": 4.76,
+        "start_formatted": "24:38",
+        "text": "you can see that JLM 5.2 is actually"
+      },
+      {
+        "start": 1481.72,
+        "duration": 4.96,
+        "start_formatted": "24:41",
+        "text": "ranked number three, even beating the"
+      },
+      {
+        "start": 1483.68,
+        "duration": 5.36,
+        "start_formatted": "24:43",
+        "text": "best GPT and only slightly behind the"
+      },
+      {
+        "start": 1486.68,
+        "duration": 4.64,
+        "start_formatted": "24:46",
+        "text": "best Opus. You can't benchmark for a"
+      },
+      {
+        "start": 1489.04,
+        "duration": 4.56,
+        "start_formatted": "24:49",
+        "text": "benchmark that didn't even exist before."
+      },
+      {
+        "start": 1491.32,
+        "duration": 3.92,
+        "start_formatted": "24:51",
+        "text": "Now, it's important to refer to other"
+      },
+      {
+        "start": 1493.6,
+        "duration": 3.64,
+        "start_formatted": "24:53",
+        "text": "leaderboards to get a sense of how good"
+      },
+      {
+        "start": 1495.24,
+        "duration": 3.88,
+        "start_formatted": "24:55",
+        "text": "a model is because each leaderboard can"
+      },
+      {
+        "start": 1497.24,
+        "duration": 4.44,
+        "start_formatted": "24:57",
+        "text": "be very different. So, if you look at"
+      },
+      {
+        "start": 1499.12,
+        "duration": 5.44,
+        "start_formatted": "24:59",
+        "text": "this other leaderboard by LM Arena, you"
+      },
+      {
+        "start": 1501.68,
+        "duration": 6.64,
+        "start_formatted": "25:01",
+        "text": "can see that JLM 5.2 is all the way down"
+      },
+      {
+        "start": 1504.56,
+        "duration": 6.24,
+        "start_formatted": "25:04",
+        "text": "here in 10th place, even below GPT 5.4"
+      },
+      {
+        "start": 1508.32,
+        "duration": 5.0,
+        "start_formatted": "25:08",
+        "text": "and the older Opus models. And it seems"
+      },
+      {
+        "start": 1510.8,
+        "duration": 4.32,
+        "start_formatted": "25:10",
+        "text": "like it scored so low because it's not"
+      },
+      {
+        "start": 1513.32,
+        "duration": 4.04,
+        "start_formatted": "25:13",
+        "text": "as steerable as the other frontier"
+      },
+      {
+        "start": 1515.12,
+        "duration": 5.48,
+        "start_formatted": "25:15",
+        "text": "models. And if you look at LiveBench by"
+      },
+      {
+        "start": 1517.36,
+        "duration": 5.88,
+        "start_formatted": "25:17",
+        "text": "Abacus AI, note that JLM 5.2 is all the"
+      },
+      {
+        "start": 1520.6,
+        "duration": 5.96,
+        "start_formatted": "25:20",
+        "text": "way down here, even below the older Opus"
+      },
+      {
+        "start": 1523.24,
+        "duration": 5.12,
+        "start_formatted": "25:23",
+        "text": "models and below Gemini 3.1 Pro. And if"
+      },
+      {
+        "start": 1526.56,
+        "duration": 3.44,
+        "start_formatted": "25:26",
+        "text": "you look at the details of this, it"
+      },
+      {
+        "start": 1528.36,
+        "duration": 3.36,
+        "start_formatted": "25:28",
+        "text": "seems to do really well in terms of"
+      },
+      {
+        "start": 1530.0,
+        "duration": 4.0,
+        "start_formatted": "25:30",
+        "text": "agentic coding. In fact, this is the"
+      },
+      {
+        "start": 1531.72,
+        "duration": 4.92,
+        "start_formatted": "25:31",
+        "text": "model that scored the highest, but it's"
+      },
+      {
+        "start": 1534.0,
+        "duration": 4.72,
+        "start_formatted": "25:34",
+        "text": "not so good in terms of reasoning or"
+      },
+      {
+        "start": 1536.64,
+        "duration": 4.12,
+        "start_formatted": "25:36",
+        "text": "instruction following. Now, this model"
+      },
+      {
+        "start": 1538.72,
+        "duration": 4.44,
+        "start_formatted": "25:38",
+        "text": "is completely open weights under the MIT"
+      },
+      {
+        "start": 1540.76,
+        "duration": 5.4,
+        "start_formatted": "25:40",
+        "text": "license, which is super permissive, and"
+      },
+      {
+        "start": 1543.16,
+        "duration": 5.2,
+        "start_formatted": "25:43",
+        "text": "the full model is like 1.5 terabytes in"
+      },
+      {
+        "start": 1546.16,
+        "duration": 4.04,
+        "start_formatted": "25:46",
+        "text": "size. So, it's not going to be possible"
+      },
+      {
+        "start": 1548.36,
+        "duration": 4.88,
+        "start_formatted": "25:48",
+        "text": "for most consumers to run the full"
+      },
+      {
+        "start": 1550.2,
+        "duration": 5.48,
+        "start_formatted": "25:50",
+        "text": "model. But, behold the power of open"
+      },
+      {
+        "start": 1553.24,
+        "duration": 4.52,
+        "start_formatted": "25:53",
+        "text": "source. Because the model is released"
+      },
+      {
+        "start": 1555.68,
+        "duration": 4.12,
+        "start_formatted": "25:55",
+        "text": "already, people can fine-tune it and"
+      },
+      {
+        "start": 1557.76,
+        "duration": 4.36,
+        "start_formatted": "25:57",
+        "text": "mess with it however they want. So, in"
+      },
+      {
+        "start": 1559.8,
+        "duration": 5.12,
+        "start_formatted": "25:59",
+        "text": "just the span of like two days, we"
+      },
+      {
+        "start": 1562.12,
+        "duration": 4.68,
+        "start_formatted": "26:02",
+        "text": "already have a ton of different JLM 5.2"
+      },
+      {
+        "start": 1564.92,
+        "duration": 4.72,
+        "start_formatted": "26:04",
+        "text": "variants and fine-tunes from the"
+      },
+      {
+        "start": 1566.8,
+        "duration": 5.8,
+        "start_formatted": "26:06",
+        "text": "community. For example, Unsloth just"
+      },
+      {
+        "start": 1569.64,
+        "duration": 5.92,
+        "start_formatted": "26:09",
+        "text": "released very compressed GGUF versions"
+      },
+      {
+        "start": 1572.6,
+        "duration": 4.24,
+        "start_formatted": "26:12",
+        "text": "of JLM 5.2. So, they released many"
+      },
+      {
+        "start": 1575.56,
+        "duration": 3.88,
+        "start_formatted": "26:15",
+        "text": "different models of different"
+      },
+      {
+        "start": 1576.84,
+        "duration": 4.6,
+        "start_formatted": "26:16",
+        "text": "compression and sizes, so you can select"
+      },
+      {
+        "start": 1579.44,
+        "duration": 4.28,
+        "start_formatted": "26:19",
+        "text": "the one that fits your hardware. For"
+      },
+      {
+        "start": 1581.44,
+        "duration": 5.24,
+        "start_formatted": "26:21",
+        "text": "example, the smallest 1-bit version is"
+      },
+      {
+        "start": 1583.72,
+        "duration": 5.04,
+        "start_formatted": "26:23",
+        "text": "just 223 gigabytes, which is pretty"
+      },
+      {
+        "start": 1586.68,
+        "duration": 4.28,
+        "start_formatted": "26:26",
+        "text": "insane compression from like 1.5"
+      },
+      {
+        "start": 1588.76,
+        "duration": 5.24,
+        "start_formatted": "26:28",
+        "text": "terabytes. This can potentially be run"
+      },
+      {
+        "start": 1590.96,
+        "duration": 5.28,
+        "start_formatted": "26:30",
+        "text": "on just like two or three RTX 6000s or"
+      },
+      {
+        "start": 1594.0,
+        "duration": 3.8,
+        "start_formatted": "26:34",
+        "text": "just one or two DGX Sparks or even just"
+      },
+      {
+        "start": 1596.24,
+        "duration": 3.76,
+        "start_formatted": "26:36",
+        "text": "a Mac Studio. Though, I would not"
+      },
+      {
+        "start": 1597.8,
+        "duration": 4.28,
+        "start_formatted": "26:37",
+        "text": "recommend Apple for running local AI"
+      },
+      {
+        "start": 1600.0,
+        "duration": 4.4,
+        "start_formatted": "26:40",
+        "text": "because it's way slower. If you can,"
+      },
+      {
+        "start": 1602.08,
+        "duration": 4.64,
+        "start_formatted": "26:42",
+        "text": "always get Nvidia. So, that's the 1-bit"
+      },
+      {
+        "start": 1604.4,
+        "duration": 5.64,
+        "start_formatted": "26:44",
+        "text": "and then 2-bit is also pretty small and"
+      },
+      {
+        "start": 1606.72,
+        "duration": 4.84,
+        "start_formatted": "26:46",
+        "text": "accessible and only 245 gigabytes. Now,"
+      },
+      {
+        "start": 1610.04,
+        "duration": 3.4,
+        "start_formatted": "26:50",
+        "text": "with compression, of course, you're"
+      },
+      {
+        "start": 1611.56,
+        "duration": 4.2,
+        "start_formatted": "26:51",
+        "text": "going to get some degradation in"
+      },
+      {
+        "start": 1613.44,
+        "duration": 5.36,
+        "start_formatted": "26:53",
+        "text": "quality. So, here it says that the"
+      },
+      {
+        "start": 1615.76,
+        "duration": 5.24,
+        "start_formatted": "26:55",
+        "text": "one-bit model gets around 76% accuracy"
+      },
+      {
+        "start": 1618.8,
+        "duration": 4.56,
+        "start_formatted": "26:58",
+        "text": "compared to the full model, but it's"
+      },
+      {
+        "start": 1621.0,
+        "duration": 5.04,
+        "start_formatted": "27:01",
+        "text": "like 86% smaller. And then the two-bit"
+      },
+      {
+        "start": 1623.36,
+        "duration": 5.0,
+        "start_formatted": "27:03",
+        "text": "version gets 82% accuracy while being"
+      },
+      {
+        "start": 1626.04,
+        "duration": 4.6,
+        "start_formatted": "27:06",
+        "text": "84% smaller. So, it's still pretty"
+      },
+      {
+        "start": 1628.36,
+        "duration": 4.12,
+        "start_formatted": "27:08",
+        "text": "usable. It's not like these compressed"
+      },
+      {
+        "start": 1630.64,
+        "duration": 4.04,
+        "start_formatted": "27:10",
+        "text": "models are significantly dumber. So,"
+      },
+      {
+        "start": 1632.48,
+        "duration": 3.88,
+        "start_formatted": "27:12",
+        "text": "that's the power of open source. Because"
+      },
+      {
+        "start": 1634.68,
+        "duration": 3.16,
+        "start_formatted": "27:14",
+        "text": "the models are released, the community"
+      },
+      {
+        "start": 1636.36,
+        "duration": 3.4,
+        "start_formatted": "27:16",
+        "text": "can build on top of them and create"
+      },
+      {
+        "start": 1637.84,
+        "duration": 4.4,
+        "start_formatted": "27:17",
+        "text": "their own fine-tunes or more compressed"
+      },
+      {
+        "start": 1639.76,
+        "duration": 4.6,
+        "start_formatted": "27:19",
+        "text": "versions or even uncensored versions of"
+      },
+      {
+        "start": 1642.24,
+        "duration": 4.04,
+        "start_formatted": "27:22",
+        "text": "GLM. And in the span of just one or two"
+      },
+      {
+        "start": 1644.36,
+        "duration": 4.6,
+        "start_formatted": "27:24",
+        "text": "days, we already have a model that can"
+      },
+      {
+        "start": 1646.28,
+        "duration": 5.8,
+        "start_formatted": "27:26",
+        "text": "fit on high-end consumer devices. You"
+      },
+      {
+        "start": 1648.96,
+        "duration": 4.96,
+        "start_formatted": "27:28",
+        "text": "can potentially run GLM 5.2 at home. You"
+      },
+      {
+        "start": 1652.08,
+        "duration": 3.68,
+        "start_formatted": "27:32",
+        "text": "don't have to sell your house or kidney"
+      },
+      {
+        "start": 1653.92,
+        "duration": 3.72,
+        "start_formatted": "27:33",
+        "text": "to run this. If you're interested in"
+      },
+      {
+        "start": 1655.76,
+        "duration": 3.92,
+        "start_formatted": "27:35",
+        "text": "reading further, I'll link to this main"
+      },
+      {
+        "start": 1657.64,
+        "duration": 4.64,
+        "start_formatted": "27:37",
+        "text": "page in the description below. Also this"
+      },
+      {
+        "start": 1659.68,
+        "duration": 5.4,
+        "start_formatted": "27:39",
+        "text": "week, we have a new style transfer AI"
+      },
+      {
+        "start": 1662.28,
+        "duration": 5.36,
+        "start_formatted": "27:42",
+        "text": "called Telestyle V2. This is a really"
+      },
+      {
+        "start": 1665.08,
+        "duration": 5.0,
+        "start_formatted": "27:45",
+        "text": "easy way for you to apply the style of a"
+      },
+      {
+        "start": 1667.64,
+        "duration": 4.4,
+        "start_formatted": "27:47",
+        "text": "reference image onto a new image. For"
+      },
+      {
+        "start": 1670.08,
+        "duration": 4.24,
+        "start_formatted": "27:50",
+        "text": "example, let's say this is my input"
+      },
+      {
+        "start": 1672.04,
+        "duration": 4.8,
+        "start_formatted": "27:52",
+        "text": "image and I want to convert it into this"
+      },
+      {
+        "start": 1674.32,
+        "duration": 5.48,
+        "start_formatted": "27:54",
+        "text": "art style. Well, I can plug this through"
+      },
+      {
+        "start": 1676.84,
+        "duration": 4.44,
+        "start_formatted": "27:56",
+        "text": "Telestyle V2 and here's what I get. Or"
+      },
+      {
+        "start": 1679.8,
+        "duration": 3.6,
+        "start_formatted": "27:59",
+        "text": "here's another example. Let's say this"
+      },
+      {
+        "start": 1681.28,
+        "duration": 4.48,
+        "start_formatted": "28:01",
+        "text": "is the input image. I want to convert it"
+      },
+      {
+        "start": 1683.4,
+        "duration": 4.72,
+        "start_formatted": "28:03",
+        "text": "into this painting style. Well, here's"
+      },
+      {
+        "start": 1685.76,
+        "duration": 4.8,
+        "start_formatted": "28:05",
+        "text": "the result. Or let's say this is my"
+      },
+      {
+        "start": 1688.12,
+        "duration": 4.52,
+        "start_formatted": "28:08",
+        "text": "input image. I want to convert it into"
+      },
+      {
+        "start": 1690.56,
+        "duration": 4.28,
+        "start_formatted": "28:10",
+        "text": "this watercolor chibi style. After"
+      },
+      {
+        "start": 1692.64,
+        "duration": 4.36,
+        "start_formatted": "28:12",
+        "text": "plugging it through Telestyle V2, it"
+      },
+      {
+        "start": 1694.84,
+        "duration": 4.2,
+        "start_formatted": "28:14",
+        "text": "gives me this. Here are some additional"
+      },
+      {
+        "start": 1697.0,
+        "duration": 4.6,
+        "start_formatted": "28:17",
+        "text": "examples for your reference. Now, the"
+      },
+      {
+        "start": 1699.04,
+        "duration": 4.52,
+        "start_formatted": "28:19",
+        "text": "problem with older style transfer tools"
+      },
+      {
+        "start": 1701.6,
+        "duration": 4.12,
+        "start_formatted": "28:21",
+        "text": "is that they only work well in a very"
+      },
+      {
+        "start": 1703.56,
+        "duration": 4.16,
+        "start_formatted": "28:23",
+        "text": "narrow setup. For example, the content"
+      },
+      {
+        "start": 1705.72,
+        "duration": 4.44,
+        "start_formatted": "28:25",
+        "text": "image has to be realistic and the style"
+      },
+      {
+        "start": 1707.72,
+        "duration": 4.24,
+        "start_formatted": "28:27",
+        "text": "image has to be artistic. But sometimes,"
+      },
+      {
+        "start": 1710.16,
+        "duration": 3.64,
+        "start_formatted": "28:30",
+        "text": "if you mix those two up, then it doesn't"
+      },
+      {
+        "start": 1711.96,
+        "duration": 4.12,
+        "start_formatted": "28:31",
+        "text": "really transfer the style well. Well,"
+      },
+      {
+        "start": 1713.8,
+        "duration": 4.6,
+        "start_formatted": "28:33",
+        "text": "Telestyle V2 is able to handle all"
+      },
+      {
+        "start": 1716.08,
+        "duration": 4.72,
+        "start_formatted": "28:36",
+        "text": "different combinations. For example, you"
+      },
+      {
+        "start": 1718.4,
+        "duration": 4.68,
+        "start_formatted": "28:38",
+        "text": "can first take this input image and"
+      },
+      {
+        "start": 1720.8,
+        "duration": 3.8,
+        "start_formatted": "28:40",
+        "text": "convert it into these different styles,"
+      },
+      {
+        "start": 1723.08,
+        "duration": 3.04,
+        "start_formatted": "28:43",
+        "text": "but then you can also take these"
+      },
+      {
+        "start": 1724.6,
+        "duration": 3.92,
+        "start_formatted": "28:44",
+        "text": "different styles and then plug it"
+      },
+      {
+        "start": 1726.12,
+        "duration": 4.84,
+        "start_formatted": "28:46",
+        "text": "through Telestyle V2 again to convert it"
+      },
+      {
+        "start": 1728.52,
+        "duration": 4.68,
+        "start_formatted": "28:48",
+        "text": "into other styles. And it's able to"
+      },
+      {
+        "start": 1730.96,
+        "duration": 3.88,
+        "start_formatted": "28:50",
+        "text": "handle this very well. The awesome thing"
+      },
+      {
+        "start": 1733.2,
+        "duration": 3.32,
+        "start_formatted": "28:53",
+        "text": "is they've released the code to this"
+      },
+      {
+        "start": 1734.84,
+        "duration": 3.76,
+        "start_formatted": "28:54",
+        "text": "already. So, at the top of the page, if"
+      },
+      {
+        "start": 1736.52,
+        "duration": 4.0,
+        "start_formatted": "28:56",
+        "text": "you click on this code button, and you"
+      },
+      {
+        "start": 1738.6,
+        "duration": 4.08,
+        "start_formatted": "28:58",
+        "text": "scroll down a bit, here it contains all"
+      },
+      {
+        "start": 1740.52,
+        "duration": 4.48,
+        "start_formatted": "29:00",
+        "text": "the instructions on how to download and"
+      },
+      {
+        "start": 1742.68,
+        "duration": 5.04,
+        "start_formatted": "29:02",
+        "text": "run this locally on your computer. Here"
+      },
+      {
+        "start": 1745.0,
+        "duration": 4.84,
+        "start_formatted": "29:05",
+        "text": "they say that they tested it on an H100"
+      },
+      {
+        "start": 1747.72,
+        "duration": 4.2,
+        "start_formatted": "29:07",
+        "text": "with 80 GB, but you don't need that"
+      },
+      {
+        "start": 1749.84,
+        "duration": 4.2,
+        "start_formatted": "29:09",
+        "text": "much. This is based off of coin image"
+      },
+      {
+        "start": 1751.92,
+        "duration": 4.48,
+        "start_formatted": "29:11",
+        "text": "edit, which requires like just a mid to"
+      },
+      {
+        "start": 1754.04,
+        "duration": 4.08,
+        "start_formatted": "29:14",
+        "text": "high-end consumer CPU to run. If you're"
+      },
+      {
+        "start": 1756.4,
+        "duration": 3.64,
+        "start_formatted": "29:16",
+        "text": "interested in reading further, I'll link"
+      },
+      {
+        "start": 1758.12,
+        "duration": 4.0,
+        "start_formatted": "29:18",
+        "text": "to this main page in the description"
+      },
+      {
+        "start": 1760.04,
+        "duration": 4.56,
+        "start_formatted": "29:20",
+        "text": "below. Also, this week the image"
+      },
+      {
+        "start": 1762.12,
+        "duration": 4.8,
+        "start_formatted": "29:22",
+        "text": "generation company Midjourney is now"
+      },
+      {
+        "start": 1764.6,
+        "duration": 4.0,
+        "start_formatted": "29:24",
+        "text": "pivoting to building spas. But all jokes"
+      },
+      {
+        "start": 1766.92,
+        "duration": 3.96,
+        "start_formatted": "29:26",
+        "text": "aside, they just announced something"
+      },
+      {
+        "start": 1768.6,
+        "duration": 4.32,
+        "start_formatted": "29:28",
+        "text": "completely different from their image"
+      },
+      {
+        "start": 1770.88,
+        "duration": 4.68,
+        "start_formatted": "29:30",
+        "text": "generation platform. So, they announced"
+      },
+      {
+        "start": 1772.92,
+        "duration": 4.64,
+        "start_formatted": "29:32",
+        "text": "Midjourney Medical. It's not an image"
+      },
+      {
+        "start": 1775.56,
+        "duration": 3.96,
+        "start_formatted": "29:35",
+        "text": "generator, but instead this is a kind of"
+      },
+      {
+        "start": 1777.56,
+        "duration": 3.44,
+        "start_formatted": "29:37",
+        "text": "body scanner where you immerse yourself"
+      },
+      {
+        "start": 1779.52,
+        "duration": 3.8,
+        "start_formatted": "29:39",
+        "text": "in water. So, it's more like going to a"
+      },
+      {
+        "start": 1781.0,
+        "duration": 4.04,
+        "start_formatted": "29:41",
+        "text": "spa instead of seeing a doctor. Instead"
+      },
+      {
+        "start": 1783.32,
+        "duration": 3.36,
+        "start_formatted": "29:43",
+        "text": "of waiting for an MRI or booking"
+      },
+      {
+        "start": 1785.04,
+        "duration": 3.52,
+        "start_formatted": "29:45",
+        "text": "appointments, and only scanning your"
+      },
+      {
+        "start": 1786.68,
+        "duration": 3.4,
+        "start_formatted": "29:46",
+        "text": "body when something feels wrong,"
+      },
+      {
+        "start": 1788.56,
+        "duration": 3.68,
+        "start_formatted": "29:48",
+        "text": "Midjourney wants to create a system"
+      },
+      {
+        "start": 1790.08,
+        "duration": 4.56,
+        "start_formatted": "29:50",
+        "text": "where you can casually scan your body in"
+      },
+      {
+        "start": 1792.24,
+        "duration": 5.28,
+        "start_formatted": "29:52",
+        "text": "about just 60 seconds and track changes"
+      },
+      {
+        "start": 1794.64,
+        "duration": 4.68,
+        "start_formatted": "29:54",
+        "text": "over time. This prototype apparently can"
+      },
+      {
+        "start": 1797.52,
+        "duration": 3.32,
+        "start_formatted": "29:57",
+        "text": "build a much richer picture of your"
+      },
+      {
+        "start": 1799.32,
+        "duration": 4.16,
+        "start_formatted": "29:59",
+        "text": "health. Basically, they're trying to"
+      },
+      {
+        "start": 1800.84,
+        "duration": 5.12,
+        "start_formatted": "30:00",
+        "text": "make full body imaging faster, cheaper,"
+      },
+      {
+        "start": 1803.48,
+        "duration": 4.08,
+        "start_formatted": "30:03",
+        "text": "and more widespread. The scanner itself"
+      },
+      {
+        "start": 1805.96,
+        "duration": 4.48,
+        "start_formatted": "30:05",
+        "text": "actually sounds pretty wild. So, you"
+      },
+      {
+        "start": 1807.56,
+        "duration": 5.48,
+        "start_formatted": "30:07",
+        "text": "step into this pool of warm golden light"
+      },
+      {
+        "start": 1810.44,
+        "duration": 4.32,
+        "start_formatted": "30:10",
+        "text": "and slowly descend into water, and then"
+      },
+      {
+        "start": 1813.04,
+        "duration": 4.16,
+        "start_formatted": "30:13",
+        "text": "it's surrounded by these underwater"
+      },
+      {
+        "start": 1814.76,
+        "duration": 4.48,
+        "start_formatted": "30:14",
+        "text": "sensors, which use ultrasound. So, it's"
+      },
+      {
+        "start": 1817.2,
+        "duration": 4.48,
+        "start_formatted": "30:17",
+        "text": "kind of like how dolphins communicate"
+      },
+      {
+        "start": 1819.24,
+        "duration": 5.32,
+        "start_formatted": "30:19",
+        "text": "using echolocation. So, these sensors"
+      },
+      {
+        "start": 1821.68,
+        "duration": 4.32,
+        "start_formatted": "30:21",
+        "text": "send sound waves through your body from"
+      },
+      {
+        "start": 1824.56,
+        "duration": 3.6,
+        "start_formatted": "30:24",
+        "text": "many different angles, and they listen"
+      },
+      {
+        "start": 1826.0,
+        "duration": 3.56,
+        "start_formatted": "30:26",
+        "text": "to how these waves bounce and change."
+      },
+      {
+        "start": 1828.16,
+        "duration": 3.68,
+        "start_formatted": "30:28",
+        "text": "And then they use that data to"
+      },
+      {
+        "start": 1829.56,
+        "duration": 3.84,
+        "start_formatted": "30:29",
+        "text": "reconstruct what's inside you. Think of"
+      },
+      {
+        "start": 1831.84,
+        "duration": 3.96,
+        "start_formatted": "30:31",
+        "text": "it as like taking thousands and"
+      },
+      {
+        "start": 1833.4,
+        "duration": 4.72,
+        "start_formatted": "30:33",
+        "text": "thousands of sound-based snapshots of"
+      },
+      {
+        "start": 1835.8,
+        "duration": 4.92,
+        "start_formatted": "30:35",
+        "text": "your body from every direction, and then"
+      },
+      {
+        "start": 1838.12,
+        "duration": 4.84,
+        "start_formatted": "30:38",
+        "text": "using all of that data to recreate a 3D"
+      },
+      {
+        "start": 1840.72,
+        "duration": 4.6,
+        "start_formatted": "30:40",
+        "text": "map of your body. Midjourney says the"
+      },
+      {
+        "start": 1842.96,
+        "duration": 4.52,
+        "start_formatted": "30:42",
+        "text": "goal is for the entire scan to take no"
+      },
+      {
+        "start": 1845.32,
+        "duration": 4.12,
+        "start_formatted": "30:45",
+        "text": "more than 60 seconds. You go into the"
+      },
+      {
+        "start": 1847.48,
+        "duration": 4.28,
+        "start_formatted": "30:47",
+        "text": "water, you come out, and you're done."
+      },
+      {
+        "start": 1849.44,
+        "duration": 5.12,
+        "start_formatted": "30:49",
+        "text": "The technical side is pretty crazy. So,"
+      },
+      {
+        "start": 1851.76,
+        "duration": 5.56,
+        "start_formatted": "30:51",
+        "text": "the scanner uses a ring made of around"
+      },
+      {
+        "start": 1854.56,
+        "duration": 4.84,
+        "start_formatted": "30:54",
+        "text": "half a million tiny elements, each about"
+      },
+      {
+        "start": 1857.32,
+        "duration": 4.16,
+        "start_formatted": "30:57",
+        "text": "the size of a grain of sand. Then, each"
+      },
+      {
+        "start": 1859.4,
+        "duration": 4.88,
+        "start_formatted": "30:59",
+        "text": "one sends out ultrasound waves and"
+      },
+      {
+        "start": 1861.48,
+        "duration": 4.8,
+        "start_formatted": "31:01",
+        "text": "record the returning ripples millions of"
+      },
+      {
+        "start": 1864.28,
+        "duration": 4.84,
+        "start_formatted": "31:04",
+        "text": "times per second, producing terabytes of"
+      },
+      {
+        "start": 1866.28,
+        "duration": 4.36,
+        "start_formatted": "31:06",
+        "text": "data every second. That's pretty crazy."
+      },
+      {
+        "start": 1869.12,
+        "duration": 3.12,
+        "start_formatted": "31:09",
+        "text": "So, this isn't just a medical device"
+      },
+      {
+        "start": 1870.64,
+        "duration": 3.72,
+        "start_formatted": "31:10",
+        "text": "problem. This is also a massive"
+      },
+      {
+        "start": 1872.24,
+        "duration": 5.2,
+        "start_formatted": "31:12",
+        "text": "computing problem. The hard part is"
+      },
+      {
+        "start": 1874.36,
+        "duration": 5.12,
+        "start_formatted": "31:14",
+        "text": "taking all of this wave pattern data and"
+      },
+      {
+        "start": 1877.44,
+        "duration": 3.88,
+        "start_formatted": "31:17",
+        "text": "turning them into useful images."
+      },
+      {
+        "start": 1879.48,
+        "duration": 3.6,
+        "start_formatted": "31:19",
+        "text": "Apparently, they say it's able to do so"
+      },
+      {
+        "start": 1881.32,
+        "duration": 4.08,
+        "start_formatted": "31:21",
+        "text": "because these waves behave differently"
+      },
+      {
+        "start": 1883.08,
+        "duration": 5.08,
+        "start_formatted": "31:23",
+        "text": "when they pass through water, skin, fat,"
+      },
+      {
+        "start": 1885.4,
+        "duration": 5.16,
+        "start_formatted": "31:25",
+        "text": "bone, muscle, organs, and so the system"
+      },
+      {
+        "start": 1888.16,
+        "duration": 5.08,
+        "start_formatted": "31:28",
+        "text": "can use these differences to reconstruct"
+      },
+      {
+        "start": 1890.56,
+        "duration": 5.08,
+        "start_formatted": "31:30",
+        "text": "a detailed internal map of the body."
+      },
+      {
+        "start": 1893.24,
+        "duration": 5.12,
+        "start_formatted": "31:33",
+        "text": "They say it's similar to today's MRI"
+      },
+      {
+        "start": 1895.64,
+        "duration": 5.48,
+        "start_formatted": "31:35",
+        "text": "scanning technology, but at nearly 100"
+      },
+      {
+        "start": 1898.36,
+        "duration": 4.72,
+        "start_formatted": "31:38",
+        "text": "times the speed. The interesting part is"
+      },
+      {
+        "start": 1901.12,
+        "duration": 3.4,
+        "start_formatted": "31:41",
+        "text": "how they want people to experience it."
+      },
+      {
+        "start": 1903.08,
+        "duration": 3.52,
+        "start_formatted": "31:43",
+        "text": "They're not building a scanner and"
+      },
+      {
+        "start": 1904.52,
+        "duration": 4.48,
+        "start_formatted": "31:44",
+        "text": "putting it in a clinic. Instead, they're"
+      },
+      {
+        "start": 1906.6,
+        "duration": 5.64,
+        "start_formatted": "31:46",
+        "text": "building the Midjourney Spa. This is"
+      },
+      {
+        "start": 1909.0,
+        "duration": 5.96,
+        "start_formatted": "31:49",
+        "text": "first planned for San Francisco in 2027"
+      },
+      {
+        "start": 1912.24,
+        "duration": 4.16,
+        "start_formatted": "31:52",
+        "text": "with hot tubs, saunas, cold plunges, and"
+      },
+      {
+        "start": 1914.96,
+        "duration": 3.56,
+        "start_formatted": "31:54",
+        "text": "scanning pools built into the"
+      },
+      {
+        "start": 1916.4,
+        "duration": 4.56,
+        "start_formatted": "31:56",
+        "text": "experience. So, you go to the spa, you"
+      },
+      {
+        "start": 1918.52,
+        "duration": 4.64,
+        "start_formatted": "31:58",
+        "text": "enjoy the space, and then you also get a"
+      },
+      {
+        "start": 1920.96,
+        "duration": 4.28,
+        "start_formatted": "32:00",
+        "text": "body scan there. The road map is pretty"
+      },
+      {
+        "start": 1923.16,
+        "duration": 3.64,
+        "start_formatted": "32:03",
+        "text": "ambitious. So, over the next year,"
+      },
+      {
+        "start": 1925.24,
+        "duration": 4.0,
+        "start_formatted": "32:05",
+        "text": "Midjourney says they'll refine the"
+      },
+      {
+        "start": 1926.8,
+        "duration": 4.72,
+        "start_formatted": "32:06",
+        "text": "algorithms and hardware, run research"
+      },
+      {
+        "start": 1929.24,
+        "duration": 4.44,
+        "start_formatted": "32:09",
+        "text": "trials, and build better prototypes, and"
+      },
+      {
+        "start": 1931.52,
+        "duration": 4.28,
+        "start_formatted": "32:11",
+        "text": "prepare the first research spa. They"
+      },
+      {
+        "start": 1933.68,
+        "duration": 4.0,
+        "start_formatted": "32:13",
+        "text": "also point out that regulation is a huge"
+      },
+      {
+        "start": 1935.8,
+        "duration": 4.64,
+        "start_formatted": "32:15",
+        "text": "bottleneck here because these medical"
+      },
+      {
+        "start": 1937.68,
+        "duration": 4.56,
+        "start_formatted": "32:17",
+        "text": "features usually require FDA approval."
+      },
+      {
+        "start": 1940.44,
+        "duration": 4.0,
+        "start_formatted": "32:20",
+        "text": "So, they're starting with detailed body"
+      },
+      {
+        "start": 1942.24,
+        "duration": 4.48,
+        "start_formatted": "32:22",
+        "text": "composition maps first while submitting"
+      },
+      {
+        "start": 1944.44,
+        "duration": 4.72,
+        "start_formatted": "32:24",
+        "text": "test results for expanded capabilities"
+      },
+      {
+        "start": 1946.72,
+        "duration": 4.84,
+        "start_formatted": "32:26",
+        "text": "over time. And then, in 2028, they want"
+      },
+      {
+        "start": 1949.16,
+        "duration": 4.4,
+        "start_formatted": "32:29",
+        "text": "to scale to more cities and move to an"
+      },
+      {
+        "start": 1951.56,
+        "duration": 3.76,
+        "start_formatted": "32:31",
+        "text": "even better scanner with custom silicon"
+      },
+      {
+        "start": 1953.56,
+        "duration": 4.56,
+        "start_formatted": "32:33",
+        "text": "where they expect much better image"
+      },
+      {
+        "start": 1955.32,
+        "duration": 4.44,
+        "start_formatted": "32:35",
+        "text": "quality and scan speed. The core idea is"
+      },
+      {
+        "start": 1958.12,
+        "duration": 4.76,
+        "start_formatted": "32:38",
+        "text": "indeed fascinating, but this is a"
+      },
+      {
+        "start": 1959.76,
+        "duration": 4.92,
+        "start_formatted": "32:39",
+        "text": "completely different pivot compared to"
+      },
+      {
+        "start": 1962.88,
+        "duration": 3.64,
+        "start_formatted": "32:42",
+        "text": "what they're known for, which is image"
+      },
+      {
+        "start": 1964.68,
+        "duration": 4.12,
+        "start_formatted": "32:44",
+        "text": "generation. So, I'm not sure if they"
+      },
+      {
+        "start": 1966.52,
+        "duration": 3.72,
+        "start_formatted": "32:46",
+        "text": "have the talent or expertise to pull"
+      },
+      {
+        "start": 1968.8,
+        "duration": 2.84,
+        "start_formatted": "32:48",
+        "text": "this off. Let me know in the comments"
+      },
+      {
+        "start": 1970.24,
+        "duration": 3.12,
+        "start_formatted": "32:50",
+        "text": "what you think of this. If you're"
+      },
+      {
+        "start": 1971.64,
+        "duration": 3.64,
+        "start_formatted": "32:51",
+        "text": "interested in reading further, I'll link"
+      },
+      {
+        "start": 1973.36,
+        "duration": 4.08,
+        "start_formatted": "32:53",
+        "text": "to this main page in the description"
+      },
+      {
+        "start": 1975.28,
+        "duration": 5.16,
+        "start_formatted": "32:55",
+        "text": "below. And that sums up all the"
+      },
+      {
+        "start": 1977.44,
+        "duration": 4.52,
+        "start_formatted": "32:57",
+        "text": "highlights in AI this week. Let me know"
+      },
+      {
+        "start": 1980.44,
+        "duration": 3.32,
+        "start_formatted": "33:00",
+        "text": "in the comments what you think of all of"
+      },
+      {
+        "start": 1981.96,
+        "duration": 4.04,
+        "start_formatted": "33:01",
+        "text": "this. Which piece of news was your"
+      },
+      {
+        "start": 1983.76,
+        "duration": 4.72,
+        "start_formatted": "33:03",
+        "text": "favorite and which tool are you most"
+      },
+      {
+        "start": 1986.0,
+        "duration": 4.76,
+        "start_formatted": "33:06",
+        "text": "looking forward to trying out? As"
+      },
+      {
+        "start": 1988.48,
+        "duration": 5.16,
+        "start_formatted": "33:08",
+        "text": "always, I will be on the lookout for the"
+      },
+      {
+        "start": 1990.76,
+        "duration": 4.92,
+        "start_formatted": "33:10",
+        "text": "top AI news and tools to share with you."
+      },
+      {
+        "start": 1993.64,
+        "duration": 4.0,
+        "start_formatted": "33:13",
+        "text": "So, if you enjoyed this video, remember"
+      },
+      {
+        "start": 1995.68,
+        "duration": 4.32,
+        "start_formatted": "33:15",
+        "text": "to like, share, subscribe, and stay"
+      },
+      {
+        "start": 1997.64,
+        "duration": 4.16,
+        "start_formatted": "33:17",
+        "text": "tuned for more content. Also, there's"
+      },
+      {
+        "start": 2000.0,
+        "duration": 4.16,
+        "start_formatted": "33:20",
+        "text": "just so much happening in the world of"
+      },
+      {
+        "start": 2001.8,
+        "duration": 4.88,
+        "start_formatted": "33:21",
+        "text": "AI every week, I can't possibly cover"
+      },
+      {
+        "start": 2004.16,
+        "duration": 4.84,
+        "start_formatted": "33:24",
+        "text": "everything on my YouTube channel. So, to"
+      },
+      {
+        "start": 2006.68,
+        "duration": 4.96,
+        "start_formatted": "33:26",
+        "text": "really stay up-to-date with all that's"
+      },
+      {
+        "start": 2009.0,
+        "duration": 4.92,
+        "start_formatted": "33:29",
+        "text": "going on in AI, be sure to subscribe to"
+      },
+      {
+        "start": 2011.64,
+        "duration": 4.24,
+        "start_formatted": "33:31",
+        "text": "my free weekly newsletter. The link to"
+      },
+      {
+        "start": 2013.92,
+        "duration": 4.04,
+        "start_formatted": "33:33",
+        "text": "that will be in the description below."
+      },
+      {
+        "start": 2015.88,
+        "duration": 4.76,
+        "start_formatted": "33:35",
+        "text": "Thanks for watching, and I'll see you in"
+      },
+      {
+        "start": 2017.96,
+        "duration": 2.68,
+        "start_formatted": "33:37",
+        "text": "the next one."
+      }
+    ],
+    "full_text": "AI never sleeps and this week has been absolutely insane. Your full body robot waifu is coming soon. The new number one open source model GLM 5.2 takes the industry by storm and now you can even run this locally on high-end consumer devices. We have a new open source image model which can also edit images just like Nano banana. We also have a new open video editor that's super consistent. Midjourney, the image generation company, now turns into a spa hotel. Like seriously, we have an incredibly powerful and open source world generator. Alibaba releases an open unified model for science. It can understand things like proteins, small molecules, chemical reactions and more. We have some ridiculous humanoid robot demos and a lot more. So let's jump right in. First up, we have a new world model called DreamXWorld. With just a prompt or reference images, this lets you create a world that can be explored, controlled, and changed with actions or event prompts. Basically, it takes in instructions like movements or camera control or events and outputs this environment which keeps updating and evolving over time. Notice that this is super flexible. This works with a ton of different subjects and environments. For example, you can even add this drone here or ride a motorcycle like this or drive a car or do a variety of different stuff. Now, what's interesting is that it's trained on a mix of Unreal Engine and gameplay data as well as real world videos. So it learns both realistic movement and more game-like interaction. It can generate really long videos over hundreds of frames with persistent memory. So even if you look away and you look back, the scene remains consistent the whole time. Especially if you compare this with other similar models like Ling Bot World or HY World Play, then as you can see DreamXWorld is even more consistent. The awesome thing is they released this already. So if you scroll up to the top and you click on this code button and you scroll down a bit, here it contains all the instructions on how to download and run this locally on your computer. Note that this is based off of 12.2. There's a smaller 5 billion parameter version, which is what they released now, but they're also planning to release a larger and better quality 14B version in the future. Currently, this 5B version is fairly tiny at like 21 GB in size, so you should be able to fit this on both consumer devices. If you're interested in reading further, I'll link to this main page in the description below. Also this week, we have a new AI called Permavid. This is focused on one of the biggest problems in AI video editing, which is consistency. Right now, when you edit a generated video, for example, adding an object or replacing an object or changing the style of the video, the model often forgets the change later on. So, it doesn't really have nice persistent memory, and its edits are not really consistent. But, Permavid tries to fix this by giving the video a better memory system. Think of it like two separate memory banks. One remembers what things look like, and the other remembers the 3D structure behind the scene. So, if you make a global edit like changing the whole style, it can keep the geometry stable while carrying the new look forward. And if you make a local edit like changing an object, it can remember that object while keeping the rest of the scene untouched. In other words, it separates appearance from structure, which makes long video edits much more stable over time. Now, at the top of the page, there's a code button, so if you click on this and you scroll down a bit, it contains all the instructions on how to download and run this locally on your computer. Note that this is 29 GB in size, and this uses 12.1 and Vace as the base video generator. So, you'll need a high-end GPU to be able to fit everything. Plus, they also released the data set to this, which is like over 400 GB. If you're interested in reading further, I'll link to this main page in the description below. Also this week, we have a new AI from Kling called Omni Director. This is a system that allows you to clone the camera motion of a video onto another video. So here are some examples of this in action. This is really important because instead of just describing the camera movement with a text prompt like pan left or zoom in, instead you can now give it a reference video and it learns the camera behavior from that video. Then it uses that to animate a new source image. So basically, the input is a reference video with camera motion plus a new image and it would generate a new video from that new image based on the camera movement. What's really cool is that it supports much more than just simple pans and tilts. It can also do quite dramatic aerial moves and diving motions, multi-shot sequences, and coherent transitions. For example, here notice that the reference video on the left is made of two different shots. It's able to apply the same cut on the reference video. Here's another example where for the reference video, we have a third-person shot of the biker and then a first-person view of the biker. Well, it's able to apply the same thing to this eagle flying in the sky. And it's also able to separate this clip into multiple shots just like the reference video. Or here's another example where we can apply the exact camera movements from an ad onto a completely different video. The really cool thing is that this can even handle special techniques like dolly zooms or bullet time effects or lens distortions. So here's a bullet time effect and then here's a dolly zoom effect and here's some really wide fish eye distortion. It's able to understand this and apply it to the new video. Now at the top, they have released a code button, but currently they haven't released any code or models yet. Hopefully they will open source this. For now, if you're interested in reading further, I'll link to this main page in the description below. Also this week we have a very performant open source image generator and editor called Boo Goo Image. What a crazy name by the way. So this is an image model just like Nano Banana or GPT Image. Not only can this generate images using a text prompt, but this can also take in reference images and edit images. So here are some examples. You can see it's able to generate really photorealistic images like this. And it's also great at generating text and infographics and posters. So you can feed it a ton of instructions and text in your prompt and it's able to handle and generate all of these different components. Here are some additional examples for your reference. And it's also pretty good at handling anatomy. It has a really good world understanding of like different company logos or celebrities or even existing interfaces like Instagram or TikTok. So for example, you could get it to generate an Instagram profile screenshot like this. Pretty impressive. Here if you look at their leaderboard called Boo Goo Arena, then here they claim that it does outperform existing open source image generators like Z Image or Kwan or Hi Dream. Same with image editing. So here they claim that it's even better than other image editors like Kwan Image Edit or Long Cat Image Edit. Although they didn't include Flux Client on this list. Now for my initial test, I actually did not find it as good as Z Image for photorealistic stuff. And it's not as good as Flux Client in terms of photo editing. Plus this does tend to generate slower than Flux. So that's why I'm on the fence of doing a full tutorial on it. I don't think the quality is as good as the best open image models out there right now. If you scroll up to the top of the page, they have released a GitHub to this. So if you click on this button and you scroll down here, it contains all the instructions on how to download and run this locally on your computer. Plus support for ComfyUI is already here. The really awesome thing about this is it's under the Apache 2 license, which has very minimal restrictions. You can even use this for commercial purposes. Whereas the best open image generator out there, Audiogram 4, has a quite restrictive non-commercial license. Same with the best open image editor out there, Flux Klein, it's also, I believe, under their own Flux license. So, this new Boogoo model is much more permissive. Note that there are two different types of models. There's a base model, which is just like text-to-image, and then there's an edit model, which is for editing images. Now, the full base model is 20 GB in size. The FP8 version is a bit smaller at 10 GB. They also have a turbo version, which allows you to generate images a lot faster at only four steps, but at the sacrifice of some quality. And then, in terms of image edit, they don't have a turbo version, they only have the full model, which is also 20 GB in size, and a compressed FP8 version, which is roughly 10 GB. You should be able to fit this on like medium-to-high-end GPUs. If you're interested in reading further, I'll link to this main page in the description below. Also this week, we have something called Universal Manipulation Exoskeleton built by Alibaba's Ant Group. As you can see from this video, this is a wearable robot control system for teaching robots how to move and handle real-world physical tasks. So, the human would wear this upper body exoskeleton, and this allows it to control a robot by cloning their exact movements. The system records both the arm motion and also the force or torque feedback. So, it doesn't just capture where or how the human moves, but also what the human feels when touching, pushing, pulling, or manipulating objects. And this is important because, especially with household robots, they need to deal with contact. They need to understand when something is stuck or heavy or blocked or hidden from view. So, these demos are very hands-on. So, with this, you can first demonstrate how to do a ton of different household tasks, and then afterwards it will be able to learn how to do these autonomously. So, here's the training process, and then afterwards the robot can just open the fridge and take out a can of Coke by itself. Currently, they haven't released anything yet, but here it says the code is coming soon, so hopefully they will open source this. For now, if you're interested in reading further, I'll link to this main page in the description below. Also this week, the Tongyi Lab from Alibaba releases a really useful AI model for science. It's called Logos, which stands for language of generative objects, and here's some background on this idea. You see, science has many different domains or languages. For example, we have proteins, small molecules, materials, antibodies, reaction systems, and each domain has their own format. For example, a protein is built completely differently compared to a small molecule. Well, Logos is basically an AI model that tries to understand all of this in just one shared grammar. Think of it as like a unified model for understanding all these different domains. Now, in simple terms, it breaks data from all these different subjects down into tokens, and then they trained a model on that. Much like how a large language models turn words into tokens and then learn how to understand, predict, and generate natural language. So, without going into that much detail, it's essentially the same thing, but instead of training it on English, this model learns how to predict and generate across multiple scientific domains. This means the same framework can be used for things like designing proteins or antibodies, predicting binding sites, or generating materials, and so on and so forth. Now, they released a family of three different models. The largest is 8 billion parameters, whereas the smallest is 1 billion. But as you can see, if you compare this with other similar competitors, this model is a lot more performant across all these different benchmarks, including ligand design and material generation and protein editing and antibody design. And the awesome thing is they released this. So, on this page, it contains all the instructions on how to download and run this locally on your computer. And this is under the Apache 2 license, which has very minimal restrictions. You can even use this for commercial purposes. If you look at the largest 8 billion parameter model, this is fairly tiny at only 16 GB in size. So, you should be able to run this on like most consumer devices. If you're interested in reading further, I'll this main page in the description below. Also this week, we have LT X trainer 2, which is a training and fine-tuning package for the video model LT X. If you're not familiar with LT X, their latest 2.3 model is like the leading open-source video model with audio natively built in. If you're interested in learning more, see this video for a full tutorial. Well, this week they released something called LT X 2 trainer, which allows you to train and fine-tune this LT X model. For example, if you want a model to consistently generate a certain character or object or VFX, you can plug your data through this to train a Laura from it. Now, this is a super flexible platform. It supports various workflows like extension, video inpainting and outpainting, as well as text to audio, audio extension or inpainting, video to video transformations. So, if you want to get LT X to create a really specific thing, whether it's a character or camera effect, or a certain style of transformation, this is the official way to fine-tune a model on that. Now, on this page, it contains a quick start guide plus the data set preparation instructions and everything else you need to know to run this. If you're interested in reading further, I'll link to this main page in the description below. Also this week, OpenAI releases a feature which I think is really useful. It's called record and replay, and just like the name implies, here's how it works. You can just take a screen recording of you doing a certain task and then feed that video into Codex. Codex watches and understands what you did and then turns that process into a reusable skill. So, here's a demo of how this works. >> This time, I'm going to have Codex watch me so it can learn how we do it. As I go, I pull in the title and description, add the thumbnail and English captions, and save the video as private. When I'm done, Codex reviews the recording and turns what it learned into a skill. It remembers where our metadata lives, how the upload package is organized, and how we add captions, save, and verify each upload. Now, I'm going to open a fresh thread, attach the next video package, and ask Codex to handle it. And now Codex handles this next one for me. It matches the package to the right row in the spreadsheet, fills in the metadata, adds the thumbnail and English captions, uploads the video as private, and then verifies [music] everything was saved correctly. >> You can see how powerful this is, especially for workflows where it's really hard to just describe with text. Instead, you can just take a screen recording of you doing the entire workflow. This could be like filing an expense or booking something, publishing a video, whatever your workflow might be, you can just feed that recording of yourself doing it through Codex and it can create a skill which can be used again. Now, it doesn't work all of the time, so the catch is that it works best when the workflow is stable and the success criteria is clear. Currently, to say that this feature is only available on Mac OS with computer use enabled and it's currently not available in the EU or related areas. But, you know, this is a really useful feature. This makes automation feel less like randomly prompting an AI agent and hoping it gets it right to more like training an AI assistant by just demonstrating it yourself. Hopefully, they will also release this for the Windows Codex app in the future. If you're interested in reading further, I'll link to this main page in the description below. In robotics news, this week we have an incredibly impressive demo from this autonomous table tennis robot called Ace. Now, we've had plenty of these table tennis robots before, but previous ones were pretty bad. This one actually played against a professional human player and it absolutely dominated the game. So, this robot is by Sony and as you can see, the impressive thing is, if you've ever played table tennis mildly seriously, you'll know it's not just like hitting the ball. It's actually entirely dictated by spin. So, like slicing the ball, there's top spin, back spin, side spin. The ball doesn't just bounce in a straight line. So, for a robot to actually successfully play against a pro player and return shots from a pro player, it needs to have real-time spin detection. It needs to have a vision system that calculates the ball's rotations and the axis of spin in like less than milliseconds just by watching it. And then, it also needs to know how to slice the ball and do these different types of spins itself when it hits the ball. This is much harder to train compared with just getting a paddle to hit the ball at any angle. Now, this robot doesn't have legs, so this is mounted on a heavy-duty motorized rail, but it has incredible high-speed latency and actuations. It has to like instantly move its entire mass from left to right, also adjust its arm's wrist angle and strike the ball within a fraction of a second. Table tennis is incredibly fast and it's even faster when you play with a professional human player. So, it needs to be able to react to incoming balls almost instantly. And you can see how it plays is also really impressive. It like kind of uses an adaptive strategy. It's not just mindlessly or passively trying to save balls or just hit the ball back. It actively changes the ball's placement or spin to force the human player into making mistakes. It's like actively trying to beat the human player. So, a very impressive demo. This is like by far the best robot we have right now in terms of playing table tennis. Now, speaking of table tennis, we also have another demo, this time from the AGI-bot A3, and this is able to also autonomously play table tennis against a human. Now, this is not as impressive as the Sony demo from before. However, this is just a humanoid robot designed to do a ton of other stuff like manipulating objects, walking up and down stairs, moving things, etc. Plus, this looks more like a human with two legs. So, not only does it have to maintain balance of its body, but also react to and hit the ball in a matter of seconds. In fact, they say this is powered by something called the Spike Ping Pong algorithm by the Peking University, and this allows its vision response to be 10 times faster and enables millimeter-level precision for continuous rallies, trajectory tracking, and whole-body planning. Very impressive how it's actually able to do this while maintaining balance on two legs. Also, this week we have a new full-body waifu demo. So, this company called Droid Up teases their full-body humanoid robot called Moya. You can see that this robot's face is moderately realistic. She can blink and tilt her head, and even demonstrate some facial expressions. And you can see how from this demo this robot is intended for companionship. It's also able to do some chores, so it's like picking up this bottle of orange juice and walking back to the desk. It's even able to pour a glass for the woman. Or this could also be used for elderly care, as you can see over here. Now, I would say her face isn't as realistic as some of the other waifu humanoids I featured before. The face of this Moya one seems to be kind of rigid and hard. Something just looks off about this face. Maybe it's the shape of the facial features as well. Something just doesn't really look human. But if you're looking for a full-body robot waifu, here's another option to put on your radar. Also this week, OpenAI showed a near-autonomous AI chemist that actually improved a real medicinal chemistry reaction. Not just on paper, but in an actual lab experiment. So the basic idea is this. They connected GPT to this Maria system, which is like an AI chemistry platform hooked into a high-throughput lab. And they gave it a pretty open-ended goal. Find a way to improve an important class of reactions. That's pretty much it. The model came up with research ideas, helped design the experiments, analyzed the results, and even suggested follow-up experiments while the human chemist stayed in the loop for steering corrections, and actually doing the lab operations. Now, the reaction it focused on is called the Chan-Lam reaction. This is quite technical, but basically it's a way to connect molecules by forming carbon-nitrogen bonds. And this matters because these kinds of bonds show up all over medicinal chemistry. And the specific challenge here was with the sulfonamides, which are like useful drug-like chemical groups. Now, in the past this reaction has not worked very well with them. So GPT suggested using this oxidant called TEMPO as an additive, and then after they tested this at scale and found that indeed this TEMPO additive significantly improved the yield of that reaction. Here are some further graphs showing how this new tempo additive identified by GPT was able to significantly outperform all other oxidants. So, that's pretty cool. This is an AI system that can help move through the scientific loop. It can read, propose, test, analyze, and refine. In chemistry, this is usually really slow and expensive with a bunch of dead ends. But, with the help of AI, we can actually automate a ton of different steps in this workflow. And here they showed that it actually helped make a genuine discovery in medicinal chemistry. At the top here, they released a full technical paper on this with even more details. If you're interested in reading further, I'll link to this main page in the description below. Also this week, by far the best open model was released. It's called GLM 5.2. Now, this is from my favorite lab ZAI. I've mentioned this countless times on my channel before. I have high expectations of them, but even this release caught me by surprise. You see, the previous model was just 5.1, so I thought 5.2 would just be a tiny upgrade, but it's actually much bigger than I thought. I already did a full review video on it this week with a ton of impressive demos, so see this if you want to learn more. I'm not going to repeat anything from that video, but after that was published, we have a ton of new data on its performance on various benchmarks and leaderboards. So, let's go into some more detail. First of all, GLM 5.2 is finally published on Artificial Analysis. So, if you look at their Intelligence Index, then you can see it's among the best of the best models out there, only behind the best GPT and the best Claude. And it's by far the best open model out there. I mean, the gap between this and the next best model MiniMax M3 is huge. And if you're wondering about the new Kimikatsu 2.7 code that was also recently released, that's all the way back here. Now, what's even more impressive about this is the price. So, even though it's close to the level of the best GPT and the best Opus, JLM 5.2 is way cheaper, like half the cost of GPT 5.5 and five times less than Claude Opus 4.8. So, if you're looking for the most cost-efficient option, which is just as performant, JLM 5.2 is definitely the best option. A few other things to note here, if you look at this artificial analysis on Mission's hallucination rate, you can see that by far JLM 5.2 has the lowest hallucination rate compared to the other frontier models. If you look at Opus 4.8, it's all the way over here. And also note that Claude Fable is over here, so JLM 5.2 hallucinates like 50% less than Claude Fable. And then GPT 5.5 is all the way over here. So, this hallucinates like three to four times more than JLM 5.2. Notice that this 28% doesn't mean it hallucinates 28% of the time on average, it's just 28% of this benchmark, which has really tricky questions aimed to get the model to hallucinate. So, if you're working in a field that requires factually accurate information like law or medicine, JLM 5.2 is actually the best frontier model you can use right now. Now, some doubters say that JLM might be benchmarked, but here's a completely new benchmark that didn't even exist before JLM was released. So, artificial analysis released this new benchmark called AA briefcase, and this is their new benchmark for testing models on long horizon knowledge work tasks. So, workflows or really complex projects that need to be run for like many weeks, and it's linked to many tasks and thousands of input source files. These were built by industry experts, and after testing all these frontier models, you can see that JLM 5.2 is actually ranked number three, even beating the best GPT and only slightly behind the best Opus. You can't benchmark for a benchmark that didn't even exist before. Now, it's important to refer to other leaderboards to get a sense of how good a model is because each leaderboard can be very different. So, if you look at this other leaderboard by LM Arena, you can see that JLM 5.2 is all the way down here in 10th place, even below GPT 5.4 and the older Opus models. And it seems like it scored so low because it's not as steerable as the other frontier models. And if you look at LiveBench by Abacus AI, note that JLM 5.2 is all the way down here, even below the older Opus models and below Gemini 3.1 Pro. And if you look at the details of this, it seems to do really well in terms of agentic coding. In fact, this is the model that scored the highest, but it's not so good in terms of reasoning or instruction following. Now, this model is completely open weights under the MIT license, which is super permissive, and the full model is like 1.5 terabytes in size. So, it's not going to be possible for most consumers to run the full model. But, behold the power of open source. Because the model is released already, people can fine-tune it and mess with it however they want. So, in just the span of like two days, we already have a ton of different JLM 5.2 variants and fine-tunes from the community. For example, Unsloth just released very compressed GGUF versions of JLM 5.2. So, they released many different models of different compression and sizes, so you can select the one that fits your hardware. For example, the smallest 1-bit version is just 223 gigabytes, which is pretty insane compression from like 1.5 terabytes. This can potentially be run on just like two or three RTX 6000s or just one or two DGX Sparks or even just a Mac Studio. Though, I would not recommend Apple for running local AI because it's way slower. If you can, always get Nvidia. So, that's the 1-bit and then 2-bit is also pretty small and accessible and only 245 gigabytes. Now, with compression, of course, you're going to get some degradation in quality. So, here it says that the one-bit model gets around 76% accuracy compared to the full model, but it's like 86% smaller. And then the two-bit version gets 82% accuracy while being 84% smaller. So, it's still pretty usable. It's not like these compressed models are significantly dumber. So, that's the power of open source. Because the models are released, the community can build on top of them and create their own fine-tunes or more compressed versions or even uncensored versions of GLM. And in the span of just one or two days, we already have a model that can fit on high-end consumer devices. You can potentially run GLM 5.2 at home. You don't have to sell your house or kidney to run this. If you're interested in reading further, I'll link to this main page in the description below. Also this week, we have a new style transfer AI called Telestyle V2. This is a really easy way for you to apply the style of a reference image onto a new image. For example, let's say this is my input image and I want to convert it into this art style. Well, I can plug this through Telestyle V2 and here's what I get. Or here's another example. Let's say this is the input image. I want to convert it into this painting style. Well, here's the result. Or let's say this is my input image. I want to convert it into this watercolor chibi style. After plugging it through Telestyle V2, it gives me this. Here are some additional examples for your reference. Now, the problem with older style transfer tools is that they only work well in a very narrow setup. For example, the content image has to be realistic and the style image has to be artistic. But sometimes, if you mix those two up, then it doesn't really transfer the style well. Well, Telestyle V2 is able to handle all different combinations. For example, you can first take this input image and convert it into these different styles, but then you can also take these different styles and then plug it through Telestyle V2 again to convert it into other styles. And it's able to handle this very well. The awesome thing is they've released the code to this already. So, at the top of the page, if you click on this code button, and you scroll down a bit, here it contains all the instructions on how to download and run this locally on your computer. Here they say that they tested it on an H100 with 80 GB, but you don't need that much. This is based off of coin image edit, which requires like just a mid to high-end consumer CPU to run. If you're interested in reading further, I'll link to this main page in the description below. Also, this week the image generation company Midjourney is now pivoting to building spas. But all jokes aside, they just announced something completely different from their image generation platform. So, they announced Midjourney Medical. It's not an image generator, but instead this is a kind of body scanner where you immerse yourself in water. So, it's more like going to a spa instead of seeing a doctor. Instead of waiting for an MRI or booking appointments, and only scanning your body when something feels wrong, Midjourney wants to create a system where you can casually scan your body in about just 60 seconds and track changes over time. This prototype apparently can build a much richer picture of your health. Basically, they're trying to make full body imaging faster, cheaper, and more widespread. The scanner itself actually sounds pretty wild. So, you step into this pool of warm golden light and slowly descend into water, and then it's surrounded by these underwater sensors, which use ultrasound. So, it's kind of like how dolphins communicate using echolocation. So, these sensors send sound waves through your body from many different angles, and they listen to how these waves bounce and change. And then they use that data to reconstruct what's inside you. Think of it as like taking thousands and thousands of sound-based snapshots of your body from every direction, and then using all of that data to recreate a 3D map of your body. Midjourney says the goal is for the entire scan to take no more than 60 seconds. You go into the water, you come out, and you're done. The technical side is pretty crazy. So, the scanner uses a ring made of around half a million tiny elements, each about the size of a grain of sand. Then, each one sends out ultrasound waves and record the returning ripples millions of times per second, producing terabytes of data every second. That's pretty crazy. So, this isn't just a medical device problem. This is also a massive computing problem. The hard part is taking all of this wave pattern data and turning them into useful images. Apparently, they say it's able to do so because these waves behave differently when they pass through water, skin, fat, bone, muscle, organs, and so the system can use these differences to reconstruct a detailed internal map of the body. They say it's similar to today's MRI scanning technology, but at nearly 100 times the speed. The interesting part is how they want people to experience it. They're not building a scanner and putting it in a clinic. Instead, they're building the Midjourney Spa. This is first planned for San Francisco in 2027 with hot tubs, saunas, cold plunges, and scanning pools built into the experience. So, you go to the spa, you enjoy the space, and then you also get a body scan there. The road map is pretty ambitious. So, over the next year, Midjourney says they'll refine the algorithms and hardware, run research trials, and build better prototypes, and prepare the first research spa. They also point out that regulation is a huge bottleneck here because these medical features usually require FDA approval. So, they're starting with detailed body composition maps first while submitting test results for expanded capabilities over time. And then, in 2028, they want to scale to more cities and move to an even better scanner with custom silicon where they expect much better image quality and scan speed. The core idea is indeed fascinating, but this is a completely different pivot compared to what they're known for, which is image generation. So, I'm not sure if they have the talent or expertise to pull this off. Let me know in the comments what you think of this. If you're interested in reading further, I'll link to this main page in the description below. And that sums up all the highlights in AI this week. Let me know in the comments what you think of all of this. Which piece of news was your favorite and which tool are you most looking forward to trying out? As always, I will be on the lookout for the top AI news and tools to share with you. So, if you enjoyed this video, remember to like, share, subscribe, and stay tuned for more content. Also, there's just so much happening in the world of AI every week, I can't possibly cover everything on my YouTube channel. So, to really stay up-to-date with all that's going on in AI, be sure to subscribe to my free weekly newsletter. The link to that will be in the description below. Thanks for watching, and I'll see you in the next one.",
+    "word_count": 6112,
     "error": null
   }
 }

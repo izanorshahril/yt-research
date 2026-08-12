@@ -7,6 +7,14 @@
       "last_updated": "2026-08-11",
       "video_count": 25,
       "period": "3m"
+    },
+    "starterstory": {
+      "channel_handle": "starterstory",
+      "channel_title": "Starter Story",
+      "channel_url": "https://www.youtube.com/@starterstory/videos",
+      "last_updated": "2026-08-12",
+      "video_count": 90,
+      "period": "1y"
     }
   }
 }

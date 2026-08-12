@@ -14,10 +14,5681 @@
     "video_id": "QvN6Tu6dHYM",
     "has_transcript": true,
     "language": "en",
-    "is_generated": false,
-    "segments": [],
-    "full_text": "AI co-scientist & Robin agent system. AI automates medical discoveries. New treatments for cancer, antibiotic resistance, vision loss & more. #ai #ainews #science #medicine #agi #singularity \n\nThanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/general-theaisearch-pPAFoN\n\nCo-scientist https://www.nature.com/articles/s41586-026-10644-y\nRobin https://www.nature.com/articles/s41586-026-10652-y\n\n\n0:00 Intro\n0:56 Co-scientist by Google\n3:49 Self ranking system\n5:20 Co-scientist vs human experts\n6:30 Leukemia treatments\n9:45 More unexpected treatments\n12:44 Drug combo breakthrough\n14:36 Higgsfield\n16:39 Liver fibrosis treatments\n18:22 Antibiotic resistance\n21:18 Robin agent system\n24:28 Consensus mechanism\n26:06 Macular degeneration\n28:21 Finding genetic connections\n30:25 More treatment discoveries\n33:23 The acceleration\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
-    "word_count": 0,
+    "is_generated": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "duration": 5.04,
+        "start_formatted": "00:00",
+        "text": "The acceleration is happening right now."
+      },
+      {
+        "start": 2.48,
+        "duration": 4.4,
+        "start_formatted": "00:02",
+        "text": "This isn't just sci-fi anymore. AI is"
+      },
+      {
+        "start": 5.04,
+        "duration": 3.96,
+        "start_formatted": "00:05",
+        "text": "already coming up with huge and"
+      },
+      {
+        "start": 6.88,
+        "duration": 4.24,
+        "start_formatted": "00:06",
+        "text": "completely new scientific discoveries"
+      },
+      {
+        "start": 9.0,
+        "duration": 4.2,
+        "start_formatted": "00:09",
+        "text": "and it's getting faster and faster. In"
+      },
+      {
+        "start": 11.12,
+        "duration": 4.2,
+        "start_formatted": "00:11",
+        "text": "the same week, we had not one but two"
+      },
+      {
+        "start": 13.2,
+        "duration": 4.0,
+        "start_formatted": "00:13",
+        "text": "papers published in nature, which is"
+      },
+      {
+        "start": 15.32,
+        "duration": 3.72,
+        "start_formatted": "00:15",
+        "text": "like the most prestigious scientific"
+      },
+      {
+        "start": 17.2,
+        "duration": 4.52,
+        "start_formatted": "00:17",
+        "text": "journal in the world. Both of them"
+      },
+      {
+        "start": 19.04,
+        "duration": 4.84,
+        "start_formatted": "00:19",
+        "text": "involve using AI to autonomously do"
+      },
+      {
+        "start": 21.72,
+        "duration": 4.72,
+        "start_formatted": "00:21",
+        "text": "scientific research. And this isn't just"
+      },
+      {
+        "start": 23.88,
+        "duration": 4.68,
+        "start_formatted": "00:23",
+        "text": "theory. These AI agents literally came"
+      },
+      {
+        "start": 26.44,
+        "duration": 4.72,
+        "start_formatted": "00:26",
+        "text": "up with new treatments for cancer,"
+      },
+      {
+        "start": 28.56,
+        "duration": 4.92,
+        "start_formatted": "00:28",
+        "text": "blindness, antibiotic resistance, and"
+      },
+      {
+        "start": 31.16,
+        "duration": 4.12,
+        "start_formatted": "00:31",
+        "text": "other diseases that are currently really"
+      },
+      {
+        "start": 33.48,
+        "duration": 4.28,
+        "start_formatted": "00:33",
+        "text": "difficult to treat. And these"
+      },
+      {
+        "start": 35.28,
+        "duration": 3.84,
+        "start_formatted": "00:35",
+        "text": "breakthroughs are completely new. AI was"
+      },
+      {
+        "start": 37.76,
+        "duration": 3.48,
+        "start_formatted": "00:37",
+        "text": "able to come up with a ton of"
+      },
+      {
+        "start": 39.12,
+        "duration": 4.04,
+        "start_formatted": "00:39",
+        "text": "discoveries that human experts never"
+      },
+      {
+        "start": 41.24,
+        "duration": 4.28,
+        "start_formatted": "00:41",
+        "text": "thought of before. Most importantly,"
+      },
+      {
+        "start": 43.16,
+        "duration": 3.92,
+        "start_formatted": "00:43",
+        "text": "they actually work in real life. So, in"
+      },
+      {
+        "start": 45.52,
+        "duration": 3.6,
+        "start_formatted": "00:45",
+        "text": "this video, we're going to go over these"
+      },
+      {
+        "start": 47.08,
+        "duration": 4.08,
+        "start_formatted": "00:47",
+        "text": "two papers and why they're such a big"
+      },
+      {
+        "start": 49.12,
+        "duration": 3.84,
+        "start_formatted": "00:49",
+        "text": "deal. Now, this is super technical, but"
+      },
+      {
+        "start": 51.16,
+        "duration": 4.0,
+        "start_formatted": "00:51",
+        "text": "as always, I'm going to simplify this to"
+      },
+      {
+        "start": 52.96,
+        "duration": 3.96,
+        "start_formatted": "00:52",
+        "text": "make it easy to understand for everyone."
+      },
+      {
+        "start": 55.16,
+        "duration": 4.12,
+        "start_formatted": "00:55",
+        "text": "Let's jump right in. All right, so the"
+      },
+      {
+        "start": 56.92,
+        "duration": 4.72,
+        "start_formatted": "00:56",
+        "text": "first paper is called accelerating"
+      },
+      {
+        "start": 59.28,
+        "duration": 4.28,
+        "start_formatted": "00:59",
+        "text": "scientific discovery with co-scientist"
+      },
+      {
+        "start": 61.64,
+        "duration": 4.36,
+        "start_formatted": "01:01",
+        "text": "and this is built by Google. This isn't"
+      },
+      {
+        "start": 63.56,
+        "duration": 4.52,
+        "start_formatted": "01:03",
+        "text": "just a regular AI chatbot. Co-scientist"
+      },
+      {
+        "start": 66.0,
+        "duration": 4.44,
+        "start_formatted": "01:06",
+        "text": "is fundamentally different and here's"
+      },
+      {
+        "start": 68.08,
+        "duration": 4.56,
+        "start_formatted": "01:08",
+        "text": "how it works. Instead of one huge model,"
+      },
+      {
+        "start": 70.44,
+        "duration": 4.84,
+        "start_formatted": "01:10",
+        "text": "it's actually an entire ecosystem of"
+      },
+      {
+        "start": 72.64,
+        "duration": 4.04,
+        "start_formatted": "01:12",
+        "text": "specialized AI agents working together."
+      },
+      {
+        "start": 75.28,
+        "duration": 3.84,
+        "start_formatted": "01:15",
+        "text": "In fact, you can think of it as a"
+      },
+      {
+        "start": 76.68,
+        "duration": 4.68,
+        "start_formatted": "01:16",
+        "text": "virtual lab. Here's how the agentic"
+      },
+      {
+        "start": 79.12,
+        "duration": 4.76,
+        "start_formatted": "01:19",
+        "text": "framework is organized. At the very top,"
+      },
+      {
+        "start": 81.36,
+        "duration": 4.76,
+        "start_formatted": "01:21",
+        "text": "you have the supervisor agent. This is"
+      },
+      {
+        "start": 83.88,
+        "duration": 4.84,
+        "start_formatted": "01:23",
+        "text": "the boss and its job is to take the goal"
+      },
+      {
+        "start": 86.12,
+        "duration": 4.72,
+        "start_formatted": "01:26",
+        "text": "specified by the human scientist, say a"
+      },
+      {
+        "start": 88.72,
+        "duration": 4.36,
+        "start_formatted": "01:28",
+        "text": "prompt like find a new way to treat this"
+      },
+      {
+        "start": 90.84,
+        "duration": 4.6,
+        "start_formatted": "01:30",
+        "text": "specific type of leukemia. So, this"
+      },
+      {
+        "start": 93.08,
+        "duration": 4.88,
+        "start_formatted": "01:33",
+        "text": "supervisor agent parses that goal and"
+      },
+      {
+        "start": 95.44,
+        "duration": 4.28,
+        "start_formatted": "01:35",
+        "text": "then allocates tasks to the underlying"
+      },
+      {
+        "start": 97.96,
+        "duration": 4.56,
+        "start_formatted": "01:37",
+        "text": "agents. It's important to note that the"
+      },
+      {
+        "start": 99.72,
+        "duration": 4.76,
+        "start_formatted": "01:39",
+        "text": "supervisor is purely administrative. Its"
+      },
+      {
+        "start": 102.52,
+        "duration": 4.4,
+        "start_formatted": "01:42",
+        "text": "job is to ensure the system stays on"
+      },
+      {
+        "start": 104.48,
+        "duration": 4.92,
+        "start_formatted": "01:44",
+        "text": "task. The actual creative ideation"
+      },
+      {
+        "start": 106.92,
+        "duration": 4.36,
+        "start_formatted": "01:46",
+        "text": "begins with the generation agent. This"
+      },
+      {
+        "start": 109.4,
+        "duration": 4.36,
+        "start_formatted": "01:49",
+        "text": "agent is tasked with brainstorming"
+      },
+      {
+        "start": 111.28,
+        "duration": 4.68,
+        "start_formatted": "01:51",
+        "text": "initial ideas. It goes out, explores the"
+      },
+      {
+        "start": 113.76,
+        "duration": 4.52,
+        "start_formatted": "01:53",
+        "text": "scientific literature using web search"
+      },
+      {
+        "start": 115.96,
+        "duration": 4.4,
+        "start_formatted": "01:55",
+        "text": "to pull in the latest and most relevant"
+      },
+      {
+        "start": 118.28,
+        "duration": 5.08,
+        "start_formatted": "01:58",
+        "text": "data. Then it synthesizes existing"
+      },
+      {
+        "start": 120.36,
+        "duration": 4.8,
+        "start_formatted": "02:00",
+        "text": "findings into new proposed directions."
+      },
+      {
+        "start": 123.36,
+        "duration": 4.24,
+        "start_formatted": "02:03",
+        "text": "Afterwards, it generates the initial"
+      },
+      {
+        "start": 125.16,
+        "duration": 3.84,
+        "start_formatted": "02:05",
+        "text": "batch of hypotheses or ideas. Now,"
+      },
+      {
+        "start": 127.6,
+        "duration": 3.88,
+        "start_formatted": "02:07",
+        "text": "usually when you're brainstorming,"
+      },
+      {
+        "start": 129.0,
+        "duration": 4.32,
+        "start_formatted": "02:09",
+        "text": "especially in a complex field, the first"
+      },
+      {
+        "start": 131.48,
+        "duration": 4.12,
+        "start_formatted": "02:11",
+        "text": "few ideas you throw on the whiteboard"
+      },
+      {
+        "start": 133.32,
+        "duration": 4.72,
+        "start_formatted": "02:13",
+        "text": "are usually, well, terrible or highly"
+      },
+      {
+        "start": 135.6,
+        "duration": 4.359,
+        "start_formatted": "02:15",
+        "text": "flawed. So, this brings us to the next"
+      },
+      {
+        "start": 138.04,
+        "duration": 4.4,
+        "start_formatted": "02:18",
+        "text": "most critical component of the entire"
+      },
+      {
+        "start": 139.959,
+        "duration": 4.721,
+        "start_formatted": "02:19",
+        "text": "system, which is the reflection agent."
+      },
+      {
+        "start": 142.44,
+        "duration": 4.28,
+        "start_formatted": "02:22",
+        "text": "Think of this agent as the most brutal"
+      },
+      {
+        "start": 144.68,
+        "duration": 4.12,
+        "start_formatted": "02:24",
+        "text": "rigorous reviewer you can possibly"
+      },
+      {
+        "start": 146.72,
+        "duration": 4.6,
+        "start_formatted": "02:26",
+        "text": "imagine. Its whole purpose is to try to"
+      },
+      {
+        "start": 148.8,
+        "duration": 4.96,
+        "start_formatted": "02:28",
+        "text": "destroy the hypotheses generated by the"
+      },
+      {
+        "start": 151.32,
+        "duration": 4.6,
+        "start_formatted": "02:31",
+        "text": "generation agent. Just tear them apart."
+      },
+      {
+        "start": 153.76,
+        "duration": 4.72,
+        "start_formatted": "02:33",
+        "text": "It critically examines every proposed"
+      },
+      {
+        "start": 155.92,
+        "duration": 4.4,
+        "start_formatted": "02:35",
+        "text": "idea looking for flaws. It fact-checks"
+      },
+      {
+        "start": 158.48,
+        "duration": 4.04,
+        "start_formatted": "02:38",
+        "text": "to make sure everything is correct. It"
+      },
+      {
+        "start": 160.32,
+        "duration": 4.4,
+        "start_formatted": "02:40",
+        "text": "also checks for novelty, ensuring the"
+      },
+      {
+        "start": 162.52,
+        "duration": 4.28,
+        "start_formatted": "02:42",
+        "text": "idea isn't just a slight rephrasing of"
+      },
+      {
+        "start": 164.72,
+        "duration": 4.44,
+        "start_formatted": "02:44",
+        "text": "an existing discovery, but is actually a"
+      },
+      {
+        "start": 166.8,
+        "duration": 4.68,
+        "start_formatted": "02:46",
+        "text": "new idea. So, the generation agent comes"
+      },
+      {
+        "start": 169.16,
+        "duration": 4.52,
+        "start_formatted": "02:49",
+        "text": "up with ideas and the reflection agent"
+      },
+      {
+        "start": 171.48,
+        "duration": 3.96,
+        "start_formatted": "02:51",
+        "text": "tries to tear them apart. The friction"
+      },
+      {
+        "start": 173.68,
+        "duration": 3.96,
+        "start_formatted": "02:53",
+        "text": "between these two agents is what"
+      },
+      {
+        "start": 175.44,
+        "duration": 4.36,
+        "start_formatted": "02:55",
+        "text": "elevates the system to produce really"
+      },
+      {
+        "start": 177.64,
+        "duration": 3.72,
+        "start_formatted": "02:57",
+        "text": "high-quality ideas. And then working"
+      },
+      {
+        "start": 179.8,
+        "duration": 4.32,
+        "start_formatted": "02:59",
+        "text": "quietly in the background is the"
+      },
+      {
+        "start": 181.36,
+        "duration": 5.0,
+        "start_formatted": "03:01",
+        "text": "proximity agent. Its job is to map all"
+      },
+      {
+        "start": 184.12,
+        "duration": 4.76,
+        "start_formatted": "03:04",
+        "text": "these ideas out into a high-dimensional"
+      },
+      {
+        "start": 186.36,
+        "duration": 4.32,
+        "start_formatted": "03:06",
+        "text": "space to group similar ones together."
+      },
+      {
+        "start": 188.88,
+        "duration": 3.76,
+        "start_formatted": "03:08",
+        "text": "So, if the generation comes up with"
+      },
+      {
+        "start": 190.68,
+        "duration": 3.839,
+        "start_formatted": "03:10",
+        "text": "several slightly different variations of"
+      },
+      {
+        "start": 192.64,
+        "duration": 4.319,
+        "start_formatted": "03:12",
+        "text": "pretty much the same thing, this"
+      },
+      {
+        "start": 194.519,
+        "duration": 4.161,
+        "start_formatted": "03:14",
+        "text": "proximity agent is able to detect this"
+      },
+      {
+        "start": 196.959,
+        "duration": 4.0,
+        "start_formatted": "03:16",
+        "text": "and then tell the system, \"Hey, these"
+      },
+      {
+        "start": 198.68,
+        "duration": 4.279,
+        "start_formatted": "03:18",
+        "text": "are all essentially the same idea. Stop"
+      },
+      {
+        "start": 200.959,
+        "duration": 4.441,
+        "start_formatted": "03:20",
+        "text": "wasting compute and resources and move"
+      },
+      {
+        "start": 202.959,
+        "duration": 4.721,
+        "start_formatted": "03:22",
+        "text": "on to a different concept.\" process"
+      },
+      {
+        "start": 205.4,
+        "duration": 5.04,
+        "start_formatted": "03:25",
+        "text": "doesn't stop there. Co-scientist also"
+      },
+      {
+        "start": 207.68,
+        "duration": 4.4,
+        "start_formatted": "03:27",
+        "text": "uses an evolution agent. This agent"
+      },
+      {
+        "start": 210.44,
+        "duration": 3.72,
+        "start_formatted": "03:30",
+        "text": "takes the harsh critiques from the"
+      },
+      {
+        "start": 212.08,
+        "duration": 4.32,
+        "start_formatted": "03:32",
+        "text": "reflection agent, looks at surviving"
+      },
+      {
+        "start": 214.16,
+        "duration": 4.48,
+        "start_formatted": "03:34",
+        "text": "ideas, and then iteratively refines"
+      },
+      {
+        "start": 216.4,
+        "duration": 4.24,
+        "start_formatted": "03:36",
+        "text": "them. For example, it might take two"
+      },
+      {
+        "start": 218.64,
+        "duration": 4.04,
+        "start_formatted": "03:38",
+        "text": "good surviving ideas and mash them"
+      },
+      {
+        "start": 220.64,
+        "duration": 4.28,
+        "start_formatted": "03:40",
+        "text": "together to create a brilliant one. It"
+      },
+      {
+        "start": 222.68,
+        "duration": 4.08,
+        "start_formatted": "03:42",
+        "text": "tries to bridge logical gaps. Now,"
+      },
+      {
+        "start": 224.92,
+        "duration": 4.12,
+        "start_formatted": "03:44",
+        "text": "here's where it gets fascinating. How"
+      },
+      {
+        "start": 226.76,
+        "duration": 5.0,
+        "start_formatted": "03:46",
+        "text": "exactly does the system decide which of"
+      },
+      {
+        "start": 229.04,
+        "duration": 5.2,
+        "start_formatted": "03:49",
+        "text": "these surviving ideas is the best one?"
+      },
+      {
+        "start": 231.76,
+        "duration": 5.24,
+        "start_formatted": "03:51",
+        "text": "This is the genius part. The system uses"
+      },
+      {
+        "start": 234.24,
+        "duration": 5.44,
+        "start_formatted": "03:54",
+        "text": "a ranking agent to host an actual"
+      },
+      {
+        "start": 237.0,
+        "duration": 4.92,
+        "start_formatted": "03:57",
+        "text": "automated tournament of ideas. This is"
+      },
+      {
+        "start": 239.68,
+        "duration": 4.52,
+        "start_formatted": "03:59",
+        "text": "perhaps the most innovative aspect of"
+      },
+      {
+        "start": 241.92,
+        "duration": 5.039,
+        "start_formatted": "04:01",
+        "text": "the entire Co-Scientist architecture."
+      },
+      {
+        "start": 244.2,
+        "duration": 4.92,
+        "start_formatted": "04:04",
+        "text": "The ranking agent uses an ELO rating"
+      },
+      {
+        "start": 246.959,
+        "duration": 4.081,
+        "start_formatted": "04:06",
+        "text": "system, just like in chess or in"
+      },
+      {
+        "start": 249.12,
+        "duration": 3.92,
+        "start_formatted": "04:09",
+        "text": "competitive video games, where if a"
+      },
+      {
+        "start": 251.04,
+        "duration": 4.44,
+        "start_formatted": "04:11",
+        "text": "lower ranked player manages to beat a"
+      },
+      {
+        "start": 253.04,
+        "duration": 4.88,
+        "start_formatted": "04:13",
+        "text": "grandmaster, they get a huge chunk of"
+      },
+      {
+        "start": 255.48,
+        "duration": 4.84,
+        "start_formatted": "04:15",
+        "text": "their points. But if two equally ranked"
+      },
+      {
+        "start": 257.92,
+        "duration": 4.12,
+        "start_formatted": "04:17",
+        "text": "players tie, their scores barely move."
+      },
+      {
+        "start": 260.32,
+        "duration": 4.08,
+        "start_formatted": "04:20",
+        "text": "It's the exact same mathematical"
+      },
+      {
+        "start": 262.04,
+        "duration": 5.12,
+        "start_formatted": "04:22",
+        "text": "principle, but applied to the rigorous"
+      },
+      {
+        "start": 264.4,
+        "duration": 5.24,
+        "start_formatted": "04:24",
+        "text": "evaluation of scientific ideas. And this"
+      },
+      {
+        "start": 267.16,
+        "duration": 4.64,
+        "start_formatted": "04:27",
+        "text": "Co-Scientist system actually simulates"
+      },
+      {
+        "start": 269.64,
+        "duration": 5.44,
+        "start_formatted": "04:29",
+        "text": "head-to-head debates between pairs of"
+      },
+      {
+        "start": 271.8,
+        "duration": 5.84,
+        "start_formatted": "04:31",
+        "text": "ideas. So, hypothesis A argues why it's"
+      },
+      {
+        "start": 275.08,
+        "duration": 5.52,
+        "start_formatted": "04:35",
+        "text": "more new or plausible or testable than"
+      },
+      {
+        "start": 277.64,
+        "duration": 4.96,
+        "start_formatted": "04:37",
+        "text": "hypothesis B, and hypothesis B tries to"
+      },
+      {
+        "start": 280.6,
+        "duration": 3.6,
+        "start_formatted": "04:40",
+        "text": "argue back, pointing out flaws in"
+      },
+      {
+        "start": 282.6,
+        "duration": 4.08,
+        "start_formatted": "04:42",
+        "text": "hypothesis A. And then we have a"
+      },
+      {
+        "start": 284.2,
+        "duration": 5.68,
+        "start_formatted": "04:44",
+        "text": "separate AI model that acts as a judge,"
+      },
+      {
+        "start": 286.68,
+        "duration": 5.32,
+        "start_formatted": "04:46",
+        "text": "evaluating the debate. Winners gain ELO"
+      },
+      {
+        "start": 289.88,
+        "duration": 4.0,
+        "start_formatted": "04:49",
+        "text": "points, losers lose them. And over"
+      },
+      {
+        "start": 292.0,
+        "duration": 3.84,
+        "start_formatted": "04:52",
+        "text": "hundreds or even thousands of these"
+      },
+      {
+        "start": 293.88,
+        "duration": 4.92,
+        "start_formatted": "04:53",
+        "text": "automated simulated debates, the"
+      },
+      {
+        "start": 295.84,
+        "duration": 4.88,
+        "start_formatted": "04:55",
+        "text": "strongest and most robust ideas"
+      },
+      {
+        "start": 298.8,
+        "duration": 3.32,
+        "start_formatted": "04:58",
+        "text": "naturally rise to the top of the"
+      },
+      {
+        "start": 300.72,
+        "duration": 3.32,
+        "start_formatted": "05:00",
+        "text": "leaderboard. Now, if you've been playing"
+      },
+      {
+        "start": 302.12,
+        "duration": 4.32,
+        "start_formatted": "05:02",
+        "text": "around with AI, you'll probably know"
+      },
+      {
+        "start": 304.04,
+        "duration": 4.72,
+        "start_formatted": "05:04",
+        "text": "that large language models are notorious"
+      },
+      {
+        "start": 306.44,
+        "duration": 4.24,
+        "start_formatted": "05:06",
+        "text": "for hallucinating and sometimes just"
+      },
+      {
+        "start": 308.76,
+        "duration": 3.56,
+        "start_formatted": "05:08",
+        "text": "making stuff up while sounding very"
+      },
+      {
+        "start": 310.68,
+        "duration": 4.04,
+        "start_formatted": "05:10",
+        "text": "confident. So, how do we know that"
+      },
+      {
+        "start": 312.32,
+        "duration": 4.2,
+        "start_formatted": "05:12",
+        "text": "Co-Scientist isn't just making up these"
+      },
+      {
+        "start": 314.72,
+        "duration": 4.52,
+        "start_formatted": "05:14",
+        "text": "ideas? How do we know it's actually"
+      },
+      {
+        "start": 316.52,
+        "duration": 4.84,
+        "start_formatted": "05:16",
+        "text": "producing better and legit scientific"
+      },
+      {
+        "start": 319.24,
+        "duration": 5.2,
+        "start_formatted": "05:19",
+        "text": "hypotheses? Well, the researchers gave"
+      },
+      {
+        "start": 321.36,
+        "duration": 5.76,
+        "start_formatted": "05:21",
+        "text": "Co-Scientist 15 incredibly challenging"
+      },
+      {
+        "start": 324.44,
+        "duration": 5.04,
+        "start_formatted": "05:24",
+        "text": "unsolved biomedical goals written by"
+      },
+      {
+        "start": 327.12,
+        "duration": 4.68,
+        "start_formatted": "05:27",
+        "text": "PhD-level scientists, and they asked it"
+      },
+      {
+        "start": 329.48,
+        "duration": 4.72,
+        "start_formatted": "05:29",
+        "text": "to come up with the best solutions. They"
+      },
+      {
+        "start": 331.8,
+        "duration": 4.88,
+        "start_formatted": "05:31",
+        "text": "then asked human experts to provide"
+      },
+      {
+        "start": 334.2,
+        "duration": 4.52,
+        "start_formatted": "05:34",
+        "text": "their absolute best-guess solutions as"
+      },
+      {
+        "start": 336.68,
+        "duration": 3.96,
+        "start_formatted": "05:36",
+        "text": "well. They also gave the same goals to"
+      },
+      {
+        "start": 338.72,
+        "duration": 4.199,
+        "start_formatted": "05:38",
+        "text": "other state-of-the-art AI models at that"
+      },
+      {
+        "start": 340.64,
+        "duration": 4.76,
+        "start_formatted": "05:40",
+        "text": "time. And they asked independent human"
+      },
+      {
+        "start": 342.919,
+        "duration": 4.561,
+        "start_formatted": "05:42",
+        "text": "experts to judge which ideas were"
+      },
+      {
+        "start": 345.4,
+        "duration": 4.28,
+        "start_formatted": "05:45",
+        "text": "better. Now, this is a blind test, so"
+      },
+      {
+        "start": 347.48,
+        "duration": 4.64,
+        "start_formatted": "05:47",
+        "text": "the human experts couldn't see if the"
+      },
+      {
+        "start": 349.68,
+        "duration": 4.72,
+        "start_formatted": "05:49",
+        "text": "ideas were generated by other humans or"
+      },
+      {
+        "start": 352.12,
+        "duration": 3.8,
+        "start_formatted": "05:52",
+        "text": "by which AI models, and the results were"
+      },
+      {
+        "start": 354.4,
+        "duration": 3.68,
+        "start_formatted": "05:54",
+        "text": "remarkable. You can see that"
+      },
+      {
+        "start": 355.92,
+        "duration": 4.44,
+        "start_formatted": "05:55",
+        "text": "Co-Scientist, after giving it enough"
+      },
+      {
+        "start": 358.08,
+        "duration": 4.68,
+        "start_formatted": "05:58",
+        "text": "time to think and iterate, eventually"
+      },
+      {
+        "start": 360.36,
+        "duration": 5.32,
+        "start_formatted": "06:00",
+        "text": "beat all the AI models and the human"
+      },
+      {
+        "start": 362.76,
+        "duration": 5.24,
+        "start_formatted": "06:02",
+        "text": "experts. These independent human judges"
+      },
+      {
+        "start": 365.68,
+        "duration": 4.92,
+        "start_formatted": "06:05",
+        "text": "rated the ideas from Co-Scientist as"
+      },
+      {
+        "start": 368.0,
+        "duration": 5.36,
+        "start_formatted": "06:08",
+        "text": "significantly higher in novelty,"
+      },
+      {
+        "start": 370.6,
+        "duration": 5.12,
+        "start_formatted": "06:10",
+        "text": "plausibility, and impact compared to the"
+      },
+      {
+        "start": 373.36,
+        "duration": 4.16,
+        "start_formatted": "06:13",
+        "text": "best solutions from human experts. So,"
+      },
+      {
+        "start": 375.72,
+        "duration": 3.72,
+        "start_formatted": "06:15",
+        "text": "this AI system, it's not just making"
+      },
+      {
+        "start": 377.52,
+        "duration": 4.48,
+        "start_formatted": "06:17",
+        "text": "stuff up. This is proof that it can"
+      },
+      {
+        "start": 379.44,
+        "duration": 4.92,
+        "start_formatted": "06:19",
+        "text": "actually create new innovative ideas,"
+      },
+      {
+        "start": 382.0,
+        "duration": 4.8,
+        "start_formatted": "06:22",
+        "text": "which even independent human experts"
+      },
+      {
+        "start": 384.36,
+        "duration": 4.48,
+        "start_formatted": "06:24",
+        "text": "approve of. Now, generating solid ideas"
+      },
+      {
+        "start": 386.8,
+        "duration": 4.119,
+        "start_formatted": "06:26",
+        "text": "is one thing, but does this actually"
+      },
+      {
+        "start": 388.84,
+        "duration": 4.32,
+        "start_formatted": "06:28",
+        "text": "work in real life? That's the ultimate"
+      },
+      {
+        "start": 390.919,
+        "duration": 4.961,
+        "start_formatted": "06:30",
+        "text": "test. Well, next, the researchers did"
+      },
+      {
+        "start": 393.16,
+        "duration": 5.44,
+        "start_formatted": "06:33",
+        "text": "exactly that. They took the best outputs"
+      },
+      {
+        "start": 395.88,
+        "duration": 5.12,
+        "start_formatted": "06:35",
+        "text": "from Co-Scientist on some very different"
+      },
+      {
+        "start": 398.6,
+        "duration": 4.48,
+        "start_formatted": "06:38",
+        "text": "and incredibly complex problems that are"
+      },
+      {
+        "start": 401.0,
+        "duration": 4.32,
+        "start_formatted": "06:41",
+        "text": "not solved yet, and the results were"
+      },
+      {
+        "start": 403.08,
+        "duration": 5.12,
+        "start_formatted": "06:43",
+        "text": "astounding. Let's dive into each one."
+      },
+      {
+        "start": 405.32,
+        "duration": 5.48,
+        "start_formatted": "06:45",
+        "text": "The first one involves acute myeloid"
+      },
+      {
+        "start": 408.2,
+        "duration": 4.6,
+        "start_formatted": "06:48",
+        "text": "leukemia, or AML for short. This is a"
+      },
+      {
+        "start": 410.8,
+        "duration": 4.56,
+        "start_formatted": "06:50",
+        "text": "very tough disease, and here's why it's"
+      },
+      {
+        "start": 412.8,
+        "duration": 4.88,
+        "start_formatted": "06:52",
+        "text": "so hard to cure. You see, acute myeloid"
+      },
+      {
+        "start": 415.36,
+        "duration": 4.559,
+        "start_formatted": "06:55",
+        "text": "leukemia is a devastating and highly"
+      },
+      {
+        "start": 417.68,
+        "duration": 3.6,
+        "start_formatted": "06:57",
+        "text": "aggressive blood cancer that starts in"
+      },
+      {
+        "start": 419.919,
+        "duration": 3.681,
+        "start_formatted": "06:59",
+        "text": "the bone marrow. Now, the major"
+      },
+      {
+        "start": 421.28,
+        "duration": 4.36,
+        "start_formatted": "07:01",
+        "text": "challenge with AML isn't necessarily"
+      },
+      {
+        "start": 423.6,
+        "duration": 4.12,
+        "start_formatted": "07:03",
+        "text": "killing the cancer cells at the start."
+      },
+      {
+        "start": 425.64,
+        "duration": 4.04,
+        "start_formatted": "07:05",
+        "text": "We actually have chemotherapies that can"
+      },
+      {
+        "start": 427.72,
+        "duration": 4.52,
+        "start_formatted": "07:07",
+        "text": "already do this quite well. The problem"
+      },
+      {
+        "start": 429.68,
+        "duration": 4.52,
+        "start_formatted": "07:09",
+        "text": "is that relapse is incredibly common,"
+      },
+      {
+        "start": 432.24,
+        "duration": 4.04,
+        "start_formatted": "07:12",
+        "text": "and when the disease does come back,"
+      },
+      {
+        "start": 434.2,
+        "duration": 3.96,
+        "start_formatted": "07:14",
+        "text": "it's highly resistant to the therapy."
+      },
+      {
+        "start": 436.28,
+        "duration": 4.56,
+        "start_formatted": "07:16",
+        "text": "And it comes back really aggressively"
+      },
+      {
+        "start": 438.16,
+        "duration": 4.48,
+        "start_formatted": "07:18",
+        "text": "because of a specific subpopulation of"
+      },
+      {
+        "start": 440.84,
+        "duration": 4.12,
+        "start_formatted": "07:20",
+        "text": "the cells, which are called leukemia"
+      },
+      {
+        "start": 442.64,
+        "duration": 4.68,
+        "start_formatted": "07:22",
+        "text": "stem cells. These are deeply dormant"
+      },
+      {
+        "start": 444.96,
+        "duration": 4.36,
+        "start_formatted": "07:24",
+        "text": "cells that are like the roots of a weed."
+      },
+      {
+        "start": 447.32,
+        "duration": 3.48,
+        "start_formatted": "07:27",
+        "text": "So, you can mow the lawn and kill the"
+      },
+      {
+        "start": 449.32,
+        "duration": 3.36,
+        "start_formatted": "07:29",
+        "text": "bulk of the cancer cells, but if you"
+      },
+      {
+        "start": 450.8,
+        "duration": 3.96,
+        "start_formatted": "07:30",
+        "text": "leave the roots, then the weeds grow"
+      },
+      {
+        "start": 452.68,
+        "duration": 4.36,
+        "start_formatted": "07:32",
+        "text": "back, and often stronger. So, these stem"
+      },
+      {
+        "start": 454.76,
+        "duration": 4.44,
+        "start_formatted": "07:34",
+        "text": "cells hide in the bone marrow, and they"
+      },
+      {
+        "start": 457.04,
+        "duration": 4.12,
+        "start_formatted": "07:37",
+        "text": "evade standard chemotherapy, and they"
+      },
+      {
+        "start": 459.2,
+        "duration": 3.96,
+        "start_formatted": "07:39",
+        "text": "could eventually cause a relapse."
+      },
+      {
+        "start": 461.16,
+        "duration": 4.48,
+        "start_formatted": "07:41",
+        "text": "There's currently no good therapeutic"
+      },
+      {
+        "start": 463.16,
+        "duration": 4.24,
+        "start_formatted": "07:43",
+        "text": "solution for killing these dormant stem"
+      },
+      {
+        "start": 465.64,
+        "duration": 4.28,
+        "start_formatted": "07:45",
+        "text": "cells. Now, here's what the researchers"
+      },
+      {
+        "start": 467.4,
+        "duration": 5.64,
+        "start_formatted": "07:47",
+        "text": "did. They handed Co-Scientist a massive"
+      },
+      {
+        "start": 469.92,
+        "duration": 6.04,
+        "start_formatted": "07:49",
+        "text": "dataset of 2,300 drugs that are already"
+      },
+      {
+        "start": 473.04,
+        "duration": 4.96,
+        "start_formatted": "07:53",
+        "text": "FDA approved for human use. They're just"
+      },
+      {
+        "start": 475.96,
+        "duration": 4.44,
+        "start_formatted": "07:55",
+        "text": "currently used for entirely different"
+      },
+      {
+        "start": 478.0,
+        "duration": 5.04,
+        "start_formatted": "07:58",
+        "text": "purposes. The prompt for the AI was"
+      },
+      {
+        "start": 480.4,
+        "duration": 5.08,
+        "start_formatted": "08:00",
+        "text": "essentially, \"Which of these 2,300"
+      },
+      {
+        "start": 483.04,
+        "duration": 4.76,
+        "start_formatted": "08:03",
+        "text": "existing drugs could be repurposed to"
+      },
+      {
+        "start": 485.48,
+        "duration": 4.08,
+        "start_formatted": "08:05",
+        "text": "specifically fight acute myeloid"
+      },
+      {
+        "start": 487.8,
+        "duration": 4.24,
+        "start_formatted": "08:07",
+        "text": "leukemia?\" Now, this is basically the"
+      },
+      {
+        "start": 489.56,
+        "duration": 4.84,
+        "start_formatted": "08:09",
+        "text": "entire field of drug repurposing."
+      },
+      {
+        "start": 492.04,
+        "duration": 4.68,
+        "start_formatted": "08:12",
+        "text": "Designing a new drug from scratch would"
+      },
+      {
+        "start": 494.4,
+        "duration": 4.28,
+        "start_formatted": "08:14",
+        "text": "almost take a decade and millions of"
+      },
+      {
+        "start": 496.72,
+        "duration": 4.28,
+        "start_formatted": "08:16",
+        "text": "dollars, and the failure rate is super"
+      },
+      {
+        "start": 498.68,
+        "duration": 4.68,
+        "start_formatted": "08:18",
+        "text": "high. But, if we can look at existing"
+      },
+      {
+        "start": 501.0,
+        "duration": 4.4,
+        "start_formatted": "08:21",
+        "text": "drugs and discover new uses for them,"
+      },
+      {
+        "start": 503.36,
+        "duration": 3.96,
+        "start_formatted": "08:23",
+        "text": "then it's a lot more efficient. Well,"
+      },
+      {
+        "start": 505.4,
+        "duration": 4.519,
+        "start_formatted": "08:25",
+        "text": "Co-Scientist actually found several"
+      },
+      {
+        "start": 507.32,
+        "duration": 5.159,
+        "start_formatted": "08:27",
+        "text": "strong candidates. It identified drugs"
+      },
+      {
+        "start": 509.919,
+        "duration": 5.441,
+        "start_formatted": "08:29",
+        "text": "like binimetinib, pacritinib, and"
+      },
+      {
+        "start": 512.479,
+        "duration": 5.481,
+        "start_formatted": "08:32",
+        "text": "sorafenib. Let's take one example,"
+      },
+      {
+        "start": 515.36,
+        "duration": 5.28,
+        "start_formatted": "08:35",
+        "text": "binimetinib. This is currently approved"
+      },
+      {
+        "start": 517.96,
+        "duration": 4.4,
+        "start_formatted": "08:37",
+        "text": "and used for skin cancer. Not leukemia."
+      },
+      {
+        "start": 520.64,
+        "duration": 4.76,
+        "start_formatted": "08:40",
+        "text": "But, they took the advice from"
+      },
+      {
+        "start": 522.36,
+        "duration": 5.24,
+        "start_formatted": "08:42",
+        "text": "Co-Scientist and tested binimetinib on"
+      },
+      {
+        "start": 525.4,
+        "duration": 4.32,
+        "start_formatted": "08:45",
+        "text": "leukemia cells in the lab, and it"
+      },
+      {
+        "start": 527.6,
+        "duration": 5.04,
+        "start_formatted": "08:47",
+        "text": "actually turned out to be extremely"
+      },
+      {
+        "start": 529.72,
+        "duration": 5.36,
+        "start_formatted": "08:49",
+        "text": "effective. It had an IC50 of 2"
+      },
+      {
+        "start": 532.64,
+        "duration": 4.6,
+        "start_formatted": "08:52",
+        "text": "nanomolars against acute myeloid"
+      },
+      {
+        "start": 535.08,
+        "duration": 4.72,
+        "start_formatted": "08:55",
+        "text": "leukemia. Let's quickly clarify what"
+      },
+      {
+        "start": 537.24,
+        "duration": 4.52,
+        "start_formatted": "08:57",
+        "text": "this IC50 means. It's kind of a gold"
+      },
+      {
+        "start": 539.8,
+        "duration": 4.36,
+        "start_formatted": "08:59",
+        "text": "standard metric. So, this is a measure"
+      },
+      {
+        "start": 541.76,
+        "duration": 5.16,
+        "start_formatted": "09:01",
+        "text": "of a drug's potency. Specifically, how"
+      },
+      {
+        "start": 544.16,
+        "duration": 5.56,
+        "start_formatted": "09:04",
+        "text": "much of a drug is needed to inhibit a"
+      },
+      {
+        "start": 546.92,
+        "duration": 4.84,
+        "start_formatted": "09:06",
+        "text": "biological process by exactly half. In"
+      },
+      {
+        "start": 549.72,
+        "duration": 4.04,
+        "start_formatted": "09:09",
+        "text": "this case, the process is the survival"
+      },
+      {
+        "start": 551.76,
+        "duration": 4.32,
+        "start_formatted": "09:11",
+        "text": "of the cancer cells. A lower number"
+      },
+      {
+        "start": 553.76,
+        "duration": 4.48,
+        "start_formatted": "09:13",
+        "text": "means the drug is very effective. You"
+      },
+      {
+        "start": 556.08,
+        "duration": 4.759,
+        "start_formatted": "09:16",
+        "text": "need very little of it to do massive"
+      },
+      {
+        "start": 558.24,
+        "duration": 5.44,
+        "start_formatted": "09:18",
+        "text": "damage. And in this case, 2 nanomolars"
+      },
+      {
+        "start": 560.839,
+        "duration": 5.561,
+        "start_formatted": "09:20",
+        "text": "is an extremely low concentration. So,"
+      },
+      {
+        "start": 563.68,
+        "duration": 4.92,
+        "start_formatted": "09:23",
+        "text": "this indicates a very strong efficacy"
+      },
+      {
+        "start": 566.4,
+        "duration": 4.0,
+        "start_formatted": "09:26",
+        "text": "against those cancer cells. This shows"
+      },
+      {
+        "start": 568.6,
+        "duration": 3.76,
+        "start_formatted": "09:28",
+        "text": "that Co-Scientist isn't just a"
+      },
+      {
+        "start": 570.4,
+        "duration": 3.8,
+        "start_formatted": "09:30",
+        "text": "theoretical framework anymore. They've"
+      },
+      {
+        "start": 572.36,
+        "duration": 4.08,
+        "start_formatted": "09:32",
+        "text": "already gotten it to find a new drug"
+      },
+      {
+        "start": 574.2,
+        "duration": 4.6,
+        "start_formatted": "09:34",
+        "text": "that works very well on a very"
+      },
+      {
+        "start": 576.44,
+        "duration": 5.52,
+        "start_formatted": "09:36",
+        "text": "problematic cancer that previously had"
+      },
+      {
+        "start": 578.8,
+        "duration": 5.08,
+        "start_formatted": "09:38",
+        "text": "no good therapies. Now, this benametinib"
+      },
+      {
+        "start": 581.96,
+        "duration": 3.76,
+        "start_formatted": "09:41",
+        "text": "is previously known to work for skin"
+      },
+      {
+        "start": 583.88,
+        "duration": 3.64,
+        "start_formatted": "09:43",
+        "text": "cancers, so maybe there's a connection"
+      },
+      {
+        "start": 585.72,
+        "duration": 3.88,
+        "start_formatted": "09:45",
+        "text": "there. But, here's another discovery"
+      },
+      {
+        "start": 587.52,
+        "duration": 3.68,
+        "start_formatted": "09:47",
+        "text": "that's even crazier. They told Co"
+      },
+      {
+        "start": 589.6,
+        "duration": 3.92,
+        "start_formatted": "09:49",
+        "text": "Scientist, \"Don't just give us the"
+      },
+      {
+        "start": 591.2,
+        "duration": 4.84,
+        "start_formatted": "09:51",
+        "text": "obvious repurposing candidates. Give us"
+      },
+      {
+        "start": 593.52,
+        "duration": 5.32,
+        "start_formatted": "09:53",
+        "text": "some drugs that have no prior evidence"
+      },
+      {
+        "start": 596.04,
+        "duration": 5.16,
+        "start_formatted": "09:56",
+        "text": "linked to leukemia or cancer at all.\""
+      },
+      {
+        "start": 598.84,
+        "duration": 4.32,
+        "start_formatted": "09:58",
+        "text": "They wanted completely new ideas that no"
+      },
+      {
+        "start": 601.2,
+        "duration": 4.68,
+        "start_formatted": "10:01",
+        "text": "human has ever published on this"
+      },
+      {
+        "start": 603.16,
+        "duration": 5.0,
+        "start_formatted": "10:03",
+        "text": "subject. And lo and behold, after a lot"
+      },
+      {
+        "start": 605.88,
+        "duration": 4.56,
+        "start_formatted": "10:05",
+        "text": "of thinking and internal debating and"
+      },
+      {
+        "start": 608.16,
+        "duration": 4.88,
+        "start_formatted": "10:08",
+        "text": "ranking different ideas, Co Scientist"
+      },
+      {
+        "start": 610.44,
+        "duration": 5.08,
+        "start_formatted": "10:10",
+        "text": "generated a hypothesis suggesting a drug"
+      },
+      {
+        "start": 613.04,
+        "duration": 5.04,
+        "start_formatted": "10:13",
+        "text": "called KIRA 6. Now, KIRA 6 is a"
+      },
+      {
+        "start": 615.52,
+        "duration": 6.04,
+        "start_formatted": "10:15",
+        "text": "fascinating molecule. It inhibits an"
+      },
+      {
+        "start": 618.08,
+        "duration": 6.16,
+        "start_formatted": "10:18",
+        "text": "enzyme called IRE1 alpha, which manages"
+      },
+      {
+        "start": 621.56,
+        "duration": 5.2,
+        "start_formatted": "10:21",
+        "text": "cell stress. So, this decides how cells"
+      },
+      {
+        "start": 624.24,
+        "duration": 4.56,
+        "start_formatted": "10:24",
+        "text": "clear up misfolded or broken proteins."
+      },
+      {
+        "start": 626.76,
+        "duration": 4.4,
+        "start_formatted": "10:26",
+        "text": "So, Co Scientist, after reading and"
+      },
+      {
+        "start": 628.8,
+        "duration": 3.96,
+        "start_formatted": "10:28",
+        "text": "synthesizing stuff across entirely"
+      },
+      {
+        "start": 631.16,
+        "duration": 3.84,
+        "start_formatted": "10:31",
+        "text": "different fields of biology,"
+      },
+      {
+        "start": 632.76,
+        "duration": 4.32,
+        "start_formatted": "10:32",
+        "text": "hypothesized that targeting this"
+      },
+      {
+        "start": 635.0,
+        "duration": 5.0,
+        "start_formatted": "10:35",
+        "text": "specific stress pathway could"
+      },
+      {
+        "start": 637.08,
+        "duration": 4.48,
+        "start_formatted": "10:37",
+        "text": "selectively kill these leukemia cells."
+      },
+      {
+        "start": 640.0,
+        "duration": 4.12,
+        "start_formatted": "10:40",
+        "text": "Humans have never thought of this"
+      },
+      {
+        "start": 641.56,
+        "duration": 5.0,
+        "start_formatted": "10:41",
+        "text": "before. Now, let's dig into this a bit"
+      },
+      {
+        "start": 644.12,
+        "duration": 4.84,
+        "start_formatted": "10:44",
+        "text": "more. Why did the AI suggest there?"
+      },
+      {
+        "start": 646.56,
+        "duration": 4.8,
+        "start_formatted": "10:46",
+        "text": "Well, if you look into its hypothesis,"
+      },
+      {
+        "start": 648.96,
+        "duration": 4.84,
+        "start_formatted": "10:48",
+        "text": "the AI recognized that cancer cells, by"
+      },
+      {
+        "start": 651.36,
+        "duration": 4.96,
+        "start_formatted": "10:51",
+        "text": "their very nature of fast uncontrolled"
+      },
+      {
+        "start": 653.8,
+        "duration": 4.72,
+        "start_formatted": "10:53",
+        "text": "division, are also under huge internal"
+      },
+      {
+        "start": 656.32,
+        "duration": 4.96,
+        "start_formatted": "10:56",
+        "text": "stress because they're growing so fast."
+      },
+      {
+        "start": 658.52,
+        "duration": 4.84,
+        "start_formatted": "10:58",
+        "text": "Their protein manufacturing machinery is"
+      },
+      {
+        "start": 661.28,
+        "duration": 4.32,
+        "start_formatted": "11:01",
+        "text": "running in overdrive and constantly"
+      },
+      {
+        "start": 663.36,
+        "duration": 5.28,
+        "start_formatted": "11:03",
+        "text": "breaking down. So, they rely heavily on"
+      },
+      {
+        "start": 665.6,
+        "duration": 5.48,
+        "start_formatted": "11:05",
+        "text": "this stress response pathway, like IRE1"
+      },
+      {
+        "start": 668.64,
+        "duration": 4.72,
+        "start_formatted": "11:08",
+        "text": "alpha, just to survive their own chaos."
+      },
+      {
+        "start": 671.08,
+        "duration": 4.72,
+        "start_formatted": "11:11",
+        "text": "It needs to constantly clean up a lot of"
+      },
+      {
+        "start": 673.36,
+        "duration": 4.12,
+        "start_formatted": "11:13",
+        "text": "broken proteins just to stay alive."
+      },
+      {
+        "start": 675.8,
+        "duration": 4.16,
+        "start_formatted": "11:15",
+        "text": "Otherwise, the cell would just be filled"
+      },
+      {
+        "start": 677.48,
+        "duration": 5.12,
+        "start_formatted": "11:17",
+        "text": "with garbage. Co Scientist deduced that"
+      },
+      {
+        "start": 679.96,
+        "duration": 5.48,
+        "start_formatted": "11:19",
+        "text": "if you inhibit this specific stress"
+      },
+      {
+        "start": 682.6,
+        "duration": 4.72,
+        "start_formatted": "11:22",
+        "text": "pathway with a drug, KIRA 6, this would"
+      },
+      {
+        "start": 685.44,
+        "duration": 4.24,
+        "start_formatted": "11:25",
+        "text": "mess up the cancer cells. Now, you might"
+      },
+      {
+        "start": 687.32,
+        "duration": 4.08,
+        "start_formatted": "11:27",
+        "text": "be wondering, \"What about normal cells?\""
+      },
+      {
+        "start": 689.68,
+        "duration": 4.08,
+        "start_formatted": "11:29",
+        "text": "Well, it turns out that a normal healthy"
+      },
+      {
+        "start": 691.4,
+        "duration": 4.28,
+        "start_formatted": "11:31",
+        "text": "cell can tolerate this drug because it's"
+      },
+      {
+        "start": 693.76,
+        "duration": 4.76,
+        "start_formatted": "11:33",
+        "text": "not stressed. It doesn't really need to"
+      },
+      {
+        "start": 695.68,
+        "duration": 4.08,
+        "start_formatted": "11:35",
+        "text": "rely on this garbage pathway as often."
+      },
+      {
+        "start": 698.52,
+        "duration": 3.4,
+        "start_formatted": "11:38",
+        "text": "But to the cancer cell, which is"
+      },
+      {
+        "start": 699.76,
+        "duration": 4.84,
+        "start_formatted": "11:39",
+        "text": "constantly dividing and under immense"
+      },
+      {
+        "start": 701.92,
+        "duration": 4.92,
+        "start_formatted": "11:41",
+        "text": "stress, this drug is very potent. At"
+      },
+      {
+        "start": 704.6,
+        "duration": 4.28,
+        "start_formatted": "11:44",
+        "text": "least that's what the AI suggested. Of"
+      },
+      {
+        "start": 706.84,
+        "duration": 4.04,
+        "start_formatted": "11:46",
+        "text": "course, the next logical step is to test"
+      },
+      {
+        "start": 708.88,
+        "duration": 4.48,
+        "start_formatted": "11:48",
+        "text": "this in real life. So, the scientists"
+      },
+      {
+        "start": 710.88,
+        "duration": 4.32,
+        "start_formatted": "11:50",
+        "text": "applied this Curesix drug to these"
+      },
+      {
+        "start": 713.36,
+        "duration": 4.16,
+        "start_formatted": "11:53",
+        "text": "leukemia cells, and the results were"
+      },
+      {
+        "start": 715.2,
+        "duration": 4.52,
+        "start_formatted": "11:55",
+        "text": "shocking. It wasn't just good, it was"
+      },
+      {
+        "start": 717.52,
+        "duration": 5.16,
+        "start_formatted": "11:57",
+        "text": "remarkably effective. It turns out that"
+      },
+      {
+        "start": 719.72,
+        "duration": 4.88,
+        "start_formatted": "11:59",
+        "text": "Curesix was 18 times more effective at"
+      },
+      {
+        "start": 722.68,
+        "duration": 3.76,
+        "start_formatted": "12:02",
+        "text": "killing these leukemia stem cells."
+      },
+      {
+        "start": 724.6,
+        "duration": 3.84,
+        "start_formatted": "12:04",
+        "text": "Again, these are the dreaded cells that"
+      },
+      {
+        "start": 726.44,
+        "duration": 4.2,
+        "start_formatted": "12:06",
+        "text": "cause the relapse of the cancer. These"
+      },
+      {
+        "start": 728.44,
+        "duration": 4.04,
+        "start_formatted": "12:08",
+        "text": "are the ones that previously had no good"
+      },
+      {
+        "start": 730.64,
+        "duration": 3.72,
+        "start_formatted": "12:10",
+        "text": "treatment, and they were very difficult"
+      },
+      {
+        "start": 732.48,
+        "duration": 4.68,
+        "start_formatted": "12:12",
+        "text": "to kill. But Co-scientist found that"
+      },
+      {
+        "start": 734.36,
+        "duration": 5.6,
+        "start_formatted": "12:14",
+        "text": "this drug was 18 times more effective at"
+      },
+      {
+        "start": 737.16,
+        "duration": 4.68,
+        "start_formatted": "12:17",
+        "text": "killing these types of cells compared to"
+      },
+      {
+        "start": 739.96,
+        "duration": 4.48,
+        "start_formatted": "12:19",
+        "text": "a normal healthy cell, which means it's"
+      },
+      {
+        "start": 741.84,
+        "duration": 5.2,
+        "start_formatted": "12:21",
+        "text": "a really effective and selective drug."
+      },
+      {
+        "start": 744.44,
+        "duration": 5.12,
+        "start_formatted": "12:24",
+        "text": "Again, this is solid proof that AI isn't"
+      },
+      {
+        "start": 747.04,
+        "duration": 4.48,
+        "start_formatted": "12:27",
+        "text": "just making up ideas or spitting out"
+      },
+      {
+        "start": 749.56,
+        "duration": 4.6,
+        "start_formatted": "12:29",
+        "text": "known information anymore. Here, it"
+      },
+      {
+        "start": 751.52,
+        "duration": 5.4,
+        "start_formatted": "12:31",
+        "text": "actually output a new way to repurpose a"
+      },
+      {
+        "start": 754.16,
+        "duration": 4.4,
+        "start_formatted": "12:34",
+        "text": "drug to treat a very difficult cancer."
+      },
+      {
+        "start": 756.92,
+        "duration": 3.919,
+        "start_formatted": "12:36",
+        "text": "And this is a new method that human"
+      },
+      {
+        "start": 758.56,
+        "duration": 4.68,
+        "start_formatted": "12:38",
+        "text": "researchers have not thought of before."
+      },
+      {
+        "start": 760.839,
+        "duration": 4.081,
+        "start_formatted": "12:40",
+        "text": "This is a genuine medical discovery."
+      },
+      {
+        "start": 763.24,
+        "duration": 4.08,
+        "start_formatted": "12:43",
+        "text": "Now, beyond single drugs, the AI"
+      },
+      {
+        "start": 764.92,
+        "duration": 4.76,
+        "start_formatted": "12:44",
+        "text": "Co-scientist was also able to tackle"
+      },
+      {
+        "start": 767.32,
+        "duration": 4.64,
+        "start_formatted": "12:47",
+        "text": "combinations of drugs, which is actually"
+      },
+      {
+        "start": 769.68,
+        "duration": 4.28,
+        "start_formatted": "12:49",
+        "text": "really difficult. You see, one drug is"
+      },
+      {
+        "start": 771.96,
+        "duration": 4.52,
+        "start_formatted": "12:51",
+        "text": "just a single variable, but combining"
+      },
+      {
+        "start": 773.96,
+        "duration": 4.52,
+        "start_formatted": "12:53",
+        "text": "two drugs creates thousands of potential"
+      },
+      {
+        "start": 776.48,
+        "duration": 4.08,
+        "start_formatted": "12:56",
+        "text": "interactions to test for, including"
+      },
+      {
+        "start": 778.48,
+        "duration": 4.52,
+        "start_formatted": "12:58",
+        "text": "effects and toxicity, and more."
+      },
+      {
+        "start": 780.56,
+        "duration": 5.12,
+        "start_formatted": "13:00",
+        "text": "Introducing a third drug increases the"
+      },
+      {
+        "start": 783.0,
+        "duration": 4.24,
+        "start_formatted": "13:03",
+        "text": "possible combinations into the millions."
+      },
+      {
+        "start": 785.68,
+        "duration": 3.6,
+        "start_formatted": "13:05",
+        "text": "Lab testing all these different"
+      },
+      {
+        "start": 787.24,
+        "duration": 3.64,
+        "start_formatted": "13:07",
+        "text": "components of drugs is pretty much"
+      },
+      {
+        "start": 789.28,
+        "duration": 3.76,
+        "start_formatted": "13:09",
+        "text": "impossible, but because this"
+      },
+      {
+        "start": 790.88,
+        "duration": 3.88,
+        "start_formatted": "13:10",
+        "text": "Co-scientist was able to synthesize all"
+      },
+      {
+        "start": 793.04,
+        "duration": 3.36,
+        "start_formatted": "13:13",
+        "text": "the information from the scientific"
+      },
+      {
+        "start": 794.76,
+        "duration": 3.04,
+        "start_formatted": "13:14",
+        "text": "literature out there, it's able to"
+      },
+      {
+        "start": 796.4,
+        "duration": 3.8,
+        "start_formatted": "13:16",
+        "text": "understand and predict these"
+      },
+      {
+        "start": 797.8,
+        "duration": 4.92,
+        "start_formatted": "13:17",
+        "text": "combinations a lot better than even the"
+      },
+      {
+        "start": 800.2,
+        "duration": 5.76,
+        "start_formatted": "13:20",
+        "text": "top human experts. So, again, targeting"
+      },
+      {
+        "start": 802.72,
+        "duration": 6.2,
+        "start_formatted": "13:22",
+        "text": "this specific type of leukemia, the AI I"
+      },
+      {
+        "start": 805.96,
+        "duration": 5.96,
+        "start_formatted": "13:25",
+        "text": "this combination of three drugs, JQ1,"
+      },
+      {
+        "start": 808.92,
+        "duration": 5.24,
+        "start_formatted": "13:28",
+        "text": "Olaparib, and MSA2. That was just its"
+      },
+      {
+        "start": 811.92,
+        "duration": 4.44,
+        "start_formatted": "13:31",
+        "text": "hypothesis, so again the researchers put"
+      },
+      {
+        "start": 814.16,
+        "duration": 4.08,
+        "start_formatted": "13:34",
+        "text": "this to the test in real life. And what"
+      },
+      {
+        "start": 816.36,
+        "duration": 4.84,
+        "start_formatted": "13:36",
+        "text": "they found is that this specific"
+      },
+      {
+        "start": 818.24,
+        "duration": 4.88,
+        "start_formatted": "13:38",
+        "text": "combination was indeed very effective"
+      },
+      {
+        "start": 821.2,
+        "duration": 4.2,
+        "start_formatted": "13:41",
+        "text": "against the cancer. Specifically, it"
+      },
+      {
+        "start": 823.12,
+        "duration": 4.84,
+        "start_formatted": "13:43",
+        "text": "works synergistically to attack the"
+      },
+      {
+        "start": 825.4,
+        "duration": 5.0,
+        "start_formatted": "13:45",
+        "text": "cancer from three different angles. The"
+      },
+      {
+        "start": 827.96,
+        "duration": 4.84,
+        "start_formatted": "13:47",
+        "text": "AI was correct in saying that these"
+      },
+      {
+        "start": 830.4,
+        "duration": 4.68,
+        "start_formatted": "13:50",
+        "text": "three drugs together were significantly"
+      },
+      {
+        "start": 832.8,
+        "duration": 4.24,
+        "start_formatted": "13:52",
+        "text": "better at stopping the cancer than any"
+      },
+      {
+        "start": 835.08,
+        "duration": 4.36,
+        "start_formatted": "13:55",
+        "text": "of them were on their own. This is a"
+      },
+      {
+        "start": 837.04,
+        "duration": 4.72,
+        "start_formatted": "13:57",
+        "text": "huge deal because testing so many drug"
+      },
+      {
+        "start": 839.44,
+        "duration": 4.12,
+        "start_formatted": "13:59",
+        "text": "combinations is just economically and"
+      },
+      {
+        "start": 841.76,
+        "duration": 3.84,
+        "start_formatted": "14:01",
+        "text": "physically impossible. There are"
+      },
+      {
+        "start": 843.56,
+        "duration": 4.4,
+        "start_formatted": "14:03",
+        "text": "millions of potential combinations,"
+      },
+      {
+        "start": 845.6,
+        "duration": 4.4,
+        "start_formatted": "14:05",
+        "text": "which is way too many for humans to test"
+      },
+      {
+        "start": 847.96,
+        "duration": 3.56,
+        "start_formatted": "14:07",
+        "text": "in real life through trial and error."
+      },
+      {
+        "start": 850.0,
+        "duration": 3.56,
+        "start_formatted": "14:10",
+        "text": "But this breakthrough shows that we"
+      },
+      {
+        "start": 851.52,
+        "duration": 4.72,
+        "start_formatted": "14:11",
+        "text": "don't need millions of expensive lab"
+      },
+      {
+        "start": 853.56,
+        "duration": 4.84,
+        "start_formatted": "14:13",
+        "text": "experiments. This AI can just synthesize"
+      },
+      {
+        "start": 856.24,
+        "duration": 4.44,
+        "start_formatted": "14:16",
+        "text": "all known information and come up with"
+      },
+      {
+        "start": 858.4,
+        "duration": 4.84,
+        "start_formatted": "14:18",
+        "text": "the best combinations on its own that"
+      },
+      {
+        "start": 860.68,
+        "duration": 4.76,
+        "start_formatted": "14:20",
+        "text": "actually work. This makes drug discovery"
+      },
+      {
+        "start": 863.24,
+        "duration": 4.4,
+        "start_formatted": "14:23",
+        "text": "way more efficient, especially for"
+      },
+      {
+        "start": 865.44,
+        "duration": 4.52,
+        "start_formatted": "14:25",
+        "text": "combinations of drugs. So these are just"
+      },
+      {
+        "start": 867.64,
+        "duration": 4.84,
+        "start_formatted": "14:27",
+        "text": "a few examples of how you can get this"
+      },
+      {
+        "start": 869.96,
+        "duration": 4.68,
+        "start_formatted": "14:29",
+        "text": "AI agent system to find new treatments"
+      },
+      {
+        "start": 872.48,
+        "duration": 3.96,
+        "start_formatted": "14:32",
+        "text": "for a type of cancer that was very"
+      },
+      {
+        "start": 874.64,
+        "duration": 3.72,
+        "start_formatted": "14:34",
+        "text": "difficult to treat. But it doesn't just"
+      },
+      {
+        "start": 876.44,
+        "duration": 3.8,
+        "start_formatted": "14:36",
+        "text": "do cancer. If you want to supercharge"
+      },
+      {
+        "start": 878.36,
+        "duration": 4.24,
+        "start_formatted": "14:38",
+        "text": "your content, definitely check out"
+      },
+      {
+        "start": 880.24,
+        "duration": 4.48,
+        "start_formatted": "14:40",
+        "text": "Higgsfield, the sponsor of this video."
+      },
+      {
+        "start": 882.6,
+        "duration": 3.96,
+        "start_formatted": "14:42",
+        "text": "Think of it as an all-in-one AI creation"
+      },
+      {
+        "start": 884.72,
+        "duration": 3.8,
+        "start_formatted": "14:44",
+        "text": "platform built specifically for"
+      },
+      {
+        "start": 886.56,
+        "duration": 3.56,
+        "start_formatted": "14:46",
+        "text": "creators. Instead of jumping between a"
+      },
+      {
+        "start": 888.52,
+        "duration": 3.24,
+        "start_formatted": "14:48",
+        "text": "bunch of different tools, Higgsfield"
+      },
+      {
+        "start": 890.12,
+        "duration": 3.8,
+        "start_formatted": "14:50",
+        "text": "gives you access to some of the world's"
+      },
+      {
+        "start": 891.76,
+        "duration": 5.28,
+        "start_formatted": "14:51",
+        "text": "leading models in one place, including"
+      },
+      {
+        "start": 893.92,
+        "duration": 5.2,
+        "start_formatted": "14:53",
+        "text": "Seed Dance 2.0, Nano Banana, GPT Image"
+      },
+      {
+        "start": 897.04,
+        "duration": 4.4,
+        "start_formatted": "14:57",
+        "text": "2, and more. What makes it really"
+      },
+      {
+        "start": 899.12,
+        "duration": 4.56,
+        "start_formatted": "14:59",
+        "text": "interesting is that Higgsfield also has"
+      },
+      {
+        "start": 901.44,
+        "duration": 4.2,
+        "start_formatted": "15:01",
+        "text": "its own tools built for full creative"
+      },
+      {
+        "start": 903.68,
+        "duration": 3.6,
+        "start_formatted": "15:03",
+        "text": "workflows. For example, there's"
+      },
+      {
+        "start": 905.64,
+        "duration": 3.64,
+        "start_formatted": "15:05",
+        "text": "Higgsfield Supercomputer, which is"
+      },
+      {
+        "start": 907.28,
+        "duration": 4.04,
+        "start_formatted": "15:07",
+        "text": "basically a general-purpose AI super"
+      },
+      {
+        "start": 909.28,
+        "duration": 3.88,
+        "start_formatted": "15:09",
+        "text": "agent for content creation. You can give"
+      },
+      {
+        "start": 911.32,
+        "duration": 4.4,
+        "start_formatted": "15:11",
+        "text": "it one prompt and it can help with the"
+      },
+      {
+        "start": 913.16,
+        "duration": 4.2,
+        "start_formatted": "15:13",
+        "text": "whole process. Finding an idea, creating"
+      },
+      {
+        "start": 915.72,
+        "duration": 3.44,
+        "start_formatted": "15:15",
+        "text": "the product concept, writing the brand"
+      },
+      {
+        "start": 917.36,
+        "duration": 3.4,
+        "start_formatted": "15:17",
+        "text": "direction, generating the visuals,"
+      },
+      {
+        "start": 919.16,
+        "duration": 3.68,
+        "start_formatted": "15:19",
+        "text": "cutting the launch video, and even"
+      },
+      {
+        "start": 920.76,
+        "duration": 4.36,
+        "start_formatted": "15:20",
+        "text": "helping with distribution. And for"
+      },
+      {
+        "start": 922.84,
+        "duration": 5.2,
+        "start_formatted": "15:22",
+        "text": "actual video generation, Higgsfield has"
+      },
+      {
+        "start": 925.12,
+        "duration": 5.2,
+        "start_formatted": "15:25",
+        "text": "C Dance 2.0, which can generate 1080p"
+      },
+      {
+        "start": 928.04,
+        "duration": 4.32,
+        "start_formatted": "15:28",
+        "text": "videos with synced audio. It also"
+      },
+      {
+        "start": 930.32,
+        "duration": 4.6,
+        "start_formatted": "15:30",
+        "text": "supports multiple inputs, so you can"
+      },
+      {
+        "start": 932.36,
+        "duration": 4.8,
+        "start_formatted": "15:32",
+        "text": "combine text, images, video clips, and"
+      },
+      {
+        "start": 934.92,
+        "duration": 4.88,
+        "start_formatted": "15:34",
+        "text": "audio references to control the final"
+      },
+      {
+        "start": 937.16,
+        "duration": 5.04,
+        "start_formatted": "15:37",
+        "text": "results more precisely. They also have"
+      },
+      {
+        "start": 939.8,
+        "duration": 4.32,
+        "start_formatted": "15:39",
+        "text": "Marketing Studio, which is really useful"
+      },
+      {
+        "start": 942.2,
+        "duration": 4.0,
+        "start_formatted": "15:42",
+        "text": "for making ads. You can paste a product"
+      },
+      {
+        "start": 944.12,
+        "duration": 4.28,
+        "start_formatted": "15:44",
+        "text": "link or upload a product image and it"
+      },
+      {
+        "start": 946.2,
+        "duration": 4.88,
+        "start_formatted": "15:46",
+        "text": "can generate multiple ad formats in one"
+      },
+      {
+        "start": 948.4,
+        "duration": 5.28,
+        "start_formatted": "15:48",
+        "text": "workflow, like UGC videos, tutorials,"
+      },
+      {
+        "start": 951.08,
+        "duration": 4.52,
+        "start_formatted": "15:51",
+        "text": "unboxings, product reviews, and more."
+      },
+      {
+        "start": 953.68,
+        "duration": 4.08,
+        "start_formatted": "15:53",
+        "text": "One product can instantly turn into a"
+      },
+      {
+        "start": 955.6,
+        "duration": 5.24,
+        "start_formatted": "15:55",
+        "text": "whole campaign. They also have Cinema"
+      },
+      {
+        "start": 957.76,
+        "duration": 5.48,
+        "start_formatted": "15:57",
+        "text": "Studio 3.5, which is built as a full"
+      },
+      {
+        "start": 960.84,
+        "duration": 4.04,
+        "start_formatted": "16:00",
+        "text": "end-to-end filmmaking pipeline. This is"
+      },
+      {
+        "start": 963.24,
+        "duration": 3.4,
+        "start_formatted": "16:03",
+        "text": "especially useful if you want more"
+      },
+      {
+        "start": 964.88,
+        "duration": 3.44,
+        "start_formatted": "16:04",
+        "text": "cinematic control. Instead of just"
+      },
+      {
+        "start": 966.64,
+        "duration": 4.24,
+        "start_formatted": "16:06",
+        "text": "typing a prompt and hoping it looks"
+      },
+      {
+        "start": 968.32,
+        "duration": 4.72,
+        "start_formatted": "16:08",
+        "text": "good, Cinema Studio is built around"
+      },
+      {
+        "start": 970.88,
+        "duration": 4.08,
+        "start_formatted": "16:10",
+        "text": "actual shot-level filmmaking. You can"
+      },
+      {
+        "start": 973.04,
+        "duration": 3.72,
+        "start_formatted": "16:13",
+        "text": "plan the scenes, control the camera, set"
+      },
+      {
+        "start": 974.96,
+        "duration": 3.48,
+        "start_formatted": "16:14",
+        "text": "the mood, add characters, and keep"
+      },
+      {
+        "start": 976.76,
+        "duration": 4.2,
+        "start_formatted": "16:16",
+        "text": "everything consistent across the whole"
+      },
+      {
+        "start": 978.44,
+        "duration": 4.92,
+        "start_formatted": "16:18",
+        "text": "project. The big idea is simple. From"
+      },
+      {
+        "start": 980.96,
+        "duration": 4.84,
+        "start_formatted": "16:20",
+        "text": "idea to final output, Higgsfield gives"
+      },
+      {
+        "start": 983.36,
+        "duration": 4.56,
+        "start_formatted": "16:23",
+        "text": "you more control over the whole creative"
+      },
+      {
+        "start": 985.8,
+        "duration": 4.16,
+        "start_formatted": "16:25",
+        "text": "process. Whether you're making ads,"
+      },
+      {
+        "start": 987.92,
+        "duration": 3.6,
+        "start_formatted": "16:27",
+        "text": "social videos, product launches,"
+      },
+      {
+        "start": 989.96,
+        "duration": 3.56,
+        "start_formatted": "16:29",
+        "text": "cinematic clips, or full marketing"
+      },
+      {
+        "start": 991.52,
+        "duration": 4.76,
+        "start_formatted": "16:31",
+        "text": "campaigns, this is one of the easiest"
+      },
+      {
+        "start": 993.52,
+        "duration": 4.64,
+        "start_formatted": "16:33",
+        "text": "platforms to start creating with AI. Try"
+      },
+      {
+        "start": 996.28,
+        "duration": 4.04,
+        "start_formatted": "16:36",
+        "text": "Higgsfield today using the link in the"
+      },
+      {
+        "start": 998.16,
+        "duration": 4.6,
+        "start_formatted": "16:38",
+        "text": "description below. The paper also goes"
+      },
+      {
+        "start": 1000.32,
+        "duration": 4.96,
+        "start_formatted": "16:40",
+        "text": "through how AI was used for liver"
+      },
+      {
+        "start": 1002.76,
+        "duration": 5.12,
+        "start_formatted": "16:42",
+        "text": "fibrosis. This is a condition where the"
+      },
+      {
+        "start": 1005.28,
+        "duration": 4.44,
+        "start_formatted": "16:45",
+        "text": "liver develops excessive scar tissue,"
+      },
+      {
+        "start": 1007.88,
+        "duration": 4.36,
+        "start_formatted": "16:47",
+        "text": "usually from inflammation, and it can"
+      },
+      {
+        "start": 1009.72,
+        "duration": 4.72,
+        "start_formatted": "16:49",
+        "text": "eventually lead to liver failure. The"
+      },
+      {
+        "start": 1012.24,
+        "duration": 4.92,
+        "start_formatted": "16:52",
+        "text": "researchers asked the co-scientists to"
+      },
+      {
+        "start": 1014.44,
+        "duration": 5.0,
+        "start_formatted": "16:54",
+        "text": "find new epigenetic targets for this"
+      },
+      {
+        "start": 1017.16,
+        "duration": 4.64,
+        "start_formatted": "16:57",
+        "text": "disease. In simple terms, epigenetics"
+      },
+      {
+        "start": 1019.44,
+        "duration": 5.24,
+        "start_formatted": "16:59",
+        "text": "refers to the mechanisms that change how"
+      },
+      {
+        "start": 1021.8,
+        "duration": 4.88,
+        "start_formatted": "17:01",
+        "text": "genes are turned on or off. Identifying"
+      },
+      {
+        "start": 1024.68,
+        "duration": 4.44,
+        "start_formatted": "17:04",
+        "text": "these targets is like finding which"
+      },
+      {
+        "start": 1026.68,
+        "duration": 4.519,
+        "start_formatted": "17:06",
+        "text": "specific switches in the DNA tell the"
+      },
+      {
+        "start": 1029.12,
+        "duration": 4.04,
+        "start_formatted": "17:09",
+        "text": "liver cells to produce excessive"
+      },
+      {
+        "start": 1031.199,
+        "duration": 4.041,
+        "start_formatted": "17:11",
+        "text": "collagen and scar tissue and other"
+      },
+      {
+        "start": 1033.16,
+        "duration": 4.48,
+        "start_formatted": "17:13",
+        "text": "stuff, which caused the fibrosis. So,"
+      },
+      {
+        "start": 1035.24,
+        "duration": 4.599,
+        "start_formatted": "17:15",
+        "text": "once we identify these targets, it's"
+      },
+      {
+        "start": 1037.64,
+        "duration": 4.04,
+        "start_formatted": "17:17",
+        "text": "easy to develop therapies that flip"
+      },
+      {
+        "start": 1039.839,
+        "duration": 4.801,
+        "start_formatted": "17:19",
+        "text": "these switches back into a healthy"
+      },
+      {
+        "start": 1041.68,
+        "duration": 4.88,
+        "start_formatted": "17:21",
+        "text": "state. So, again, the AI system took"
+      },
+      {
+        "start": 1044.64,
+        "duration": 3.92,
+        "start_formatted": "17:24",
+        "text": "this task and came up with a ton of"
+      },
+      {
+        "start": 1046.56,
+        "duration": 3.8,
+        "start_formatted": "17:26",
+        "text": "hypotheses, debated with itself"
+      },
+      {
+        "start": 1048.56,
+        "duration": 3.84,
+        "start_formatted": "17:28",
+        "text": "internally until it came up with a"
+      },
+      {
+        "start": 1050.36,
+        "duration": 5.08,
+        "start_formatted": "17:30",
+        "text": "leaderboard of the best solutions. And"
+      },
+      {
+        "start": 1052.4,
+        "duration": 5.0,
+        "start_formatted": "17:32",
+        "text": "it ultimately was able to identify new"
+      },
+      {
+        "start": 1055.44,
+        "duration": 4.12,
+        "start_formatted": "17:35",
+        "text": "epigenetic targets and proposed the"
+      },
+      {
+        "start": 1057.4,
+        "duration": 4.6,
+        "start_formatted": "17:37",
+        "text": "drugs to hit them, including a drug"
+      },
+      {
+        "start": 1059.56,
+        "duration": 4.28,
+        "start_formatted": "17:39",
+        "text": "called vorinostat. The breakthrough here"
+      },
+      {
+        "start": 1062.0,
+        "duration": 3.88,
+        "start_formatted": "17:42",
+        "text": "is that vorinostat is already an"
+      },
+      {
+        "start": 1063.84,
+        "duration": 4.68,
+        "start_formatted": "17:43",
+        "text": "FDA-approved drug. But it's actually"
+      },
+      {
+        "start": 1065.88,
+        "duration": 5.56,
+        "start_formatted": "17:45",
+        "text": "used to treat a rare type of lymphoma"
+      },
+      {
+        "start": 1068.52,
+        "duration": 5.48,
+        "start_formatted": "17:48",
+        "text": "cancer, not liver disease. So, again,"
+      },
+      {
+        "start": 1071.44,
+        "duration": 4.6,
+        "start_formatted": "17:51",
+        "text": "the scientists tested the AI's theory in"
+      },
+      {
+        "start": 1074.0,
+        "duration": 5.08,
+        "start_formatted": "17:54",
+        "text": "real life. And indeed, they found that"
+      },
+      {
+        "start": 1076.04,
+        "duration": 5.92,
+        "start_formatted": "17:56",
+        "text": "vorinostat actually successfully reduced"
+      },
+      {
+        "start": 1079.08,
+        "duration": 5.4,
+        "start_formatted": "17:59",
+        "text": "liver scarring without being toxic to"
+      },
+      {
+        "start": 1081.96,
+        "duration": 4.76,
+        "start_formatted": "18:01",
+        "text": "human liver cells. This is yet another"
+      },
+      {
+        "start": 1084.48,
+        "duration": 4.4,
+        "start_formatted": "18:04",
+        "text": "example of a breakthrough discovery from"
+      },
+      {
+        "start": 1086.72,
+        "duration": 4.24,
+        "start_formatted": "18:06",
+        "text": "this AI system. It shows that AI can"
+      },
+      {
+        "start": 1088.88,
+        "duration": 4.28,
+        "start_formatted": "18:08",
+        "text": "accelerate the search for treatments by"
+      },
+      {
+        "start": 1090.96,
+        "duration": 4.12,
+        "start_formatted": "18:10",
+        "text": "finding hidden potential in drugs we"
+      },
+      {
+        "start": 1093.16,
+        "duration": 3.88,
+        "start_formatted": "18:13",
+        "text": "already know about. Drugs that are"
+      },
+      {
+        "start": 1095.08,
+        "duration": 4.8,
+        "start_formatted": "18:15",
+        "text": "currently used for completely different"
+      },
+      {
+        "start": 1097.04,
+        "duration": 4.64,
+        "start_formatted": "18:17",
+        "text": "purposes. And it gets even crazier. So,"
+      },
+      {
+        "start": 1099.88,
+        "duration": 4.04,
+        "start_formatted": "18:19",
+        "text": "let's discuss the third use case for"
+      },
+      {
+        "start": 1101.68,
+        "duration": 5.0,
+        "start_formatted": "18:21",
+        "text": "this, which is antimicrobial resistance,"
+      },
+      {
+        "start": 1103.92,
+        "duration": 5.08,
+        "start_formatted": "18:23",
+        "text": "or AMR for short. This is arguably one"
+      },
+      {
+        "start": 1106.68,
+        "duration": 4.32,
+        "start_formatted": "18:26",
+        "text": "of the most severe global health threats"
+      },
+      {
+        "start": 1109.0,
+        "duration": 5.52,
+        "start_formatted": "18:29",
+        "text": "of our century. Many common diseases"
+      },
+      {
+        "start": 1111.0,
+        "duration": 5.84,
+        "start_formatted": "18:31",
+        "text": "like pneumonia, tuberculosis, or UTIs"
+      },
+      {
+        "start": 1114.52,
+        "duration": 4.32,
+        "start_formatted": "18:34",
+        "text": "are caused by bacteria, fungi, and"
+      },
+      {
+        "start": 1116.84,
+        "duration": 3.92,
+        "start_formatted": "18:36",
+        "text": "parasites. Now, we use drugs called"
+      },
+      {
+        "start": 1118.84,
+        "duration": 4.12,
+        "start_formatted": "18:38",
+        "text": "antibiotics to kill them. But the"
+      },
+      {
+        "start": 1120.76,
+        "duration": 4.92,
+        "start_formatted": "18:40",
+        "text": "problem is that these can evolve over"
+      },
+      {
+        "start": 1122.96,
+        "duration": 4.6,
+        "start_formatted": "18:42",
+        "text": "time to survive these drugs. Basically,"
+      },
+      {
+        "start": 1125.68,
+        "duration": 4.24,
+        "start_formatted": "18:45",
+        "text": "the bacteria can adapt and become"
+      },
+      {
+        "start": 1127.56,
+        "duration": 4.44,
+        "start_formatted": "18:47",
+        "text": "resistant to antibiotics and other"
+      },
+      {
+        "start": 1129.92,
+        "duration": 3.6,
+        "start_formatted": "18:49",
+        "text": "treatments, meaning medicines designed"
+      },
+      {
+        "start": 1132.0,
+        "duration": 3.68,
+        "start_formatted": "18:52",
+        "text": "today gradually lose their"
+      },
+      {
+        "start": 1133.52,
+        "duration": 4.48,
+        "start_formatted": "18:53",
+        "text": "effectiveness. Well, in this paper, by"
+      },
+      {
+        "start": 1135.68,
+        "duration": 4.72,
+        "start_formatted": "18:55",
+        "text": "using Co Scientist, they were able to"
+      },
+      {
+        "start": 1138.0,
+        "duration": 5.0,
+        "start_formatted": "18:58",
+        "text": "uncover a major discovery in how"
+      },
+      {
+        "start": 1140.4,
+        "duration": 4.64,
+        "start_formatted": "19:00",
+        "text": "bacteria spread this antibiotic"
+      },
+      {
+        "start": 1143.0,
+        "duration": 3.8,
+        "start_formatted": "19:03",
+        "text": "resistance. Here's more background on"
+      },
+      {
+        "start": 1145.04,
+        "duration": 4.32,
+        "start_formatted": "19:05",
+        "text": "the problem. The researchers were trying"
+      },
+      {
+        "start": 1146.8,
+        "duration": 5.16,
+        "start_formatted": "19:06",
+        "text": "to understand how antibiotic resistance"
+      },
+      {
+        "start": 1149.36,
+        "duration": 5.04,
+        "start_formatted": "19:09",
+        "text": "spreads so quickly between completely"
+      },
+      {
+        "start": 1151.96,
+        "duration": 5.2,
+        "start_formatted": "19:11",
+        "text": "different species of bacteria. So far we"
+      },
+      {
+        "start": 1154.4,
+        "duration": 5.64,
+        "start_formatted": "19:14",
+        "text": "know that resistance is often carried in"
+      },
+      {
+        "start": 1157.16,
+        "duration": 4.84,
+        "start_formatted": "19:17",
+        "text": "mobile genetic elements called CF PIC"
+      },
+      {
+        "start": 1160.04,
+        "duration": 4.84,
+        "start_formatted": "19:20",
+        "text": "eyes. These are like specialized"
+      },
+      {
+        "start": 1162.0,
+        "duration": 5.08,
+        "start_formatted": "19:22",
+        "text": "packages that move from one bacterium to"
+      },
+      {
+        "start": 1164.88,
+        "duration": 4.48,
+        "start_formatted": "19:24",
+        "text": "another. But usually these packages are"
+      },
+      {
+        "start": 1167.08,
+        "duration": 4.4,
+        "start_formatted": "19:27",
+        "text": "very picky about which bacteria they"
+      },
+      {
+        "start": 1169.36,
+        "duration": 5.32,
+        "start_formatted": "19:29",
+        "text": "enter. And what scientists don't fully"
+      },
+      {
+        "start": 1171.48,
+        "duration": 5.64,
+        "start_formatted": "19:31",
+        "text": "understand is how these CF PIC eyes were"
+      },
+      {
+        "start": 1174.68,
+        "duration": 5.28,
+        "start_formatted": "19:34",
+        "text": "able to jump between different species"
+      },
+      {
+        "start": 1177.12,
+        "duration": 5.64,
+        "start_formatted": "19:37",
+        "text": "so easily. Well, using Co-scientist"
+      },
+      {
+        "start": 1179.96,
+        "duration": 4.72,
+        "start_formatted": "19:39",
+        "text": "researchers test the system to find the"
+      },
+      {
+        "start": 1182.76,
+        "duration": 4.28,
+        "start_formatted": "19:42",
+        "text": "mechanism behind this. They just said,"
+      },
+      {
+        "start": 1184.68,
+        "duration": 4.56,
+        "start_formatted": "19:44",
+        "text": "\"Hey, Co-scientist, here's a weird"
+      },
+      {
+        "start": 1187.04,
+        "duration": 4.76,
+        "start_formatted": "19:47",
+        "text": "genetic element. Figure out how this"
+      },
+      {
+        "start": 1189.24,
+        "duration": 4.36,
+        "start_formatted": "19:49",
+        "text": "bacterial gene transfer actually works.\""
+      },
+      {
+        "start": 1191.8,
+        "duration": 3.96,
+        "start_formatted": "19:51",
+        "text": "And in just two days of autonomous"
+      },
+      {
+        "start": 1193.6,
+        "duration": 4.68,
+        "start_formatted": "19:53",
+        "text": "literature review and reflection and"
+      },
+      {
+        "start": 1195.76,
+        "duration": 5.12,
+        "start_formatted": "19:55",
+        "text": "internal debate, Co-scientist generated"
+      },
+      {
+        "start": 1198.28,
+        "duration": 5.8,
+        "start_formatted": "19:58",
+        "text": "a top-ranked hypothesis. It predicted"
+      },
+      {
+        "start": 1200.88,
+        "duration": 5.56,
+        "start_formatted": "20:00",
+        "text": "that these CF PIC eyes actively interact"
+      },
+      {
+        "start": 1204.08,
+        "duration": 4.48,
+        "start_formatted": "20:04",
+        "text": "with diverse phage tails. In really"
+      },
+      {
+        "start": 1206.44,
+        "duration": 4.36,
+        "start_formatted": "20:06",
+        "text": "simple terms, these phage tails are"
+      },
+      {
+        "start": 1208.56,
+        "duration": 4.44,
+        "start_formatted": "20:08",
+        "text": "essentially virus-like docking tools"
+      },
+      {
+        "start": 1210.8,
+        "duration": 4.8,
+        "start_formatted": "20:10",
+        "text": "that latch onto and enter a host"
+      },
+      {
+        "start": 1213.0,
+        "duration": 5.88,
+        "start_formatted": "20:13",
+        "text": "bacteria. The AI hypothesized that these"
+      },
+      {
+        "start": 1215.6,
+        "duration": 6.0,
+        "start_formatted": "20:15",
+        "text": "CF PIC I genetic elements hijack the"
+      },
+      {
+        "start": 1218.88,
+        "duration": 5.64,
+        "start_formatted": "20:18",
+        "text": "phage tails to dramatically expand the"
+      },
+      {
+        "start": 1221.6,
+        "duration": 5.48,
+        "start_formatted": "20:21",
+        "text": "range of bacteria species it can infect."
+      },
+      {
+        "start": 1224.52,
+        "duration": 4.96,
+        "start_formatted": "20:24",
+        "text": "And that's why antimicrobial resistance"
+      },
+      {
+        "start": 1227.08,
+        "duration": 4.6,
+        "start_formatted": "20:27",
+        "text": "can spread so quickly between different"
+      },
+      {
+        "start": 1229.48,
+        "duration": 4.12,
+        "start_formatted": "20:29",
+        "text": "bacteria species. Again, keep in mind we"
+      },
+      {
+        "start": 1231.68,
+        "duration": 4.2,
+        "start_formatted": "20:31",
+        "text": "didn't have this knowledge before. This"
+      },
+      {
+        "start": 1233.6,
+        "duration": 4.44,
+        "start_formatted": "20:33",
+        "text": "is a completely new idea that the AI"
+      },
+      {
+        "start": 1235.88,
+        "duration": 4.12,
+        "start_formatted": "20:35",
+        "text": "deduced from its understanding of"
+      },
+      {
+        "start": 1238.04,
+        "duration": 4.4,
+        "start_formatted": "20:38",
+        "text": "scientific literature. The remarkable"
+      },
+      {
+        "start": 1240.0,
+        "duration": 4.8,
+        "start_formatted": "20:40",
+        "text": "thing is that the AI's theory actually"
+      },
+      {
+        "start": 1242.44,
+        "duration": 5.16,
+        "start_formatted": "20:42",
+        "text": "perfectly matched the findings of an"
+      },
+      {
+        "start": 1244.8,
+        "duration": 4.96,
+        "start_formatted": "20:44",
+        "text": "independent team of scientists who just"
+      },
+      {
+        "start": 1247.6,
+        "duration": 4.0,
+        "start_formatted": "20:47",
+        "text": "figured it out in the lab after months"
+      },
+      {
+        "start": 1249.76,
+        "duration": 4.16,
+        "start_formatted": "20:49",
+        "text": "of work. They haven't even published"
+      },
+      {
+        "start": 1251.6,
+        "duration": 4.52,
+        "start_formatted": "20:51",
+        "text": "anything on it yet. In contrast, the AI"
+      },
+      {
+        "start": 1253.92,
+        "duration": 4.84,
+        "start_formatted": "20:53",
+        "text": "was able to deduce all of this in just"
+      },
+      {
+        "start": 1256.12,
+        "duration": 4.96,
+        "start_formatted": "20:56",
+        "text": "two days, which is crazy. This proves"
+      },
+      {
+        "start": 1258.76,
+        "duration": 4.08,
+        "start_formatted": "20:58",
+        "text": "that the AI isn't just regurgitating"
+      },
+      {
+        "start": 1261.08,
+        "duration": 4.48,
+        "start_formatted": "21:01",
+        "text": "information, it's actually coming up"
+      },
+      {
+        "start": 1262.84,
+        "duration": 5.44,
+        "start_formatted": "21:02",
+        "text": "with completely new scientific ideas"
+      },
+      {
+        "start": 1265.56,
+        "duration": 4.52,
+        "start_formatted": "21:05",
+        "text": "that work. Now, so far Co-scientist is"
+      },
+      {
+        "start": 1268.28,
+        "duration": 4.16,
+        "start_formatted": "21:08",
+        "text": "pretty impressive, but it hits a"
+      },
+      {
+        "start": 1270.08,
+        "duration": 4.76,
+        "start_formatted": "21:10",
+        "text": "limitation pretty quickly. So far, this"
+      },
+      {
+        "start": 1272.44,
+        "duration": 5.0,
+        "start_formatted": "21:12",
+        "text": "can only synthesize information and come"
+      },
+      {
+        "start": 1274.84,
+        "duration": 5.2,
+        "start_formatted": "21:14",
+        "text": "up with hypotheses. The next major step"
+      },
+      {
+        "start": 1277.44,
+        "duration": 5.08,
+        "start_formatted": "21:17",
+        "text": "in AI science involves a system that can"
+      },
+      {
+        "start": 1280.04,
+        "duration": 4.72,
+        "start_formatted": "21:20",
+        "text": "actually analyze the results once these"
+      },
+      {
+        "start": 1282.52,
+        "duration": 4.68,
+        "start_formatted": "21:22",
+        "text": "ideas are tested in a lab and then"
+      },
+      {
+        "start": 1284.76,
+        "duration": 4.48,
+        "start_formatted": "21:24",
+        "text": "iterate again and again. We need an AI"
+      },
+      {
+        "start": 1287.2,
+        "duration": 4.32,
+        "start_formatted": "21:27",
+        "text": "system that can work alongside"
+      },
+      {
+        "start": 1289.24,
+        "duration": 4.04,
+        "start_formatted": "21:29",
+        "text": "scientists as they do experiments and"
+      },
+      {
+        "start": 1291.52,
+        "duration": 3.92,
+        "start_formatted": "21:31",
+        "text": "help them iterate further. Currently,"
+      },
+      {
+        "start": 1293.28,
+        "duration": 4.36,
+        "start_formatted": "21:33",
+        "text": "scientists have to do a lot of the grunt"
+      },
+      {
+        "start": 1295.44,
+        "duration": 4.12,
+        "start_formatted": "21:35",
+        "text": "lab work. It's messy and intensely"
+      },
+      {
+        "start": 1297.64,
+        "duration": 4.36,
+        "start_formatted": "21:37",
+        "text": "physical. You need to gather evidence,"
+      },
+      {
+        "start": 1299.56,
+        "duration": 4.72,
+        "start_formatted": "21:39",
+        "text": "pipette liquids, culture the cells, and"
+      },
+      {
+        "start": 1302.0,
+        "duration": 4.16,
+        "start_formatted": "21:42",
+        "text": "also write code to analyze a ton of raw"
+      },
+      {
+        "start": 1304.28,
+        "duration": 4.08,
+        "start_formatted": "21:44",
+        "text": "data. All of this takes an immense"
+      },
+      {
+        "start": 1306.16,
+        "duration": 5.0,
+        "start_formatted": "21:46",
+        "text": "amount of time, which is why most"
+      },
+      {
+        "start": 1308.36,
+        "duration": 5.44,
+        "start_formatted": "21:48",
+        "text": "biology scientific papers takes months"
+      },
+      {
+        "start": 1311.16,
+        "duration": 4.8,
+        "start_formatted": "21:51",
+        "text": "to years to publish. How can we get AI"
+      },
+      {
+        "start": 1313.8,
+        "duration": 4.84,
+        "start_formatted": "21:53",
+        "text": "to automate these steps as well? So,"
+      },
+      {
+        "start": 1315.96,
+        "duration": 5.12,
+        "start_formatted": "21:55",
+        "text": "that's where this next paper comes in."
+      },
+      {
+        "start": 1318.64,
+        "duration": 5.2,
+        "start_formatted": "21:58",
+        "text": "So, this is called a multi-agent system"
+      },
+      {
+        "start": 1321.08,
+        "duration": 5.0,
+        "start_formatted": "22:01",
+        "text": "for automating scientific discovery, and"
+      },
+      {
+        "start": 1323.84,
+        "duration": 5.28,
+        "start_formatted": "22:03",
+        "text": "this was also published in Nature in the"
+      },
+      {
+        "start": 1326.08,
+        "duration": 5.72,
+        "start_formatted": "22:06",
+        "text": "same week. Now, this is also an agentic"
+      },
+      {
+        "start": 1329.12,
+        "duration": 4.96,
+        "start_formatted": "22:09",
+        "text": "system called Robin. But, here's where"
+      },
+      {
+        "start": 1331.8,
+        "duration": 4.04,
+        "start_formatted": "22:11",
+        "text": "it differs from Google's Co-scientist."
+      },
+      {
+        "start": 1334.08,
+        "duration": 4.48,
+        "start_formatted": "22:14",
+        "text": "Co-scientist only focuses on the"
+      },
+      {
+        "start": 1335.84,
+        "duration": 4.92,
+        "start_formatted": "22:15",
+        "text": "thinking part of discovery, but Robin is"
+      },
+      {
+        "start": 1338.56,
+        "duration": 4.24,
+        "start_formatted": "22:18",
+        "text": "what they call a closed-loop system. It"
+      },
+      {
+        "start": 1340.76,
+        "duration": 4.32,
+        "start_formatted": "22:20",
+        "text": "not only comes up with new ideas, but"
+      },
+      {
+        "start": 1342.8,
+        "duration": 4.84,
+        "start_formatted": "22:22",
+        "text": "also interprets raw data from lab"
+      },
+      {
+        "start": 1345.08,
+        "duration": 4.72,
+        "start_formatted": "22:25",
+        "text": "experiments to refine them in real time."
+      },
+      {
+        "start": 1347.64,
+        "duration": 4.64,
+        "start_formatted": "22:27",
+        "text": "So, this is an AI system that can manage"
+      },
+      {
+        "start": 1349.8,
+        "duration": 4.68,
+        "start_formatted": "22:29",
+        "text": "the entire scientific cycle from start"
+      },
+      {
+        "start": 1352.28,
+        "duration": 4.12,
+        "start_formatted": "22:32",
+        "text": "to finish and keep looping and iterating"
+      },
+      {
+        "start": 1354.48,
+        "duration": 4.36,
+        "start_formatted": "22:34",
+        "text": "again and again to come up with new"
+      },
+      {
+        "start": 1356.4,
+        "duration": 4.84,
+        "start_formatted": "22:36",
+        "text": "directions or dig deeper. Let's look"
+      },
+      {
+        "start": 1358.84,
+        "duration": 5.4,
+        "start_formatted": "22:38",
+        "text": "under the hood of Robin. So, it relies"
+      },
+      {
+        "start": 1361.24,
+        "duration": 5.08,
+        "start_formatted": "22:41",
+        "text": "on this system of specialized AI agents,"
+      },
+      {
+        "start": 1364.24,
+        "duration": 4.52,
+        "start_formatted": "22:44",
+        "text": "but they each have very different roles."
+      },
+      {
+        "start": 1366.32,
+        "duration": 5.0,
+        "start_formatted": "22:46",
+        "text": "First, we have Crow, and its primary"
+      },
+      {
+        "start": 1368.76,
+        "duration": 4.44,
+        "start_formatted": "22:48",
+        "text": "function is to perform accurate, concise"
+      },
+      {
+        "start": 1371.32,
+        "duration": 4.52,
+        "start_formatted": "22:51",
+        "text": "literature review. So, it's like the"
+      },
+      {
+        "start": 1373.2,
+        "duration": 4.28,
+        "start_formatted": "22:53",
+        "text": "researcher. If the human user asks a"
+      },
+      {
+        "start": 1375.84,
+        "duration": 3.92,
+        "start_formatted": "22:55",
+        "text": "question about a disease or something,"
+      },
+      {
+        "start": 1377.48,
+        "duration": 4.6,
+        "start_formatted": "22:57",
+        "text": "Crow scans thousands of scientific"
+      },
+      {
+        "start": 1379.76,
+        "duration": 4.64,
+        "start_formatted": "22:59",
+        "text": "papers to find quick summaries of how"
+      },
+      {
+        "start": 1382.08,
+        "duration": 4.4,
+        "start_formatted": "23:02",
+        "text": "the disease works and which lab tests"
+      },
+      {
+        "start": 1384.4,
+        "duration": 4.52,
+        "start_formatted": "23:04",
+        "text": "should be used to study it. Once a"
+      },
+      {
+        "start": 1386.48,
+        "duration": 5.16,
+        "start_formatted": "23:06",
+        "text": "specific treatment or a drug is"
+      },
+      {
+        "start": 1388.92,
+        "duration": 5.48,
+        "start_formatted": "23:08",
+        "text": "suggested, the information is sent to"
+      },
+      {
+        "start": 1391.64,
+        "duration": 4.88,
+        "start_formatted": "23:11",
+        "text": "the next agent called Falcon. It does a"
+      },
+      {
+        "start": 1394.4,
+        "duration": 4.6,
+        "start_formatted": "23:14",
+        "text": "deep dive into the literature and writes"
+      },
+      {
+        "start": 1396.52,
+        "duration": 4.68,
+        "start_formatted": "23:16",
+        "text": "a comprehensive report on that drug. It"
+      },
+      {
+        "start": 1399.0,
+        "duration": 4.4,
+        "start_formatted": "23:19",
+        "text": "looks at its safety, how it works, and"
+      },
+      {
+        "start": 1401.2,
+        "duration": 4.64,
+        "start_formatted": "23:21",
+        "text": "potential risks. But, the true star of"
+      },
+      {
+        "start": 1403.4,
+        "duration": 4.52,
+        "start_formatted": "23:23",
+        "text": "the Robin ecosystem and the agent that"
+      },
+      {
+        "start": 1405.84,
+        "duration": 4.48,
+        "start_formatted": "23:25",
+        "text": "fundamentally distinguishes it from"
+      },
+      {
+        "start": 1407.92,
+        "duration": 4.76,
+        "start_formatted": "23:27",
+        "text": "Co-scientist is the third agent called"
+      },
+      {
+        "start": 1410.32,
+        "duration": 5.0,
+        "start_formatted": "23:30",
+        "text": "Finch. This is like the data analysis"
+      },
+      {
+        "start": 1412.68,
+        "duration": 5.24,
+        "start_formatted": "23:32",
+        "text": "agent or the lab partner. After a human"
+      },
+      {
+        "start": 1415.32,
+        "duration": 4.68,
+        "start_formatted": "23:35",
+        "text": "scientist tests the drugs in a lab, they"
+      },
+      {
+        "start": 1417.92,
+        "duration": 3.92,
+        "start_formatted": "23:37",
+        "text": "just give the raw data to Finch, and"
+      },
+      {
+        "start": 1420.0,
+        "duration": 4.04,
+        "start_formatted": "23:40",
+        "text": "Finch can then write its own code to"
+      },
+      {
+        "start": 1421.84,
+        "duration": 4.72,
+        "start_formatted": "23:41",
+        "text": "analyze these numbers and create charts"
+      },
+      {
+        "start": 1424.04,
+        "duration": 4.72,
+        "start_formatted": "23:44",
+        "text": "to see if the treatment actually worked."
+      },
+      {
+        "start": 1426.56,
+        "duration": 4.44,
+        "start_formatted": "23:46",
+        "text": "It autonomously writes, debugs, and"
+      },
+      {
+        "start": 1428.76,
+        "duration": 3.96,
+        "start_formatted": "23:48",
+        "text": "executes code to analyze the raw,"
+      },
+      {
+        "start": 1431.0,
+        "duration": 4.16,
+        "start_formatted": "23:51",
+        "text": "unstructured data that comes straight"
+      },
+      {
+        "start": 1432.72,
+        "duration": 4.84,
+        "start_formatted": "23:52",
+        "text": "out from lab results, which is often the"
+      },
+      {
+        "start": 1435.16,
+        "duration": 4.16,
+        "start_formatted": "23:55",
+        "text": "most brutal part of doing science. This"
+      },
+      {
+        "start": 1437.56,
+        "duration": 4.2,
+        "start_formatted": "23:57",
+        "text": "is a huge distinction that we need to"
+      },
+      {
+        "start": 1439.32,
+        "duration": 4.2,
+        "start_formatted": "23:59",
+        "text": "emphasize. It's one thing for AI to read"
+      },
+      {
+        "start": 1441.76,
+        "duration": 4.2,
+        "start_formatted": "24:01",
+        "text": "a published paper, which is already"
+      },
+      {
+        "start": 1443.52,
+        "duration": 4.56,
+        "start_formatted": "24:03",
+        "text": "well-formatted with graphs and clearly"
+      },
+      {
+        "start": 1445.96,
+        "duration": 4.32,
+        "start_formatted": "24:05",
+        "text": "written sections. It's entirely"
+      },
+      {
+        "start": 1448.08,
+        "duration": 4.8,
+        "start_formatted": "24:08",
+        "text": "different and way more difficult to look"
+      },
+      {
+        "start": 1450.28,
+        "duration": 4.6,
+        "start_formatted": "24:10",
+        "text": "at raw data from science experiments and"
+      },
+      {
+        "start": 1452.88,
+        "duration": 4.56,
+        "start_formatted": "24:12",
+        "text": "figure out what the hell is going on."
+      },
+      {
+        "start": 1454.88,
+        "duration": 4.64,
+        "start_formatted": "24:14",
+        "text": "It's notoriously messy and noisy, and it"
+      },
+      {
+        "start": 1457.44,
+        "duration": 3.84,
+        "start_formatted": "24:17",
+        "text": "could be highly subjective. Two human"
+      },
+      {
+        "start": 1459.52,
+        "duration": 3.96,
+        "start_formatted": "24:19",
+        "text": "scientists might look at the same data"
+      },
+      {
+        "start": 1461.28,
+        "duration": 4.32,
+        "start_formatted": "24:21",
+        "text": "set and draw different conclusions,"
+      },
+      {
+        "start": 1463.48,
+        "duration": 4.44,
+        "start_formatted": "24:23",
+        "text": "which makes it very prone to human error"
+      },
+      {
+        "start": 1465.6,
+        "duration": 3.92,
+        "start_formatted": "24:25",
+        "text": "and subjective bias. So, how does Finch"
+      },
+      {
+        "start": 1467.92,
+        "duration": 3.72,
+        "start_formatted": "24:27",
+        "text": "handle that? Well, the researchers"
+      },
+      {
+        "start": 1469.52,
+        "duration": 4.28,
+        "start_formatted": "24:29",
+        "text": "building Robin knew that if they just"
+      },
+      {
+        "start": 1471.64,
+        "duration": 4.36,
+        "start_formatted": "24:31",
+        "text": "asked a single instance of an AI model"
+      },
+      {
+        "start": 1473.8,
+        "duration": 5.0,
+        "start_formatted": "24:33",
+        "text": "to analyze this messy data, it might"
+      },
+      {
+        "start": 1476.0,
+        "duration": 5.52,
+        "start_formatted": "24:36",
+        "text": "fail or hallucinate something or make a"
+      },
+      {
+        "start": 1478.8,
+        "duration": 5.44,
+        "start_formatted": "24:38",
+        "text": "bizarre subjective choice. So, to ensure"
+      },
+      {
+        "start": 1481.52,
+        "duration": 4.88,
+        "start_formatted": "24:41",
+        "text": "accuracy, they gave Finch a fascinating"
+      },
+      {
+        "start": 1484.24,
+        "duration": 4.0,
+        "start_formatted": "24:44",
+        "text": "architectural design. When it receives"
+      },
+      {
+        "start": 1486.4,
+        "duration": 3.72,
+        "start_formatted": "24:46",
+        "text": "raw data, it doesn't just run Finch"
+      },
+      {
+        "start": 1488.24,
+        "duration": 4.8,
+        "start_formatted": "24:48",
+        "text": "once. It actually launches eight"
+      },
+      {
+        "start": 1490.12,
+        "duration": 5.04,
+        "start_formatted": "24:50",
+        "text": "independent instances of the Finch agent"
+      },
+      {
+        "start": 1493.04,
+        "duration": 3.92,
+        "start_formatted": "24:53",
+        "text": "to analyze the exact same data in"
+      },
+      {
+        "start": 1495.16,
+        "duration": 3.52,
+        "start_formatted": "24:55",
+        "text": "parallel. It's like asking eight"
+      },
+      {
+        "start": 1496.96,
+        "duration": 3.72,
+        "start_formatted": "24:56",
+        "text": "different research teams, and they all"
+      },
+      {
+        "start": 1498.68,
+        "duration": 3.76,
+        "start_formatted": "24:58",
+        "text": "write their own code, they all clean the"
+      },
+      {
+        "start": 1500.68,
+        "duration": 3.68,
+        "start_formatted": "25:00",
+        "text": "data their own way, and they all reach"
+      },
+      {
+        "start": 1502.44,
+        "duration": 4.68,
+        "start_formatted": "25:02",
+        "text": "their own conclusions. Then, the"
+      },
+      {
+        "start": 1504.36,
+        "duration": 5.2,
+        "start_formatted": "25:04",
+        "text": "findings of these eight Finch agents are"
+      },
+      {
+        "start": 1507.12,
+        "duration": 4.76,
+        "start_formatted": "25:07",
+        "text": "analyzed together using a consensus"
+      },
+      {
+        "start": 1509.56,
+        "duration": 4.96,
+        "start_formatted": "25:09",
+        "text": "mechanism. In simple terms, the idea"
+      },
+      {
+        "start": 1511.88,
+        "duration": 4.6,
+        "start_formatted": "25:11",
+        "text": "only gets accepted if the majority of"
+      },
+      {
+        "start": 1514.52,
+        "duration": 4.76,
+        "start_formatted": "25:14",
+        "text": "the agents agree on it. In other words,"
+      },
+      {
+        "start": 1516.48,
+        "duration": 5.6,
+        "start_formatted": "25:16",
+        "text": "if at least 50% of these independent"
+      },
+      {
+        "start": 1519.28,
+        "duration": 4.92,
+        "start_formatted": "25:19",
+        "text": "ideas reached the same conclusion. This"
+      },
+      {
+        "start": 1522.08,
+        "duration": 4.52,
+        "start_formatted": "25:22",
+        "text": "process is super important because"
+      },
+      {
+        "start": 1524.2,
+        "duration": 4.88,
+        "start_formatted": "25:24",
+        "text": "scientific data can be very messy and"
+      },
+      {
+        "start": 1526.6,
+        "duration": 4.96,
+        "start_formatted": "25:26",
+        "text": "hard to interpret objectively. But, by"
+      },
+      {
+        "start": 1529.08,
+        "duration": 4.92,
+        "start_formatted": "25:29",
+        "text": "requiring a consensus, the system can"
+      },
+      {
+        "start": 1531.56,
+        "duration": 4.24,
+        "start_formatted": "25:31",
+        "text": "output highly consistent and trustworthy"
+      },
+      {
+        "start": 1534.0,
+        "duration": 4.12,
+        "start_formatted": "25:34",
+        "text": "results. The really cool thing about the"
+      },
+      {
+        "start": 1535.8,
+        "duration": 4.84,
+        "start_formatted": "25:35",
+        "text": "design is that it's an endless loop. So,"
+      },
+      {
+        "start": 1538.12,
+        "duration": 4.8,
+        "start_formatted": "25:38",
+        "text": "the findings from Finch can be fed back"
+      },
+      {
+        "start": 1540.64,
+        "duration": 4.12,
+        "start_formatted": "25:40",
+        "text": "to the first crow agent to generate new"
+      },
+      {
+        "start": 1542.92,
+        "duration": 3.76,
+        "start_formatted": "25:42",
+        "text": "hypotheses and figure out what to do"
+      },
+      {
+        "start": 1544.76,
+        "duration": 3.92,
+        "start_formatted": "25:44",
+        "text": "next. It's an endless cycle. You can"
+      },
+      {
+        "start": 1546.68,
+        "duration": 4.08,
+        "start_formatted": "25:46",
+        "text": "keep iterating again and again based on"
+      },
+      {
+        "start": 1548.68,
+        "duration": 4.68,
+        "start_formatted": "25:48",
+        "text": "lab findings to eventually narrow down a"
+      },
+      {
+        "start": 1550.76,
+        "duration": 4.56,
+        "start_formatted": "25:50",
+        "text": "solution for your specific problem. Now,"
+      },
+      {
+        "start": 1553.36,
+        "duration": 4.16,
+        "start_formatted": "25:53",
+        "text": "this sounds great and all that, but"
+      },
+      {
+        "start": 1555.32,
+        "duration": 4.72,
+        "start_formatted": "25:55",
+        "text": "obvious question is, of course, how well"
+      },
+      {
+        "start": 1557.52,
+        "duration": 4.4,
+        "start_formatted": "25:57",
+        "text": "does this actually work in real life?"
+      },
+      {
+        "start": 1560.04,
+        "duration": 3.76,
+        "start_formatted": "26:00",
+        "text": "Let's go over some of its impressive"
+      },
+      {
+        "start": 1561.92,
+        "duration": 4.24,
+        "start_formatted": "26:01",
+        "text": "findings. To prove the system works"
+      },
+      {
+        "start": 1563.8,
+        "duration": 5.28,
+        "start_formatted": "26:03",
+        "text": "end-to-end, the researchers gave Robin a"
+      },
+      {
+        "start": 1566.16,
+        "duration": 6.44,
+        "start_formatted": "26:06",
+        "text": "massive complex target, dry age-related"
+      },
+      {
+        "start": 1569.08,
+        "duration": 5.6,
+        "start_formatted": "26:09",
+        "text": "macular degeneration, or AMD for short."
+      },
+      {
+        "start": 1572.6,
+        "duration": 4.2,
+        "start_formatted": "26:12",
+        "text": "Now, this is a devastating widespread"
+      },
+      {
+        "start": 1574.68,
+        "duration": 4.64,
+        "start_formatted": "26:14",
+        "text": "disease. It's the leading cause of"
+      },
+      {
+        "start": 1576.8,
+        "duration": 4.76,
+        "start_formatted": "26:16",
+        "text": "irreversible sight loss in the developed"
+      },
+      {
+        "start": 1579.32,
+        "duration": 3.8,
+        "start_formatted": "26:19",
+        "text": "world, and it's incredibly common as"
+      },
+      {
+        "start": 1581.56,
+        "duration": 4.0,
+        "start_formatted": "26:21",
+        "text": "people age. Now, currently, the"
+      },
+      {
+        "start": 1583.12,
+        "duration": 3.8,
+        "start_formatted": "26:23",
+        "text": "therapeutic options are very limited."
+      },
+      {
+        "start": 1585.56,
+        "duration": 3.8,
+        "start_formatted": "26:25",
+        "text": "There's no highly effective treatment"
+      },
+      {
+        "start": 1586.92,
+        "duration": 4.32,
+        "start_formatted": "26:26",
+        "text": "for this, so we are in desperate need of"
+      },
+      {
+        "start": 1589.36,
+        "duration": 4.12,
+        "start_formatted": "26:29",
+        "text": "a breakthrough. So, the researchers hand"
+      },
+      {
+        "start": 1591.24,
+        "duration": 4.32,
+        "start_formatted": "26:31",
+        "text": "the wheel to Robin, and it starts round"
+      },
+      {
+        "start": 1593.48,
+        "duration": 4.6,
+        "start_formatted": "26:33",
+        "text": "one of its iterative cycle. The crow"
+      },
+      {
+        "start": 1595.56,
+        "duration": 5.16,
+        "start_formatted": "26:35",
+        "text": "agent scans the vast literature on the"
+      },
+      {
+        "start": 1598.08,
+        "duration": 4.96,
+        "start_formatted": "26:38",
+        "text": "eye, and Robin hypothesizes that a key"
+      },
+      {
+        "start": 1600.72,
+        "duration": 5.2,
+        "start_formatted": "26:40",
+        "text": "cellular mechanism to target is"
+      },
+      {
+        "start": 1603.04,
+        "duration": 6.12,
+        "start_formatted": "26:43",
+        "text": "something called RPE phagocytosis."
+      },
+      {
+        "start": 1605.92,
+        "duration": 5.72,
+        "start_formatted": "26:45",
+        "text": "The RPE, or retinal pigment epithelium,"
+      },
+      {
+        "start": 1609.16,
+        "duration": 4.76,
+        "start_formatted": "26:49",
+        "text": "is a single layer of specialized cell"
+      },
+      {
+        "start": 1611.64,
+        "duration": 4.48,
+        "start_formatted": "26:51",
+        "text": "located at the back of the eye. And one"
+      },
+      {
+        "start": 1613.92,
+        "duration": 4.68,
+        "start_formatted": "26:53",
+        "text": "of the most important daily jobs is to"
+      },
+      {
+        "start": 1616.12,
+        "duration": 4.56,
+        "start_formatted": "26:56",
+        "text": "act as a garbage disposal for the eye,"
+      },
+      {
+        "start": 1618.6,
+        "duration": 3.88,
+        "start_formatted": "26:58",
+        "text": "which is the phagocytosis step."
+      },
+      {
+        "start": 1620.68,
+        "duration": 3.96,
+        "start_formatted": "27:00",
+        "text": "Basically, it cleans up waste products"
+      },
+      {
+        "start": 1622.48,
+        "duration": 4.44,
+        "start_formatted": "27:02",
+        "text": "to keep the eye healthy. The logic from"
+      },
+      {
+        "start": 1624.64,
+        "duration": 4.8,
+        "start_formatted": "27:04",
+        "text": "Robin's seems straightforward. If the"
+      },
+      {
+        "start": 1626.92,
+        "duration": 4.08,
+        "start_formatted": "27:06",
+        "text": "RPG garbage disposal breaks down, then"
+      },
+      {
+        "start": 1629.44,
+        "duration": 3.84,
+        "start_formatted": "27:09",
+        "text": "the trash in the eye builds up, it"
+      },
+      {
+        "start": 1631.0,
+        "duration": 3.72,
+        "start_formatted": "27:11",
+        "text": "becomes toxic, and you go blind. In"
+      },
+      {
+        "start": 1633.28,
+        "duration": 4.28,
+        "start_formatted": "27:13",
+        "text": "really simple terms, that's the"
+      },
+      {
+        "start": 1634.72,
+        "duration": 5.28,
+        "start_formatted": "27:14",
+        "text": "progression. So, Robin's hypothesis is"
+      },
+      {
+        "start": 1637.56,
+        "duration": 5.52,
+        "start_formatted": "27:17",
+        "text": "let's find drugs that turn the garbage"
+      },
+      {
+        "start": 1640.0,
+        "duration": 6.08,
+        "start_formatted": "27:20",
+        "text": "disposal back on high. Robin uses its"
+      },
+      {
+        "start": 1643.08,
+        "duration": 5.76,
+        "start_formatted": "27:23",
+        "text": "agents to suggest 30 existing safe drugs"
+      },
+      {
+        "start": 1646.08,
+        "duration": 5.12,
+        "start_formatted": "27:26",
+        "text": "that might artificially enhance this RPE"
+      },
+      {
+        "start": 1648.84,
+        "duration": 5.2,
+        "start_formatted": "27:28",
+        "text": "phagocytosis step. In fact, it even"
+      },
+      {
+        "start": 1651.2,
+        "duration": 5.16,
+        "start_formatted": "27:31",
+        "text": "suggested how to perform the experiment"
+      },
+      {
+        "start": 1654.04,
+        "duration": 4.52,
+        "start_formatted": "27:34",
+        "text": "to test these drugs. So, the human"
+      },
+      {
+        "start": 1656.36,
+        "duration": 4.36,
+        "start_formatted": "27:36",
+        "text": "scientists ran with it. They physically"
+      },
+      {
+        "start": 1658.56,
+        "duration": 3.84,
+        "start_formatted": "27:38",
+        "text": "conducted the experiment with the 30"
+      },
+      {
+        "start": 1660.72,
+        "duration": 4.04,
+        "start_formatted": "27:40",
+        "text": "drugs in real life, measured the"
+      },
+      {
+        "start": 1662.4,
+        "duration": 4.28,
+        "start_formatted": "27:42",
+        "text": "results, and then fed all these results"
+      },
+      {
+        "start": 1664.76,
+        "duration": 3.92,
+        "start_formatted": "27:44",
+        "text": "back into the system. So, next, the"
+      },
+      {
+        "start": 1666.68,
+        "duration": 4.08,
+        "start_formatted": "27:46",
+        "text": "Finch agents had to analyze this data"
+      },
+      {
+        "start": 1668.68,
+        "duration": 4.16,
+        "start_formatted": "27:48",
+        "text": "and figure out what to do next. Here's"
+      },
+      {
+        "start": 1670.76,
+        "duration": 4.6,
+        "start_formatted": "27:50",
+        "text": "where the magic happens. Finch launches"
+      },
+      {
+        "start": 1672.84,
+        "duration": 4.52,
+        "start_formatted": "27:52",
+        "text": "its eight parallel instances. It writes"
+      },
+      {
+        "start": 1675.36,
+        "duration": 4.28,
+        "start_formatted": "27:55",
+        "text": "the Python scripts, cleans the data,"
+      },
+      {
+        "start": 1677.36,
+        "duration": 4.64,
+        "start_formatted": "27:57",
+        "text": "runs the statistical comparisons, and"
+      },
+      {
+        "start": 1679.64,
+        "duration": 4.64,
+        "start_formatted": "27:59",
+        "text": "forms a consensus. It confirms that out"
+      },
+      {
+        "start": 1682.0,
+        "duration": 5.6,
+        "start_formatted": "28:02",
+        "text": "of the 30 drugs tested, a specific"
+      },
+      {
+        "start": 1684.28,
+        "duration": 6.4,
+        "start_formatted": "28:04",
+        "text": "compound called Y27632"
+      },
+      {
+        "start": 1687.6,
+        "duration": 6.12,
+        "start_formatted": "28:07",
+        "text": "significantly and undeniably enhanced"
+      },
+      {
+        "start": 1690.68,
+        "duration": 5.64,
+        "start_formatted": "28:10",
+        "text": "RPE phagocytosis. The cells ate more"
+      },
+      {
+        "start": 1693.72,
+        "duration": 4.92,
+        "start_formatted": "28:13",
+        "text": "trash. Okay, so that's a solid win. The"
+      },
+      {
+        "start": 1696.32,
+        "duration": 4.44,
+        "start_formatted": "28:16",
+        "text": "AI found that this drug works. But,"
+      },
+      {
+        "start": 1698.64,
+        "duration": 4.16,
+        "start_formatted": "28:18",
+        "text": "here's why Robin is bigger than it"
+      },
+      {
+        "start": 1700.76,
+        "duration": 4.28,
+        "start_formatted": "28:20",
+        "text": "seems. Because we're not done yet. This"
+      },
+      {
+        "start": 1702.8,
+        "duration": 4.44,
+        "start_formatted": "28:22",
+        "text": "is an ongoing conversation. Robin can"
+      },
+      {
+        "start": 1705.04,
+        "duration": 4.56,
+        "start_formatted": "28:25",
+        "text": "look at the conclusion from the Finch"
+      },
+      {
+        "start": 1707.24,
+        "duration": 4.2,
+        "start_formatted": "28:27",
+        "text": "consensus and say, \"Okay, we know that"
+      },
+      {
+        "start": 1709.6,
+        "duration": 3.88,
+        "start_formatted": "28:29",
+        "text": "Y27632"
+      },
+      {
+        "start": 1711.44,
+        "duration": 4.04,
+        "start_formatted": "28:31",
+        "text": "makes the cells eat more garbage. But,"
+      },
+      {
+        "start": 1713.48,
+        "duration": 4.36,
+        "start_formatted": "28:33",
+        "text": "how does it do it? What's the molecular"
+      },
+      {
+        "start": 1715.48,
+        "duration": 5.04,
+        "start_formatted": "28:35",
+        "text": "mechanism?\" To find out, it suggested to"
+      },
+      {
+        "start": 1717.84,
+        "duration": 5.36,
+        "start_formatted": "28:37",
+        "text": "run a different, deeper experiment. It"
+      },
+      {
+        "start": 1720.52,
+        "duration": 5.44,
+        "start_formatted": "28:40",
+        "text": "suggested to sequence the RNA of these"
+      },
+      {
+        "start": 1723.2,
+        "duration": 5.28,
+        "start_formatted": "28:43",
+        "text": "treated cells to see exactly which genes"
+      },
+      {
+        "start": 1725.96,
+        "duration": 4.92,
+        "start_formatted": "28:45",
+        "text": "are turning on and off in response to"
+      },
+      {
+        "start": 1728.48,
+        "duration": 5.04,
+        "start_formatted": "28:48",
+        "text": "the drug. The human team listened to the"
+      },
+      {
+        "start": 1730.88,
+        "duration": 4.56,
+        "start_formatted": "28:50",
+        "text": "instructions and extracted the RNA and"
+      },
+      {
+        "start": 1733.52,
+        "duration": 4.0,
+        "start_formatted": "28:53",
+        "text": "ran the sequencing in real life, then"
+      },
+      {
+        "start": 1735.44,
+        "duration": 4.48,
+        "start_formatted": "28:55",
+        "text": "plugged that data back into the Finch"
+      },
+      {
+        "start": 1737.52,
+        "duration": 4.84,
+        "start_formatted": "28:57",
+        "text": "agents to analyze. First, it's important"
+      },
+      {
+        "start": 1739.92,
+        "duration": 4.64,
+        "start_formatted": "28:59",
+        "text": "to note that visualizing RNA sequencing"
+      },
+      {
+        "start": 1742.36,
+        "duration": 4.76,
+        "start_formatted": "29:02",
+        "text": "data is really hard because it's"
+      },
+      {
+        "start": 1744.56,
+        "duration": 4.72,
+        "start_formatted": "29:04",
+        "text": "impossibly dense. Well, Finch created"
+      },
+      {
+        "start": 1747.12,
+        "duration": 3.8,
+        "start_formatted": "29:07",
+        "text": "something called a volcano plot, which"
+      },
+      {
+        "start": 1749.28,
+        "duration": 4.12,
+        "start_formatted": "29:09",
+        "text": "looks like this. It's basically a"
+      },
+      {
+        "start": 1750.92,
+        "duration": 4.28,
+        "start_formatted": "29:10",
+        "text": "complex scatter plot, and every single"
+      },
+      {
+        "start": 1753.4,
+        "duration": 4.04,
+        "start_formatted": "29:13",
+        "text": "one of these thousands of dots on this"
+      },
+      {
+        "start": 1755.2,
+        "duration": 4.52,
+        "start_formatted": "29:15",
+        "text": "graph represents a different gene in the"
+      },
+      {
+        "start": 1757.44,
+        "duration": 4.4,
+        "start_formatted": "29:17",
+        "text": "human genome. Finch isn't just looking"
+      },
+      {
+        "start": 1759.72,
+        "duration": 3.92,
+        "start_formatted": "29:19",
+        "text": "for a slight bump in activity, it's"
+      },
+      {
+        "start": 1761.84,
+        "duration": 4.72,
+        "start_formatted": "29:21",
+        "text": "looking for the dots that have literally"
+      },
+      {
+        "start": 1763.64,
+        "duration": 5.72,
+        "start_formatted": "29:23",
+        "text": "erupted to the top extreme of the graph,"
+      },
+      {
+        "start": 1766.56,
+        "duration": 5.0,
+        "start_formatted": "29:26",
+        "text": "showing a massive, undeniable change in"
+      },
+      {
+        "start": 1769.36,
+        "duration": 4.4,
+        "start_formatted": "29:29",
+        "text": "behavior. And from these volcano plots,"
+      },
+      {
+        "start": 1771.56,
+        "duration": 5.48,
+        "start_formatted": "29:31",
+        "text": "Finch spots something incredible. It"
+      },
+      {
+        "start": 1773.76,
+        "duration": 5.4,
+        "start_formatted": "29:33",
+        "text": "finds that a specific gene called ABCA1"
+      },
+      {
+        "start": 1777.04,
+        "duration": 4.56,
+        "start_formatted": "29:37",
+        "text": "is working much harder than usual. And"
+      },
+      {
+        "start": 1779.16,
+        "duration": 4.88,
+        "start_formatted": "29:39",
+        "text": "this is actually a huge aha moment. You"
+      },
+      {
+        "start": 1781.6,
+        "duration": 5.36,
+        "start_formatted": "29:41",
+        "text": "see, this is totally unexpected and not"
+      },
+      {
+        "start": 1784.04,
+        "duration": 5.44,
+        "start_formatted": "29:44",
+        "text": "intuitive at all. The job of ABCA is to"
+      },
+      {
+        "start": 1786.96,
+        "duration": 4.88,
+        "start_formatted": "29:46",
+        "text": "pump excess cholesterol and fats out of"
+      },
+      {
+        "start": 1789.48,
+        "duration": 4.6,
+        "start_formatted": "29:49",
+        "text": "the cell. Why does a cholesterol pump"
+      },
+      {
+        "start": 1791.84,
+        "duration": 4.28,
+        "start_formatted": "29:51",
+        "text": "matter for blindness? Well, it's because"
+      },
+      {
+        "start": 1794.08,
+        "duration": 4.96,
+        "start_formatted": "29:54",
+        "text": "we already know that ABCA directly"
+      },
+      {
+        "start": 1796.12,
+        "duration": 4.56,
+        "start_formatted": "29:56",
+        "text": "interacts with a protein called APOE,"
+      },
+      {
+        "start": 1799.04,
+        "duration": 3.96,
+        "start_formatted": "29:59",
+        "text": "which is actually one of the major"
+      },
+      {
+        "start": 1800.68,
+        "duration": 4.72,
+        "start_formatted": "30:00",
+        "text": "genetic risk factors for developing"
+      },
+      {
+        "start": 1803.0,
+        "duration": 4.72,
+        "start_formatted": "30:03",
+        "text": "macular degeneration in the first place."
+      },
+      {
+        "start": 1805.4,
+        "duration": 4.96,
+        "start_formatted": "30:05",
+        "text": "So, Robin didn't just find a random drug"
+      },
+      {
+        "start": 1807.72,
+        "duration": 5.28,
+        "start_formatted": "30:07",
+        "text": "that happens to work. It used raw DNA"
+      },
+      {
+        "start": 1810.36,
+        "duration": 4.92,
+        "start_formatted": "30:10",
+        "text": "data to uncover a totally unexpected,"
+      },
+      {
+        "start": 1813.0,
+        "duration": 4.8,
+        "start_formatted": "30:13",
+        "text": "deeply hidden pathway that connects the"
+      },
+      {
+        "start": 1815.28,
+        "duration": 4.44,
+        "start_formatted": "30:15",
+        "text": "drug directly to the genetic root cause"
+      },
+      {
+        "start": 1817.8,
+        "duration": 4.56,
+        "start_formatted": "30:17",
+        "text": "of the disease. It's able to connect the"
+      },
+      {
+        "start": 1819.72,
+        "duration": 4.84,
+        "start_formatted": "30:19",
+        "text": "dots across entirely different layers of"
+      },
+      {
+        "start": 1822.36,
+        "duration": 4.08,
+        "start_formatted": "30:22",
+        "text": "biology. And we're not done yet."
+      },
+      {
+        "start": 1824.56,
+        "duration": 4.16,
+        "start_formatted": "30:24",
+        "text": "Remember, this is conversational and"
+      },
+      {
+        "start": 1826.44,
+        "duration": 4.04,
+        "start_formatted": "30:26",
+        "text": "iterative, so we can continue digging"
+      },
+      {
+        "start": 1828.72,
+        "duration": 3.92,
+        "start_formatted": "30:28",
+        "text": "deeper. It doesn't just settle for the"
+      },
+      {
+        "start": 1830.48,
+        "duration": 4.76,
+        "start_formatted": "30:30",
+        "text": "first drug. Instead, it uses this new"
+      },
+      {
+        "start": 1832.64,
+        "duration": 4.48,
+        "start_formatted": "30:32",
+        "text": "ABCA finding to search the literature"
+      },
+      {
+        "start": 1835.24,
+        "duration": 4.4,
+        "start_formatted": "30:35",
+        "text": "for better drugs that might hit this"
+      },
+      {
+        "start": 1837.12,
+        "duration": 4.52,
+        "start_formatted": "30:37",
+        "text": "pathway more safely or effectively. And"
+      },
+      {
+        "start": 1839.64,
+        "duration": 6.0,
+        "start_formatted": "30:39",
+        "text": "it comes up with two fascinating new"
+      },
+      {
+        "start": 1841.64,
+        "duration": 6.2,
+        "start_formatted": "30:41",
+        "text": "candidates, ripasudil and KL001."
+      },
+      {
+        "start": 1845.64,
+        "duration": 4.32,
+        "start_formatted": "30:45",
+        "text": "Let's talk about ripasudil first. Why"
+      },
+      {
+        "start": 1847.84,
+        "duration": 4.52,
+        "start_formatted": "30:47",
+        "text": "did Robin pick this one? Robin found"
+      },
+      {
+        "start": 1849.96,
+        "duration": 5.04,
+        "start_formatted": "30:49",
+        "text": "that ripasudil is already an approved"
+      },
+      {
+        "start": 1852.36,
+        "duration": 5.0,
+        "start_formatted": "30:52",
+        "text": "drug in Japan as an eye drop. It's"
+      },
+      {
+        "start": 1855.0,
+        "duration": 4.36,
+        "start_formatted": "30:55",
+        "text": "already proven to be safe for the human"
+      },
+      {
+        "start": 1857.36,
+        "duration": 4.32,
+        "start_formatted": "30:57",
+        "text": "eye. So, the researchers go back into"
+      },
+      {
+        "start": 1859.36,
+        "duration": 4.08,
+        "start_formatted": "30:59",
+        "text": "the lab to test ripasudil. They tested"
+      },
+      {
+        "start": 1861.68,
+        "duration": 4.24,
+        "start_formatted": "31:01",
+        "text": "this on real human cells with the"
+      },
+      {
+        "start": 1863.44,
+        "duration": 4.76,
+        "start_formatted": "31:03",
+        "text": "disease, and they took the data and fed"
+      },
+      {
+        "start": 1865.92,
+        "duration": 4.64,
+        "start_formatted": "31:05",
+        "text": "it to Finch to analyze again. And the"
+      },
+      {
+        "start": 1868.2,
+        "duration": 4.68,
+        "start_formatted": "31:08",
+        "text": "results were remarkable. Ripasudil"
+      },
+      {
+        "start": 1870.56,
+        "duration": 5.24,
+        "start_formatted": "31:10",
+        "text": "dramatically outperformed the original"
+      },
+      {
+        "start": 1872.88,
+        "duration": 5.12,
+        "start_formatted": "31:12",
+        "text": "drug. It was more potent at clearing the"
+      },
+      {
+        "start": 1875.8,
+        "duration": 5.16,
+        "start_formatted": "31:15",
+        "text": "cellular garbage and significantly less"
+      },
+      {
+        "start": 1878.0,
+        "duration": 6.28,
+        "start_formatted": "31:18",
+        "text": "toxic to the human cells. This showcases"
+      },
+      {
+        "start": 1880.96,
+        "duration": 5.16,
+        "start_formatted": "31:20",
+        "text": "how incredibly powerful Robin is. This"
+      },
+      {
+        "start": 1884.28,
+        "duration": 3.48,
+        "start_formatted": "31:24",
+        "text": "isn't just a chatbot where you can ask"
+      },
+      {
+        "start": 1886.12,
+        "duration": 3.44,
+        "start_formatted": "31:26",
+        "text": "one-off questions. You can keep"
+      },
+      {
+        "start": 1887.76,
+        "duration": 3.48,
+        "start_formatted": "31:27",
+        "text": "iterating through its loop to dig deeper"
+      },
+      {
+        "start": 1889.56,
+        "duration": 3.8,
+        "start_formatted": "31:29",
+        "text": "and find more and more medical"
+      },
+      {
+        "start": 1891.24,
+        "duration": 6.12,
+        "start_formatted": "31:31",
+        "text": "discoveries. Now, remember that another"
+      },
+      {
+        "start": 1893.36,
+        "duration": 6.2,
+        "start_formatted": "31:33",
+        "text": "drug Robin proposed is called KL001."
+      },
+      {
+        "start": 1897.36,
+        "duration": 4.72,
+        "start_formatted": "31:37",
+        "text": "And this is just as extraordinary and"
+      },
+      {
+        "start": 1899.56,
+        "duration": 4.92,
+        "start_formatted": "31:39",
+        "text": "even more unexpected. You see, this is a"
+      },
+      {
+        "start": 1902.08,
+        "duration": 4.16,
+        "start_formatted": "31:42",
+        "text": "circadian clock modulator. In other"
+      },
+      {
+        "start": 1904.48,
+        "duration": 4.16,
+        "start_formatted": "31:44",
+        "text": "words, this is a drug designed to mess"
+      },
+      {
+        "start": 1906.24,
+        "duration": 4.72,
+        "start_formatted": "31:46",
+        "text": "with the internal biological clock of"
+      },
+      {
+        "start": 1908.64,
+        "duration": 4.68,
+        "start_formatted": "31:48",
+        "text": "the cell. The thing is, no researcher"
+      },
+      {
+        "start": 1910.96,
+        "duration": 5.0,
+        "start_formatted": "31:50",
+        "text": "has ever published anything on using a"
+      },
+      {
+        "start": 1913.32,
+        "duration": 4.76,
+        "start_formatted": "31:53",
+        "text": "circadian clock drug to treat macular"
+      },
+      {
+        "start": 1915.96,
+        "duration": 3.96,
+        "start_formatted": "31:55",
+        "text": "degeneration. It sounds absurd on the"
+      },
+      {
+        "start": 1918.08,
+        "duration": 4.56,
+        "start_formatted": "31:58",
+        "text": "surface. How could these two things be"
+      },
+      {
+        "start": 1919.92,
+        "duration": 4.52,
+        "start_formatted": "31:59",
+        "text": "possibly related? But Robin, tracing and"
+      },
+      {
+        "start": 1922.64,
+        "duration": 4.12,
+        "start_formatted": "32:02",
+        "text": "understanding the labyrinth of gene"
+      },
+      {
+        "start": 1924.44,
+        "duration": 4.84,
+        "start_formatted": "32:04",
+        "text": "interactions, hypothesized that"
+      },
+      {
+        "start": 1926.76,
+        "duration": 5.36,
+        "start_formatted": "32:06",
+        "text": "circadian rhythm proteins directly"
+      },
+      {
+        "start": 1929.28,
+        "duration": 4.76,
+        "start_formatted": "32:09",
+        "text": "affect phagocytosis. Remember, this is"
+      },
+      {
+        "start": 1932.12,
+        "duration": 3.8,
+        "start_formatted": "32:12",
+        "text": "the garbage disposal mechanism. So, the"
+      },
+      {
+        "start": 1934.04,
+        "duration": 3.96,
+        "start_formatted": "32:14",
+        "text": "AI realized that this mechanism"
+      },
+      {
+        "start": 1935.92,
+        "duration": 4.44,
+        "start_formatted": "32:15",
+        "text": "basically operates on a schedule. If"
+      },
+      {
+        "start": 1938.0,
+        "duration": 5.8,
+        "start_formatted": "32:18",
+        "text": "this process is failing because it's off"
+      },
+      {
+        "start": 1940.36,
+        "duration": 6.0,
+        "start_formatted": "32:20",
+        "text": "schedule, a drug like KL001 might help"
+      },
+      {
+        "start": 1943.8,
+        "duration": 4.92,
+        "start_formatted": "32:23",
+        "text": "by steadying that internal clock, and"
+      },
+      {
+        "start": 1946.36,
+        "duration": 4.32,
+        "start_formatted": "32:26",
+        "text": "therefore boost the cells' ability to"
+      },
+      {
+        "start": 1948.72,
+        "duration": 5.0,
+        "start_formatted": "32:28",
+        "text": "clean up waste again. So, when they"
+      },
+      {
+        "start": 1950.68,
+        "duration": 5.4,
+        "start_formatted": "32:30",
+        "text": "tested KL001 in the lab, Robin was"
+      },
+      {
+        "start": 1953.72,
+        "duration": 4.56,
+        "start_formatted": "32:33",
+        "text": "right. It successfully enhanced the"
+      },
+      {
+        "start": 1956.08,
+        "duration": 4.08,
+        "start_formatted": "32:36",
+        "text": "cleaning activity in those human eye"
+      },
+      {
+        "start": 1958.28,
+        "duration": 3.92,
+        "start_formatted": "32:38",
+        "text": "cells, which would treat macular"
+      },
+      {
+        "start": 1960.16,
+        "duration": 4.16,
+        "start_formatted": "32:40",
+        "text": "degeneration. Again, you can see here"
+      },
+      {
+        "start": 1962.2,
+        "duration": 4.8,
+        "start_formatted": "32:42",
+        "text": "that it validated a completely new"
+      },
+      {
+        "start": 1964.32,
+        "duration": 4.68,
+        "start_formatted": "32:44",
+        "text": "treatment to a major human disease,"
+      },
+      {
+        "start": 1967.0,
+        "duration": 3.6,
+        "start_formatted": "32:47",
+        "text": "which could cause vision loss. Humans"
+      },
+      {
+        "start": 1969.0,
+        "duration": 3.4,
+        "start_formatted": "32:49",
+        "text": "had never thought of this treatment"
+      },
+      {
+        "start": 1970.6,
+        "duration": 4.64,
+        "start_formatted": "32:50",
+        "text": "before. What stands out about this"
+      },
+      {
+        "start": 1972.4,
+        "duration": 4.72,
+        "start_formatted": "32:52",
+        "text": "entire multi-round process is the beauty"
+      },
+      {
+        "start": 1975.24,
+        "duration": 3.44,
+        "start_formatted": "32:55",
+        "text": "of the loop. It's a true dynamic"
+      },
+      {
+        "start": 1977.12,
+        "duration": 3.72,
+        "start_formatted": "32:57",
+        "text": "conversation. It's like working"
+      },
+      {
+        "start": 1978.68,
+        "duration": 4.04,
+        "start_formatted": "32:58",
+        "text": "alongside researchers. Robin had an"
+      },
+      {
+        "start": 1980.84,
+        "duration": 3.8,
+        "start_formatted": "33:00",
+        "text": "idea, the humans conducted the"
+      },
+      {
+        "start": 1982.72,
+        "duration": 4.16,
+        "start_formatted": "33:02",
+        "text": "experiment and fed the data back to"
+      },
+      {
+        "start": 1984.64,
+        "duration": 4.4,
+        "start_formatted": "33:04",
+        "text": "Robin. Robin then learned from the data,"
+      },
+      {
+        "start": 1986.88,
+        "duration": 4.04,
+        "start_formatted": "33:06",
+        "text": "uncovered a new mechanism, and came back"
+      },
+      {
+        "start": 1989.04,
+        "duration": 4.16,
+        "start_formatted": "33:09",
+        "text": "with a fundamentally better idea, and"
+      },
+      {
+        "start": 1990.92,
+        "duration": 4.48,
+        "start_formatted": "33:10",
+        "text": "the cycle repeats again and again. It's"
+      },
+      {
+        "start": 1993.2,
+        "duration": 4.64,
+        "start_formatted": "33:13",
+        "text": "the actual scientific method fully"
+      },
+      {
+        "start": 1995.4,
+        "duration": 4.76,
+        "start_formatted": "33:15",
+        "text": "automated and operating at a speed"
+      },
+      {
+        "start": 1997.84,
+        "duration": 3.92,
+        "start_formatted": "33:17",
+        "text": "humans alone simply cannot match. And"
+      },
+      {
+        "start": 2000.16,
+        "duration": 3.52,
+        "start_formatted": "33:20",
+        "text": "while we're on the topic of speed, let's"
+      },
+      {
+        "start": 2001.76,
+        "duration": 3.8,
+        "start_formatted": "33:21",
+        "text": "talk about the economics here, because"
+      },
+      {
+        "start": 2003.68,
+        "duration": 4.44,
+        "start_formatted": "33:23",
+        "text": "it is staggering. If we look at the"
+      },
+      {
+        "start": 2005.56,
+        "duration": 4.72,
+        "start_formatted": "33:25",
+        "text": "time-on-task analysis detailed in the"
+      },
+      {
+        "start": 2008.12,
+        "duration": 5.48,
+        "start_formatted": "33:28",
+        "text": "paper, a human scientist trying to do"
+      },
+      {
+        "start": 2010.28,
+        "duration": 5.08,
+        "start_formatted": "33:30",
+        "text": "exactly what Robin did, reading 551"
+      },
+      {
+        "start": 2013.6,
+        "duration": 3.96,
+        "start_formatted": "33:33",
+        "text": "specialized papers, generating"
+      },
+      {
+        "start": 2015.36,
+        "duration": 4.8,
+        "start_formatted": "33:35",
+        "text": "hypotheses based on them, planning the"
+      },
+      {
+        "start": 2017.56,
+        "duration": 4.52,
+        "start_formatted": "33:37",
+        "text": "physical experiment, then painstakingly"
+      },
+      {
+        "start": 2020.16,
+        "duration": 5.48,
+        "start_formatted": "33:40",
+        "text": "writing the code to analyze the raw"
+      },
+      {
+        "start": 2022.08,
+        "duration": 6.4,
+        "start_formatted": "33:42",
+        "text": "data, it would require an estimated 400"
+      },
+      {
+        "start": 2025.64,
+        "duration": 5.12,
+        "start_formatted": "33:45",
+        "text": "hours of intense, focused cognitive"
+      },
+      {
+        "start": 2028.48,
+        "duration": 4.88,
+        "start_formatted": "33:48",
+        "text": "work. That's nearly half a year of"
+      },
+      {
+        "start": 2030.76,
+        "duration": 4.56,
+        "start_formatted": "33:50",
+        "text": "full-time work for a human scientist."
+      },
+      {
+        "start": 2033.36,
+        "duration": 5.44,
+        "start_formatted": "33:53",
+        "text": "But what about Robin? It synthesized"
+      },
+      {
+        "start": 2035.32,
+        "duration": 6.08,
+        "start_formatted": "33:55",
+        "text": "those 551 papers in just around 30"
+      },
+      {
+        "start": 2038.8,
+        "duration": 4.76,
+        "start_formatted": "33:58",
+        "text": "minutes. It finished the entire loop,"
+      },
+      {
+        "start": 2041.4,
+        "duration": 5.24,
+        "start_formatted": "34:01",
+        "text": "including multiple experiments and data"
+      },
+      {
+        "start": 2043.56,
+        "duration": 5.48,
+        "start_formatted": "34:03",
+        "text": "analysis, in less than 2 hours, and the"
+      },
+      {
+        "start": 2046.64,
+        "duration": 4.6,
+        "start_formatted": "34:06",
+        "text": "compute cost for everything is just"
+      },
+      {
+        "start": 2049.04,
+        "duration": 4.599,
+        "start_formatted": "34:09",
+        "text": "$10.76."
+      },
+      {
+        "start": 2051.24,
+        "duration": 5.159,
+        "start_formatted": "34:11",
+        "text": "Think about how crazy this is. Imagine"
+      },
+      {
+        "start": 2053.639,
+        "duration": 5.28,
+        "start_formatted": "34:13",
+        "text": "spending 400 hours doing some of the"
+      },
+      {
+        "start": 2056.399,
+        "duration": 5.0,
+        "start_formatted": "34:16",
+        "text": "hardest, most complex scientific work"
+      },
+      {
+        "start": 2058.919,
+        "duration": 4.161,
+        "start_formatted": "34:18",
+        "text": "and compressing it down to just 2 hours,"
+      },
+      {
+        "start": 2061.399,
+        "duration": 3.961,
+        "start_formatted": "34:21",
+        "text": "and it only costs you the price of a"
+      },
+      {
+        "start": 2063.08,
+        "duration": 4.72,
+        "start_formatted": "34:23",
+        "text": "fast-food lunch. All right, so that sums"
+      },
+      {
+        "start": 2065.36,
+        "duration": 5.24,
+        "start_formatted": "34:25",
+        "text": "up these two papers. I hope you can see"
+      },
+      {
+        "start": 2067.8,
+        "duration": 4.879,
+        "start_formatted": "34:27",
+        "text": "how impactful they are. AI isn't just a"
+      },
+      {
+        "start": 2070.6,
+        "duration": 4.12,
+        "start_formatted": "34:30",
+        "text": "chatbot anymore that can answer simple"
+      },
+      {
+        "start": 2072.679,
+        "duration": 3.96,
+        "start_formatted": "34:32",
+        "text": "questions or help you summarize things."
+      },
+      {
+        "start": 2074.72,
+        "duration": 4.24,
+        "start_formatted": "34:34",
+        "text": "It's already making completely new"
+      },
+      {
+        "start": 2076.639,
+        "duration": 4.961,
+        "start_formatted": "34:36",
+        "text": "scientific discoveries, and the pace is"
+      },
+      {
+        "start": 2078.96,
+        "duration": 5.199,
+        "start_formatted": "34:38",
+        "text": "only increasing. In just 1 week, we had"
+      },
+      {
+        "start": 2081.6,
+        "duration": 4.96,
+        "start_formatted": "34:41",
+        "text": "two separate nature papers showing AI"
+      },
+      {
+        "start": 2084.159,
+        "duration": 4.561,
+        "start_formatted": "34:44",
+        "text": "agents autonomously conducting research"
+      },
+      {
+        "start": 2086.56,
+        "duration": 4.4,
+        "start_formatted": "34:46",
+        "text": "and discovering medical breakthroughs,"
+      },
+      {
+        "start": 2088.72,
+        "duration": 4.48,
+        "start_formatted": "34:48",
+        "text": "treatments for cancer, blindness,"
+      },
+      {
+        "start": 2090.96,
+        "duration": 5.08,
+        "start_formatted": "34:50",
+        "text": "antimicrobial resistance, liver"
+      },
+      {
+        "start": 2093.2,
+        "duration": 5.0,
+        "start_formatted": "34:53",
+        "text": "fibrosis, and more. We are right smack"
+      },
+      {
+        "start": 2096.04,
+        "duration": 3.96,
+        "start_formatted": "34:56",
+        "text": "in the middle of the acceleration, and"
+      },
+      {
+        "start": 2098.2,
+        "duration": 3.48,
+        "start_formatted": "34:58",
+        "text": "it's only going to keep getting faster."
+      },
+      {
+        "start": 2100.0,
+        "duration": 3.88,
+        "start_formatted": "35:00",
+        "text": "So, you can expect an explosion in"
+      },
+      {
+        "start": 2101.68,
+        "duration": 4.2,
+        "start_formatted": "35:01",
+        "text": "intelligence and knowledge and"
+      },
+      {
+        "start": 2103.88,
+        "duration": 4.12,
+        "start_formatted": "35:03",
+        "text": "scientific discoveries beyond what you"
+      },
+      {
+        "start": 2105.88,
+        "duration": 4.12,
+        "start_formatted": "35:05",
+        "text": "think is even possible. The future is"
+      },
+      {
+        "start": 2108.0,
+        "duration": 3.88,
+        "start_formatted": "35:08",
+        "text": "super exciting, and if there's one thing"
+      },
+      {
+        "start": 2110.0,
+        "duration": 4.04,
+        "start_formatted": "35:10",
+        "text": "you should take away from this, it's"
+      },
+      {
+        "start": 2111.88,
+        "duration": 4.52,
+        "start_formatted": "35:11",
+        "text": "don't die, because I think the next few"
+      },
+      {
+        "start": 2114.04,
+        "duration": 4.12,
+        "start_formatted": "35:14",
+        "text": "years are going to be absolutely wild. I"
+      },
+      {
+        "start": 2116.4,
+        "duration": 3.0,
+        "start_formatted": "35:16",
+        "text": "hope you enjoyed this video, and let me"
+      },
+      {
+        "start": 2118.16,
+        "duration": 3.48,
+        "start_formatted": "35:18",
+        "text": "know in the comments below what you"
+      },
+      {
+        "start": 2119.4,
+        "duration": 4.8,
+        "start_formatted": "35:19",
+        "text": "think of this. As always, I will be on"
+      },
+      {
+        "start": 2121.64,
+        "duration": 4.48,
+        "start_formatted": "35:21",
+        "text": "the lookout for the top AI news and"
+      },
+      {
+        "start": 2124.2,
+        "duration": 3.84,
+        "start_formatted": "35:24",
+        "text": "tools to share with you. So, if you"
+      },
+      {
+        "start": 2126.12,
+        "duration": 4.08,
+        "start_formatted": "35:26",
+        "text": "enjoyed this video, remember to like,"
+      },
+      {
+        "start": 2128.04,
+        "duration": 4.76,
+        "start_formatted": "35:28",
+        "text": "share, subscribe, and stay tuned for"
+      },
+      {
+        "start": 2130.2,
+        "duration": 4.44,
+        "start_formatted": "35:30",
+        "text": "more content. Also, there's just so much"
+      },
+      {
+        "start": 2132.8,
+        "duration": 4.24,
+        "start_formatted": "35:32",
+        "text": "happening in the world of AI every week,"
+      },
+      {
+        "start": 2134.64,
+        "duration": 4.64,
+        "start_formatted": "35:34",
+        "text": "I can't possibly cover everything on my"
+      },
+      {
+        "start": 2137.04,
+        "duration": 4.56,
+        "start_formatted": "35:37",
+        "text": "YouTube channel. So, to really stay"
+      },
+      {
+        "start": 2139.28,
+        "duration": 5.0,
+        "start_formatted": "35:39",
+        "text": "up-to-date with all that's going on in"
+      },
+      {
+        "start": 2141.6,
+        "duration": 4.6,
+        "start_formatted": "35:41",
+        "text": "AI, be sure to subscribe to my free"
+      },
+      {
+        "start": 2144.28,
+        "duration": 3.92,
+        "start_formatted": "35:44",
+        "text": "weekly newsletter. The link to that will"
+      },
+      {
+        "start": 2146.2,
+        "duration": 4.04,
+        "start_formatted": "35:46",
+        "text": "be in the description below. Thanks for"
+      },
+      {
+        "start": 2148.2,
+        "duration": 4.36,
+        "start_formatted": "35:48",
+        "text": "watching, and I'll see you in the next"
+      },
+      {
+        "start": 2150.24,
+        "duration": 2.32,
+        "start_formatted": "35:50",
+        "text": "one."
+      }
+    ],
+    "full_text": "The acceleration is happening right now. This isn't just sci-fi anymore. AI is already coming up with huge and completely new scientific discoveries and it's getting faster and faster. In the same week, we had not one but two papers published in nature, which is like the most prestigious scientific journal in the world. Both of them involve using AI to autonomously do scientific research. And this isn't just theory. These AI agents literally came up with new treatments for cancer, blindness, antibiotic resistance, and other diseases that are currently really difficult to treat. And these breakthroughs are completely new. AI was able to come up with a ton of discoveries that human experts never thought of before. Most importantly, they actually work in real life. So, in this video, we're going to go over these two papers and why they're such a big deal. Now, this is super technical, but as always, I'm going to simplify this to make it easy to understand for everyone. Let's jump right in. All right, so the first paper is called accelerating scientific discovery with co-scientist and this is built by Google. This isn't just a regular AI chatbot. Co-scientist is fundamentally different and here's how it works. Instead of one huge model, it's actually an entire ecosystem of specialized AI agents working together. In fact, you can think of it as a virtual lab. Here's how the agentic framework is organized. At the very top, you have the supervisor agent. This is the boss and its job is to take the goal specified by the human scientist, say a prompt like find a new way to treat this specific type of leukemia. So, this supervisor agent parses that goal and then allocates tasks to the underlying agents. It's important to note that the supervisor is purely administrative. Its job is to ensure the system stays on task. The actual creative ideation begins with the generation agent. This agent is tasked with brainstorming initial ideas. It goes out, explores the scientific literature using web search to pull in the latest and most relevant data. Then it synthesizes existing findings into new proposed directions. Afterwards, it generates the initial batch of hypotheses or ideas. Now, usually when you're brainstorming, especially in a complex field, the first few ideas you throw on the whiteboard are usually, well, terrible or highly flawed. So, this brings us to the next most critical component of the entire system, which is the reflection agent. Think of this agent as the most brutal rigorous reviewer you can possibly imagine. Its whole purpose is to try to destroy the hypotheses generated by the generation agent. Just tear them apart. It critically examines every proposed idea looking for flaws. It fact-checks to make sure everything is correct. It also checks for novelty, ensuring the idea isn't just a slight rephrasing of an existing discovery, but is actually a new idea. So, the generation agent comes up with ideas and the reflection agent tries to tear them apart. The friction between these two agents is what elevates the system to produce really high-quality ideas. And then working quietly in the background is the proximity agent. Its job is to map all these ideas out into a high-dimensional space to group similar ones together. So, if the generation comes up with several slightly different variations of pretty much the same thing, this proximity agent is able to detect this and then tell the system, \"Hey, these are all essentially the same idea. Stop wasting compute and resources and move on to a different concept.\" process doesn't stop there. Co-scientist also uses an evolution agent. This agent takes the harsh critiques from the reflection agent, looks at surviving ideas, and then iteratively refines them. For example, it might take two good surviving ideas and mash them together to create a brilliant one. It tries to bridge logical gaps. Now, here's where it gets fascinating. How exactly does the system decide which of these surviving ideas is the best one? This is the genius part. The system uses a ranking agent to host an actual automated tournament of ideas. This is perhaps the most innovative aspect of the entire Co-Scientist architecture. The ranking agent uses an ELO rating system, just like in chess or in competitive video games, where if a lower ranked player manages to beat a grandmaster, they get a huge chunk of their points. But if two equally ranked players tie, their scores barely move. It's the exact same mathematical principle, but applied to the rigorous evaluation of scientific ideas. And this Co-Scientist system actually simulates head-to-head debates between pairs of ideas. So, hypothesis A argues why it's more new or plausible or testable than hypothesis B, and hypothesis B tries to argue back, pointing out flaws in hypothesis A. And then we have a separate AI model that acts as a judge, evaluating the debate. Winners gain ELO points, losers lose them. And over hundreds or even thousands of these automated simulated debates, the strongest and most robust ideas naturally rise to the top of the leaderboard. Now, if you've been playing around with AI, you'll probably know that large language models are notorious for hallucinating and sometimes just making stuff up while sounding very confident. So, how do we know that Co-Scientist isn't just making up these ideas? How do we know it's actually producing better and legit scientific hypotheses? Well, the researchers gave Co-Scientist 15 incredibly challenging unsolved biomedical goals written by PhD-level scientists, and they asked it to come up with the best solutions. They then asked human experts to provide their absolute best-guess solutions as well. They also gave the same goals to other state-of-the-art AI models at that time. And they asked independent human experts to judge which ideas were better. Now, this is a blind test, so the human experts couldn't see if the ideas were generated by other humans or by which AI models, and the results were remarkable. You can see that Co-Scientist, after giving it enough time to think and iterate, eventually beat all the AI models and the human experts. These independent human judges rated the ideas from Co-Scientist as significantly higher in novelty, plausibility, and impact compared to the best solutions from human experts. So, this AI system, it's not just making stuff up. This is proof that it can actually create new innovative ideas, which even independent human experts approve of. Now, generating solid ideas is one thing, but does this actually work in real life? That's the ultimate test. Well, next, the researchers did exactly that. They took the best outputs from Co-Scientist on some very different and incredibly complex problems that are not solved yet, and the results were astounding. Let's dive into each one. The first one involves acute myeloid leukemia, or AML for short. This is a very tough disease, and here's why it's so hard to cure. You see, acute myeloid leukemia is a devastating and highly aggressive blood cancer that starts in the bone marrow. Now, the major challenge with AML isn't necessarily killing the cancer cells at the start. We actually have chemotherapies that can already do this quite well. The problem is that relapse is incredibly common, and when the disease does come back, it's highly resistant to the therapy. And it comes back really aggressively because of a specific subpopulation of the cells, which are called leukemia stem cells. These are deeply dormant cells that are like the roots of a weed. So, you can mow the lawn and kill the bulk of the cancer cells, but if you leave the roots, then the weeds grow back, and often stronger. So, these stem cells hide in the bone marrow, and they evade standard chemotherapy, and they could eventually cause a relapse. There's currently no good therapeutic solution for killing these dormant stem cells. Now, here's what the researchers did. They handed Co-Scientist a massive dataset of 2,300 drugs that are already FDA approved for human use. They're just currently used for entirely different purposes. The prompt for the AI was essentially, \"Which of these 2,300 existing drugs could be repurposed to specifically fight acute myeloid leukemia?\" Now, this is basically the entire field of drug repurposing. Designing a new drug from scratch would almost take a decade and millions of dollars, and the failure rate is super high. But, if we can look at existing drugs and discover new uses for them, then it's a lot more efficient. Well, Co-Scientist actually found several strong candidates. It identified drugs like binimetinib, pacritinib, and sorafenib. Let's take one example, binimetinib. This is currently approved and used for skin cancer. Not leukemia. But, they took the advice from Co-Scientist and tested binimetinib on leukemia cells in the lab, and it actually turned out to be extremely effective. It had an IC50 of 2 nanomolars against acute myeloid leukemia. Let's quickly clarify what this IC50 means. It's kind of a gold standard metric. So, this is a measure of a drug's potency. Specifically, how much of a drug is needed to inhibit a biological process by exactly half. In this case, the process is the survival of the cancer cells. A lower number means the drug is very effective. You need very little of it to do massive damage. And in this case, 2 nanomolars is an extremely low concentration. So, this indicates a very strong efficacy against those cancer cells. This shows that Co-Scientist isn't just a theoretical framework anymore. They've already gotten it to find a new drug that works very well on a very problematic cancer that previously had no good therapies. Now, this benametinib is previously known to work for skin cancers, so maybe there's a connection there. But, here's another discovery that's even crazier. They told Co Scientist, \"Don't just give us the obvious repurposing candidates. Give us some drugs that have no prior evidence linked to leukemia or cancer at all.\" They wanted completely new ideas that no human has ever published on this subject. And lo and behold, after a lot of thinking and internal debating and ranking different ideas, Co Scientist generated a hypothesis suggesting a drug called KIRA 6. Now, KIRA 6 is a fascinating molecule. It inhibits an enzyme called IRE1 alpha, which manages cell stress. So, this decides how cells clear up misfolded or broken proteins. So, Co Scientist, after reading and synthesizing stuff across entirely different fields of biology, hypothesized that targeting this specific stress pathway could selectively kill these leukemia cells. Humans have never thought of this before. Now, let's dig into this a bit more. Why did the AI suggest there? Well, if you look into its hypothesis, the AI recognized that cancer cells, by their very nature of fast uncontrolled division, are also under huge internal stress because they're growing so fast. Their protein manufacturing machinery is running in overdrive and constantly breaking down. So, they rely heavily on this stress response pathway, like IRE1 alpha, just to survive their own chaos. It needs to constantly clean up a lot of broken proteins just to stay alive. Otherwise, the cell would just be filled with garbage. Co Scientist deduced that if you inhibit this specific stress pathway with a drug, KIRA 6, this would mess up the cancer cells. Now, you might be wondering, \"What about normal cells?\" Well, it turns out that a normal healthy cell can tolerate this drug because it's not stressed. It doesn't really need to rely on this garbage pathway as often. But to the cancer cell, which is constantly dividing and under immense stress, this drug is very potent. At least that's what the AI suggested. Of course, the next logical step is to test this in real life. So, the scientists applied this Curesix drug to these leukemia cells, and the results were shocking. It wasn't just good, it was remarkably effective. It turns out that Curesix was 18 times more effective at killing these leukemia stem cells. Again, these are the dreaded cells that cause the relapse of the cancer. These are the ones that previously had no good treatment, and they were very difficult to kill. But Co-scientist found that this drug was 18 times more effective at killing these types of cells compared to a normal healthy cell, which means it's a really effective and selective drug. Again, this is solid proof that AI isn't just making up ideas or spitting out known information anymore. Here, it actually output a new way to repurpose a drug to treat a very difficult cancer. And this is a new method that human researchers have not thought of before. This is a genuine medical discovery. Now, beyond single drugs, the AI Co-scientist was also able to tackle combinations of drugs, which is actually really difficult. You see, one drug is just a single variable, but combining two drugs creates thousands of potential interactions to test for, including effects and toxicity, and more. Introducing a third drug increases the possible combinations into the millions. Lab testing all these different components of drugs is pretty much impossible, but because this Co-scientist was able to synthesize all the information from the scientific literature out there, it's able to understand and predict these combinations a lot better than even the top human experts. So, again, targeting this specific type of leukemia, the AI I this combination of three drugs, JQ1, Olaparib, and MSA2. That was just its hypothesis, so again the researchers put this to the test in real life. And what they found is that this specific combination was indeed very effective against the cancer. Specifically, it works synergistically to attack the cancer from three different angles. The AI was correct in saying that these three drugs together were significantly better at stopping the cancer than any of them were on their own. This is a huge deal because testing so many drug combinations is just economically and physically impossible. There are millions of potential combinations, which is way too many for humans to test in real life through trial and error. But this breakthrough shows that we don't need millions of expensive lab experiments. This AI can just synthesize all known information and come up with the best combinations on its own that actually work. This makes drug discovery way more efficient, especially for combinations of drugs. So these are just a few examples of how you can get this AI agent system to find new treatments for a type of cancer that was very difficult to treat. But it doesn't just do cancer. If you want to supercharge your content, definitely check out Higgsfield, the sponsor of this video. Think of it as an all-in-one AI creation platform built specifically for creators. Instead of jumping between a bunch of different tools, Higgsfield gives you access to some of the world's leading models in one place, including Seed Dance 2.0, Nano Banana, GPT Image 2, and more. What makes it really interesting is that Higgsfield also has its own tools built for full creative workflows. For example, there's Higgsfield Supercomputer, which is basically a general-purpose AI super agent for content creation. You can give it one prompt and it can help with the whole process. Finding an idea, creating the product concept, writing the brand direction, generating the visuals, cutting the launch video, and even helping with distribution. And for actual video generation, Higgsfield has C Dance 2.0, which can generate 1080p videos with synced audio. It also supports multiple inputs, so you can combine text, images, video clips, and audio references to control the final results more precisely. They also have Marketing Studio, which is really useful for making ads. You can paste a product link or upload a product image and it can generate multiple ad formats in one workflow, like UGC videos, tutorials, unboxings, product reviews, and more. One product can instantly turn into a whole campaign. They also have Cinema Studio 3.5, which is built as a full end-to-end filmmaking pipeline. This is especially useful if you want more cinematic control. Instead of just typing a prompt and hoping it looks good, Cinema Studio is built around actual shot-level filmmaking. You can plan the scenes, control the camera, set the mood, add characters, and keep everything consistent across the whole project. The big idea is simple. From idea to final output, Higgsfield gives you more control over the whole creative process. Whether you're making ads, social videos, product launches, cinematic clips, or full marketing campaigns, this is one of the easiest platforms to start creating with AI. Try Higgsfield today using the link in the description below. The paper also goes through how AI was used for liver fibrosis. This is a condition where the liver develops excessive scar tissue, usually from inflammation, and it can eventually lead to liver failure. The researchers asked the co-scientists to find new epigenetic targets for this disease. In simple terms, epigenetics refers to the mechanisms that change how genes are turned on or off. Identifying these targets is like finding which specific switches in the DNA tell the liver cells to produce excessive collagen and scar tissue and other stuff, which caused the fibrosis. So, once we identify these targets, it's easy to develop therapies that flip these switches back into a healthy state. So, again, the AI system took this task and came up with a ton of hypotheses, debated with itself internally until it came up with a leaderboard of the best solutions. And it ultimately was able to identify new epigenetic targets and proposed the drugs to hit them, including a drug called vorinostat. The breakthrough here is that vorinostat is already an FDA-approved drug. But it's actually used to treat a rare type of lymphoma cancer, not liver disease. So, again, the scientists tested the AI's theory in real life. And indeed, they found that vorinostat actually successfully reduced liver scarring without being toxic to human liver cells. This is yet another example of a breakthrough discovery from this AI system. It shows that AI can accelerate the search for treatments by finding hidden potential in drugs we already know about. Drugs that are currently used for completely different purposes. And it gets even crazier. So, let's discuss the third use case for this, which is antimicrobial resistance, or AMR for short. This is arguably one of the most severe global health threats of our century. Many common diseases like pneumonia, tuberculosis, or UTIs are caused by bacteria, fungi, and parasites. Now, we use drugs called antibiotics to kill them. But the problem is that these can evolve over time to survive these drugs. Basically, the bacteria can adapt and become resistant to antibiotics and other treatments, meaning medicines designed today gradually lose their effectiveness. Well, in this paper, by using Co Scientist, they were able to uncover a major discovery in how bacteria spread this antibiotic resistance. Here's more background on the problem. The researchers were trying to understand how antibiotic resistance spreads so quickly between completely different species of bacteria. So far we know that resistance is often carried in mobile genetic elements called CF PIC eyes. These are like specialized packages that move from one bacterium to another. But usually these packages are very picky about which bacteria they enter. And what scientists don't fully understand is how these CF PIC eyes were able to jump between different species so easily. Well, using Co-scientist researchers test the system to find the mechanism behind this. They just said, \"Hey, Co-scientist, here's a weird genetic element. Figure out how this bacterial gene transfer actually works.\" And in just two days of autonomous literature review and reflection and internal debate, Co-scientist generated a top-ranked hypothesis. It predicted that these CF PIC eyes actively interact with diverse phage tails. In really simple terms, these phage tails are essentially virus-like docking tools that latch onto and enter a host bacteria. The AI hypothesized that these CF PIC I genetic elements hijack the phage tails to dramatically expand the range of bacteria species it can infect. And that's why antimicrobial resistance can spread so quickly between different bacteria species. Again, keep in mind we didn't have this knowledge before. This is a completely new idea that the AI deduced from its understanding of scientific literature. The remarkable thing is that the AI's theory actually perfectly matched the findings of an independent team of scientists who just figured it out in the lab after months of work. They haven't even published anything on it yet. In contrast, the AI was able to deduce all of this in just two days, which is crazy. This proves that the AI isn't just regurgitating information, it's actually coming up with completely new scientific ideas that work. Now, so far Co-scientist is pretty impressive, but it hits a limitation pretty quickly. So far, this can only synthesize information and come up with hypotheses. The next major step in AI science involves a system that can actually analyze the results once these ideas are tested in a lab and then iterate again and again. We need an AI system that can work alongside scientists as they do experiments and help them iterate further. Currently, scientists have to do a lot of the grunt lab work. It's messy and intensely physical. You need to gather evidence, pipette liquids, culture the cells, and also write code to analyze a ton of raw data. All of this takes an immense amount of time, which is why most biology scientific papers takes months to years to publish. How can we get AI to automate these steps as well? So, that's where this next paper comes in. So, this is called a multi-agent system for automating scientific discovery, and this was also published in Nature in the same week. Now, this is also an agentic system called Robin. But, here's where it differs from Google's Co-scientist. Co-scientist only focuses on the thinking part of discovery, but Robin is what they call a closed-loop system. It not only comes up with new ideas, but also interprets raw data from lab experiments to refine them in real time. So, this is an AI system that can manage the entire scientific cycle from start to finish and keep looping and iterating again and again to come up with new directions or dig deeper. Let's look under the hood of Robin. So, it relies on this system of specialized AI agents, but they each have very different roles. First, we have Crow, and its primary function is to perform accurate, concise literature review. So, it's like the researcher. If the human user asks a question about a disease or something, Crow scans thousands of scientific papers to find quick summaries of how the disease works and which lab tests should be used to study it. Once a specific treatment or a drug is suggested, the information is sent to the next agent called Falcon. It does a deep dive into the literature and writes a comprehensive report on that drug. It looks at its safety, how it works, and potential risks. But, the true star of the Robin ecosystem and the agent that fundamentally distinguishes it from Co-scientist is the third agent called Finch. This is like the data analysis agent or the lab partner. After a human scientist tests the drugs in a lab, they just give the raw data to Finch, and Finch can then write its own code to analyze these numbers and create charts to see if the treatment actually worked. It autonomously writes, debugs, and executes code to analyze the raw, unstructured data that comes straight out from lab results, which is often the most brutal part of doing science. This is a huge distinction that we need to emphasize. It's one thing for AI to read a published paper, which is already well-formatted with graphs and clearly written sections. It's entirely different and way more difficult to look at raw data from science experiments and figure out what the hell is going on. It's notoriously messy and noisy, and it could be highly subjective. Two human scientists might look at the same data set and draw different conclusions, which makes it very prone to human error and subjective bias. So, how does Finch handle that? Well, the researchers building Robin knew that if they just asked a single instance of an AI model to analyze this messy data, it might fail or hallucinate something or make a bizarre subjective choice. So, to ensure accuracy, they gave Finch a fascinating architectural design. When it receives raw data, it doesn't just run Finch once. It actually launches eight independent instances of the Finch agent to analyze the exact same data in parallel. It's like asking eight different research teams, and they all write their own code, they all clean the data their own way, and they all reach their own conclusions. Then, the findings of these eight Finch agents are analyzed together using a consensus mechanism. In simple terms, the idea only gets accepted if the majority of the agents agree on it. In other words, if at least 50% of these independent ideas reached the same conclusion. This process is super important because scientific data can be very messy and hard to interpret objectively. But, by requiring a consensus, the system can output highly consistent and trustworthy results. The really cool thing about the design is that it's an endless loop. So, the findings from Finch can be fed back to the first crow agent to generate new hypotheses and figure out what to do next. It's an endless cycle. You can keep iterating again and again based on lab findings to eventually narrow down a solution for your specific problem. Now, this sounds great and all that, but obvious question is, of course, how well does this actually work in real life? Let's go over some of its impressive findings. To prove the system works end-to-end, the researchers gave Robin a massive complex target, dry age-related macular degeneration, or AMD for short. Now, this is a devastating widespread disease. It's the leading cause of irreversible sight loss in the developed world, and it's incredibly common as people age. Now, currently, the therapeutic options are very limited. There's no highly effective treatment for this, so we are in desperate need of a breakthrough. So, the researchers hand the wheel to Robin, and it starts round one of its iterative cycle. The crow agent scans the vast literature on the eye, and Robin hypothesizes that a key cellular mechanism to target is something called RPE phagocytosis. The RPE, or retinal pigment epithelium, is a single layer of specialized cell located at the back of the eye. And one of the most important daily jobs is to act as a garbage disposal for the eye, which is the phagocytosis step. Basically, it cleans up waste products to keep the eye healthy. The logic from Robin's seems straightforward. If the RPG garbage disposal breaks down, then the trash in the eye builds up, it becomes toxic, and you go blind. In really simple terms, that's the progression. So, Robin's hypothesis is let's find drugs that turn the garbage disposal back on high. Robin uses its agents to suggest 30 existing safe drugs that might artificially enhance this RPE phagocytosis step. In fact, it even suggested how to perform the experiment to test these drugs. So, the human scientists ran with it. They physically conducted the experiment with the 30 drugs in real life, measured the results, and then fed all these results back into the system. So, next, the Finch agents had to analyze this data and figure out what to do next. Here's where the magic happens. Finch launches its eight parallel instances. It writes the Python scripts, cleans the data, runs the statistical comparisons, and forms a consensus. It confirms that out of the 30 drugs tested, a specific compound called Y27632 significantly and undeniably enhanced RPE phagocytosis. The cells ate more trash. Okay, so that's a solid win. The AI found that this drug works. But, here's why Robin is bigger than it seems. Because we're not done yet. This is an ongoing conversation. Robin can look at the conclusion from the Finch consensus and say, \"Okay, we know that Y27632 makes the cells eat more garbage. But, how does it do it? What's the molecular mechanism?\" To find out, it suggested to run a different, deeper experiment. It suggested to sequence the RNA of these treated cells to see exactly which genes are turning on and off in response to the drug. The human team listened to the instructions and extracted the RNA and ran the sequencing in real life, then plugged that data back into the Finch agents to analyze. First, it's important to note that visualizing RNA sequencing data is really hard because it's impossibly dense. Well, Finch created something called a volcano plot, which looks like this. It's basically a complex scatter plot, and every single one of these thousands of dots on this graph represents a different gene in the human genome. Finch isn't just looking for a slight bump in activity, it's looking for the dots that have literally erupted to the top extreme of the graph, showing a massive, undeniable change in behavior. And from these volcano plots, Finch spots something incredible. It finds that a specific gene called ABCA1 is working much harder than usual. And this is actually a huge aha moment. You see, this is totally unexpected and not intuitive at all. The job of ABCA is to pump excess cholesterol and fats out of the cell. Why does a cholesterol pump matter for blindness? Well, it's because we already know that ABCA directly interacts with a protein called APOE, which is actually one of the major genetic risk factors for developing macular degeneration in the first place. So, Robin didn't just find a random drug that happens to work. It used raw DNA data to uncover a totally unexpected, deeply hidden pathway that connects the drug directly to the genetic root cause of the disease. It's able to connect the dots across entirely different layers of biology. And we're not done yet. Remember, this is conversational and iterative, so we can continue digging deeper. It doesn't just settle for the first drug. Instead, it uses this new ABCA finding to search the literature for better drugs that might hit this pathway more safely or effectively. And it comes up with two fascinating new candidates, ripasudil and KL001. Let's talk about ripasudil first. Why did Robin pick this one? Robin found that ripasudil is already an approved drug in Japan as an eye drop. It's already proven to be safe for the human eye. So, the researchers go back into the lab to test ripasudil. They tested this on real human cells with the disease, and they took the data and fed it to Finch to analyze again. And the results were remarkable. Ripasudil dramatically outperformed the original drug. It was more potent at clearing the cellular garbage and significantly less toxic to the human cells. This showcases how incredibly powerful Robin is. This isn't just a chatbot where you can ask one-off questions. You can keep iterating through its loop to dig deeper and find more and more medical discoveries. Now, remember that another drug Robin proposed is called KL001. And this is just as extraordinary and even more unexpected. You see, this is a circadian clock modulator. In other words, this is a drug designed to mess with the internal biological clock of the cell. The thing is, no researcher has ever published anything on using a circadian clock drug to treat macular degeneration. It sounds absurd on the surface. How could these two things be possibly related? But Robin, tracing and understanding the labyrinth of gene interactions, hypothesized that circadian rhythm proteins directly affect phagocytosis. Remember, this is the garbage disposal mechanism. So, the AI realized that this mechanism basically operates on a schedule. If this process is failing because it's off schedule, a drug like KL001 might help by steadying that internal clock, and therefore boost the cells' ability to clean up waste again. So, when they tested KL001 in the lab, Robin was right. It successfully enhanced the cleaning activity in those human eye cells, which would treat macular degeneration. Again, you can see here that it validated a completely new treatment to a major human disease, which could cause vision loss. Humans had never thought of this treatment before. What stands out about this entire multi-round process is the beauty of the loop. It's a true dynamic conversation. It's like working alongside researchers. Robin had an idea, the humans conducted the experiment and fed the data back to Robin. Robin then learned from the data, uncovered a new mechanism, and came back with a fundamentally better idea, and the cycle repeats again and again. It's the actual scientific method fully automated and operating at a speed humans alone simply cannot match. And while we're on the topic of speed, let's talk about the economics here, because it is staggering. If we look at the time-on-task analysis detailed in the paper, a human scientist trying to do exactly what Robin did, reading 551 specialized papers, generating hypotheses based on them, planning the physical experiment, then painstakingly writing the code to analyze the raw data, it would require an estimated 400 hours of intense, focused cognitive work. That's nearly half a year of full-time work for a human scientist. But what about Robin? It synthesized those 551 papers in just around 30 minutes. It finished the entire loop, including multiple experiments and data analysis, in less than 2 hours, and the compute cost for everything is just $10.76. Think about how crazy this is. Imagine spending 400 hours doing some of the hardest, most complex scientific work and compressing it down to just 2 hours, and it only costs you the price of a fast-food lunch. All right, so that sums up these two papers. I hope you can see how impactful they are. AI isn't just a chatbot anymore that can answer simple questions or help you summarize things. It's already making completely new scientific discoveries, and the pace is only increasing. In just 1 week, we had two separate nature papers showing AI agents autonomously conducting research and discovering medical breakthroughs, treatments for cancer, blindness, antimicrobial resistance, liver fibrosis, and more. We are right smack in the middle of the acceleration, and it's only going to keep getting faster. So, you can expect an explosion in intelligence and knowledge and scientific discoveries beyond what you think is even possible. The future is super exciting, and if there's one thing you should take away from this, it's don't die, because I think the next few years are going to be absolutely wild. I hope you enjoyed this video, and let me know in the comments below what you think of this. As always, I will be on the lookout for the top AI news and tools to share with you. So, if you enjoyed this video, remember to like, share, subscribe, and stay tuned for more content. Also, there's just so much happening in the world of AI every week, I can't possibly cover everything on my YouTube channel. So, to really stay up-to-date with all that's going on in AI, be sure to subscribe to my free weekly newsletter. The link to that will be in the description below. Thanks for watching, and I'll see you in the next one.",
+    "word_count": 5983,
     "error": null
   }
 }
